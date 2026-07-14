@@ -1,0 +1,30 @@
+# Onchain Agents — the scored, daily-updated index of the crypto agent stack
+
+> Machine-readable index of onchain-agent frameworks, MCP servers, wallets,
+> payment rails, data tools, and live registered agents. Updated daily from
+> satohub.ai. Catalog data CC-BY-4.0 (attribution: data by satohub.ai).
+> Sato Scores measure openness/activity/verifiability — NOT safety or returns.
+
+## Data (stable, versioned)
+
+- [index.json](https://raw.githubusercontent.com/satohubai/onchain-agents/main/data/index.json): full index, schema_version field, one object per resource
+- [index.csv](https://raw.githubusercontent.com/satohubai/onchain-agents/main/data/index.csv): flat CSV of the same
+- [Live export feed](https://satohub.ai/api/export/index.json): the upstream source, refreshed hourly
+
+## Query it live over MCP
+
+- [MCP endpoint](https://satohub.ai/api/mcp): Streamable HTTP; 12 read-only tools (search_resources, get_resource, get_deploy_spec, search_agents, get_agent_passport, get_news, get_metrics, ...)
+- [Connection guide](https://raw.githubusercontent.com/satohubai/onchain-agents/main/docs/connect-mcp.md)
+
+## Docs
+
+- [Sato Score methodology](https://raw.githubusercontent.com/satohubai/onchain-agents/main/docs/sato-score.md): what the 0-100 score measures
+- [Taxonomy](https://raw.githubusercontent.com/satohubai/onchain-agents/main/docs/taxonomy.md): entity classes, resource types, interfaces, standards facets
+- [Agent Passports](https://satohub.ai/agents): registered agents with on-chain verification checks and machine-readable manifests
+
+## Optional
+
+- [Agent Architect / Builder](https://satohub.ai/build): describe an agent in plain language, get a grounded build plan from this index
+
+- [SATO OS — Onchain Agent Mission Control](https://raw.githubusercontent.com/satohubai/onchain-agents/main/SATO-OS.md): build and run your onchain agent on any chain, using any model, self-hosted and supervised
+- [satohub.ai](https://satohub.ai): the full product — builder, directory detail pages, score history

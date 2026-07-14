@@ -1,0 +1,71 @@
+name: Add a project
+description: Submit an onchain-agent project for the index. Reviewed within 48h; conservative statuses until evidence.
+title: "[add] "
+labels: ["add-project"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks — submissions flow into the Sato Hub review pipeline and, once accepted, appear here **and** on [satohub.ai](https://satohub.ai) with daily score/liveness tracking. One honest line beats marketing copy.
+  - type: input
+    id: name
+    attributes:
+      label: Project name
+    validations:
+      required: true
+  - type: input
+    id: website
+    attributes:
+      label: Website URL
+    validations:
+      required: true
+  - type: input
+    id: github
+    attributes:
+      label: GitHub URL
+      description: Public repo if there is one (strongly affects the score)
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Agent Framework
+        - MCP
+        - Wallet Infrastructure
+        - Trading Tool
+        - DeFi Tool
+        - Data Tool
+        - API / SDK
+        - Developer Tool
+        - Skill Repo
+        - Agent Launchpad
+        - Agent Marketplace
+        - Security Tool
+        - Onchain Agent
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: chains
+    attributes:
+      label: Chains supported
+      placeholder: "Base, Ethereum, Solana"
+  - type: textarea
+    id: what
+    attributes:
+      label: What it does (one or two plain sentences)
+      description: No hype adjectives — they get edited out anyway.
+    validations:
+      required: true
+  - type: input
+    id: relationship
+    attributes:
+      label: Your relationship to the project
+      placeholder: "maintainer / user / unaffiliated"
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: Ground rules
+      options:
+        - label: I understand new listings start as self-reported/unverified until evidence supports more.
+          required: true

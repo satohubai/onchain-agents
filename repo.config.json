@@ -1,0 +1,15 @@
+{
+  "x_url": "https://x.com/SatoHub",
+  "discord_url": "https://discord.gg/MWtX53XuA",
+  "newsletter_url": "https://satohub.ai/#newsletter",
+  "donations": {
+    "eth": "0xcEE53Eb001d4d1743EF9df333Dcf45bC38622bE9",
+    "sol": "HDBVC3Kf3ma3YrU97PcKzbxDhGZX23F1AzbiN7gdap4z",
+    "btc": "bc1q3f7cp0u47y3cr77eu6urh0xetaz7090scp6d84"
+  },
+  "utm": {
+    "source": "github",
+    "medium": "index",
+    "campaign": "onchain-agents"
+  }
+}
