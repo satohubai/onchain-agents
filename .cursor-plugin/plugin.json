@@ -1,0 +1,20 @@
+{
+  "name": "sato-hub-onchain-agents",
+  "displayName": "Sato Hub: Onchain Agents",
+  "version": "1.0.0",
+  "description": "Search Sato Hub's scored, daily-updated index of onchain agent frameworks, MCP servers, wallets, tools, and live agents.",
+  "author": {
+    "name": "Sato Hub"
+  },
+  "homepage": "https://satohub.ai/mcp",
+  "repository": "https://github.com/satohubai/onchain-agents",
+  "license": "MIT",
+  "keywords": [
+    "onchain-agents",
+    "blockchain",
+    "crypto",
+    "mcp",
+    "agent-discovery"
+  ],
+  "logo": "assets/sato-hub-icon.svg"
+}

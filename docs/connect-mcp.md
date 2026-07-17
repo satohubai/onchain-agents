@@ -10,7 +10,23 @@ The index is queryable live over the [Model Context Protocol](https://modelconte
 claude mcp add --transport http satohub https://satohub.ai/api/mcp
 ```
 
-## Claude Desktop / Cursor (via mcp-remote)
+## Cursor
+
+Sato Hub supports Cursor's native Streamable HTTP transport. Add this to your Cursor `mcp.json`, or install the Sato Hub plugin from Cursor Marketplace once approved:
+
+```json
+{
+  "mcpServers": {
+    "sato-hub": {
+      "url": "https://satohub.ai/api/mcp"
+    }
+  }
+}
+```
+
+No API key or OAuth setup is required. The server is read-only.
+
+## Claude Desktop (via mcp-remote)
 
 ```json
 {
