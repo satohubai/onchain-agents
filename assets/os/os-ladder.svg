@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1520" height="360" viewBox="0 0 1520 360" role="img" aria-label="Founding Operator ladder: $299 first 100, $399 next 100, $499 standing">
+  <defs>
+    <linearGradient id="ol-signal" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#6ee7b7"/><stop offset="0.5" stop-color="#34d399"/><stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <linearGradient id="ol-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#07090e"/><stop offset="1" stop-color="#0c0f16"/>
+    </linearGradient>
+    <filter id="ol-glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1520" height="360" rx="18" fill="url(#ol-bg)" stroke="#222a3a" stroke-width="2"/>
+  <text x="760" y="64" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="22" letter-spacing="7" fill="#939cae">FOUNDING OPERATOR LADDER · ONE SKU · NO SUBSCRIPTION</text>
+  <!-- rail -->
+  <line x1="330" y1="190" x2="1190" y2="190" stroke="#222a3a" stroke-width="3"/>
+  <!-- $299 -->
+  <g transform="translate(380,190)">
+    <path d="M0 -92 l80 46 v92 l-80 46 -80 -46 v-92 z" fill="rgba(52,211,153,0.10)" stroke="url(#ol-signal)" stroke-width="5" filter="url(#ol-glow)"/>
+    <text x="0" y="14" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="52" font-weight="700" fill="#6ee7b7">$299</text>
+    <text x="0" y="126" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="21" letter-spacing="4" fill="#34d399">FIRST 100</text>
+    <text x="0" y="154" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" fill="#8fa3b5">+ on-chain founding credential</text>
+  </g>
+  <!-- $399 -->
+  <g transform="translate(760,190)">
+    <path d="M0 -78 l68 39 v78 l-68 39 -68 -39 v-78 z" fill="none" stroke="#3d4f60" stroke-width="3.5"/>
+    <text x="0" y="12" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="42" font-weight="700" fill="#bac2d1">$399</text>
+    <text x="0" y="112" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20" letter-spacing="4" fill="#5b6f80">NEXT 100</text>
+  </g>
+  <!-- $499 -->
+  <g transform="translate(1140,190)">
+    <path d="M0 -78 l68 39 v78 l-68 39 -68 -39 v-78 z" fill="none" stroke="#3d4f60" stroke-width="3.5"/>
+    <text x="0" y="12" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="42" font-weight="700" fill="#bac2d1">$499</text>
+    <text x="0" y="112" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20" letter-spacing="4" fill="#5b6f80">STANDARD · #201+</text>
+  </g>
+  <text x="760" y="330" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#4d6274">card or USDC · instant download + key · all 1.x updates included</text>
+</svg>
