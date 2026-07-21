@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1520" height="260" viewBox="0 0 1520 260" role="img" aria-label="369 resources, 29 chains, 366 scored, 130 independently checked">
+
+  <g>
+    <path d="M98.0 118.0 L144.0 38.3 L236.0 38.3 L282.0 118.0 L236.0 197.7 L144.0 197.7 Z" fill="none" stroke="#059669" stroke-width="5"/>
+    <path d="M116.0 118.0 L153.0 53.9 L227.0 53.9 L264.0 118.0 L227.0 182.1 L153.0 182.1 Z" fill="none" stroke="#d7e0e8" stroke-width="2"/>
+    <text x="190" y="139.33333333333334" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="64" font-weight="700" fill="#059669">369</text>
+    <text x="190" y="246" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="22" letter-spacing="4" fill="#5b6f80">RESOURCES</text>
+  </g>
+
+  <g>
+    <path d="M478.0 118.0 L524.0 38.3 L616.0 38.3 L662.0 118.0 L616.0 197.7 L524.0 197.7 Z" fill="none" stroke="#7c3aed" stroke-width="5"/>
+    <path d="M496.0 118.0 L533.0 53.9 L607.0 53.9 L644.0 118.0 L607.0 182.1 L533.0 182.1 Z" fill="none" stroke="#d7e0e8" stroke-width="2"/>
+    <text x="570" y="139.33333333333334" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="64" font-weight="700" fill="#7c3aed">29</text>
+    <text x="570" y="246" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="22" letter-spacing="4" fill="#5b6f80">CHAINS</text>
+  </g>
+
+  <g>
+    <path d="M858.0 118.0 L904.0 38.3 L996.0 38.3 L1042.0 118.0 L996.0 197.7 L904.0 197.7 Z" fill="none" stroke="#0284c7" stroke-width="5"/>
+    <path d="M876.0 118.0 L913.0 53.9 L987.0 53.9 L1024.0 118.0 L987.0 182.1 L913.0 182.1 Z" fill="none" stroke="#d7e0e8" stroke-width="2"/>
+    <text x="950" y="139.33333333333334" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="64" font-weight="700" fill="#0284c7">366</text>
+    <text x="950" y="246" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="22" letter-spacing="4" fill="#5b6f80">SCORED</text>
+  </g>
+
+  <g>
+    <path d="M1238.0 118.0 L1284.0 38.3 L1376.0 38.3 L1422.0 118.0 L1376.0 197.7 L1284.0 197.7 Z" fill="none" stroke="#d97706" stroke-width="5"/>
+    <path d="M1256.0 118.0 L1293.0 53.9 L1367.0 53.9 L1404.0 118.0 L1367.0 182.1 L1293.0 182.1 Z" fill="none" stroke="#d7e0e8" stroke-width="2"/>
+    <text x="1330" y="139.33333333333334" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="64" font-weight="700" fill="#d97706">130</text>
+    <text x="1330" y="246" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="22" letter-spacing="4" fill="#5b6f80">CHECKED ✓</text>
+  </g>
+</svg>
