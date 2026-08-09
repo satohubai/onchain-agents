@@ -11,7 +11,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/statband-dark.svg">
-  <img src="assets/statband-light.svg" alt="369 resources · 29 chains · 366 scored · 133 independently checked · updated 2026-08-08" width="760">
+  <img src="assets/statband-light.svg" alt="369 resources · 29 chains · 366 scored · 133 independently checked · updated 2026-08-09" width="760">
 </picture>
 **366 scored** (evidence-only Sato Score, every product) · **133 independently checked ✓** (62 installs reproduced in isolated containers, 36 evidence-reviewed, 34 live endpoints probed) — and growing.
 
@@ -734,4 +734,4 @@ Listed already? Embed your [Sato Score badge](https://satohub.ai/sato-score?utm_
 
 ---
 
-<sub>Maintained by [Sato Hub](https://satohub.ai?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) — the agent builder hub for crypto. Index auto-rendered daily from the public export (`https://satohub.ai/api/export/index.json`). Catalog data **CC-BY-4.0** (attribution: *data by satohub.ai*); tooling **MIT © Prime Signal LLC**. Scores and liveness are informational signals, not endorsements or financial advice ([NEUTRALITY.md](NEUTRALITY.md) · [cite this dataset](CITATION.cff)). Last render: 2026-08-08.</sub>
+<sub>Maintained by [Sato Hub](https://satohub.ai?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) — the agent builder hub for crypto. Index auto-rendered daily from the public export (`https://satohub.ai/api/export/index.json`). Catalog data **CC-BY-4.0** (attribution: *data by satohub.ai*); tooling **MIT © Prime Signal LLC**. Scores and liveness are informational signals, not endorsements or financial advice ([NEUTRALITY.md](NEUTRALITY.md) · [cite this dataset](CITATION.cff)). Last render: 2026-08-09.</sub>
