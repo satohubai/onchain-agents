@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1760" height="420" viewBox="0 0 1760 420" role="img" aria-label="Onchain Agents — the scored, daily-updated index of the crypto agent stack">
+  <defs>
+    <linearGradient id="bl-signal" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#10b981"/><stop offset="0.5" stop-color="#059669"/><stop offset="1" stop-color="#0891b2"/>
+    </linearGradient>
+    <linearGradient id="bl-metal" x1="0" y1="0" x2="0.7" y2="1">
+      <stop stop-color="#3b465c"/><stop offset="0.45" stop-color="#232b3b"/><stop offset="1" stop-color="#0f131d"/>
+    </linearGradient>
+    <radialGradient id="bl-eye" cx="0.35" cy="0.3" r="0.9">
+      <stop stop-color="#eafff6"/><stop offset="0.35" stop-color="#6ee7b7"/><stop offset="1" stop-color="#0ea5b7"/>
+    </radialGradient>
+    <linearGradient id="bl-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#f7f9fb"/><stop offset="1" stop-color="#eef2f6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1760" height="420" rx="18" fill="url(#bl-bg)" stroke="#d7e0e8" stroke-width="2"/>
+  <g stroke="#d7e0e8" stroke-width="1.6" fill="none">
+    <path d="M1400 52 l78 45 v90 l-78 45 -78 -45 v-90 z" opacity="0.9"/>
+    <path d="M1556 187 l78 45 v90 l-78 45 -78 -45 v-90 z" opacity="0.7"/>
+    <path d="M1244 187 l78 45 v90 l-78 45 -78 -45 v-90 z" opacity="0.55"/>
+    <path d="M1556 -8 l78 45 v90 l-78 45 -78 -45 v-90 z" opacity="0.4"/>
+    <path d="M1400 322 l78 45 v90 l-78 45 -78 -45 v-90 z" opacity="0.3"/>
+  </g>
+  <circle cx="1478" cy="187" r="3.5" fill="#0891b2" opacity="0.7"/>
+  <circle cx="1322" cy="142" r="3" fill="#7c3aed" opacity="0.6"/>
+  <circle cx="1556" cy="142" r="3" fill="#059669" opacity="0.7"/>
+  <!-- SatoBot seal (keeps its dark metal head — the mascot is the mascot) -->
+  <g transform="translate(96,66) scale(6)">
+    <line x1="24" y1="9" x2="24" y2="5" stroke="url(#bl-signal)" stroke-width="1.6" stroke-linecap="round"/>
+    <circle cx="24" cy="3.8" r="1.7" fill="url(#bl-signal)"/>
+    <path d="M24 9 L38.72 17.5 L38.72 34.5 L24 43 L9.28 34.5 L9.28 17.5 Z" fill="url(#bl-metal)" stroke="rgba(90,104,128,0.7)" stroke-width="1.4" stroke-linejoin="round"/>
+    <path d="M24 15 L33.96 20.75 L33.96 31.75 L24 37.5 L14.04 31.75 L14.04 20.75 Z" fill="#060a12" stroke="rgba(8,145,178,0.45)" stroke-width="1" stroke-linejoin="round"/>
+    <circle cx="19.6" cy="24.5" r="2.9" fill="url(#bl-eye)"/>
+    <circle cx="28.4" cy="24.5" r="2.9" fill="url(#bl-eye)"/>
+    <circle cx="20.5" cy="23.4" r="0.9" fill="#fff" opacity="0.95"/>
+    <circle cx="29.3" cy="23.4" r="0.9" fill="#fff" opacity="0.95"/>
+    <path d="M20 31 Q24 34.4 28 31" stroke="url(#bl-signal)" stroke-width="1.7" stroke-linecap="round" fill="none"/>
+  </g>
+  <g font-family="'Space Grotesk', ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="420" y="132" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="22" letter-spacing="8" fill="#5b6f80">SATO HUB · THE INDEX</text>
+    <text x="416" y="216" font-size="86" font-weight="800" letter-spacing="-2" fill="#0b1118">ONCHAIN AGENTS</text>
+    <text x="420" y="272" font-size="30" fill="#3d4f60">The scored, daily-updated index of the crypto agent stack</text>
+    <text x="420" y="330" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="22" fill="#059669">frameworks · MCPs · wallets · payment rails · live agents — tracked &amp; scored daily</text>
+  </g>
+  <text x="1712" y="392" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20" fill="#8fa3b5">data by satohub.ai</text>
+</svg>

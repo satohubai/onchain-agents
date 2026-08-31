@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1520" height="168" viewBox="0 0 1520 168" role="img" aria-label="MCP Servers">
+  <defs>
+    <linearGradient id="bg-1ig3k6" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#0c0f16"/><stop offset="1" stop-color="#07090e"/>
+    </linearGradient>
+    <filter id="soft-1ig3k6" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="42"/>
+    </filter>
+    <filter id="glow-1ig3k6" x="-60%" y="-60%" width="220%" height="220%">
+      <feDropShadow dx="0" dy="0" stdDeviation="7" flood-color="#22d3ee" flood-opacity="0.5"/>
+    </filter>
+    <clipPath id="clip-1ig3k6"><rect width="1520" height="168" rx="20"/></clipPath>
+    <pattern id="grid-1ig3k6" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0 H0 V44" fill="none" stroke="rgba(148,160,180,0.05)" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <g clip-path="url(#clip-1ig3k6)">
+    <rect width="1520" height="168" fill="url(#bg-1ig3k6)"/>
+    <rect width="1520" height="168" fill="url(#grid-1ig3k6)"/>
+    <!-- soft radial glows (the site's blurred backdrop) -->
+    <circle cx="180" cy="84" r="120" fill="#22d3ee" opacity="0.16" filter="url(#soft-1ig3k6)"/>
+    <circle cx="1260" cy="198" r="110" fill="#a78bfa" opacity="0.07" filter="url(#soft-1ig3k6)"/>
+    <circle cx="942.4" cy="-30" r="100" fill="#60a5fa" opacity="0.06" filter="url(#soft-1ig3k6)"/>
+    <!-- faint hex ghosts, right field -->
+    <g transform="translate(1302,18) scale(5.5)" opacity="0.5">
+      <path d="M12 2 L20.66 7 L20.66 17 L12 22 L3.34 17 L3.34 7 Z" fill="none" stroke="#222a3a" stroke-width="0.5" stroke-linejoin="round"/>
+    </g>
+    <g transform="translate(1190,90) scale(3.4)" opacity="0.35">
+      <path d="M12 2 L20.66 7 L20.66 17 L12 22 L3.34 17 L3.34 7 Z" fill="none" stroke="#222a3a" stroke-width="0.6" stroke-linejoin="round"/>
+    </g>
+  </g>
+  <rect width="1520" height="168" rx="20" fill="none" stroke="#222a3a" stroke-width="2"/>
+  <!-- HexBadge emblem (exact geometry: fill .16 + stroke 1.5 + glow) -->
+  <g transform="translate(52,32) scale(4.333)" filter="url(#glow-1ig3k6)">
+    <path d="M12 2 L20.66 7 L20.66 17 L12 22 L3.34 17 L3.34 7 Z" fill="#22d3ee" fill-opacity="0.16" stroke="#22d3ee" stroke-width="1.5" stroke-linejoin="round"/>
+  </g>
+  <text x="104" y="99" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="42" font-weight="700" fill="#22d3ee">⇄</text>
+  <!-- kicker over title, the site pattern -->
+  <text x="176" y="66" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" letter-spacing="5" fill="#22d3ee" fill-opacity="0.9">PLUG-IN TOOL SERVERS YOUR AGENT CALLS OVER THE…</text>
+  <text x="174" y="118" font-family="'Space Grotesk', ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="800" letter-spacing="-0.5" fill="#ffffff">MCP Servers</text>
+</svg>

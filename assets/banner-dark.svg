@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1760" height="420" viewBox="0 0 1760 420" role="img" aria-label="Onchain Agents — the scored, daily-updated index of the crypto agent stack">
+  <defs>
+    <linearGradient id="bd-signal" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#6ee7b7"/><stop offset="0.5" stop-color="#34d399"/><stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <linearGradient id="bd-shimmer" x1="0" y1="0" x2="1" y2="0.18">
+      <stop stop-color="#e6eaf1"/><stop offset="0.35" stop-color="#34d399"/><stop offset="0.6" stop-color="#22d3ee"/><stop offset="0.82" stop-color="#a78bfa"/><stop offset="1" stop-color="#e6eaf1"/>
+    </linearGradient>
+    <linearGradient id="bd-metal" x1="0" y1="0" x2="0.7" y2="1">
+      <stop stop-color="#3b465c"/><stop offset="0.45" stop-color="#232b3b"/><stop offset="1" stop-color="#0f131d"/>
+    </linearGradient>
+    <radialGradient id="bd-eye" cx="0.35" cy="0.3" r="0.9">
+      <stop stop-color="#eafff6"/><stop offset="0.35" stop-color="#6ee7b7"/><stop offset="1" stop-color="#0ea5b7"/>
+    </radialGradient>
+    <filter id="bd-glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <linearGradient id="bd-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#07090e"/><stop offset="1" stop-color="#0c0f16"/>
+    </linearGradient>
+  </defs>
+  <rect width="1760" height="420" rx="18" fill="url(#bd-bg)"/>
+  <!-- hex lattice, fading right field -->
+  <g stroke="#222a3a" stroke-width="1.6" fill="none">
+    <path d="M1400 52 l78 45 v90 l-78 45 -78 -45 v-90 z" opacity="0.85"/>
+    <path d="M1556 187 l78 45 v90 l-78 45 -78 -45 v-90 z" opacity="0.6"/>
+    <path d="M1244 187 l78 45 v90 l-78 45 -78 -45 v-90 z" opacity="0.45"/>
+    <path d="M1556 -8 l78 45 v90 l-78 45 -78 -45 v-90 z" opacity="0.35"/>
+    <path d="M1400 322 l78 45 v90 l-78 45 -78 -45 v-90 z" opacity="0.25"/>
+  </g>
+  <circle cx="1478" cy="187" r="3.5" fill="#22d3ee" opacity="0.9"/>
+  <circle cx="1322" cy="142" r="3" fill="#a78bfa" opacity="0.8"/>
+  <circle cx="1556" cy="142" r="3" fill="#34d399" opacity="0.9"/>
+  <!-- SatoBot seal -->
+  <g transform="translate(96,66) scale(6)">
+    <line x1="24" y1="9" x2="24" y2="5" stroke="url(#bd-signal)" stroke-width="1.6" stroke-linecap="round"/>
+    <circle cx="24" cy="3.8" r="1.7" fill="url(#bd-signal)"/>
+    <path d="M24 9 L38.72 17.5 L38.72 34.5 L24 43 L9.28 34.5 L9.28 17.5 Z" fill="url(#bd-metal)" stroke="rgba(139,152,176,0.6)" stroke-width="1.4" stroke-linejoin="round"/>
+    <path d="M24 15 L33.96 20.75 L33.96 31.75 L24 37.5 L14.04 31.75 L14.04 20.75 Z" fill="#060a12" stroke="rgba(34,211,238,0.35)" stroke-width="1" stroke-linejoin="round"/>
+    <circle cx="19.6" cy="24.5" r="2.9" fill="url(#bd-eye)"/>
+    <circle cx="28.4" cy="24.5" r="2.9" fill="url(#bd-eye)"/>
+    <circle cx="20.5" cy="23.4" r="0.9" fill="#fff" opacity="0.95"/>
+    <circle cx="29.3" cy="23.4" r="0.9" fill="#fff" opacity="0.95"/>
+    <path d="M20 31 Q24 34.4 28 31" stroke="url(#bd-signal)" stroke-width="1.7" stroke-linecap="round" fill="none"/>
+  </g>
+  <path d="M240 66 l6 0" stroke="none"/>
+  <g font-family="'Space Grotesk', ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="420" y="132" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="22" letter-spacing="8" fill="#939cae">SATO HUB · THE INDEX</text>
+    <text x="416" y="216" font-size="86" font-weight="800" letter-spacing="-2" fill="url(#bd-shimmer)">ONCHAIN AGENTS</text>
+    <text x="420" y="272" font-size="30" fill="#bac2d1">The scored, daily-updated index of the crypto agent stack</text>
+    <text x="420" y="330" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="22" fill="#34d399">frameworks · MCPs · wallets · payment rails · live agents — tracked &amp; scored daily</text>
+  </g>
+  <text x="1712" y="392" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20" fill="#4d6274">data by satohub.ai</text>
+</svg>
