@@ -1,0 +1,46 @@
+name: weekly-release
+
+# Weekly tagged release: "New this week in onchain agents". Shows up in
+# watchers' feeds — the heartbeat. Runs Mondays after the 12:30 UTC render.
+
+on:
+  schedule:
+    - cron: "30 13 * * 1"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - name: Build release notes
+        id: notes
+        run: |
+          node - <<'EOF' > notes.md
+          const idx = require("./data/index.json");
+          const cutoff = Date.now() - 7 * 86400e3;
+          const fresh = idx.resources.filter(r => r.date_added && new Date(r.date_added).getTime() >= cutoff);
+          console.log(`## New this week in onchain agents\n`);
+          if (fresh.length === 0) console.log("No new entries this week — scores and liveness refreshed daily as usual.");
+          for (const r of fresh) console.log(`- **[${r.name}](${r.detail_url})** (${r.category}) — ${r.description_short}`);
+          console.log(`\nIndex: ${idx.count} entries · data by [satohub.ai](https://satohub.ai)`);
+          EOF
+          echo "tag=v$(date -u +%Y.%m.%d)" >> "$GITHUB_OUTPUT"
+      - name: Tag + release (with dataset assets)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          cp data/index.json "onchain-agents-index-${{ steps.notes.outputs.tag }}.json"
+          cp data/index.csv "onchain-agents-index-${{ steps.notes.outputs.tag }}.csv"
+          gh release create "${{ steps.notes.outputs.tag }}" \
+            --title "New this week — $(date -u +%F)" \
+            --notes-file notes.md \
+            "onchain-agents-index-${{ steps.notes.outputs.tag }}.json" \
+            "onchain-agents-index-${{ steps.notes.outputs.tag }}.csv" || echo "release already exists"

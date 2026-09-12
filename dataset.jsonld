@@ -1,0 +1,63 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Onchain Agents — the scored, daily-updated index of the crypto agent stack",
+  "description": "380 listings of what onchain AI agents are built from — frameworks, MCP servers, wallets, payment rails, data tools, live agents — each with category, chains, standards, a liveness signal and a Sato Score (0-100, how open, active and verifiable; not a safety or returns grade). Rendered daily from the public Sato Hub export.",
+  "url": "https://github.com/satohubai/onchain-agents",
+  "sameAs": [
+    "https://satohub.ai/data#index",
+    "https://satohub.ai/api/export/index.json"
+  ],
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "isAccessibleForFree": true,
+  "creator": {
+    "@type": "Organization",
+    "name": "Sato Hub",
+    "url": "https://satohub.ai"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Sato Hub",
+    "url": "https://satohub.ai"
+  },
+  "keywords": [
+    "onchain agents",
+    "ai agents",
+    "crypto",
+    "mcp",
+    "erc-8004",
+    "x402",
+    "web3",
+    "dataset"
+  ],
+  "dateModified": "2026-09-12",
+  "temporalCoverage": "2026-06-11/..",
+  "version": "2026-09-12",
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "application/json",
+      "contentUrl": "https://raw.githubusercontent.com/satohubai/onchain-agents/main/data/index.json"
+    },
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/csv",
+      "contentUrl": "https://raw.githubusercontent.com/satohubai/onchain-agents/main/data/index.csv"
+    },
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "application/json",
+      "contentUrl": "https://satohub.ai/api/export/index.json"
+    },
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/csv",
+      "contentUrl": "https://satohub.ai/api/export/index.csv"
+    },
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "application/x-ndjson",
+      "contentUrl": "https://satohub.ai/api/export/index.ndjson"
+    }
+  ]
+}

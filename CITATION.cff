@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Onchain Agents — the scored, daily-updated index of the crypto agent stack"
+type: dataset
+authors:
+  - name: "Sato Hub"
+    website: "https://satohub.ai"
+repository-code: "https://github.com/satohubai/onchain-agents"
+url: "https://satohub.ai"
+license: CC-BY-4.0
+abstract: >-
+  A daily-updated, machine-readable index of the onchain agent ecosystem:
+  frameworks, MCP servers, wallet infrastructure, payment rails, data tools,
+  and registered live agents, each with an evidence-based openness/activity/
+  verifiability score (Sato Score), liveness signal, and verification status.
+keywords:
+  - onchain agents
+  - ai agents
+  - crypto
+  - mcp
+  - erc-8004
+  - x402
+  - dataset

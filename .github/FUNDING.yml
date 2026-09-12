@@ -1,0 +1,4 @@
+# Sponsor button links. Donation wallet addresses (ETH/SOL) render in the
+# README "Support the index" section once set in repo.config.json.
+custom:
+  - "https://satohub.ai/os?utm_source=github&utm_medium=index&utm_campaign=onchain-agents"

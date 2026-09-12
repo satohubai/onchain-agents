@@ -1,0 +1,42 @@
+name: validate
+
+# PR + weekly hygiene: the generator must run clean, and the rendered links
+# must not rot. Link failures open no PRs — dead projects are handled by the
+# upstream hygiene sweep; this is the public early-warning light.
+
+on:
+  pull_request:
+  schedule:
+    - cron: "0 10 * * 1"
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - name: Public-agent privacy boundary tests
+        run: node --test tests/public-agent-boundary.test.mjs
+      - name: Generator runs clean against the live export
+        run: node scripts/generate.mjs
+      - name: index.json is valid + versioned
+        run: node -e "const i=require('./data/index.json'); if(!i.schema_version||!Array.isArray(i.resources)||i.resources.length<50) throw new Error('bad index shape')"
+
+  links:
+    if: github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v5
+      - name: Link check (README)
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: --no-progress --accept 200..=399,401,403,429 README.md docs/ SATO-OS.md
+          fail: false

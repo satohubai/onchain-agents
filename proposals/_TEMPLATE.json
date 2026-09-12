@@ -1,0 +1,9 @@
+{
+  "name": "Example Agent Kit",
+  "website_url": "https://example.xyz",
+  "github_url": "https://github.com/example/agent-kit",
+  "category": "Agent Framework",
+  "chains": ["Base", "Ethereum"],
+  "description": "One or two plain sentences on what it does and who runs it. No adjectives — they get edited out anyway.",
+  "relationship": "maintainer"
+}

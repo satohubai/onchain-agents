@@ -1,0 +1,34 @@
+{
+  "title": "Onchain Agents \u2014 the scored, daily-updated index of the crypto agent stack",
+  "description": "<p>A daily-updated, machine-readable index of the onchain agent ecosystem: frameworks, MCP servers, wallet infrastructure, payment rails, data tools, and registered live agents, each with an evidence-based openness/activity/verifiability score (Sato Score \u2014 not a safety, quality or returns grade), liveness signal, and verification status. Rendered from the public Sato Hub export (https://satohub.ai/api/export/index.json). Each weekly release carries that day's index.json and index.csv.</p>",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "creators": [
+    {
+      "name": "Sato Hub"
+    }
+  ],
+  "keywords": [
+    "onchain agents",
+    "ai agents",
+    "crypto",
+    "mcp",
+    "erc-8004",
+    "x402",
+    "web3",
+    "dataset"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://satohub.ai/data",
+      "relation": "isDescribedBy",
+      "resource_type": "publication-other"
+    },
+    {
+      "identifier": "https://github.com/satohubai/onchain-agents",
+      "relation": "isSupplementTo"
+    }
+  ],
+  "notes": "Scores and liveness are informational signals derived from public evidence, not endorsements, safety verdicts or financial advice. Catalog data CC-BY-4.0; attribution: data by satohub.ai."
+}
