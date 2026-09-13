@@ -1,0 +1,16 @@
+{
+  "agents": [
+    {
+      "sato_agent_id": "sato:agt:testidentity",
+      "slug": "identity-regression",
+      "name": "Identity Regression Agent",
+      "description": "A deterministic fixture for the public generator boundary.",
+      "agent_type": ["Research Agent"],
+      "chains_supported": ["Base"],
+      "stack": [],
+      "creator_name": "Private Human Name",
+      "verification_status": "Self-Reported",
+      "liveness_status": "Unknown"
+    }
+  ]
+}
