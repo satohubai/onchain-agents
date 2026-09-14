@@ -23,7 +23,7 @@ claude mcp add --transport http satohub https://satohub.ai/api/mcp
 }
 ```
 
-## Tools (12, read-only)
+## Tools (30: 27 read, 3 self-serve write — the live list is https://satohub.ai/api/mcp/tools.json)
 
 | Tool | What it does |
 |---|---|
