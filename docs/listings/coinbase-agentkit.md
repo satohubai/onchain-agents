@@ -40,7 +40,7 @@ Sato Score: **⬡ 88** (High) — a measure of how open, active and verifiable t
 - **Creator:** Coinbase
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 2 days ago
+- **Activity:** Active — last activity 3 days ago
 - **GitHub stars:** 1.3k
 - **Deploys as:** npm, pip, Self-hosted
 - **Works with:** LangChain, Vercel AI SDK, MCP, AutoGen, OpenAI Agents SDK, Pydantic AI, Strands Agents, Privy, Viem
@@ -57,11 +57,11 @@ npm create onchain-agent@latest
 - **License:** Apache-2.0
 - **MCP native:** no
 - **Deploy status:** verified
-- **As of:** 2026-09-07
+- **As of:** 2026-09-14
 
 ## What we checked
 
-- Install reproduced in an isolated container on 2026-09-07.
+- Install reproduced in an isolated container on 2026-09-14.
 - Live endpoint probed by us: 21% of our checks succeeded over 62 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 

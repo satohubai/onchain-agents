@@ -53,8 +53,8 @@ npm install && npm run build
 - **Requires:** INJECTIVE_NETWORK=mainnet, Node.js v22+ on PATH
 - **License:** Unknown
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** failed
+- **As of:** 2026-09-14
 
 ## What we checked
 

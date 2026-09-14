@@ -54,8 +54,8 @@ docker pull ghcr.io/nirholas/free-crypto-news && docker run -p 3000:3000 ghcr.io
 - **Requires:** none for the free tier, optional: GROQ_API_KEY / OPENAI_API_KEY / ANTHROPIC_API_KEY (AI summarization), KV_REST_API_URL + KV_REST_API_TOKEN or UPSTASH_REDIS_REST_URL + UPSTASH_REDIS_REST_TOKEN (caching), DISCORD_WEBHOOK_URL, TELEGRAM_BOT_TOKEN, X_API_KEY
 - **License:** Unknown
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

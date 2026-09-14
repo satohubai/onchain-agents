@@ -57,11 +57,11 @@ pip install x402-openai[evm]
 - **License:** MIT
 - **MCP native:** no
 - **Deploy status:** verified
-- **As of:** 2026-09-07
+- **As of:** 2026-09-14
 
 ## What we checked
 
-- Install reproduced in an isolated container on 2026-09-07.
+- Install reproduced in an isolated container on 2026-09-14.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links

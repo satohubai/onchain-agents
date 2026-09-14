@@ -46,8 +46,8 @@ npm i --save-dev @types/node tslib
 - **Requires:** ZeroDev RPC URL (project-scoped endpoint from the ZeroDev dashboard), A signer private key — the quickstart generates one locally via viem generatePrivateKey(); RISK: a production deployment supplies its own signing key
 - **License:** Unknown
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

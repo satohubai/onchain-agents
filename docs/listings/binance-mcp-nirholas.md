@@ -56,8 +56,8 @@ npm run build
 - **Requires:** BINANCE_API_KEY (risk: enables live trading with full account access per README), BINANCE_API_SECRET (same risk)
 - **License:** MIT
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

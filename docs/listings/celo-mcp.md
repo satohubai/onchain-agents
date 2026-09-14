@@ -57,8 +57,8 @@ pip install -e .
 - **Requires:** CELO_RPC_URL (optional, default https://forno.celo.org), CELO_TESTNET_RPC_URL (optional, default Alfajores testnet)
 - **License:** MIT
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

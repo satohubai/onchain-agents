@@ -57,8 +57,8 @@ pip install -e .
 - **Requires:** POLYGON_PRIVATE_KEY + POLYGON_ADDRESS (live trading only — DEMO_MODE=true runs market discovery/analysis read-only without a wallet)
 - **License:** MIT
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-14
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

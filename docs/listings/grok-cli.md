@@ -51,8 +51,8 @@ npm install -g @vibe-kit/grok-cli   # binary: grok
 - **Requires:** A Grok API key from x.ai (GROK_API_KEY)
 - **License:** MIT
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-07-11
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

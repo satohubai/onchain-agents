@@ -54,8 +54,8 @@ npx rwapipe-mcp
 - **Requires:** RWAPIPE_API_KEY (free tier, no credit card, 100 req/min — get at https://rwapipe.com/register), RWAPIPE_API_URL (optional, default https://rwapipe.com/api), MCP_MODE (optional, default stdio), MCP_PORT (optional, default 3001)
 - **License:** MIT
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** failed
+- **As of:** 2026-09-14
 
 ## What we checked
 

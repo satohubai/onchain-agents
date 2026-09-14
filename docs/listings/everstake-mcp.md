@@ -50,8 +50,8 @@ go run ./cmd/mcp_server
 - **Requires:** DASHBOARD_URL (required, dashboard API base URL), MCP_TRANSPORT (optional, http\|stdio, default http), PORT (optional, HTTP mode only, default 8080)
 - **License:** BSD-3-Clause
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** failed
+- **As of:** 2026-09-14
 
 ## What we checked
 

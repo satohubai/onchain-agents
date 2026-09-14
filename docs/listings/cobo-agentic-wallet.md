@@ -55,8 +55,8 @@ cobo skill install all --scope local
 - **Requires:** Cobo Portal account, OAuth login (dev) or manual public-key registration (prod) — Cobo is a custodial/MPC wallet-as-a-service; wallet keys are held by Cobo's infrastructure, not the caller
 - **License:** Unknown
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

@@ -45,8 +45,8 @@ npx @dexterai/opendexter setup
 - **Requires:** Setup creates a wallet on your machine (local key custody risk); hosted mode instead uses a funded session wallet
 - **License:** Unknown
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

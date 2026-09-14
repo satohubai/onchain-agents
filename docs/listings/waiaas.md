@@ -58,8 +58,8 @@ waiaas quickset --mode mainnet
 - **Requires:** self-hosted daemon runs on your machine (http://127.0.0.1:3100), master password / owner wallet for high-value transaction approval
 - **License:** MIT
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-14
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

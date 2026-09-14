@@ -51,8 +51,8 @@ npx -y @ton/mcp@alpha
 - **Requires:** NETWORK (mainnet/testnet, optional), TONCENTER_API_KEY (optional, higher rate limits), MNEMONIC or PRIVATE_KEY (single-wallet mode — controls funds, risk: private key exposure), TON_CONFIG_PATH (agentic wallets mode)
 - **License:** Unknown
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** failed
+- **As of:** 2026-09-14
 
 ## What we checked
 

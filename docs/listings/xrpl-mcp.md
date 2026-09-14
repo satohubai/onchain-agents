@@ -54,8 +54,8 @@ npm run build
 - **Requires:** DEFAULT_SEED (optional, XRPL wallet seed for automatic connection — risk: seed used for transaction signing, keep secure per README), XRPL_NETWORK (default testnet; options mainnet/testnet/devnet)
 - **License:** MIT
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

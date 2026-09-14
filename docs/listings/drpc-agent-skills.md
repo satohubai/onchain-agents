@@ -56,8 +56,8 @@ claude plugins install drpc-agent-skills
 - **Requires:** dRPC API key — auto-issued via x402 if the agent already has a wallet, otherwise a free key from drpc.org
 - **License:** MIT
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-07-14
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

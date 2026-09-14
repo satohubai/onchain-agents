@@ -51,8 +51,8 @@ npm run build
 - **Requires:** ALGORAND_NETWORK, ALGORAND_ALGOD_API, ALGORAND_ALGOD, ALGORAND_ALGOD_PORT, ALGORAND_TOKEN, ALGORAND_AGENT_WALLET_ACTIVE (wallet key/mnemonic — full signing custody; treat as a hot-wallet risk), ULTRADE_API_URL, ITEMS_PER_PAGE
 - **License:** MIT
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

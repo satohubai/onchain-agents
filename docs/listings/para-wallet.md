@@ -49,8 +49,8 @@ npm run build
 - **Requires:** PARA_API_KEY — required, obtained from developer.getpara.com; server IP must be allowlisted with Para. RISK: the key grants MPC wallet creation/signing authority via the Para API — treat as a credential
 - **License:** MIT
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** failed
+- **As of:** 2026-09-14
 
 ## What we checked
 

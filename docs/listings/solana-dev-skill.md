@@ -50,8 +50,8 @@ git clone https://github.com/solana-foundation/solana-dev-skill
 - **Requires:** Claude Code or a compatible agent skills runner
 - **License:** MIT
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

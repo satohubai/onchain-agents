@@ -44,8 +44,8 @@ npm install @dialectlabs/react-ui @dialectlabs/react-sdk-blockchain-solana
 - **Requires:** dappAddress (your app's public key wallet address, from dashboard registration) — no env vars documented for the client quickstart
 - **License:** Unknown
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

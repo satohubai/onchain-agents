@@ -57,8 +57,8 @@ npm install -g @openai/codex
 - **Requires:** An OpenAI account — ChatGPT sign-in or an API key (OPENAI_API_KEY)
 - **License:** Apache-2.0
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-07-11
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

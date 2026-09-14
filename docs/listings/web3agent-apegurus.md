@@ -47,8 +47,8 @@ npx web3agent init
 - **Requires:** OWS_PASSPHRASE (required to run 'npx web3agent wallet generate' — wallet-key generation, interactive TTY. RISK: private-key/mnemonic creation flow), WEB3AGENT_ALLOW_AGENT_VISIBLE_SECRETS (optional opt-in flag — RISK: README explicitly warns this allows private keys/mnemonics to be sent through the MCP host; off by default), COINGECKO_API_KEY (optional, price data), ZEROX_API_KEY (optional, 0x swaps), CCXT_CONFIG_PATH (optional, exchange credentials file), CHAIN_ID (optional, overrides default chain)
 - **License:** MIT
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

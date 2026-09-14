@@ -52,8 +52,8 @@ npm install @wardenprotocol/agent-kit @langchain/langgraph-sdk
 - **Requires:** No credentials needed to run the local agent-server framework itself; connecting to live on-chain Warden features needs chain RPC + a wallet key (see docs.wardenprotocol.org)
 - **License:** MIT (agent-kit package); the main wardenprotocol chain repo is Apache-2.0
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-07-14
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

@@ -35,7 +35,7 @@ Sato Score: **⬡ 61** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Trail of Bits
 - **Open source:** Unknown
 - **Status:** Active
-- **Activity:** Active — last activity 11 days ago
+- **Activity:** Active — last activity 12 days ago
 - **GitHub stars:** 7.0k
 - **Deploys as:** Claude Code plugin
 - **Works with:** Claude Code, Codex
@@ -50,8 +50,8 @@ Sato Score: **⬡ 61** (Medium) — a measure of how open, active and verifiable
 - **Runtime:** claude-code-plugin
 - **License:** CC-BY-SA-4.0
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-07-14
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

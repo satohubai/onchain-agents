@@ -49,8 +49,8 @@ yarn workspace @ionicprotocol/sdk build
 - **Requires:** packages/sdk/.env file — README says it must be requested from the team, so the setup is not fully self-serve, FORK_RPC_URL and FORK_CHAIN_ID for forked-chain testing
 - **License:** MIT
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** failed
+- **As of:** 2026-09-14
 
 ## What we checked
 

@@ -45,8 +45,8 @@ Sato Score: **⬡ 29** (Low) — a measure of how open, active and verifiable th
 - **Requires:** BITREFILL_API_KEY (from bitrefill.com/account/developers) — or OAuth sign-in triggered on the first MCP call in Claude Code
 - **License:** MIT
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

@@ -53,8 +53,8 @@ python3 scripts/setup.py
 - **Requires:** WAYFINDER_API_KEY (from wayfinder.ai Settings; secret), config.json holds RPC URLs and wallet private keys — private-key custody risk; docs say keep this file private
 - **License:** Unknown
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

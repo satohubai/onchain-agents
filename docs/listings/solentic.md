@@ -49,8 +49,8 @@ npx @mbrassey/solentic-mcp
 - **Requires:** No client-side env vars documented for the hosted/stdio setup. RISK: the stake/unstake/withdraw tools accept a Solana secret key at call time, forwarded over HTTPS to the Blueprint server for in-memory signing (README states it is not stored/logged, but this is a private-key-handling flow).
 - **License:** MIT
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** failed
+- **As of:** 2026-09-14
 
 ## What we checked
 

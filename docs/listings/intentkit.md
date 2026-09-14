@@ -54,8 +54,8 @@ pip install intentkit
 - **Requires:** an LLM key (OPENAI_API_KEY or others), PostgreSQL + Redis for the cluster
 - **License:** MIT
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-06-16
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

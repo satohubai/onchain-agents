@@ -49,11 +49,12 @@ npx -y @blindpay/mcp
 - **Requires:** BLINDPAY_API_KEY (required, from BlindPay Dashboard), BLINDPAY_INSTANCE_ID (required, format in_xxxxxxxxxxxx)
 - **License:** MIT
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** verified
+- **As of:** 2026-09-14
 
 ## What we checked
 
+- Install reproduced in an isolated container on 2026-09-14.
 - Live endpoint probed by us: 100% of our checks succeeded over 57 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 

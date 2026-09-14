@@ -51,8 +51,8 @@ No self-host install — Manus is a hosted product. Sign up at https://manus.im 
 - **Requires:** A Manus account
 - **License:** Proprietary (hosted)
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-07-11
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

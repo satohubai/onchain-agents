@@ -54,8 +54,8 @@ npm run setup
 - **Requires:** WDK_SEED — a BIP-39 seed phrase for wallet derivation; high risk: full control of derived wallets, docs say use a dedicated development wallet with limited funds, WDK_INDEXER_API_KEY optional (indexer tools), MOONPAY_API_KEY / MOONPAY_SECRET_KEY optional (fiat on/off-ramp)
 - **License:** Unknown
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** failed
+- **As of:** 2026-09-14
 
 ## What we checked
 

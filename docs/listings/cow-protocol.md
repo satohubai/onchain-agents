@@ -52,8 +52,8 @@ pnpm add @cowprotocol/cow-sdk
 - **Requires:** Wallet/signer to sign orders, Optional CoW API key (X-API-Key header) for partners needing higher rate limits — not required for basic swaps
 - **License:** MIT OR Apache-2.0
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-07-14
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

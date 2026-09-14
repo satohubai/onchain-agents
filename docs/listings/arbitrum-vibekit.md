@@ -49,8 +49,8 @@ npx -y @emberai/agent-node@latest
 - **Requires:** AI provider API key (OpenRouter, OpenAI, xAI, or Hyperbolic) — on-chain env vars (wallet keys, RPC URLs) not enumerated in the README
 - **License:** MIT
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** failed
+- **As of:** 2026-09-14
 
 ## What we checked
 

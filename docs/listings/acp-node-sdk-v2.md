@@ -48,8 +48,8 @@ cp .env.example .env
 - **Requires:** .env from .env.example (variable names in repo examples)
 - **License:** Unknown
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

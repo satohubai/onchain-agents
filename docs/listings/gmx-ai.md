@@ -53,8 +53,8 @@ Sato Score: **⬡ 59** (Medium) — a measure of how open, active and verifiable
 - **Requires:** a funded wallet to sign the trades/LP transactions the skill constructs — the skill itself does not custody funds
 - **License:** MIT
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-07-14
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

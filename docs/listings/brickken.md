@@ -46,8 +46,8 @@ brickken --version
 - **Requires:** BRICKKEN_PRIVATE_KEY (0x... — signs transactions and x402 payments locally; private key custody risk, do not hardcode), BRICKKEN_RPC_URL (blockchain RPC endpoint), BASE_URL (API endpoint, e.g. https://api.sandbox.brickken.com), CHAIN (chain id, e.g. 11155111 for Sepolia), WALLET (signer address)
 - **License:** MIT
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

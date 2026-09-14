@@ -45,8 +45,8 @@ npx skills add aptos-labs/aptos-agent-skills
 - **Runtime:** Skill package for AI coding assistants (Claude Code, Cursor, GitHub Copilot) via the skills CLI
 - **License:** MIT
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

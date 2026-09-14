@@ -33,7 +33,7 @@ Every row is read off the live index, rendered 2026-09-14. No winner is declared
 | **Standards** | mcp | — |
 | **Open source** | Yes | Yes |
 | **⬡ Sato Score** | 88 (High) | 76 (High) |
-| **Activity** | Active, last activity 2 days ago | Quiet, last activity 4 months ago |
+| **Activity** | Active, last activity 3 days ago | Quiet, last activity 4 months ago |
 | **★ GitHub stars** | 1.3k | 1.7k |
 | **Install reproduced** | yes | yes |
 | **Verification status** | Unverified | Unverified |

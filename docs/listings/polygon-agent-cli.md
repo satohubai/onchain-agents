@@ -49,8 +49,8 @@ npx @polygonlabs/agent-cli --help
 - **Requires:** SEQUENCE_PROJECT_ACCESS_KEY — Sequence wallet-infra project access key, obtained via `polygon-agent setup`, SEQUENCE_INDEXER_ACCESS_KEY — same value as SEQUENCE_PROJECT_ACCESS_KEY, used for balance/tx indexing
 - **License:** MIT
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

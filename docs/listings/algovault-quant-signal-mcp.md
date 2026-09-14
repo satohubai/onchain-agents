@@ -53,8 +53,8 @@ npx -y crypto-quant-signal-mcp
 - **Requires:** API key (optional, subscription/pay-per-call tier only; not required for hosted read access)
 - **License:** MIT
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** failed
+- **As of:** 2026-09-14
 
 ## What we checked
 

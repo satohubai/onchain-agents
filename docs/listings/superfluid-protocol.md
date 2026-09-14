@@ -47,8 +47,8 @@ cd my-superfluid-app
 - **Requires:** EVM RPC endpoint and a signer for transactions (not enumerated as env vars on the quickstart page); RISK: streaming transactions require a funded signing key
 - **License:** Unknown
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

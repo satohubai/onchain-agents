@@ -48,8 +48,8 @@ uv run gloria-mcp
 - **Requires:** GLORIA_API_TOKEN — Gloria AI API token, required, AI_HUB_BASE_URL — optional, defaults to https://ai-hub.cryptobriefing.com
 - **License:** Unknown
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

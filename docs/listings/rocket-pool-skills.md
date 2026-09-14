@@ -48,8 +48,8 @@ git clone https://github.com/rocket-pool/skills
 - **Requires:** RPC_URL (Ethereum node), WALLET address, PK (private key) — only for write/transaction skills; read-only skills need just RPC_URL
 - **License:** MIT
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-07-14
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

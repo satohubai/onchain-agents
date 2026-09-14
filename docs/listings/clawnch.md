@@ -46,8 +46,8 @@ hermes
 - **Requires:** One LLM key: ANTHROPIC_API_KEY \| OPENROUTER_API_KEY \| OPENAI_API_KEY \| NOUS_PORTAL_API_KEY, One channel token: TELEGRAM_BOT_TOKEN \| DISCORD_TOKEN \| SLACK_BOT_TOKEN, One wallet mode: WALLETCONNECT_PROJECT_ID \| CLAWMES_LOCAL_KEY_PASSWORD \| BANKR_API_KEY (CLAWMES_LOCAL_KEY_PASSWORD guards a locally held private key — custody risk)
 - **License:** MIT
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

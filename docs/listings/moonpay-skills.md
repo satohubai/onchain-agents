@@ -52,8 +52,8 @@ npx skills add moonpay/skills
 - **Requires:** MoonPay account/API credentials for skills that touch on/off-ramp or trading (install itself is keyless)
 - **License:** MIT
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-14
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

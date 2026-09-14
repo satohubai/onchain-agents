@@ -53,8 +53,8 @@ pip install tradememory-protocol
 - **Runtime:** python
 - **License:** MIT
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-14
+- **Deploy status:** failed
+- **As of:** 2026-09-14
 
 ## What we checked
 

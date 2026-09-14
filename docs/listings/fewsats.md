@@ -47,8 +47,8 @@ uvx fewsats-mcp
 - **Requires:** FEWSATS_API_KEY (required — from fewsats.com; grants payment authority over the Fewsats wallet)
 - **License:** Unknown
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** failed
+- **As of:** 2026-09-14
 
 ## What we checked
 

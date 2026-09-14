@@ -57,8 +57,8 @@ pip install hermes-agent   # PyPI (Python 3.11–3.13)
 - **Requires:** An LLM provider — Nous Portal (zero-key OAuth) OR a provider API key (ANTHROPIC_API_KEY / OPENROUTER_API_KEY / OPENAI_API_KEY / etc.), A model with a >=64K context window
 - **License:** MIT
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-07-11
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

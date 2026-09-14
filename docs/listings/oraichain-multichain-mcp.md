@@ -49,8 +49,8 @@ pnpm build
 - **Requires:** RPC_URL — chain RPC endpoint, defaults to https://rpc.orai.io, PORT — local dev server port, default 4000, README lists wallet configuration for supported networks as a prerequisite but does not document a specific private-key env var — treat as an unresolved risk if the deployer wires in a signing key
 - **License:** GPL-3.0
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

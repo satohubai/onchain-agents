@@ -54,8 +54,8 @@ yarn install
 - **Requires:** PAYRAM_BASE_URL (self-hosted PayRam server endpoint), PAYRAM_API_KEY (merchant API key)
 - **License:** Unknown
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

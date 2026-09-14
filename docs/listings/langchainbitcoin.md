@@ -49,8 +49,8 @@ pip install -r requirements.txt
 - **Requires:** Access to an lnd Lightning node (macaroon/cert credentials for LndNode)
 - **License:** Unknown
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

@@ -51,8 +51,8 @@ npx -y @agentkey/cli --auth-login
 - **Requires:** Agentkey API key (ak_..., pay-as-you-go)
 - **License:** Apache-2.0
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-06-16
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

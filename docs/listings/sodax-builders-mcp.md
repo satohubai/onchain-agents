@@ -51,8 +51,8 @@ pnpm start
 - **Requires:** PORT — optional, default 3000, TRANSPORT — optional, default http, NODE_ENV — set to production for deployment, LOG_LEVEL — optional, default info, DISCORD_WEBHOOK_URL — optional, for Discord alerts, .env.example provided as a template
 - **License:** MIT
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

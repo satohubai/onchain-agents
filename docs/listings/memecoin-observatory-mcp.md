@@ -58,8 +58,8 @@ cp .env.example .env
 - **Requires:** .env from .env.example — specific variable names not listed in the README; no MCP client config JSON documented (README suggests exposing via ngrok/Cloudflare Tunnel)
 - **License:** MIT
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

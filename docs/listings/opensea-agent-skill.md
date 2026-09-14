@@ -57,8 +57,8 @@ npx skills add ProjectOpenSea/opensea-skill
 - **Requires:** OPENSEA_API_KEY (free tier, instant), wallet creds for trading/swaps
 - **License:** MIT
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-06-16
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

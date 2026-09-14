@@ -52,8 +52,8 @@ npm install -g zetachain@latest
 - **Runtime:** Node.js >= 18 (Docker >= 24 optional, for the localnet feature)
 - **License:** Unknown
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

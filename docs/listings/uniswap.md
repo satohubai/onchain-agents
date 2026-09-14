@@ -55,8 +55,8 @@ npx skills add Uniswap/uniswap-ai
 - **Requires:** Uniswap Trading API key (free signup at the developer dashboard) — only needed if the swap-integration skill calls the hosted Swapping API rather than the on-chain SDK/Universal Router path, Wallet/signer for on-chain execution
 - **License:** MIT
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-07-14
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

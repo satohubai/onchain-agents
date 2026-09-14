@@ -48,8 +48,8 @@ forge test
 - **Requires:** .env populated from .env.example, then `source .env`, PRIVATE_KEY (deployer key for forge scripts — risk: funded deployer private key in env), RPC URL for the target chain; optional local fork via `anvil -f <your_rpc_url>`
 - **License:** Apache-2.0 OR MIT
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

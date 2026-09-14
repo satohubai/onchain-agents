@@ -51,8 +51,8 @@ npx skills add gmx-io/gmx-ai
 - **Requires:** Wallet private key/signer to execute trades or liquidity ops via @gmx-io/sdk (the skill pack itself is read-only reference material)
 - **License:** MIT
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-07-14
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

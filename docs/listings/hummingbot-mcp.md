@@ -56,8 +56,8 @@ cd mcp && uv sync
 - **Requires:** A running Hummingbot API instance (separate self-hosted service, default http://localhost:8000), HUMMINGBOT_USERNAME + HUMMINGBOT_PASSWORD
 - **License:** Apache-2.0
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-14
+- **Deploy status:** failed
+- **As of:** 2026-09-14
 
 ## What we checked
 

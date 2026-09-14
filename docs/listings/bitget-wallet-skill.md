@@ -56,8 +56,8 @@ pip install requests eth-account
 - **Requires:** no API key (token auth built in), wallet private key only for signing ops (not persisted)
 - **License:** MIT
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-06-16
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

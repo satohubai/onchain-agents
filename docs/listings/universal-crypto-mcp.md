@@ -56,11 +56,12 @@ npm install
 - **Requires:** PRIVATE_KEY optional — EVM private key for write/transaction operations; high risk if exposed, only needed for writes, X402_PRIVATE_KEY optional — wallet key for x402 payments; same private-key risk, X402_CHAIN optional (arbitrum, base, ethereum, polygon), COINGECKO_API_KEY / CRYPTOPANIC_API_KEY optional; no keys required for basic read functionality
 - **License:** Apache-2.0
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** verified
+- **As of:** 2026-09-14
 
 ## What we checked
 
+- Install reproduced in an isolated container on 2026-09-14.
 - Live endpoint probed by us: 100% of our checks succeeded over 62 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 

@@ -51,8 +51,8 @@ npm run dev
 - **Requires:** ENCRYPTION_KEY (production only — AES-256-GCM secret used to encrypt stored Hyperliquid signing keys. RISK: handles user signing-key material server-side), PORT (optional, default 3003), TRADING_API_KEY (optional, per README described as 'API key for MCP server'), hl_wallet_address + hl_signing_key (required per-account via POST /v1/auth/register against the hosted API at trading.purpleflea.com — RISK: submits a Hyperliquid signing key to a third-party service)
 - **License:** MIT
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

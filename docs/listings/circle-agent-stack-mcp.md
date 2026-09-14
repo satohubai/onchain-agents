@@ -51,8 +51,8 @@ npx circle-agent-stack-mcp
 - **Requires:** CIRCLE_API_KEY (required), CIRCLE_PAYOUT_ADDRESS (required for self-hosted x402 paywall mode)
 - **License:** MIT
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** failed
+- **As of:** 2026-09-14
 
 ## What we checked
 

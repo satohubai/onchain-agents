@@ -53,8 +53,8 @@ npm install -g @okx_ai/okx-trade-mcp @okx_ai/okx-trade-cli
 - **Requires:** OKX API key/secret (configured via interactive wizard: okx config init; risk: enables account trading, stored locally per README)
 - **License:** MIT
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

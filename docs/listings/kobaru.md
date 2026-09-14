@@ -59,8 +59,8 @@ npm run dev
 - **Requires:** KOBARU_API_KEY, Wallet address (payment recipient), SVM_PRIVATE_KEY — Solana private key used by the bundled '007 Test Agent' (custody risk)
 - **License:** Apache-2.0
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

@@ -55,8 +55,8 @@ npx agent-skills-hub
 - **Runtime:** node
 - **License:** MIT
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-07-14
+- **Deploy status:** failed
+- **As of:** 2026-09-14
 
 ## What we checked
 

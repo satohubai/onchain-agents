@@ -55,8 +55,8 @@ Add custom connector in Claude with endpoint https://mcp.getalby.com/mcp?nwc=ENC
 - **Requires:** Nostr Wallet Connect (NWC) connection secret from an Alby Lightning wallet
 - **License:** Apache-2.0
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-14
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

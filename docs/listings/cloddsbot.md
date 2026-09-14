@@ -53,8 +53,8 @@ npm install -g clodds --loglevel=error
 - **Requires:** ANTHROPIC_API_KEY (powers the agent's reasoning) plus API keys/credentials for whichever venues you connect (Polymarket, Binance, Hyperliquid, Solana DEXs, EVM wallets, etc.) — the onboarding wizard walks through these
 - **License:** MIT
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-14
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

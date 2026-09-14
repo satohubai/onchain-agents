@@ -47,8 +47,8 @@ para create my-app
 - **Requires:** NEXT_PUBLIC_PARA_API_KEY (Para API key; para_beta_* for development, para_prod_* for production)
 - **License:** Unknown
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

@@ -57,8 +57,8 @@ Sato Score: **⬡ 62** (Medium) — a measure of how open, active and verifiable
 - **Requires:** Claude Code host, CHAINGPT_API_KEY (app.chaingpt.org) for product tools, wallet key for policy-gated agent-wallet signing
 - **License:** MIT
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-06-16
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

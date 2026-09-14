@@ -53,8 +53,8 @@ pip install -r requirements.txt
 - **Requires:** signing_key (private key used to sign orders — custody risk), wallet_address (Ethereum account address), api_key + api_secret (account API credentials), env (testnet or mainnet)
 - **License:** Unknown
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

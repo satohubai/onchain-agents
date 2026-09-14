@@ -55,8 +55,8 @@ or self-host: npx @coinpaprika/mcp@latest
 - **Runtime:** remote
 - **License:** MIT
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-14
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

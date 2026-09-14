@@ -55,8 +55,8 @@ npm install -g openclaw@latest
 - **Requires:** An LLM provider API key (configured during onboarding)
 - **License:** MIT
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-07-11
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

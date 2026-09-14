@@ -55,8 +55,8 @@ uvx thirdweb-mcp
 - **Requires:** THIRDWEB_SECRET_KEY (thirdweb API secret key)
 - **License:** Apache-2.0
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-14
+- **Deploy status:** failed
+- **As of:** 2026-09-14
 
 ## What we checked
 

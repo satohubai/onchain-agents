@@ -52,8 +52,8 @@ cargo install polkadot-mcp
 - **Requires:** POLKADOT_SIGNER_URI (optional mnemonic/derivation path — risk: enables transaction signing, controls funds), SUBSCAN_API_KEY (optional, historical/indexed data)
 - **License:** Apache-2.0 (README header also mentions MIT — inconsistent; body states Apache-2.0)
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** failed
+- **As of:** 2026-09-14
 
 ## What we checked
 

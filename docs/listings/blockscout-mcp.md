@@ -55,8 +55,8 @@ docker pull ghcr.io/blockscout/mcp-server:latest
 - **Requires:** BLOCKSCOUT_PRO_API_KEY (required for most features; register at dev.blockscout.com, proapi_ prefix), optional: BLOCKSCOUT_MCP_USER_AGENT, BLOCKSCOUT_DISABLE_COMMUNITY_TELEMETRY
 - **License:** Unknown (custom Blockscout Software Licence; see LICENSE file — not a standard SPDX identifier)
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

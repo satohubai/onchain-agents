@@ -47,8 +47,8 @@ cargo add solana-llm-oracle --features cpi
 - **Requires:** Anchor toolchain, off-chain oracle daemon
 - **License:** Unknown
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** failed
+- **As of:** 2026-09-14
 
 ## What we checked
 

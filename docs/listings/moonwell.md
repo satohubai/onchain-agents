@@ -46,8 +46,8 @@ yarn add @moonwell-fi/moonwell-sdk
 - **Runtime:** Node.js/TypeScript (npm package, SDK)
 - **License:** MIT
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

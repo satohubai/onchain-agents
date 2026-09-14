@@ -55,8 +55,8 @@ pip install hyperliquid-python-sdk
 - **Requires:** Wallet private key / API-wallet key only for trading & account-state actions (Info read-only queries need no key)
 - **License:** MIT
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-07-14
+- **Deploy status:** failed
+- **As of:** 2026-09-14
 
 ## What we checked
 

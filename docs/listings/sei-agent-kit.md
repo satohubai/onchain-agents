@@ -51,8 +51,8 @@ npm run test
 - **Requires:** OPENAI_API_KEY, SEI_PRIVATE_KEY (wallet private key — full signing custody; hot-wallet risk), RPC_URL
 - **License:** MIT
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

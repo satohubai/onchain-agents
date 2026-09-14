@@ -57,8 +57,8 @@ cp .env.example .env
 - **Requires:** X402_PRIVATE_KEY (Base EOA private key, hex 0x-prefixed, with USDC on Base mainnet — risk: controls funds), MAX_PRICE_USD (optional, default $0.10 per call spending cap)
 - **License:** MIT
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

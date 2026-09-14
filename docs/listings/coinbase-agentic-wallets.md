@@ -53,8 +53,8 @@ pipx run create-onchain-agent
 - **Requires:** CDP API key (setup via the generated project's .env-local instructions), wallet provider choice: CDP Non-Custodial, Viem, or Privy wallets
 - **License:** Unknown
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

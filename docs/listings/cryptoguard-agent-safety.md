@@ -49,8 +49,8 @@ cryptoguard install-hook
 - **Requires:** CRYPTOGUARD_DISABLE — optional, bypasses the hook, default 0, CRYPTOGUARD_CHAIN — optional, default chain, default ethereum, CRYPTOGUARD_THRESHOLD — optional, minimum risk level to block, default HIGH, No API keys required per docs — security oracles used have free public tiers
 - **License:** MIT
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** failed
+- **As of:** 2026-09-14
 
 ## What we checked
 

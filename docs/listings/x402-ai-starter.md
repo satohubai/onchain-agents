@@ -51,8 +51,8 @@ pnpm dev
 - **Requires:** CDP_API_KEY_ID (Coinbase Developer Platform key), CDP_API_KEY_SECRET, CDP_WALLET_SECRET — RISK: wallet secret controlling funds, Vercel OIDC token or AI Gateway API key (for AI Gateway), NETWORK env var: base-sepolia (default testnet) or base (mainnet)
 - **License:** Unknown
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

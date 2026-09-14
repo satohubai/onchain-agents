@@ -51,8 +51,8 @@ npm install clanker-sdk viem
 - **Requires:** PRIVATE_KEY — wallet private key for signing token-deployment transactions (custody risk: key is used directly by the SDK for signing)
 - **License:** MIT
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

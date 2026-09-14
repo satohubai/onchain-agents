@@ -49,8 +49,8 @@ yarn build
 - **Requires:** Private key for creating x402 payment headers (env var name not documented in README; .env.sample in repo) — signing-key risk
 - **License:** MIT
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

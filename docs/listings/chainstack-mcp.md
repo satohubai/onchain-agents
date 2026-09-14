@@ -50,8 +50,8 @@ curl -o ~/.claude/skills/chainstack/SKILL.md https://mcp.chainstack.com/skill
 - **Requires:** CHAINSTACK_API_KEY optional (most tools work without credentials; deployment/project management needs a key from console.chainstack.com/user/settings/api-keys)
 - **License:** Unknown
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

@@ -48,8 +48,8 @@ cargo install solscan-mcp
 - **Requires:** SOLSCAN_API_KEY (required — Solscan Pro API key from solscan.io/apis)
 - **License:** MIT
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** failed
+- **As of:** 2026-09-14
 
 ## What we checked
 

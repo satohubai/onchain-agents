@@ -50,8 +50,8 @@ pnpm install
 - **Runtime:** Node.js (npx scaffolder)
 - **License:** MIT
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** failed
+- **As of:** 2026-09-14
 
 ## What we checked
 

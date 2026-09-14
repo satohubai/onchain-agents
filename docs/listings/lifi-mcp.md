@@ -47,8 +47,8 @@ add {"type": "http", "url": "https://mcp.li.quest/mcp"} to your MCP client confi
 - **Entry:** {"mcpServers": {"lifi": {"type": "http", "url": "https://mcp.li.quest/mcp"}}}
 - **Runtime:** remote
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-14
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

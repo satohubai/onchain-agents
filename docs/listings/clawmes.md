@@ -54,8 +54,8 @@ hermes clawmes init
 - **Requires:** Hermes Agent installed (github.com/NousResearch/hermes-agent), wallet mode setup: WalletConnect project ID, or local password+mnemonic, or Bankr API key, project's own SECURITY.md flags this as pre-alpha — no third-party audit yet, testnet-only recommended
 - **License:** MIT
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-07-14
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

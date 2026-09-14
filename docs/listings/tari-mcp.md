@@ -39,7 +39,7 @@ Sato Score: **⬡ 64** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Tari Project
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 6 days ago
+- **Activity:** Active — last activity 7 days ago
 - **GitHub stars:** 496
 
 ## Deploy spec
@@ -55,8 +55,8 @@ cargo build --release -p minotari_mcp_wallet
 - **Requires:** A running minotari_console_wallet --enable-grpc (and a synced Tari node) — the MCP server proxies to it, it is not a standalone binary
 - **License:** BSD-3-Clause
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-14
+- **Deploy status:** failed
+- **As of:** 2026-09-14
 
 ## What we checked
 

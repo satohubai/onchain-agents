@@ -53,8 +53,8 @@ cp .env.example .env
 - **Requires:** STARKNET_PRIVATE_KEY — Starknet account private key, high-risk if exposed, STARKNET_PUBLIC_ADDRESS, STARKNET_RPC_URL, one of OPENAI_API_KEY / ANTHROPIC_API_KEY / GEMINI_API_KEY / DEEPSEEK_API_KEY, SERVER_API_KEY, SERVER_PORT, POSTGRES_USER, POSTGRES_PASSWORD, POSTGRES_HOST, POSTGRES_DB, POSTGRES_PORT
 - **License:** MIT
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

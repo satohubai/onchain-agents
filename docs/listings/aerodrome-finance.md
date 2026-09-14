@@ -51,8 +51,8 @@ forge test
 - **Requires:** BASE_RPC_URL (mandatory for mainnet fork tests), BLOCK_NUMBER (optional, consistent fork state)
 - **License:** Unknown (README references Apache Foundation licensing guidelines; see LICENSE/NOTICE)
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

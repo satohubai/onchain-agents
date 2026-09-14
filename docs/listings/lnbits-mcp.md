@@ -57,8 +57,8 @@ pip install -e .
 - **Requires:** an existing LNbits instance (self-hosted or hosted) + its admin or invoice API key
 - **License:** MIT
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-14
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

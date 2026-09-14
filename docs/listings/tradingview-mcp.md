@@ -54,8 +54,8 @@ pip install tradingview-mcp-server
 - **Requires:** optional MARKETAUX_API_TOKEN for the financial_news / market_sentiment tools (free tier, 100 req/day) — all other 30+ tools work keyless
 - **License:** MIT
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-14
+- **Deploy status:** failed
+- **As of:** 2026-09-14
 
 ## What we checked
 

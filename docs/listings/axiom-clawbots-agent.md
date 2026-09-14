@@ -57,8 +57,8 @@ cp -r axiom-public/agent-skills/skills/SKILL_NAME ~/.openclaw/skills/
 - **Requires:** Per-skill API keys / RPC endpoints / wallet credentials, varies by skill (e.g. env-validator implies configurable credentials)
 - **License:** MIT
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

@@ -44,8 +44,8 @@ curl --location --request POST 'https://api.bridge.xyz/v0/transfers' --header 'A
 - **Requires:** Api-Key header (Bridge-issued API key), Idempotency-Key header (unique per request)
 - **License:** Unknown
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

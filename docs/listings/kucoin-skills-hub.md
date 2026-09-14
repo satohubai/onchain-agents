@@ -51,8 +51,8 @@ npx skills add https://github.com/Kucoin/kucoin-skills-hub --full-depth
 - **Requires:** KuCoin API key (for account-specific reads like balances/orders; public market data is keyless)
 - **License:** MIT
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-07-14
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

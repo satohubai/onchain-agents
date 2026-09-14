@@ -45,8 +45,8 @@ npm install -g @termix-it/cryptoclaw
 - **Runtime:** Node.js 18+ (pnpm)
 - **Requires:** wallet keys (EVM/Solana) supplied to the local gateway; messaging-channel credentials optional; TEE optional
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-09-10
+- **Deploy status:** failed
+- **As of:** 2026-09-14
 
 ## What we checked
 

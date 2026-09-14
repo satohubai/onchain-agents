@@ -46,8 +46,8 @@ npm create onchain
 - **Runtime:** Node.js v20 (npm package @coinbase/onchainkit; React components)
 - **License:** MIT
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

@@ -52,8 +52,8 @@ Add MCP connector with URL https://mcp.vybenetwork.xyz (client authenticates via
 - **Runtime:** remote
 - **Requires:** OAuth sign-in via the MCP client (no static API key in the repo)
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-14
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

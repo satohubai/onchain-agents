@@ -48,8 +48,8 @@ npx skills add sendaifun/skills
 - **Requires:** Claude Code or a compatible agent skills runner
 - **License:** Apache-2.0
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

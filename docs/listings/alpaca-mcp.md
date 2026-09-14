@@ -55,8 +55,8 @@ uvx alpaca-mcp-server
 - **Requires:** ALPACA_API_KEY, ALPACA_SECRET_KEY (free paper-trading account at app.alpaca.markets)
 - **License:** MIT
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-14
+- **Deploy status:** failed
+- **As of:** 2026-09-14
 
 ## What we checked
 

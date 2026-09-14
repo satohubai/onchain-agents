@@ -56,8 +56,8 @@ git clone https://github.com/nirholas/agenti && cd agenti && pnpm install
 - **Requires:** AGENT_KEY / AGENTI_EVM_PRIVATE_KEY (raw EVM private key — high custody risk, agent controls funds), SOLANA_PRIVATE_KEY / AGENTI_SOLANA_PRIVATE_KEY (raw Solana private key — high custody risk), ANTHROPIC_API_KEY (LLM integration)
 - **License:** Unknown (repo README states all rights reserved; not an open-source SPDX license)
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

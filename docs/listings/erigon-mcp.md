@@ -48,8 +48,8 @@ make mcp
 - **Runtime:** Go (built from source, requires a running Erigon v3.5+ instance)
 - **License:** Unknown
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

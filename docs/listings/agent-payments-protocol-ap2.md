@@ -56,8 +56,8 @@ uv pip install git+https://github.com/google-agentic-commerce/AP2.git@main
 - **Requires:** GOOGLE_API_KEY (or Vertex AI) to run the agent samples, no wallet — card/A2A payment mandates
 - **License:** Apache-2.0
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-06-16
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

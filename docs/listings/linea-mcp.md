@@ -55,8 +55,8 @@ cp .env.example .env
 - **Requires:** LINEA_MAINNET_RPC_URL (default https://rpc.linea.build), LINEA_TESTNET_RPC_URL (default https://rpc.sepolia.linea.build), INFURA_API_KEY (optional), ALCHEMY_API_KEY (optional), WALLET_PRIVATE_KEY (risk: sensitive credential, controls funds), PRIVATE_KEY_ENCRYPTION_KEY, ETHEREUM_RPC_URL / ETHEREUM_TESTNET_RPC_URL (bridge operations)
 - **License:** MIT
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

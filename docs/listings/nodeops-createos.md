@@ -52,8 +52,8 @@ npx skills add https://github.com/NodeOps-app/skills --skill createos
 - **Requires:** API key generated from a CreateOS account (createos.nodeops.network) for direct REST use
 - **License:** Unknown
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

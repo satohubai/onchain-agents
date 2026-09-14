@@ -56,8 +56,8 @@ make build
 - **Requires:** GOSUI_SERVER_PORT (optional, default 8080), GOSUI_SERVER_SSE (optional), GOSUI_SUI_EXECUTABLE_PATH (optional, default 'sui')
 - **License:** MIT
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

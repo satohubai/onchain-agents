@@ -56,8 +56,8 @@ agentnode install word-counter-pack
 - **Runtime:** Python (agentnode-sdk >=0.16)
 - **License:** MIT (SDK & Packs); BSL-1.1 (backend)
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 

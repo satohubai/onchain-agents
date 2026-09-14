@@ -48,8 +48,8 @@ uv tool install cryo-mcp
 - **Requires:** ETH_RPC_URL (required if not passed via --rpc-url, Ethereum RPC endpoint), CRYO_DATA_DIR (optional, default download directory ~/.cryo-mcp/data/)
 - **License:** MIT
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-09-14
 
 ## What we checked
 
