@@ -63,6 +63,10 @@
 }
 </script>
 {%- endif -%}
+{%- comment -%}
+  No WebSite block here: jekyll-seo-tag already emits one for the site root, and
+  a second would be a duplicate claim about the same thing.
+{%- endcomment -%}
 {%- if page.page_type == "index" -%}
 <script type="application/ld+json">
 {
@@ -84,16 +88,6 @@
     { "@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://raw.githubusercontent.com/satohubai/onchain-agents/main/data/index.csv" },
     { "@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://satohub.ai/api/export/index.json" }
   ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "WebSite",
-  "name": {{ site.title | jsonify }},
-  "description": {{ site.description | jsonify }},
-  "url": "{{ site.url }}{{ site.baseurl }}/",
-  "publisher": { "@type": "Organization", "name": "Sato Hub", "url": "https://satohub.ai" }
 }
 </script>
 {%- endif -%}

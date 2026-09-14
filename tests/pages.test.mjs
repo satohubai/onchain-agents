@@ -110,7 +110,9 @@ test("generated pages stay small enough to be quoted whole", () => {
 test("the layout emits JSON-LD for every page class", () => {
   const layout = readFileSync(join(DOCS, "_layouts", "default.html"), "utf8");
   assert.match(layout, /\{% seo %\}/);
-  for (const t of ["SoftwareSourceCode", "SoftwareApplication", "ItemList", "Dataset", "WebSite", "BreadcrumbList"]) {
+  // No WebSite: jekyll-seo-tag emits that one, and duplicating it would be two
+  // claims about the same site.
+  for (const t of ["SoftwareSourceCode", "SoftwareApplication", "ItemList", "Dataset", "BreadcrumbList"]) {
     assert.ok(layout.includes(`"${t}"`), `layout is missing @type ${t}`);
   }
 });
