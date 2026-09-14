@@ -2,7 +2,24 @@
 title: "Privy MCP Server — Sato Hub index"
 description: "Official Privy MCP server: create wallets, sign transactions, and manage policies across 11 chains."
 canonical: "https://satohub.ai/resources/privy-mcp"
+canonical_url: "https://satohub.ai/resources/privy-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Privy MCP Server"
+code_repository: "https://github.com/privy-io/privy-mcp-server"
+software_url: "https://www.privy.io"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-02-09"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Privy MCP Server"
+    url: "https://satohubai.github.io/onchain-agents/listings/privy-mcp"
 ---
 
 # Privy MCP Server

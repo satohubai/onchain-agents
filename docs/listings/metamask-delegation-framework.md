@@ -2,7 +2,23 @@
 title: "MetaMask Delegation Framework — Sato Hub index"
 description: "MetaMask's official smart-account delegation contracts — grant an AI agent scoped, revocable permissions instead of a private key."
 canonical: "https://satohub.ai/resources/metamask-delegation-framework"
+canonical_url: "https://satohub.ai/resources/metamask-delegation-framework"
 layout: "default"
+page_type: "listing"
+item_name: "MetaMask Delegation Framework"
+code_repository: "https://github.com/MetaMask/delegation-framework"
+software_url: "https://gator.metamask.io"
+application_category: "Wallet Infrastructure"
+operating_system: "Any"
+license_name: "Apache-2.0 OR MIT"
+date_modified: "2026-08-07"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Wallets, keys & permissions"
+    url: "https://satohubai.github.io/onchain-agents/categories/wallets-keys"
+  - name: "MetaMask Delegation Framework"
+    url: "https://satohubai.github.io/onchain-agents/listings/metamask-delegation-framework"
 ---
 
 # MetaMask Delegation Framework

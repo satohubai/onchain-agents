@@ -2,7 +2,20 @@
 title: "Freysa — Sato Hub index"
 description: "Adversarial AI agent experiment where users try to convince an agent to release onchain funds."
 canonical: "https://satohub.ai/resources/freysa"
+canonical_url: "https://satohub.ai/resources/freysa"
 layout: "default"
+page_type: "listing"
+item_name: "Freysa"
+software_url: "https://freysa.ai"
+application_category: "Onchain Agent"
+application_subcategory: "Adversarial Agent Game"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Freysa"
+    url: "https://satohubai.github.io/onchain-agents/listings/freysa"
 ---
 
 # Freysa

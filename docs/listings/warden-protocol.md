@@ -2,7 +2,24 @@
 title: "Warden Protocol — Sato Hub index"
 description: "A Cosmos SDK Layer 1 with EVM compatibility positioned as a settlement and distribution layer for AI agents."
 canonical: "https://satohub.ai/resources/warden-protocol"
+canonical_url: "https://satohub.ai/resources/warden-protocol"
 layout: "default"
+page_type: "listing"
+item_name: "Warden Protocol"
+code_repository: "https://github.com/warden-protocol"
+software_url: "https://wardenprotocol.org"
+application_category: "Agent Framework"
+application_subcategory: "Modular L1 settlement layer for agents"
+operating_system: "Any"
+license_name: "MIT (agent-kit package); the main wardenprotocol chain repo is Apache-2.0"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Agent runtimes & frameworks"
+    url: "https://satohubai.github.io/onchain-agents/categories/agent-frameworks"
+  - name: "Warden Protocol"
+    url: "https://satohubai.github.io/onchain-agents/listings/warden-protocol"
 ---
 
 # Warden Protocol

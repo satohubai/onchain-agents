@@ -2,7 +2,38 @@
 title: "Security & preflight — Onchain Agents index"
 description: "Checks you run before an agent installs, connects, signs or trades: contract and token screening, endpoint checks, monitoring."
 canonical: "https://satohub.ai/directory"
+canonical_url: "https://satohub.ai/directory"
 layout: "default"
+page_type: "category"
+item_list_name: "Security & preflight"
+item_count: 10
+date_modified: "2026-09-14"
+item_list:
+  - name: "Self Protocol"
+    url: "https://satohubai.github.io/onchain-agents/listings/self-protocol"
+  - name: "Agent Skills Hub"
+    url: "https://satohubai.github.io/onchain-agents/listings/agent-skills-hub"
+  - name: "PRXVT"
+    url: "https://satohubai.github.io/onchain-agents/listings/prxvt"
+  - name: "ChainAware"
+    url: "https://satohubai.github.io/onchain-agents/listings/chainaware"
+  - name: "COTI"
+    url: "https://satohubai.github.io/onchain-agents/listings/coti"
+  - name: "MistTrack MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/misttrack-mcp"
+  - name: "Usenami Signer MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/namixai-signer-mcp"
+  - name: "SIWA (Sign In With Agent)"
+    url: "https://satohubai.github.io/onchain-agents/listings/siwa-sign-in-with-agent"
+  - name: "CryptoGuard"
+    url: "https://satohubai.github.io/onchain-agents/listings/cryptoguard-agent-safety"
+  - name: "Cybercentry"
+    url: "https://satohubai.github.io/onchain-agents/listings/cybercentry"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Security & preflight"
+    url: "https://satohubai.github.io/onchain-agents/categories/security"
 ---
 
 # Security & preflight

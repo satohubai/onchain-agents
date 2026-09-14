@@ -2,7 +2,22 @@
 title: "Privy — Sato Hub index"
 description: "Embedded and server wallet infrastructure used to give agents secure key management."
 canonical: "https://satohub.ai/resources/privy"
+canonical_url: "https://satohub.ai/resources/privy"
 layout: "default"
+page_type: "listing"
+item_name: "Privy"
+code_repository: "https://github.com/privy-io"
+software_url: "https://privy.io"
+application_category: "Wallet Infrastructure"
+operating_system: "Any"
+date_modified: "2026-09-09"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Wallets, keys & permissions"
+    url: "https://satohubai.github.io/onchain-agents/categories/wallets-keys"
+  - name: "Privy"
+    url: "https://satohubai.github.io/onchain-agents/listings/privy"
 ---
 
 # Privy

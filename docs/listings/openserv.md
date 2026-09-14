@@ -2,7 +2,25 @@
 title: "OpenServ — Sato Hub index"
 description: "TypeScript SDK and platform for building, orchestrating, and monetizing collaborative AI agents."
 canonical: "https://satohub.ai/resources/openserv"
+canonical_url: "https://satohub.ai/resources/openserv"
 layout: "default"
+page_type: "listing"
+item_name: "OpenServ"
+code_repository: "https://github.com/openserv-labs/sdk"
+software_url: "https://www.openserv.ai"
+application_category: "Agent Framework"
+application_subcategory: "Multi-agent orchestration platform & SDK"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-02-12"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Agent runtimes & frameworks"
+    url: "https://satohubai.github.io/onchain-agents/categories/agent-frameworks"
+  - name: "OpenServ"
+    url: "https://satohubai.github.io/onchain-agents/listings/openserv"
 ---
 
 # OpenServ

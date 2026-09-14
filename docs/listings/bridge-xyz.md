@@ -2,7 +2,22 @@
 title: "Bridge — Sato Hub index"
 description: "Stablecoin payments infrastructure (acquired by Stripe) offering an orchestration, issuance, cards, and wallet API for moving money onchain."
 canonical: "https://satohub.ai/resources/bridge-xyz"
+canonical_url: "https://satohub.ai/resources/bridge-xyz"
 layout: "default"
+page_type: "listing"
+item_name: "Bridge"
+software_url: "https://www.bridge.xyz"
+application_category: "API / SDK"
+operating_system: "Any"
+license_name: "Unknown"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Payments & agent commerce"
+    url: "https://satohubai.github.io/onchain-agents/categories/payments"
+  - name: "Bridge"
+    url: "https://satohubai.github.io/onchain-agents/listings/bridge-xyz"
 ---
 
 # Bridge

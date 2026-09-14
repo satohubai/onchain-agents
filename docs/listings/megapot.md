@@ -2,7 +2,22 @@
 title: "Megapot — Sato Hub index"
 description: "Permissionless on-chain lottery on Base where players buy stablecoin tickets for provably-fair draws and liquidity providers fund jackpots."
 canonical: "https://satohub.ai/resources/megapot"
+canonical_url: "https://satohub.ai/resources/megapot"
 layout: "default"
+page_type: "listing"
+item_name: "Megapot"
+software_url: "https://megapot.io/"
+application_category: "DeFi Tool"
+application_subcategory: "On-chain Lottery / Jackpot"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Payments & agent commerce"
+    url: "https://satohubai.github.io/onchain-agents/categories/payments"
+  - name: "Megapot"
+    url: "https://satohubai.github.io/onchain-agents/listings/megapot"
 ---
 
 # Megapot

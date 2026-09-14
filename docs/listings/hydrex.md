@@ -2,7 +2,22 @@
 title: "Hydrex — Sato Hub index"
 description: "Base MetaDEX and liquidity hub where users lock HYDX for vote-escrowed governance and deposit single-sided liquidity into auto-managed vaults, with…"
 canonical: "https://satohub.ai/resources/hydrex"
+canonical_url: "https://satohub.ai/resources/hydrex"
 layout: "default"
+page_type: "listing"
+item_name: "Hydrex"
+software_url: "https://www.hydrex.fi/"
+application_category: "DeFi Tool"
+application_subcategory: "MetaDEX / Liquidity Infrastructure"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Trading & DeFi venues"
+    url: "https://satohubai.github.io/onchain-agents/categories/trading-venues"
+  - name: "Hydrex"
+    url: "https://satohubai.github.io/onchain-agents/listings/hydrex"
 ---
 
 # Hydrex

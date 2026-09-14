@@ -2,7 +2,22 @@
 title: "Printr — Sato Hub index"
 description: "Omnichain token launchpad with a dedicated MCP server and white-label API for agent-run token launches."
 canonical: "https://satohub.ai/resources/printr"
+canonical_url: "https://satohub.ai/resources/printr"
 layout: "default"
+page_type: "listing"
+item_name: "Printr"
+code_repository: "https://github.com/PrintrFi/printr-mcp"
+software_url: "https://www.printr.money/"
+application_category: "API / SDK"
+operating_system: "Any"
+license_url: "https://www.apache.org/licenses/LICENSE-2.0"
+license_name: "Apache-2.0"
+date_modified: "2026-07-17"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Printr"
+    url: "https://satohubai.github.io/onchain-agents/listings/printr"
 ---
 
 # Printr

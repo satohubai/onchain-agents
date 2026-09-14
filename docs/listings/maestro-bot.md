@@ -2,7 +2,22 @@
 title: "Maestro (Telegram trading bot) — Sato Hub index"
 description: "Telegram trading and sniper bot with custodial in-chat wallets; its own site lists Robinhood Chain among supported networks."
 canonical: "https://satohub.ai/resources/maestro-bot"
+canonical_url: "https://satohub.ai/resources/maestro-bot"
 layout: "default"
+page_type: "listing"
+item_name: "Maestro (Telegram trading bot)"
+software_url: "https://www.maestrobots.com/"
+application_category: "Trading Tool"
+application_subcategory: "Telegram trading bot"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Trading & DeFi venues"
+    url: "https://satohubai.github.io/onchain-agents/categories/trading-venues"
+  - name: "Maestro (Telegram trading bot)"
+    url: "https://satohubai.github.io/onchain-agents/listings/maestro-bot"
 ---
 
 # Maestro (Telegram trading bot)

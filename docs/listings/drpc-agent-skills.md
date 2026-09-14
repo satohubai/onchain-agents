@@ -2,7 +2,24 @@
 title: "dRPC Agent Skills — Sato Hub index"
 description: "dRPC-maintained blockchain RPC skill and MCP surface giving agents node access across 200+ networks."
 canonical: "https://satohub.ai/resources/drpc-agent-skills"
+canonical_url: "https://satohub.ai/resources/drpc-agent-skills"
 layout: "default"
+page_type: "listing"
+item_name: "dRPC Agent Skills"
+code_repository: "https://github.com/drpcorg/drpc-agent-skills"
+software_url: "https://drpc.org"
+application_category: "Skill Repo"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-04-16"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "dRPC Agent Skills"
+    url: "https://satohubai.github.io/onchain-agents/listings/drpc-agent-skills"
 ---
 
 # dRPC Agent Skills

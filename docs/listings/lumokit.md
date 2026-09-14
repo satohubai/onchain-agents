@@ -2,7 +2,24 @@
 title: "LumoKit — Sato Hub index"
 description: "Lightweight AI toolkit framework offering on-chain actions and research abilities for Solana."
 canonical: "https://satohub.ai/resources/lumokit"
+canonical_url: "https://satohub.ai/resources/lumokit"
 layout: "default"
+page_type: "listing"
+item_name: "LumoKit"
+code_repository: "https://github.com/Lumo-Labs-AI/lumokit"
+software_url: "https://github.com/Lumo-Labs-AI/lumokit"
+application_category: "Agent Framework"
+operating_system: "Any"
+license_url: "https://www.gnu.org/licenses/agpl-3.0.html"
+license_name: "AGPL-3.0"
+date_modified: "2025-06-07"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Agent runtimes & frameworks"
+    url: "https://satohubai.github.io/onchain-agents/categories/agent-frameworks"
+  - name: "LumoKit"
+    url: "https://satohubai.github.io/onchain-agents/listings/lumokit"
 ---
 
 # LumoKit

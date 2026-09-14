@@ -2,7 +2,22 @@
 title: "Kirha Crypto — Sato Hub index"
 description: "Pay-per-use MCP gateway aggregating Dune, DefiLlama, Zerion, CoinGecko, and Cielo for agent-facing crypto data."
 canonical: "https://satohub.ai/resources/kirha-crypto"
+canonical_url: "https://satohub.ai/resources/kirha-crypto"
 layout: "default"
+page_type: "listing"
+item_name: "Kirha Crypto"
+code_repository: "https://github.com/kirha-ai/kirha-crypto-smithery-gateway"
+software_url: "https://kirha.com/crypto-investment/"
+application_category: "Data Tool"
+operating_system: "Any"
+date_modified: "2025-07-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Data, RPC & indexing"
+    url: "https://satohubai.github.io/onchain-agents/categories/data-rpc"
+  - name: "Kirha Crypto"
+    url: "https://satohubai.github.io/onchain-agents/listings/kirha-crypto"
 ---
 
 # Kirha Crypto

@@ -2,7 +2,24 @@
 title: "BlockRun MCP — Sato Hub index"
 description: "MCP server giving AI agents live data — markets, crypto, research, X — billed per call via x402 micropayments."
 canonical: "https://satohub.ai/resources/blockrun-mcp"
+canonical_url: "https://satohub.ai/resources/blockrun-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "BlockRun MCP"
+code_repository: "https://github.com/BlockRunAI/blockrun-mcp"
+software_url: "https://blockrun.ai"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-09"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "BlockRun MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/blockrun-mcp"
 ---
 
 # BlockRun MCP

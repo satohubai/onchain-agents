@@ -2,7 +2,24 @@
 title: "Cambrian Agent Kit — Sato Hub index"
 description: "TypeScript SDK giving AI agents direct access to Sei DeFi protocols: swaps, lending, staking, and perps."
 canonical: "https://satohub.ai/resources/sei-agent-kit"
+canonical_url: "https://satohub.ai/resources/sei-agent-kit"
 layout: "default"
+page_type: "listing"
+item_name: "Cambrian Agent Kit"
+code_repository: "https://github.com/CambrianAgents/sei-agent-kit"
+software_url: "https://github.com/CambrianAgents/sei-agent-kit"
+application_category: "Agent Framework"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2025-07-11"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Agent runtimes & frameworks"
+    url: "https://satohubai.github.io/onchain-agents/categories/agent-frameworks"
+  - name: "Cambrian Agent Kit"
+    url: "https://satohubai.github.io/onchain-agents/listings/sei-agent-kit"
 ---
 
 # Cambrian Agent Kit

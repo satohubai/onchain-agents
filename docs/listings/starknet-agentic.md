@@ -2,7 +2,24 @@
 title: "Starknet Agentic — Sato Hub index"
 description: "Official Starknet-ecosystem infra for self-custodial agents: Cairo contracts, MCP/A2A runtimes, and installable skills."
 canonical: "https://satohub.ai/resources/starknet-agentic"
+canonical_url: "https://satohub.ai/resources/starknet-agentic"
 layout: "default"
+page_type: "listing"
+item_name: "Starknet Agentic"
+code_repository: "https://github.com/keep-starknet-strange/starknet-agentic"
+software_url: "https://starknet-agentic.com"
+application_category: "Agent Framework"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-08"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Agent runtimes & frameworks"
+    url: "https://satohubai.github.io/onchain-agents/categories/agent-frameworks"
+  - name: "Starknet Agentic"
+    url: "https://satohubai.github.io/onchain-agents/listings/starknet-agentic"
 ---
 
 # Starknet Agentic

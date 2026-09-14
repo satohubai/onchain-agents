@@ -2,7 +2,25 @@
 title: "AG Kit — Sato Hub index"
 description: "An AI agent toolkit of markdown-based templates for Skills, Agents, and Workflows, with a coordinator mode, persistent memory, and context…"
 canonical: "https://satohub.ai/resources/ag-kit"
+canonical_url: "https://satohub.ai/resources/ag-kit"
 layout: "default"
+page_type: "listing"
+item_name: "AG Kit"
+code_repository: "https://github.com/vudovn/ag-kit"
+software_url: "https://ag-kit-five.vercel.app"
+application_category: "Developer Tool"
+application_subcategory: "Agentic AI Toolkit / Templates"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-08-31"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Onchain action kits & SDKs"
+    url: "https://satohubai.github.io/onchain-agents/categories/action-kits"
+  - name: "AG Kit"
+    url: "https://satohubai.github.io/onchain-agents/listings/ag-kit"
 ---
 
 # AG Kit

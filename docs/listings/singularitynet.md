@@ -2,7 +2,20 @@
 title: "SingularityNET — Sato Hub index"
 description: "Decentralized marketplace where AI services are published, discovered, and called by other agents, with an SDK for publishing your own."
 canonical: "https://satohub.ai/resources/singularitynet"
+canonical_url: "https://satohub.ai/resources/singularitynet"
 layout: "default"
+page_type: "listing"
+item_name: "SingularityNET"
+code_repository: "https://github.com/singnet"
+software_url: "https://singularitynet.io"
+application_category: "Agent Marketplace"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "SingularityNET"
+    url: "https://satohubai.github.io/onchain-agents/listings/singularitynet"
 ---
 
 # SingularityNET

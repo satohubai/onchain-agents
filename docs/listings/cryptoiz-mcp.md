@@ -2,7 +2,24 @@
 title: "CryptoIZ MCP — Sato Hub index"
 description: "Solana DEX smart-money signal MCP server (whale accumulation, divergence, BTC regime) sold pay-per-call via x402."
 canonical: "https://satohub.ai/resources/cryptoiz-mcp"
+canonical_url: "https://satohub.ai/resources/cryptoiz-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "CryptoIZ MCP"
+code_repository: "https://github.com/dadang11/cryptoiz-mcp"
+software_url: "https://cryptoiz.org"
+application_category: "Trading Tool"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-04-29"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Payments & agent commerce"
+    url: "https://satohubai.github.io/onchain-agents/categories/payments"
+  - name: "CryptoIZ MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/cryptoiz-mcp"
 ---
 
 # CryptoIZ MCP

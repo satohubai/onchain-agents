@@ -2,7 +2,25 @@
 title: "Drift Protocol — Sato Hub index"
 description: "Open-source Solana perpetual futures DEX with TypeScript and Python SDKs and a self-hosted HTTP gateway."
 canonical: "https://satohub.ai/resources/drift-protocol"
+canonical_url: "https://satohub.ai/resources/drift-protocol"
 layout: "default"
+page_type: "listing"
+item_name: "Drift Protocol"
+code_repository: "https://github.com/drift-labs/protocol-v2"
+software_url: "https://drift.trade/"
+application_category: "Trading Tool"
+application_subcategory: "Perps DEX"
+operating_system: "Any"
+license_url: "https://www.apache.org/licenses/LICENSE-2.0"
+license_name: "Apache-2.0"
+date_modified: "2026-07-06"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Trading & DeFi venues"
+    url: "https://satohubai.github.io/onchain-agents/categories/trading-venues"
+  - name: "Drift Protocol"
+    url: "https://satohubai.github.io/onchain-agents/listings/drift-protocol"
 ---
 
 # Drift Protocol

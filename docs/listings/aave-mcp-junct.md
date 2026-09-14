@@ -2,7 +2,22 @@
 title: "Aave MCP by Junct — Sato Hub index"
 description: "Hosted MCP server exposing tools mapped 1:1 to Aave's analytics API, no auth required."
 canonical: "https://satohub.ai/resources/aave-mcp-junct"
+canonical_url: "https://satohub.ai/resources/aave-mcp-junct"
 layout: "default"
+page_type: "listing"
+item_name: "Aave MCP by Junct"
+code_repository: "https://github.com/junct-bot/aave-mcp"
+software_url: "https://junct.dev/servers/aave"
+application_category: "MCP"
+operating_system: "Any"
+date_modified: "2026-03-29"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Aave MCP by Junct"
+    url: "https://satohubai.github.io/onchain-agents/listings/aave-mcp-junct"
 ---
 
 # Aave MCP by Junct

@@ -2,7 +2,22 @@
 title: "Uniswap AI — Sato Hub index"
 description: "Official Uniswap skill repo: swap, liquidity, and v4 hook tooling for AI trading agents."
 canonical: "https://satohub.ai/resources/uniswap-ai"
+canonical_url: "https://satohub.ai/resources/uniswap-ai"
 layout: "default"
+page_type: "listing"
+item_name: "Uniswap AI"
+code_repository: "https://github.com/Uniswap/uniswap-ai"
+software_url: "https://github.com/Uniswap/uniswap-ai"
+application_category: "Skill Repo"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-10"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Uniswap AI"
+    url: "https://satohubai.github.io/onchain-agents/listings/uniswap-ai"
 ---
 
 # Uniswap AI

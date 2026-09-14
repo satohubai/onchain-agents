@@ -2,7 +2,25 @@
 title: "Jupiter MCP Server — Sato Hub index"
 description: "Open-source MCP servers that let AI agents execute Solana token swaps via Jupiter's Ultra aggregation API."
 canonical: "https://satohub.ai/resources/jupiter-mcp"
+canonical_url: "https://satohub.ai/resources/jupiter-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Jupiter MCP Server"
+code_repository: "https://github.com/kukapay/jupiter-mcp"
+software_url: "https://satohub.ai/resources/jupiter-mcp"
+application_category: "MCP"
+application_subcategory: "Solana swap execution for agents"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2025-06-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Jupiter MCP Server"
+    url: "https://satohubai.github.io/onchain-agents/listings/jupiter-mcp"
 ---
 
 # Jupiter MCP Server

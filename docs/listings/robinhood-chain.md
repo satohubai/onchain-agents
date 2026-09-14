@@ -2,7 +2,22 @@
 title: "Robinhood Chain — Sato Hub index"
 description: "Robinhood's permissionless Arbitrum-stack L2 (chain ID 4663), on mainnet since 1 July 2026, built for tokenized equities and 24/7 onchain markets."
 canonical: "https://satohub.ai/resources/robinhood-chain"
+canonical_url: "https://satohub.ai/resources/robinhood-chain"
 layout: "default"
+page_type: "listing"
+item_name: "Robinhood Chain"
+code_repository: "https://github.com/robinhoodmarkets"
+software_url: "https://robinhood.com/chain"
+application_category: "Developer Tool"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Onchain action kits & SDKs"
+    url: "https://satohubai.github.io/onchain-agents/categories/action-kits"
+  - name: "Robinhood Chain"
+    url: "https://satohubai.github.io/onchain-agents/listings/robinhood-chain"
 ---
 
 # Robinhood Chain

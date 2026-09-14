@@ -2,7 +2,25 @@
 title: "peaq — Sato Hub index"
 description: "DePIN infrastructure providing agents with identity, wallets, and pay-per-request onchain settlement, with peaqOS skills for AI coding tools."
 canonical: "https://satohub.ai/resources/peaq"
+canonical_url: "https://satohub.ai/resources/peaq"
 layout: "default"
+page_type: "listing"
+item_name: "peaq"
+code_repository: "https://github.com/peaqnetwork"
+software_url: "https://www.peaq.xyz"
+application_category: "API / SDK"
+application_subcategory: "DePIN / machine-agent infrastructure"
+operating_system: "Any"
+license_url: "https://www.apache.org/licenses/LICENSE-2.0"
+license_name: "Apache-2.0"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Onchain action kits & SDKs"
+    url: "https://satohubai.github.io/onchain-agents/categories/action-kits"
+  - name: "peaq"
+    url: "https://satohubai.github.io/onchain-agents/listings/peaq"
 ---
 
 # peaq

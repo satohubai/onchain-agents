@@ -2,7 +2,25 @@
 title: "Zerion — Sato Hub index"
 description: "Wallet and DeFi data provider offering portfolio, positions, transactions, PnL, and prices across many chains, with an agent-accessible API."
 canonical: "https://satohub.ai/resources/zerion"
+canonical_url: "https://satohub.ai/resources/zerion"
 layout: "default"
+page_type: "listing"
+item_name: "Zerion"
+code_repository: "https://github.com/zeriontech/zerion-ai"
+software_url: "https://zerion.io/"
+application_category: "Data Tool"
+application_subcategory: "Wallet portfolio & DeFi data API"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-11"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Zerion"
+    url: "https://satohubai.github.io/onchain-agents/listings/zerion"
 ---
 
 # Zerion

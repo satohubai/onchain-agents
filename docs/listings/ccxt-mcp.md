@@ -2,7 +2,24 @@
 title: "CCXT MCP — Sato Hub index"
 description: "CCXT-backed MCP server for multi-exchange market data, order books, balances, orders, and trade history."
 canonical: "https://satohub.ai/resources/ccxt-mcp"
+canonical_url: "https://satohub.ai/resources/ccxt-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "CCXT MCP"
+code_repository: "https://github.com/lazy-dinosaur/ccxt-mcp"
+software_url: "https://github.com/lazy-dinosaur/ccxt-mcp"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-04-23"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "CCXT MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/ccxt-mcp"
 ---
 
 # CCXT MCP

@@ -2,7 +2,24 @@
 title: "Crypto.com AI Tools — Sato Hub index"
 description: "Official Crypto.com CLI/MCP server for exchange trading, plus a hosted keyless market-data MCP."
 canonical: "https://satohub.ai/resources/crypto-com-ai"
+canonical_url: "https://satohub.ai/resources/crypto-com-ai"
 layout: "default"
+page_type: "listing"
+item_name: "Crypto.com AI Tools"
+code_repository: "https://github.com/crypto-com/cdcx-cli"
+software_url: "https://mcp.crypto.com/docs"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://www.apache.org/licenses/LICENSE-2.0"
+license_name: "Apache-2.0"
+date_modified: "2026-07-28"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Crypto.com AI Tools"
+    url: "https://satohubai.github.io/onchain-agents/listings/crypto-com-ai"
 ---
 
 # Crypto.com AI Tools

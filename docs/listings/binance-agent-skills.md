@@ -2,7 +2,22 @@
 title: "Binance Agent Skills — Sato Hub index"
 description: "A set of MCP-style Agent Skills that let AI agents access Binance spot, derivatives, margin, Alpha market data, and asset management via standardized…"
 canonical: "https://satohub.ai/resources/binance-agent-skills"
+canonical_url: "https://satohub.ai/resources/binance-agent-skills"
 layout: "default"
+page_type: "listing"
+item_name: "Binance Agent Skills"
+software_url: "https://www.binance.com/en/academy/articles/binance-ai-agent-skills-alpha-derivatives-margin-and-assets"
+application_category: "Trading Tool"
+application_subcategory: "Exchange API skills for AI agents"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Binance Agent Skills"
+    url: "https://satohubai.github.io/onchain-agents/listings/binance-agent-skills"
 ---
 
 # Binance Agent Skills

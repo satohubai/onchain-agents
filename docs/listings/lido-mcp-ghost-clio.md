@@ -2,7 +2,24 @@
 title: "Lido MCP — Sato Hub index"
 description: "MCP server for Lido liquid staking: stake, unstake, wrap, vote, and monitor yields on Ethereum."
 canonical: "https://satohub.ai/resources/lido-mcp-ghost-clio"
+canonical_url: "https://satohub.ai/resources/lido-mcp-ghost-clio"
 layout: "default"
+page_type: "listing"
+item_name: "Lido MCP"
+code_repository: "https://github.com/ghost-clio/lido-mcp"
+software_url: "https://github.com/ghost-clio/lido-mcp"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-03-23"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Lido MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/lido-mcp-ghost-clio"
 ---
 
 # Lido MCP

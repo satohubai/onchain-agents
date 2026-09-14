@@ -2,7 +2,24 @@
 title: "RARE Protocol — Sato Hub index"
 description: "CLI toolkit for deploying NFT collections, minting, and running SuperRare-integrated auctions."
 canonical: "https://satohub.ai/resources/rare-protocol"
+canonical_url: "https://satohub.ai/resources/rare-protocol"
 layout: "default"
+page_type: "listing"
+item_name: "RARE Protocol"
+code_repository: "https://github.com/superrare/rare-cli"
+software_url: "https://rare.xyz"
+application_category: "Developer Tool"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-07-31"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Onchain action kits & SDKs"
+    url: "https://satohubai.github.io/onchain-agents/categories/action-kits"
+  - name: "RARE Protocol"
+    url: "https://satohubai.github.io/onchain-agents/listings/rare-protocol"
 ---
 
 # RARE Protocol

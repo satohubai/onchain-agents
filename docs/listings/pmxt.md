@@ -2,7 +2,24 @@
 title: "PMXT — Sato Hub index"
 description: "Open-source unified prediction-market API with a hosted MCP: market search, events, order books, and prices across venues."
 canonical: "https://satohub.ai/resources/pmxt"
+canonical_url: "https://satohub.ai/resources/pmxt"
 layout: "default"
+page_type: "listing"
+item_name: "PMXT"
+code_repository: "https://github.com/pmxt-dev/pmxt"
+software_url: "https://github.com/pmxt-dev/pmxt"
+application_category: "API / SDK"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-07-18"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Onchain action kits & SDKs"
+    url: "https://satohubai.github.io/onchain-agents/categories/action-kits"
+  - name: "PMXT"
+    url: "https://satohubai.github.io/onchain-agents/listings/pmxt"
 ---
 
 # PMXT

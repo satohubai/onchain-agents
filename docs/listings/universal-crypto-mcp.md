@@ -2,7 +2,24 @@
 title: "Universal Crypto MCP — Sato Hub index"
 description: "Plugin-based monorepo MCP: EVM+Solana wallets, DEX aggregation, x402 payments, CEX trading, market data, bridges."
 canonical: "https://satohub.ai/resources/universal-crypto-mcp"
+canonical_url: "https://satohub.ai/resources/universal-crypto-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Universal Crypto MCP"
+code_repository: "https://github.com/nirholas/universal-crypto-mcp"
+software_url: "https://github.com/nirholas/universal-crypto-mcp"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://www.apache.org/licenses/LICENSE-2.0"
+license_name: "Apache-2.0"
+date_modified: "2026-08-04"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Universal Crypto MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/universal-crypto-mcp"
 ---
 
 # Universal Crypto MCP

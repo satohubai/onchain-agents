@@ -2,7 +2,24 @@
 title: "Official Solana MCP Server — Sato Hub index"
 description: "Solana Foundation's official MCP serving live developer docs, semantic search, and a program autofixer."
 canonical: "https://satohub.ai/resources/solana-foundation-mcp"
+canonical_url: "https://satohub.ai/resources/solana-foundation-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Official Solana MCP Server"
+code_repository: "https://github.com/solana-foundation/solana-mcp-official"
+software_url: "https://mcp.solana.com"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/ISC"
+license_name: "ISC"
+date_modified: "2026-07-08"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Official Solana MCP Server"
+    url: "https://satohubai.github.io/onchain-agents/listings/solana-foundation-mcp"
 ---
 
 # Official Solana MCP Server

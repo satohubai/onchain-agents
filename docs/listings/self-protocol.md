@@ -2,7 +2,23 @@
 title: "Self Protocol — Sato Hub index"
 description: "Open-source zero-knowledge identity protocol (passport-based proof of personhood) used to gate agent access to onchain services."
 canonical: "https://satohub.ai/resources/self-protocol"
+canonical_url: "https://satohub.ai/resources/self-protocol"
 layout: "default"
+page_type: "listing"
+item_name: "Self Protocol"
+code_repository: "https://github.com/selfxyz/self"
+software_url: "https://self.xyz"
+application_category: "Security Tool"
+operating_system: "Any"
+license_name: "Unknown"
+date_modified: "2026-09-06"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Identity, discovery & standards"
+    url: "https://satohubai.github.io/onchain-agents/categories/identity-discovery"
+  - name: "Self Protocol"
+    url: "https://satohubai.github.io/onchain-agents/listings/self-protocol"
 ---
 
 # Self Protocol

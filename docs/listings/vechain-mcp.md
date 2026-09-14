@@ -2,7 +2,24 @@
 title: "VeChain MCP Server — Sato Hub index"
 description: "Official VeChain MCP server exposing ecosystem resources and VeChain developer workflows to agents."
 canonical: "https://satohub.ai/resources/vechain-mcp"
+canonical_url: "https://satohub.ai/resources/vechain-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "VeChain MCP Server"
+code_repository: "https://github.com/vechain/vechain-mcp-server"
+software_url: "https://vechain.org"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-08-19"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "VeChain MCP Server"
+    url: "https://satohubai.github.io/onchain-agents/listings/vechain-mcp"
 ---
 
 # VeChain MCP Server

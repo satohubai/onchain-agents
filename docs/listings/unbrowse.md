@@ -2,7 +2,24 @@
 title: "Unbrowse — Sato Hub index"
 description: "API-native browser skill/CLI/MCP/SDK that auto-discovers APIs from browser traffic so agents skip DOM automation."
 canonical: "https://satohub.ai/resources/unbrowse"
+canonical_url: "https://satohub.ai/resources/unbrowse"
 layout: "default"
+page_type: "listing"
+item_name: "Unbrowse"
+code_repository: "https://github.com/unbrowse-ai/unbrowse"
+software_url: "https://github.com/unbrowse-ai/unbrowse"
+application_category: "Developer Tool"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Onchain action kits & SDKs"
+    url: "https://satohubai.github.io/onchain-agents/categories/action-kits"
+  - name: "Unbrowse"
+    url: "https://satohubai.github.io/onchain-agents/listings/unbrowse"
 ---
 
 # Unbrowse

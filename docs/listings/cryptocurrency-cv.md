@@ -2,7 +2,23 @@
 title: "cryptocurrency.cv — Sato Hub index"
 description: "Free, key-less crypto news and market-data API aggregating Bitcoin, Ethereum, Solana, and DeFi."
 canonical: "https://satohub.ai/resources/cryptocurrency-cv"
+canonical_url: "https://satohub.ai/resources/cryptocurrency-cv"
 layout: "default"
+page_type: "listing"
+item_name: "cryptocurrency.cv"
+code_repository: "https://github.com/nirholas/cryptocurrency.cv"
+software_url: "https://cryptocurrency.cv"
+application_category: "Data Tool"
+operating_system: "Any"
+license_name: "Unknown"
+date_modified: "2026-08-04"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "cryptocurrency.cv"
+    url: "https://satohubai.github.io/onchain-agents/listings/cryptocurrency-cv"
 ---
 
 # cryptocurrency.cv

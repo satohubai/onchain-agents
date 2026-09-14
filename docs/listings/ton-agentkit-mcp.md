@@ -2,7 +2,22 @@
 title: "TON AgentKit MCP — Sato Hub index"
 description: "TON's official @ton/mcp server for wallet operations, transfers, swaps, and NFT management on TON."
 canonical: "https://satohub.ai/resources/ton-agentkit-mcp"
+canonical_url: "https://satohub.ai/resources/ton-agentkit-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "TON AgentKit MCP"
+software_url: "https://ton.org"
+application_category: "MCP"
+operating_system: "Any"
+license_name: "Unknown"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "TON AgentKit MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/ton-agentkit-mcp"
 ---
 
 # TON AgentKit MCP

@@ -2,7 +2,23 @@
 title: "Blockscout MCP Server — Sato Hub index"
 description: "Wraps Blockscout explorer APIs so agents can query balances, tokens, NFTs, and contract data across chains."
 canonical: "https://satohub.ai/resources/blockscout-mcp"
+canonical_url: "https://satohub.ai/resources/blockscout-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Blockscout MCP Server"
+code_repository: "https://github.com/blockscout/mcp-server"
+software_url: "https://www.blockscout.com"
+application_category: "MCP"
+operating_system: "Any"
+license_name: "Unknown (custom Blockscout Software Licence; see LICENSE file — not a standard SPDX identifier)"
+date_modified: "2026-09-08"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Blockscout MCP Server"
+    url: "https://satohubai.github.io/onchain-agents/listings/blockscout-mcp"
 ---
 
 # Blockscout MCP Server

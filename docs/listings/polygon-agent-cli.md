@@ -2,7 +2,24 @@
 title: "Polygon Agent CLI — Sato Hub index"
 description: "Official Polygon Labs CLI giving AI agents session-scoped wallets, x402 payments, and ERC-8004 identity in one install."
 canonical: "https://satohub.ai/resources/polygon-agent-cli"
+canonical_url: "https://satohub.ai/resources/polygon-agent-cli"
 layout: "default"
+page_type: "listing"
+item_name: "Polygon Agent CLI"
+code_repository: "https://github.com/0xPolygon/polygon-agent-cli"
+software_url: "https://polygon.technology/agent-cli"
+application_category: "API / SDK"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-08-10"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Payments & agent commerce"
+    url: "https://satohubai.github.io/onchain-agents/categories/payments"
+  - name: "Polygon Agent CLI"
+    url: "https://satohubai.github.io/onchain-agents/listings/polygon-agent-cli"
 ---
 
 # Polygon Agent CLI

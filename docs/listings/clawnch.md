@@ -2,7 +2,21 @@
 title: "Clawnch — Sato Hub index"
 description: "Agent-only token launch, trading, and liquidity SDK on Base with anti-human authentication and a chat-based launcher."
 canonical: "https://satohub.ai/resources/clawnch"
+canonical_url: "https://satohub.ai/resources/clawnch"
 layout: "default"
+page_type: "listing"
+item_name: "Clawnch"
+software_url: "https://www.clawn.ch/"
+application_category: "API / SDK"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Clawnch"
+    url: "https://satohubai.github.io/onchain-agents/listings/clawnch"
 ---
 
 # Clawnch

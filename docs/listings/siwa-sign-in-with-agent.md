@@ -2,7 +2,24 @@
 title: "SIWA (Sign In With Agent) — Sato Hub index"
 description: "Agent-identity authentication protocol modeled on Sign-In-With-Ethereum, letting services verify an agent before granting access."
 canonical: "https://satohub.ai/resources/siwa-sign-in-with-agent"
+canonical_url: "https://satohub.ai/resources/siwa-sign-in-with-agent"
 layout: "default"
+page_type: "listing"
+item_name: "SIWA (Sign In With Agent)"
+code_repository: "https://github.com/builders-garden/siwa"
+software_url: "https://siwa.id"
+application_category: "Security Tool"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-03-05"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Security & preflight"
+    url: "https://satohubai.github.io/onchain-agents/categories/security"
+  - name: "SIWA (Sign In With Agent)"
+    url: "https://satohubai.github.io/onchain-agents/listings/siwa-sign-in-with-agent"
 ---
 
 # SIWA (Sign In With Agent)

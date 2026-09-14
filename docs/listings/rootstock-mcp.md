@@ -2,7 +2,24 @@
 title: "Rootstock MCP Server — Sato Hub index"
 description: "Official Rootstock MCP: wallets, RBTC/ERC-20 balances and transfers, tx status, and contract deployment."
 canonical: "https://satohub.ai/resources/rootstock-mcp"
+canonical_url: "https://satohub.ai/resources/rootstock-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Rootstock MCP Server"
+code_repository: "https://github.com/rsksmart/rsk-mcp-server"
+software_url: "https://rootstock.io"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-07-15"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Rootstock MCP Server"
+    url: "https://satohubai.github.io/onchain-agents/listings/rootstock-mcp"
 ---
 
 # Rootstock MCP Server

@@ -2,7 +2,22 @@
 title: "Alchemy AgentPay — Sato Hub index"
 description: "Alchemy's payment proxy for AI agents — every API request is authenticated, metered, and settled automatically, so agents pay per call without keys…"
 canonical: "https://satohub.ai/resources/alchemy-agentpay"
+canonical_url: "https://satohub.ai/resources/alchemy-agentpay"
 layout: "default"
+page_type: "listing"
+item_name: "Alchemy AgentPay"
+software_url: "https://www.alchemy.com/agentpay"
+application_category: "Wallet Infrastructure"
+application_subcategory: "Agent payment proxy"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Alchemy AgentPay"
+    url: "https://satohubai.github.io/onchain-agents/listings/alchemy-agentpay"
 ---
 
 # Alchemy AgentPay

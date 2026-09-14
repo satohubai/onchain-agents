@@ -2,7 +2,24 @@
 title: "VeilNet — Sato Hub index"
 description: "Privacy-preserving x402 payments for agents on Base, with stealth addresses and TEE-encrypted inference, no accounts or API keys."
 canonical: "https://satohub.ai/resources/veilnet"
+canonical_url: "https://satohub.ai/resources/veilnet"
 layout: "default"
+page_type: "listing"
+item_name: "VeilNet"
+software_url: "https://www.veilnet.to"
+application_category: "API / SDK"
+application_subcategory: "Private agent payments"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Onchain action kits & SDKs"
+    url: "https://satohubai.github.io/onchain-agents/categories/action-kits"
+  - name: "VeilNet"
+    url: "https://satohubai.github.io/onchain-agents/listings/veilnet"
 ---
 
 # VeilNet

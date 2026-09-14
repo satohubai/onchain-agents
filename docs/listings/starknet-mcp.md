@@ -2,7 +2,23 @@
 title: "Starknet MCP — Sato Hub index"
 description: "Official Starknet MCP server exposing the full Starknet JSON-RPC v0.10.2 surface as agent tools."
 canonical: "https://satohub.ai/resources/starknet-mcp"
+canonical_url: "https://satohub.ai/resources/starknet-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Starknet MCP"
+code_repository: "https://github.com/starkware-libs/starknet-specs"
+software_url: "https://github.com/starkware-libs/starknet-specs"
+application_category: "MCP"
+operating_system: "Any"
+license_name: "Unknown"
+date_modified: "2026-09-10"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Starknet MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/starknet-mcp"
 ---
 
 # Starknet MCP

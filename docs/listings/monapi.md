@@ -2,7 +2,24 @@
 title: "monapi — Sato Hub index"
 description: "One-line x402 paywall SDK for monetizing APIs and MCP servers with per-route USDC pricing."
 canonical: "https://satohub.ai/resources/monapi"
+canonical_url: "https://satohub.ai/resources/monapi"
 layout: "default"
+page_type: "listing"
+item_name: "monapi"
+code_repository: "https://github.com/DenisTheM/monapi"
+software_url: "https://monapi.dev"
+application_category: "API / SDK"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-03-23"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Payments & agent commerce"
+    url: "https://satohubai.github.io/onchain-agents/categories/payments"
+  - name: "monapi"
+    url: "https://satohubai.github.io/onchain-agents/listings/monapi"
 ---
 
 # monapi

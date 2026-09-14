@@ -2,7 +2,22 @@
 title: "Mode Network — Sato Hub index"
 description: "An Optimism Superchain L2 focused on AI-driven onchain finance, with configurable rules-based trading agents."
 canonical: "https://satohub.ai/resources/mode-network"
+canonical_url: "https://satohub.ai/resources/mode-network"
 layout: "default"
+page_type: "listing"
+item_name: "Mode Network"
+software_url: "https://www.mode.network/"
+application_category: "Onchain Agent"
+application_subcategory: "AI-agent L2 + trading agents"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Payments & agent commerce"
+    url: "https://satohubai.github.io/onchain-agents/categories/payments"
+  - name: "Mode Network"
+    url: "https://satohubai.github.io/onchain-agents/listings/mode-network"
 ---
 
 # Mode Network

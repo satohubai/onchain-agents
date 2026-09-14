@@ -2,7 +2,22 @@
 title: "Dialect — Sato Hub index"
 description: "SDK/API stack for Solana Blinks (link-to-transaction actions) plus multi-channel onchain alerts and lending-market data, with docs and a dashboard."
 canonical: "https://satohub.ai/resources/dialect"
+canonical_url: "https://satohub.ai/resources/dialect"
 layout: "default"
+page_type: "listing"
+item_name: "Dialect"
+software_url: "https://dialect.to"
+application_category: "Developer Tool"
+operating_system: "Any"
+license_name: "Unknown"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Onchain action kits & SDKs"
+    url: "https://satohubai.github.io/onchain-agents/categories/action-kits"
+  - name: "Dialect"
+    url: "https://satohubai.github.io/onchain-agents/listings/dialect"
 ---
 
 # Dialect

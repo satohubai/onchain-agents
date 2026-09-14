@@ -2,7 +2,25 @@
 title: "Alchemy — Sato Hub index"
 description: "A blockchain developer platform providing node infrastructure plus NFT, Token, and Transfers APIs and SDKs across many chains."
 canonical: "https://satohub.ai/resources/alchemy"
+canonical_url: "https://satohub.ai/resources/alchemy"
 layout: "default"
+page_type: "listing"
+item_name: "Alchemy"
+code_repository: "https://github.com/alchemyplatform"
+software_url: "https://www.alchemy.com/"
+application_category: "API / SDK"
+application_subcategory: "Blockchain developer platform"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-10"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Onchain action kits & SDKs"
+    url: "https://satohubai.github.io/onchain-agents/categories/action-kits"
+  - name: "Alchemy"
+    url: "https://satohubai.github.io/onchain-agents/listings/alchemy"
 ---
 
 # Alchemy

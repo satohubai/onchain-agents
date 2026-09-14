@@ -2,7 +2,21 @@
 title: "Bitrefill — Sato Hub index"
 description: "Crypto-to-gift-card and mobile top-up commerce platform with a Skills/MCP/API surface for agents to buy real-world goods with stablecoins."
 canonical: "https://satohub.ai/resources/bitrefill"
+canonical_url: "https://satohub.ai/resources/bitrefill"
 layout: "default"
+page_type: "listing"
+item_name: "Bitrefill"
+software_url: "https://www.bitrefill.com/"
+application_category: "API / SDK"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Bitrefill"
+    url: "https://satohubai.github.io/onchain-agents/listings/bitrefill"
 ---
 
 # Bitrefill

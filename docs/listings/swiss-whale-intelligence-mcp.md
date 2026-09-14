@@ -2,7 +2,23 @@
 title: "Swiss Whale Intelligence MCP — Sato Hub index"
 description: "Hosted MCP server for on-chain whale tracking and forensics across BTC, ETH, SOL, USDT, and tokenized gold."
 canonical: "https://satohub.ai/resources/swiss-whale-intelligence-mcp"
+canonical_url: "https://satohub.ai/resources/swiss-whale-intelligence-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Swiss Whale Intelligence MCP"
+code_repository: "https://github.com/alpineflow-io/swiss-whale-intelligence-mcp"
+software_url: "https://swisswhaleintelligence.com"
+application_category: "Data Tool"
+operating_system: "Any"
+license_name: "MIT (repository); methodology whitepaper published separately under CC-BY-4.0"
+date_modified: "2026-05-25"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Data, RPC & indexing"
+    url: "https://satohubai.github.io/onchain-agents/categories/data-rpc"
+  - name: "Swiss Whale Intelligence MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/swiss-whale-intelligence-mcp"
 ---
 
 # Swiss Whale Intelligence MCP

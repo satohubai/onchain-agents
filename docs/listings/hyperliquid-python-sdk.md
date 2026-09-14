@@ -2,7 +2,25 @@
 title: "Hyperliquid Python SDK — Sato Hub index"
 description: "The official open-source Python SDK for programmatic trading on the Hyperliquid perpetuals DEX."
 canonical: "https://satohub.ai/resources/hyperliquid-python-sdk"
+canonical_url: "https://satohub.ai/resources/hyperliquid-python-sdk"
 layout: "default"
+page_type: "listing"
+item_name: "Hyperliquid Python SDK"
+code_repository: "https://github.com/hyperliquid-dex/hyperliquid-python-sdk"
+software_url: "https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/api"
+application_category: "API / SDK"
+application_subcategory: "Perps trading SDK for agents/bots"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-06-04"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Onchain action kits & SDKs"
+    url: "https://satohubai.github.io/onchain-agents/categories/action-kits"
+  - name: "Hyperliquid Python SDK"
+    url: "https://satohubai.github.io/onchain-agents/listings/hyperliquid-python-sdk"
 ---
 
 # Hyperliquid Python SDK

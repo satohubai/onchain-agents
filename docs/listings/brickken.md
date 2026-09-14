@@ -2,7 +2,23 @@
 title: "Brickken — Sato Hub index"
 description: "Institutional RWA tokenization platform (ISO 27001/27701/27018, MiCA-aligned) with a no-code issuer studio and an API integration tier."
 canonical: "https://satohub.ai/resources/brickken"
+canonical_url: "https://satohub.ai/resources/brickken"
 layout: "default"
+page_type: "listing"
+item_name: "Brickken"
+software_url: "https://www.brickken.com/"
+application_category: "DeFi Tool"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Trading & DeFi venues"
+    url: "https://satohubai.github.io/onchain-agents/categories/trading-venues"
+  - name: "Brickken"
+    url: "https://satohubai.github.io/onchain-agents/listings/brickken"
 ---
 
 # Brickken

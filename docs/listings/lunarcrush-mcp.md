@@ -2,7 +2,21 @@
 title: "LunarCrush MCP — Sato Hub index"
 description: "Official LunarCrush MCP delivering real-time social sentiment, trends, and market signals to agents."
 canonical: "https://satohub.ai/resources/lunarcrush-mcp"
+canonical_url: "https://satohub.ai/resources/lunarcrush-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "LunarCrush MCP"
+software_url: "https://lunarcrush.com/products/lunarcrush-mcpserver"
+application_category: "MCP"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "LunarCrush MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/lunarcrush-mcp"
 ---
 
 # LunarCrush MCP

@@ -2,7 +2,24 @@
 title: "Memecoin Observatory MCP — Sato Hub index"
 description: "Solana MCP server for memecoin launch detection, whale tracking, and rugpull risk scanning."
 canonical: "https://satohub.ai/resources/memecoin-observatory-mcp"
+canonical_url: "https://satohub.ai/resources/memecoin-observatory-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Memecoin Observatory MCP"
+code_repository: "https://github.com/tony-42069/solana-mcp"
+software_url: "https://github.com/tony-42069/solana-mcp"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-01-26"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Memecoin Observatory MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/memecoin-observatory-mcp"
 ---
 
 # Memecoin Observatory MCP

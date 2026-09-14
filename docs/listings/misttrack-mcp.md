@@ -2,7 +2,23 @@
 title: "MistTrack MCP — Sato Hub index"
 description: "MCP server from SlowMist exposing MistTrack address risk scoring and fund-flow tracing to AI agents."
 canonical: "https://satohub.ai/resources/misttrack-mcp"
+canonical_url: "https://satohub.ai/resources/misttrack-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "MistTrack MCP"
+code_repository: "https://github.com/slowmist/MistTrackMCP"
+software_url: "https://misttrack.io"
+application_category: "Security Tool"
+operating_system: "Any"
+license_name: "Unknown"
+date_modified: "2026-04-28"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Security & preflight"
+    url: "https://satohubai.github.io/onchain-agents/categories/security"
+  - name: "MistTrack MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/misttrack-mcp"
 ---
 
 # MistTrack MCP

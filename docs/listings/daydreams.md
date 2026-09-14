@@ -2,7 +2,24 @@
 title: "Daydreams — Sato Hub index"
 description: "Framework and tooling for building AI agents for onchain commerce."
 canonical: "https://satohub.ai/resources/daydreams"
+canonical_url: "https://satohub.ai/resources/daydreams"
 layout: "default"
+page_type: "listing"
+item_name: "Daydreams"
+code_repository: "https://github.com/daydreamsai/daydreams"
+software_url: "https://dreams.fun"
+application_category: "Agent Framework"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2025-10-28"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Agent runtimes & frameworks"
+    url: "https://satohubai.github.io/onchain-agents/categories/agent-frameworks"
+  - name: "Daydreams"
+    url: "https://satohubai.github.io/onchain-agents/listings/daydreams"
 ---
 
 # Daydreams

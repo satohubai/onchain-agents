@@ -2,7 +2,21 @@
 title: "GMGN — Sato Hub index"
 description: "Multi-chain meme-token trading terminal (Base, Solana, Ethereum, BNB Chain) with agent-callable AI Skills for token data and trade execution."
 canonical: "https://satohub.ai/resources/gmgn"
+canonical_url: "https://satohub.ai/resources/gmgn"
 layout: "default"
+page_type: "listing"
+item_name: "GMGN"
+software_url: "https://gmgn.ai/"
+application_category: "Trading Tool"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Trading & DeFi venues"
+    url: "https://satohubai.github.io/onchain-agents/categories/trading-venues"
+  - name: "GMGN"
+    url: "https://satohubai.github.io/onchain-agents/listings/gmgn"
 ---
 
 # GMGN

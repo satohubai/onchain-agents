@@ -2,7 +2,21 @@
 title: "LayerZero Docs MCP — Sato Hub index"
 description: "Official hosted LayerZero documentation MCP: real-time doc search via a single SearchLayerZero tool."
 canonical: "https://satohub.ai/resources/layerzero-mcp"
+canonical_url: "https://satohub.ai/resources/layerzero-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "LayerZero Docs MCP"
+software_url: "https://layerzero.network"
+application_category: "MCP"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "LayerZero Docs MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/layerzero-mcp"
 ---
 
 # LayerZero Docs MCP

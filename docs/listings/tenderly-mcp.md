@@ -2,7 +2,22 @@
 title: "Tenderly MCP — Sato Hub index"
 description: "Official Tenderly MCP: gasless EVM transaction simulation, tracing, and contract inspection across 100+ networks."
 canonical: "https://satohub.ai/resources/tenderly-mcp"
+canonical_url: "https://satohub.ai/resources/tenderly-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Tenderly MCP"
+software_url: "https://tenderly.co"
+application_category: "MCP"
+operating_system: "Any"
+license_name: "Unknown"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Tenderly MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/tenderly-mcp"
 ---
 
 # Tenderly MCP

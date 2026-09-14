@@ -2,7 +2,24 @@
 title: "Ping Agent Kit — Sato Hub index"
 description: "Open-source Solana agent-integration kit with a plugin architecture spanning tokens, NFTs, DeFi, and Blinks."
 canonical: "https://satohub.ai/resources/ping-agent-kit"
+canonical_url: "https://satohub.ai/resources/ping-agent-kit"
 layout: "default"
+page_type: "listing"
+item_name: "Ping Agent Kit"
+code_repository: "https://github.com/PingAIFun/ping-agent-kit"
+software_url: "https://github.com/PingAIFun/ping-agent-kit"
+application_category: "Agent Framework"
+operating_system: "Any"
+license_url: "https://www.apache.org/licenses/LICENSE-2.0"
+license_name: "Apache-2.0"
+date_modified: "2025-05-12"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Agent runtimes & frameworks"
+    url: "https://satohubai.github.io/onchain-agents/categories/agent-frameworks"
+  - name: "Ping Agent Kit"
+    url: "https://satohubai.github.io/onchain-agents/listings/ping-agent-kit"
 ---
 
 # Ping Agent Kit

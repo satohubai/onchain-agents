@@ -2,7 +2,24 @@
 title: "Orca — Sato Hub index"
 description: "Solana concentrated-liquidity AMM (Whirlpools) with open-source TypeScript and Rust SDKs."
 canonical: "https://satohub.ai/resources/orca"
+canonical_url: "https://satohub.ai/resources/orca"
 layout: "default"
+page_type: "listing"
+item_name: "Orca"
+code_repository: "https://github.com/orca-so/whirlpools"
+software_url: "https://www.orca.so/"
+application_category: "Trading Tool"
+application_subcategory: "Spot DEX"
+operating_system: "Any"
+license_name: "Unknown"
+date_modified: "2026-08-28"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Trading & DeFi venues"
+    url: "https://satohubai.github.io/onchain-agents/categories/trading-venues"
+  - name: "Orca"
+    url: "https://satohubai.github.io/onchain-agents/listings/orca"
 ---
 
 # Orca

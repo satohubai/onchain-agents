@@ -2,7 +2,24 @@
 title: "0xGasless AgentKit — Sato Hub index"
 description: "Toolkit giving AI agents gasless access to crypto wallets and onchain functionality."
 canonical: "https://satohub.ai/resources/0xgasless-agentkit"
+canonical_url: "https://satohub.ai/resources/0xgasless-agentkit"
 layout: "default"
+page_type: "listing"
+item_name: "0xGasless AgentKit"
+code_repository: "https://github.com/0xgasless/agentkit"
+software_url: "https://docs.0xgasless.com"
+application_category: "Wallet Infrastructure"
+operating_system: "Any"
+license_url: "https://www.apache.org/licenses/LICENSE-2.0"
+license_name: "Apache-2.0"
+date_modified: "2026-09-12"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Wallets, keys & permissions"
+    url: "https://satohubai.github.io/onchain-agents/categories/wallets-keys"
+  - name: "0xGasless AgentKit"
+    url: "https://satohubai.github.io/onchain-agents/listings/0xgasless-agentkit"
 ---
 
 # 0xGasless AgentKit

@@ -2,7 +2,22 @@
 title: "Aptos Agent Skills — Sato Hub index"
 description: "Official Aptos Labs skill pack giving Claude Code, Cursor, and Copilot deep Aptos/Move expertise."
 canonical: "https://satohub.ai/resources/aptos-agent-skills"
+canonical_url: "https://satohub.ai/resources/aptos-agent-skills"
 layout: "default"
+page_type: "listing"
+item_name: "Aptos Agent Skills"
+code_repository: "https://github.com/aptos-labs/aptos-agent-skills"
+software_url: "https://aptos.dev/build/ai/aptos-agent-skills"
+application_category: "Skill Repo"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-07-07"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Aptos Agent Skills"
+    url: "https://satohubai.github.io/onchain-agents/listings/aptos-agent-skills"
 ---
 
 # Aptos Agent Skills

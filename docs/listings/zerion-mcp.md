@@ -2,7 +2,22 @@
 title: "Zerion MCP — Sato Hub index"
 description: "Zerion's hosted MCP server exposing normalized wallet balances, DeFi positions, NFTs, and PnL across EVM chains and Solana."
 canonical: "https://satohub.ai/resources/zerion-mcp"
+canonical_url: "https://satohub.ai/resources/zerion-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Zerion MCP"
+software_url: "https://developers.zerion.io/mcp"
+application_category: "MCP"
+operating_system: "Any"
+license_name: "Unknown"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Zerion MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/zerion-mcp"
 ---
 
 # Zerion MCP

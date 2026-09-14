@@ -2,7 +2,21 @@
 title: "Pyth MCP — Sato Hub index"
 description: "Official hosted Pyth Network MCP server for price-feed discovery and real-time/historical market data."
 canonical: "https://satohub.ai/resources/pyth-mcp"
+canonical_url: "https://satohub.ai/resources/pyth-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Pyth MCP"
+software_url: "https://pyth.network"
+application_category: "MCP"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Pyth MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/pyth-mcp"
 ---
 
 # Pyth MCP

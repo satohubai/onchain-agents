@@ -2,7 +2,24 @@
 title: "DeFi Yield Scanner MCP — Sato Hub index"
 description: "MCP server combining DexScreener and DeFiLlama data for yield scanning and token risk checks."
 canonical: "https://satohub.ai/resources/defi-yield-scanner-mcp"
+canonical_url: "https://satohub.ai/resources/defi-yield-scanner-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "DeFi Yield Scanner MCP"
+code_repository: "https://github.com/34t34f3/defi-yield-scanner-mcp"
+software_url: "https://github.com/34t34f3/defi-yield-scanner-mcp"
+application_category: "DeFi Tool"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-04-11"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Trading & DeFi venues"
+    url: "https://satohubai.github.io/onchain-agents/categories/trading-venues"
+  - name: "DeFi Yield Scanner MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/defi-yield-scanner-mcp"
 ---
 
 # DeFi Yield Scanner MCP

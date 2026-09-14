@@ -2,7 +2,24 @@
 title: "SODAX Builders MCP — Sato Hub index"
 description: "MCP server giving AI coding agents live access to SODAX's cross-network DeFi API across 20+ chains."
 canonical: "https://satohub.ai/resources/sodax-builders-mcp"
+canonical_url: "https://satohub.ai/resources/sodax-builders-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "SODAX Builders MCP"
+code_repository: "https://github.com/gosodax/builders-sodax-mcp-server"
+software_url: "https://builders.sodax.com"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-08-03"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "SODAX Builders MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/sodax-builders-mcp"
 ---
 
 # SODAX Builders MCP

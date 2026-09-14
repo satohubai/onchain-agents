@@ -2,7 +2,25 @@
 title: "Hermes Agent — Sato Hub index"
 description: "Open-source self-improving AI agent from Nous Research with a built-in learning loop and one-step migration from OpenClaw."
 canonical: "https://satohub.ai/resources/hermes-agent"
+canonical_url: "https://satohub.ai/resources/hermes-agent"
 layout: "default"
+page_type: "listing"
+item_name: "Hermes Agent"
+code_repository: "https://github.com/NousResearch/hermes-agent"
+software_url: "https://hermes-agent.nousresearch.com/"
+application_category: "Agent Framework"
+application_subcategory: "Self-improving open-source AI agent"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-13"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Agent runtimes & frameworks"
+    url: "https://satohubai.github.io/onchain-agents/categories/agent-frameworks"
+  - name: "Hermes Agent"
+    url: "https://satohubai.github.io/onchain-agents/listings/hermes-agent"
 ---
 
 # Hermes Agent

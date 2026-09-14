@@ -2,7 +2,25 @@
 title: "Enso — Sato Hub index"
 description: "An intent-based onchain execution engine and API that lets developers and agents bundle multi-step DeFi actions into a single transaction."
 canonical: "https://satohub.ai/resources/enso-shortcuts"
+canonical_url: "https://satohub.ai/resources/enso-shortcuts"
 layout: "default"
+page_type: "listing"
+item_name: "Enso"
+code_repository: "https://github.com/EnsoBuild/sdk-ts"
+software_url: "https://www.enso.build/"
+application_category: "API / SDK"
+application_subcategory: "Intent-based DeFi execution engine"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-07-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Onchain action kits & SDKs"
+    url: "https://satohubai.github.io/onchain-agents/categories/action-kits"
+  - name: "Enso"
+    url: "https://satohubai.github.io/onchain-agents/listings/enso-shortcuts"
 ---
 
 # Enso

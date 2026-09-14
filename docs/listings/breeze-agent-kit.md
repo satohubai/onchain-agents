@@ -2,7 +2,22 @@
 title: "Breeze Agent Kit — Sato Hub index"
 description: "Toolkit for AI agents managing Solana yield-farming positions via the Breeze protocol, in MCP, x402, and SKILL.md form."
 canonical: "https://satohub.ai/resources/breeze-agent-kit"
+canonical_url: "https://satohub.ai/resources/breeze-agent-kit"
 layout: "default"
+page_type: "listing"
+item_name: "Breeze Agent Kit"
+code_repository: "https://github.com/anagrambuild/breeze-agent-kit"
+software_url: "https://github.com/anagrambuild/breeze-agent-kit"
+application_category: "DeFi Tool"
+operating_system: "Any"
+date_modified: "2026-02-25"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Payments & agent commerce"
+    url: "https://satohubai.github.io/onchain-agents/categories/payments"
+  - name: "Breeze Agent Kit"
+    url: "https://satohubai.github.io/onchain-agents/listings/breeze-agent-kit"
 ---
 
 # Breeze Agent Kit

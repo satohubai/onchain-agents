@@ -2,7 +2,24 @@
 title: "CoinGecko MCP — Sato Hub index"
 description: "Official CoinGecko MCP: hosted free/pro endpoints for live prices, market data, and on-chain DEX analytics."
 canonical: "https://satohub.ai/resources/coingecko-mcp"
+canonical_url: "https://satohub.ai/resources/coingecko-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "CoinGecko MCP"
+code_repository: "https://github.com/coingecko/coingecko-typescript"
+software_url: "https://www.coingecko.com"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://www.apache.org/licenses/LICENSE-2.0"
+license_name: "Apache-2.0"
+date_modified: "2026-09-02"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "CoinGecko MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/coingecko-mcp"
 ---
 
 # CoinGecko MCP

@@ -2,7 +2,23 @@
 title: "GAME SDK (Virtuals Protocol) — Sato Hub index"
 description: "Virtuals Protocol's official Python SDK for building autonomous agents with planning, worker, and function layers."
 canonical: "https://satohub.ai/resources/game-sdk-virtuals"
+canonical_url: "https://satohub.ai/resources/game-sdk-virtuals"
 layout: "default"
+page_type: "listing"
+item_name: "GAME SDK (Virtuals Protocol)"
+code_repository: "https://github.com/game-by-virtuals/game-python"
+software_url: "https://docs.game.virtuals.io"
+application_category: "Agent Framework"
+operating_system: "Any"
+license_name: "Unknown"
+date_modified: "2025-10-01"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Agent runtimes & frameworks"
+    url: "https://satohubai.github.io/onchain-agents/categories/agent-frameworks"
+  - name: "GAME SDK (Virtuals Protocol)"
+    url: "https://satohubai.github.io/onchain-agents/listings/game-sdk-virtuals"
 ---
 
 # GAME SDK (Virtuals Protocol)

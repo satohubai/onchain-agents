@@ -2,7 +2,22 @@
 title: "Rocket Pool Agent Skills — Sato Hub index"
 description: "Official Rocket Pool repo of 7 agent skills for ETH staking workflows on the Rocket Pool protocol."
 canonical: "https://satohub.ai/resources/rocket-pool-skills"
+canonical_url: "https://satohub.ai/resources/rocket-pool-skills"
 layout: "default"
+page_type: "listing"
+item_name: "Rocket Pool Agent Skills"
+code_repository: "https://github.com/rocket-pool/skills"
+software_url: "https://rocketpool.net"
+application_category: "Skill Repo"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Rocket Pool Agent Skills"
+    url: "https://satohubai.github.io/onchain-agents/listings/rocket-pool-skills"
 ---
 
 # Rocket Pool Agent Skills

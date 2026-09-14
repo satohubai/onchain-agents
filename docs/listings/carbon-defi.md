@@ -2,7 +2,22 @@
 title: "Carbon DeFi — Sato Hub index"
 description: "An on-chain trading protocol for automated, adjustable limit, range, and recurring orders that execute fully on-chain and non-custodially."
 canonical: "https://satohub.ai/resources/carbon-defi"
+canonical_url: "https://satohub.ai/resources/carbon-defi"
 layout: "default"
+page_type: "listing"
+item_name: "Carbon DeFi"
+software_url: "https://www.carbondefi.xyz/"
+application_category: "DeFi Tool"
+application_subcategory: "Automated On-chain Trading Strategies"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Carbon DeFi"
+    url: "https://satohubai.github.io/onchain-agents/listings/carbon-defi"
 ---
 
 # Carbon DeFi

@@ -2,7 +2,24 @@
 title: "Haiku DeFi MCP — Sato Hub index"
 description: "DeFi execution MCP: swaps, lending, bridges, yield discovery, and portfolio analysis with external wallet signing."
 canonical: "https://satohub.ai/resources/haiku-defi-mcp"
+canonical_url: "https://satohub.ai/resources/haiku-defi-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Haiku DeFi MCP"
+code_repository: "https://github.com/Haiku-Trading/haiku-mcp-server"
+software_url: "https://haiku.trade"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-05-09"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Haiku DeFi MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/haiku-defi-mcp"
 ---
 
 # Haiku DeFi MCP

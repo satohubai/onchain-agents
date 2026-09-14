@@ -2,7 +2,24 @@
 title: "Binance MCP (nirholas) — Sato Hub index"
 description: "Community Binance MCP with 478+ tools across spot, margin, futures, staking, NFT, and copy trading."
 canonical: "https://satohub.ai/resources/binance-mcp-nirholas"
+canonical_url: "https://satohub.ai/resources/binance-mcp-nirholas"
 layout: "default"
+page_type: "listing"
+item_name: "Binance MCP (nirholas)"
+code_repository: "https://github.com/nirholas/binance-mcp"
+software_url: "https://github.com/nirholas/binance-mcp"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-07-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Binance MCP (nirholas)"
+    url: "https://satohubai.github.io/onchain-agents/listings/binance-mcp-nirholas"
 ---
 
 # Binance MCP (nirholas)

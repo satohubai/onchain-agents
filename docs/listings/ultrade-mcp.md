@@ -2,7 +2,24 @@
 title: "Ultrade MCP — Sato Hub index"
 description: "MCP server for Ultrade's order-book DEX — wallet, market, and order tools for AI trading agents."
 canonical: "https://satohub.ai/resources/ultrade-mcp"
+canonical_url: "https://satohub.ai/resources/ultrade-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Ultrade MCP"
+code_repository: "https://github.com/ultrade-org/ultrade-mcp"
+software_url: "https://smithery.ai/server/@ultrade-org/ultrade-mcp"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2025-05-02"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Ultrade MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/ultrade-mcp"
 ---
 
 # Ultrade MCP

@@ -2,7 +2,22 @@
 title: "OpenZeppelin MCP — Sato Hub index"
 description: "Official OpenZeppelin MCP for generating template-based smart contracts in Solidity, Cairo, Stylus, and Stellar."
 canonical: "https://satohub.ai/resources/openzeppelin-mcp"
+canonical_url: "https://satohub.ai/resources/openzeppelin-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "OpenZeppelin MCP"
+software_url: "https://mcp.openzeppelin.com"
+application_category: "MCP"
+operating_system: "Any"
+license_name: "Unknown"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "OpenZeppelin MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/openzeppelin-mcp"
 ---
 
 # OpenZeppelin MCP

@@ -2,7 +2,24 @@
 title: "SQD Portal MCP — Sato Hub index"
 description: "Official MCP server from Subsquid (SQD) exposing its Portal API for querying onchain data across five chain families."
 canonical: "https://satohub.ai/resources/sqd-portal-mcp"
+canonical_url: "https://satohub.ai/resources/sqd-portal-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "SQD Portal MCP"
+code_repository: "https://github.com/subsquid-labs/portal-mcp-server"
+software_url: "https://sqd.dev/portal"
+application_category: "Data Tool"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-07"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Data, RPC & indexing"
+    url: "https://satohubai.github.io/onchain-agents/categories/data-rpc"
+  - name: "SQD Portal MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/sqd-portal-mcp"
 ---
 
 # SQD Portal MCP

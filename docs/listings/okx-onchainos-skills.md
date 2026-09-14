@@ -2,7 +2,24 @@
 title: "OKX OnchainOS Skills — Sato Hub index"
 description: "Agent skills for OKX OnchainOS: wallet, token discovery, market data, and DEX swaps."
 canonical: "https://satohub.ai/resources/okx-onchainos-skills"
+canonical_url: "https://satohub.ai/resources/okx-onchainos-skills"
 layout: "default"
+page_type: "listing"
+item_name: "OKX OnchainOS Skills"
+code_repository: "https://github.com/okx/onchainos-skills"
+software_url: "https://satohub.ai/resources/okx-onchainos-skills"
+application_category: "Skill Repo"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-12"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Payments & agent commerce"
+    url: "https://satohubai.github.io/onchain-agents/categories/payments"
+  - name: "OKX OnchainOS Skills"
+    url: "https://satohubai.github.io/onchain-agents/listings/okx-onchainos-skills"
 ---
 
 # OKX OnchainOS Skills

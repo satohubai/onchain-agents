@@ -2,7 +2,24 @@
 title: "BSV MCP — Sato Hub index"
 description: "MIT-licensed MCP toolset for Bitcoin SV: wallet operations, ordinals, and BSV blockchain utilities."
 canonical: "https://satohub.ai/resources/bsv-mcp"
+canonical_url: "https://satohub.ai/resources/bsv-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "BSV MCP"
+code_repository: "https://github.com/b-open-io/bsv-mcp"
+software_url: "https://github.com/b-open-io/bsv-mcp"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-06"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "BSV MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/bsv-mcp"
 ---
 
 # BSV MCP

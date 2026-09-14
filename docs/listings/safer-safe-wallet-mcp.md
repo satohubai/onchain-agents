@@ -2,7 +2,24 @@
 title: "Safe Wallet MCP (safer) — Sato Hub index"
 description: "CLI and MCP client for querying Safe{Wallet} multisig transactions and owner/threshold details."
 canonical: "https://satohub.ai/resources/safer-safe-wallet-mcp"
+canonical_url: "https://satohub.ai/resources/safer-safe-wallet-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Safe Wallet MCP (safer)"
+code_repository: "https://github.com/safer-sh/safer"
+software_url: "https://github.com/safer-sh/safer"
+application_category: "Wallet Infrastructure"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2025-03-28"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Wallets, keys & permissions"
+    url: "https://satohubai.github.io/onchain-agents/categories/wallets-keys"
+  - name: "Safe Wallet MCP (safer)"
+    url: "https://satohubai.github.io/onchain-agents/listings/safer-safe-wallet-mcp"
 ---
 
 # Safe Wallet MCP (safer)

@@ -2,7 +2,19 @@
 title: "Kaito — Sato Hub index"
 description: "AI-powered crypto research and attention-analytics platform."
 canonical: "https://satohub.ai/resources/kaito"
+canonical_url: "https://satohub.ai/resources/kaito"
 layout: "default"
+page_type: "listing"
+item_name: "Kaito"
+software_url: "https://kaito.ai"
+application_category: "Research Tool"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Kaito"
+    url: "https://satohubai.github.io/onchain-agents/listings/kaito"
 ---
 
 # Kaito

@@ -2,7 +2,24 @@
 title: "Solscan MCP — Sato Hub index"
 description: "Community MCP server for querying Solana transactions in natural language via the Solscan API."
 canonical: "https://satohub.ai/resources/solscan-mcp"
+canonical_url: "https://satohub.ai/resources/solscan-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Solscan MCP"
+code_repository: "https://github.com/wowinter13/solscan-mcp"
+software_url: "https://solscan.io"
+application_category: "Data Tool"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2025-08-15"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Data, RPC & indexing"
+    url: "https://satohubai.github.io/onchain-agents/categories/data-rpc"
+  - name: "Solscan MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/solscan-mcp"
 ---
 
 # Solscan MCP

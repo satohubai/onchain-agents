@@ -2,7 +2,23 @@
 title: "Pons — Sato Hub index"
 description: "Permissionless fixed-supply token launchpad on Robinhood Chain, with liquidity migrated into a locked Uniswap v3 position."
 canonical: "https://satohub.ai/resources/pons"
+canonical_url: "https://satohub.ai/resources/pons"
 layout: "default"
+page_type: "listing"
+item_name: "Pons"
+code_repository: "https://github.com/ponsdotdev/ponsfamily"
+software_url: "https://www.ponsfamily.com/"
+application_category: "DeFi Tool"
+application_subcategory: "Token launchpad (Robinhood Chain)"
+operating_system: "Any"
+date_modified: "2026-09-06"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Trading & DeFi venues"
+    url: "https://satohubai.github.io/onchain-agents/categories/trading-venues"
+  - name: "Pons"
+    url: "https://satohubai.github.io/onchain-agents/listings/pons"
 ---
 
 # Pons

@@ -2,7 +2,22 @@
 title: "Cryptopolitan MCP — Sato Hub index"
 description: "MCP server serving Cryptopolitan's crypto news, analysis, and price data via SSE and HTTP endpoints."
 canonical: "https://satohub.ai/resources/cryptopolitan-mcp"
+canonical_url: "https://satohub.ai/resources/cryptopolitan-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Cryptopolitan MCP"
+code_repository: "https://github.com/4dmrkey/cryptopolitan-mcp"
+software_url: "https://www.cryptopolitan.com"
+application_category: "MCP"
+operating_system: "Any"
+date_modified: "2026-04-12"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Cryptopolitan MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/cryptopolitan-mcp"
 ---
 
 # Cryptopolitan MCP

@@ -2,7 +2,24 @@
 title: "Bitget Wallet Skill — Sato Hub index"
 description: "Agent skill for Bitget Wallet: token swaps, cross-chain bridging, and gasless transactions."
 canonical: "https://satohub.ai/resources/bitget-wallet-skill"
+canonical_url: "https://satohub.ai/resources/bitget-wallet-skill"
 layout: "default"
+page_type: "listing"
+item_name: "Bitget Wallet Skill"
+code_repository: "https://github.com/bitget-wallet-ai-lab/bitget-wallet-skill"
+software_url: "https://web3.bitget.com"
+application_category: "Skill Repo"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-04-03"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Payments & agent commerce"
+    url: "https://satohubai.github.io/onchain-agents/categories/payments"
+  - name: "Bitget Wallet Skill"
+    url: "https://satohubai.github.io/onchain-agents/listings/bitget-wallet-skill"
 ---
 
 # Bitget Wallet Skill

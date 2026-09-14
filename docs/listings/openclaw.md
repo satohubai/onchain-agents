@@ -2,7 +2,25 @@
 title: "OpenClaw — Sato Hub index"
 description: "Open-source self-hosted personal AI agent framework with a public skill registry (ClawHub) that runs across multiple messaging channels."
 canonical: "https://satohub.ai/resources/openclaw"
+canonical_url: "https://satohub.ai/resources/openclaw"
 layout: "default"
+page_type: "listing"
+item_name: "OpenClaw"
+code_repository: "https://github.com/openclaw/openclaw"
+software_url: "https://openclaw.ai/"
+application_category: "Agent Framework"
+application_subcategory: "Open-source personal AI agent + skill marketplace"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-13"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Agent runtimes & frameworks"
+    url: "https://satohubai.github.io/onchain-agents/categories/agent-frameworks"
+  - name: "OpenClaw"
+    url: "https://satohubai.github.io/onchain-agents/listings/openclaw"
 ---
 
 # OpenClaw

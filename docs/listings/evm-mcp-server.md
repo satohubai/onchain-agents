@@ -2,7 +2,24 @@
 title: "EVM MCP Server — Sato Hub index"
 description: "MCP server exposing 22 tools across 60+ EVM chains: balances, contracts, token transfers, ENS, block/tx data."
 canonical: "https://satohub.ai/resources/evm-mcp-server"
+canonical_url: "https://satohub.ai/resources/evm-mcp-server"
 layout: "default"
+page_type: "listing"
+item_name: "EVM MCP Server"
+code_repository: "https://github.com/mcpdotdirect/evm-mcp-server"
+software_url: "https://github.com/mcpdotdirect/evm-mcp-server"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-08-01"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "EVM MCP Server"
+    url: "https://satohubai.github.io/onchain-agents/listings/evm-mcp-server"
 ---
 
 # EVM MCP Server

@@ -2,7 +2,24 @@
 title: "Tari MCP Servers — Sato Hub index"
 description: "Official Minotari wallet and node MCP servers for local agent access to Tari blockchain data and transactions."
 canonical: "https://satohub.ai/resources/tari-mcp"
+canonical_url: "https://satohub.ai/resources/tari-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Tari MCP Servers"
+code_repository: "https://github.com/tari-project/tari"
+software_url: "https://github.com/tari-project/tari"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/BSD-3-Clause"
+license_name: "BSD-3-Clause"
+date_modified: "2026-09-07"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Tari MCP Servers"
+    url: "https://satohubai.github.io/onchain-agents/listings/tari-mcp"
 ---
 
 # Tari MCP Servers

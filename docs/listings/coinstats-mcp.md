@@ -2,7 +2,24 @@
 title: "CoinStats MCP — Sato Hub index"
 description: "Official hosted CoinStats MCP for portfolio, wallet, and market data across 120+ chains via OAuth."
 canonical: "https://satohub.ai/resources/coinstats-mcp"
+canonical_url: "https://satohub.ai/resources/coinstats-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "CoinStats MCP"
+code_repository: "https://github.com/CoinStatsHQ/coinstats-mcp"
+software_url: "https://coinstats.app/"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-08-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "CoinStats MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/coinstats-mcp"
 ---
 
 # CoinStats MCP

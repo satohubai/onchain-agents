@@ -2,7 +2,22 @@
 title: "Chainstack MCP — Sato Hub index"
 description: "Official remote Streamable HTTP MCP: Chainstack docs search, platform status, live pricing, and node deployment."
 canonical: "https://satohub.ai/resources/chainstack-mcp"
+canonical_url: "https://satohub.ai/resources/chainstack-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Chainstack MCP"
+software_url: "https://docs.chainstack.com/docs/chainstack-mcp-server"
+application_category: "MCP"
+operating_system: "Any"
+license_name: "Unknown"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Chainstack MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/chainstack-mcp"
 ---
 
 # Chainstack MCP

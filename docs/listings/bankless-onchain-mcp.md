@@ -2,7 +2,24 @@
 title: "Bankless Onchain MCP — Sato Hub index"
 description: "MCP server providing AI assistants read access to onchain data via the Bankless API."
 canonical: "https://satohub.ai/resources/bankless-onchain-mcp"
+canonical_url: "https://satohub.ai/resources/bankless-onchain-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Bankless Onchain MCP"
+code_repository: "https://github.com/bankless/onchain-mcp"
+software_url: "https://github.com/bankless/onchain-mcp"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-05-05"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Bankless Onchain MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/bankless-onchain-mcp"
 ---
 
 # Bankless Onchain MCP

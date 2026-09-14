@@ -2,7 +2,23 @@
 title: "Cobo Agentic Wallet — Sato Hub index"
 description: "Non-custodial MPC wallet for AI agents with cryptographically enforced human rules, plus a WaaS Skill for building wallet apps via natural language."
 canonical: "https://satohub.ai/resources/cobo-agentic-wallet"
+canonical_url: "https://satohub.ai/resources/cobo-agentic-wallet"
 layout: "default"
+page_type: "listing"
+item_name: "Cobo Agentic Wallet"
+software_url: "https://www.cobo.com/agentic-wallet"
+application_category: "Wallet Infrastructure"
+application_subcategory: "MPC non-custodial agent wallet + WaaS Skill"
+operating_system: "Any"
+license_name: "Unknown"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Cobo Agentic Wallet"
+    url: "https://satohubai.github.io/onchain-agents/listings/cobo-agentic-wallet"
 ---
 
 # Cobo Agentic Wallet

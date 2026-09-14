@@ -2,7 +2,25 @@
 title: "Neynar — Sato Hub index"
 description: "Farcaster developer platform providing APIs, SDKs, webhooks, and an agent skill for building and deploying agents that read and write Farcaster data."
 canonical: "https://satohub.ai/resources/neynar"
+canonical_url: "https://satohub.ai/resources/neynar"
 layout: "default"
+page_type: "listing"
+item_name: "Neynar"
+code_repository: "https://github.com/neynarxyz"
+software_url: "https://neynar.com/"
+application_category: "API / SDK"
+application_subcategory: "Farcaster Developer Platform"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Onchain action kits & SDKs"
+    url: "https://satohubai.github.io/onchain-agents/categories/action-kits"
+  - name: "Neynar"
+    url: "https://satohubai.github.io/onchain-agents/listings/neynar"
 ---
 
 # Neynar

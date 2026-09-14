@@ -2,7 +2,24 @@
 title: "thirdweb AI — Sato Hub index"
 description: "Thirdweb's MCP toolkit bundling Nebula, Insight, Engine, and Storage for onchain agent building."
 canonical: "https://satohub.ai/resources/thirdweb-ai"
+canonical_url: "https://satohub.ai/resources/thirdweb-ai"
 layout: "default"
+page_type: "listing"
+item_name: "thirdweb AI"
+code_repository: "https://github.com/thirdweb-dev/ai"
+software_url: "https://portal.thirdweb.com/"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://www.apache.org/licenses/LICENSE-2.0"
+license_name: "Apache-2.0"
+date_modified: "2025-06-25"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "thirdweb AI"
+    url: "https://satohubai.github.io/onchain-agents/listings/thirdweb-ai"
 ---
 
 # thirdweb AI

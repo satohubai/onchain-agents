@@ -2,7 +2,23 @@
 title: "Solana LLM Oracle (SLO) — Sato Hub index"
 description: "On-chain oracle letting Solana smart contracts request LLM inference and process results via verified callbacks."
 canonical: "https://satohub.ai/resources/solana-llm-oracle"
+canonical_url: "https://satohub.ai/resources/solana-llm-oracle"
 layout: "default"
+page_type: "listing"
+item_name: "Solana LLM Oracle (SLO)"
+code_repository: "https://github.com/GauravBurande/solana-llm-oracle"
+software_url: "https://github.com/GauravBurande/solana-llm-oracle"
+application_category: "Data Tool"
+operating_system: "Any"
+license_name: "Unknown"
+date_modified: "2026-02-21"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Data, RPC & indexing"
+    url: "https://satohubai.github.io/onchain-agents/categories/data-rpc"
+  - name: "Solana LLM Oracle (SLO)"
+    url: "https://satohubai.github.io/onchain-agents/listings/solana-llm-oracle"
 ---
 
 # Solana LLM Oracle (SLO)

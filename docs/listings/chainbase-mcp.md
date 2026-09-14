@@ -2,7 +2,22 @@
 title: "Chainbase MCP — Sato Hub index"
 description: "Official hosted Chainbase MCP for token prices, holders, wallet balances, and NFT data via natural language."
 canonical: "https://satohub.ai/resources/chainbase-mcp"
+canonical_url: "https://satohub.ai/resources/chainbase-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Chainbase MCP"
+software_url: "https://chainbase.com"
+application_category: "MCP"
+operating_system: "Any"
+license_name: "Unknown"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Chainbase MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/chainbase-mcp"
 ---
 
 # Chainbase MCP

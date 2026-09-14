@@ -2,7 +2,22 @@
 title: "MetaMask Skills — Sato Hub index"
 description: "Official MetaMask skill repo: smart-accounts and gator (delegation) tooling for wallet agents."
 canonical: "https://satohub.ai/resources/metamask-skills"
+canonical_url: "https://satohub.ai/resources/metamask-skills"
 layout: "default"
+page_type: "listing"
+item_name: "MetaMask Skills"
+code_repository: "https://github.com/MetaMask/openclaw-skills"
+software_url: "https://github.com/MetaMask/openclaw-skills"
+application_category: "Skill Repo"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-08"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MetaMask Skills"
+    url: "https://satohubai.github.io/onchain-agents/listings/metamask-skills"
 ---
 
 # MetaMask Skills

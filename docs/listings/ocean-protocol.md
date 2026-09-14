@@ -2,7 +2,22 @@
 title: "Ocean Protocol — Sato Hub index"
 description: "Decentralized data exchange that lets agents access, publish, and pay for datasets and compute-to-data jobs."
 canonical: "https://satohub.ai/resources/ocean-protocol"
+canonical_url: "https://satohub.ai/resources/ocean-protocol"
 layout: "default"
+page_type: "listing"
+item_name: "Ocean Protocol"
+code_repository: "https://github.com/oceanprotocol"
+software_url: "https://oceanprotocol.com"
+application_category: "Data Tool"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Data, RPC & indexing"
+    url: "https://satohubai.github.io/onchain-agents/categories/data-rpc"
+  - name: "Ocean Protocol"
+    url: "https://satohubai.github.io/onchain-agents/listings/ocean-protocol"
 ---
 
 # Ocean Protocol

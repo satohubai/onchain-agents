@@ -2,7 +2,20 @@
 title: "awesome-solana-ai — Sato Hub index"
 description: "Community-curated Solana AI-tooling index (MCP servers, wallet SDKs, frameworks) in the Solana Foundation org; not officially endorsed."
 canonical: "https://satohub.ai/resources/awesome-solana-ai"
+canonical_url: "https://satohub.ai/resources/awesome-solana-ai"
 layout: "default"
+page_type: "listing"
+item_name: "awesome-solana-ai"
+code_repository: "https://github.com/solana-foundation/awesome-solana-ai"
+software_url: "https://github.com/solana-foundation/awesome-solana-ai"
+application_category: "Skill Repo"
+operating_system: "Any"
+date_modified: "2026-08-04"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "awesome-solana-ai"
+    url: "https://satohubai.github.io/onchain-agents/listings/awesome-solana-ai"
 ---
 
 # awesome-solana-ai

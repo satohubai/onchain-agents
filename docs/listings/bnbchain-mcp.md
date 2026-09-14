@@ -2,7 +2,24 @@
 title: "BNB Chain MCP — Sato Hub index"
 description: "Developer MCP tools for AI crypto agents on BNB Chain: DeFi trading, DEX swaps, and contract deployment."
 canonical: "https://satohub.ai/resources/bnbchain-mcp"
+canonical_url: "https://satohub.ai/resources/bnbchain-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "BNB Chain MCP"
+code_repository: "https://github.com/nirholas/bnbchain-mcp"
+software_url: "https://bnbchainmcp.vercel.app"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://www.apache.org/licenses/LICENSE-2.0"
+license_name: "Apache-2.0"
+date_modified: "2026-09-07"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "BNB Chain MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/bnbchain-mcp"
 ---
 
 # BNB Chain MCP

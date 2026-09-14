@@ -2,7 +2,22 @@
 title: "GOAT SDK — Sato Hub index"
 description: "Crossmint's open-source library of onchain actions (tools) for AI agents across chains."
 canonical: "https://satohub.ai/resources/goat-sdk"
+canonical_url: "https://satohub.ai/resources/goat-sdk"
 layout: "default"
+page_type: "listing"
+item_name: "GOAT SDK"
+code_repository: "https://github.com/goat-sdk/goat"
+software_url: "https://github.com/goat-sdk/goat"
+application_category: "Skill Repo"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-10"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "GOAT SDK"
+    url: "https://satohubai.github.io/onchain-agents/listings/goat-sdk"
 ---
 
 # GOAT SDK
@@ -21,7 +36,7 @@ Sato Score: **⬡ 87** (High) — a measure of how open, active and verifiable t
 - **Creator:** GOAT SDK
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 3 days ago
+- **Activity:** Active — last activity 4 days ago
 - **GitHub stars:** 1.0k
 - **Deploys as:** npm, pip, MCP server
 - **Works with:** Vercel AI, LangChain, LlamaIndex, Model Context Protocol, CrewAI, ElevenLabs, Crossmint, Safe, 1inch, CoinGecko, 0x

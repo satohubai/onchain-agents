@@ -2,7 +2,24 @@
 title: "Klever MCP — Sato Hub index"
 description: "Official MCP server for the Klever blockchain — smart contract development, account/asset queries, and transaction analysis."
 canonical: "https://satohub.ai/resources/klever-mcp"
+canonical_url: "https://satohub.ai/resources/klever-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Klever MCP"
+code_repository: "https://github.com/klever-io/mcp-klever-vm"
+software_url: "https://klever.org"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-05-19"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Klever MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/klever-mcp"
 ---
 
 # Klever MCP

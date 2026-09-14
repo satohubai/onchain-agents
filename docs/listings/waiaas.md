@@ -2,7 +2,24 @@
 title: "WAIaaS — Sato Hub index"
 description: "Wallet-as-a-Service infrastructure for AI agents."
 canonical: "https://satohub.ai/resources/waiaas"
+canonical_url: "https://satohub.ai/resources/waiaas"
 layout: "default"
+page_type: "listing"
+item_name: "WAIaaS"
+code_repository: "https://github.com/minhoyoo-iotrust/WAIaaS"
+software_url: "https://waiaas.ai"
+application_category: "Wallet Infrastructure"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-04-25"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "WAIaaS"
+    url: "https://satohubai.github.io/onchain-agents/listings/waiaas"
 ---
 
 # WAIaaS

@@ -2,7 +2,24 @@
 title: "IntentKit — Sato Hub index"
 description: "Open-source, self-hosted framework for running collaborative clusters of onchain AI agents."
 canonical: "https://satohub.ai/resources/intentkit"
+canonical_url: "https://satohub.ai/resources/intentkit"
 layout: "default"
+page_type: "listing"
+item_name: "IntentKit"
+code_repository: "https://github.com/crestalnetwork/intentkit"
+software_url: "https://intentcat.com"
+application_category: "Agent Framework"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-08-01"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Agent runtimes & frameworks"
+    url: "https://satohubai.github.io/onchain-agents/categories/agent-frameworks"
+  - name: "IntentKit"
+    url: "https://satohubai.github.io/onchain-agents/listings/intentkit"
 ---
 
 # IntentKit

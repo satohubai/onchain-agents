@@ -1,0 +1,405 @@
+{
+  "schema_version": 1,
+  "source": "https://satohub.ai/glossary",
+  "license": "CC-BY-4.0",
+  "generated_at": "2026-09-14T16:52:49.751Z",
+  "count": 36,
+  "terms": [
+    {
+      "slug": "x402",
+      "term": "x402",
+      "short": "An HTTP payment protocol: a server answers 402 with a price, the client pays in stablecoins, and retries the request with proof of payment attached.",
+      "definition": [
+        "x402 is a protocol for paying for an HTTP resource in the request itself. A server that wants payment responds with status 402 and a payment-requirements header describing what it accepts — asset, amount, chain, the address to pay. The client constructs a signed payment payload, attaches it to a retried request, and the server (usually through a facilitator) verifies and settles it before serving the response. The whole loop is machine-readable, so a program can complete it without an account, an API key or a checkout page.",
+        "In practice most settlement uses a stablecoin transfer authorised by signature (EIP-3009 transferWithAuthorization on EVM chains), which lets the server or facilitator submit the transfer and pay gas. x402 is published by Coinbase and is open; several facilitators and client libraries implement it.",
+        "x402 is not a marketplace, a token or a guarantee that a resource is worth paying for. A server that speaks x402 has declared a price; nothing in the protocol says the response is correct. And a listing tagged x402 has told Sato Hub it implements the standard — whether it settles real payments is a separate question, measured on the venue page."
+      ],
+      "canonical": "https://satohub.ai/glossary/x402"
+    },
+    {
+      "slug": "x402-facilitator",
+      "term": "x402 facilitator",
+      "short": "A service that verifies an x402 payment payload and submits the settlement transaction on the server's behalf, so the server never touches a chain.",
+      "definition": [
+        "In x402 the resource server does not need to run a node or hold gas. It forwards the client's signed payment payload to a facilitator, which checks that the signature, amount and asset match the requirements, then submits the transfer to the chain and reports back. The server releases the response once the facilitator confirms settlement.",
+        "Because the facilitator is the party that broadcasts, it is also the party whose key appears on-chain as the transaction sender. That is how Sato Hub attributes settlement to a facilitator: by the key that settled, not by whose logo is on the site. Coinbase's Developer Platform runs the most widely used facilitator; others exist, and a server can run its own.",
+        "A facilitator is a convenience, not an authority. It does not custody funds for either side, it does not vouch for the resource being paid for, and it cannot make a payment succeed that the payer did not sign."
+      ],
+      "canonical": "https://satohub.ai/glossary/x402-facilitator"
+    },
+    {
+      "slug": "x402-bazaar",
+      "term": "x402 Bazaar",
+      "short": "Coinbase's discovery index of x402-priced resources: sellers register an endpoint and price, and the catalogue is readable without a key.",
+      "definition": [
+        "The Bazaar is a catalogue of HTTP resources that accept x402 payments, kept by the Coinbase facilitator. Each entry names a resource URL, the payment requirements it advertises (including the payTo address) and some metadata. It is exposed through a public discovery endpoint, so an agent — or Sato Hub — can list what is for sale without an account.",
+        "Sato Hub reads the Bazaar keylessly to count catalogued seller hosts and to take the payTo addresses it then looks for in on-chain settlement. That join — catalogue address to observed transfer — is how a nominal seller is separated from one that has actually been paid.",
+        "A Bazaar entry is a listing, not a transaction. Registering costs a seller nothing, so the catalogue count is an upper bound on active sellers, and the Bazaar covers only resources registered with that one facilitator."
+      ],
+      "canonical": "https://satohub.ai/glossary/x402-bazaar"
+    },
+    {
+      "slug": "erc-8004",
+      "term": "ERC-8004 (Trustless Agents)",
+      "short": "An Ethereum standard giving an agent an on-chain identity: an ERC-721 registry entry pointing at its metadata, plus reputation and validation registries.",
+      "definition": [
+        "ERC-8004 defines three registries. The Identity Registry mints an agent id as an ERC-721 token whose URI resolves to a registration file describing the agent — name, endpoints, supported protocols. The Reputation Registry lets clients post signed feedback about an agent id. The Validation Registry lets an agent request, and a validator record, checks of its work. Together they give an agent an address-independent identity that anyone can read without asking the operator.",
+        "The Identity Registry is deployed as one singleton at the same address on several EVM chains. Registering is a plain contract call and costs only gas, so an id proves that someone called register(), and nothing more: it does not prove the agent is live, funded or operated by whom the metadata says.",
+        "Sato Hub reads the registry counter on each chain weekly and never adds the chains together, because an id on Base and an id on Ethereum are different objects on different contracts. A directory listing tagged erc-8004 implements or integrates the standard; a passport marked registered has an address Sato Hub found in the registry by reading the chain."
+      ],
+      "canonical": "https://satohub.ai/glossary/erc-8004"
+    },
+    {
+      "slug": "sati",
+      "term": "SATI (8004-solana)",
+      "short": "A Solana program that ports the ERC-8004 agent-registry model: agent identities as on-chain accounts, readable by anyone without the operator's cooperation.",
+      "definition": [
+        "SATI is the Solana implementation of the ERC-8004 registry idea, published as 8004-solana by QuantuLabs. Instead of an ERC-721 token, each registered agent is a program-owned account holding the registration data; the program is the registry, and its accounts can be enumerated with a getProgramAccounts call.",
+        "Sato Hub counts those program accounts to size the registry. Because the enumeration includes test, duplicate and abandoned entries, the number is published as an upper bound on registered agents, and the venue page says so in its unit.",
+        "SATI is a registry, not a reputation system or a marketplace, and being registered in it says nothing about an agent's behaviour. It is also distinct from Metaplex Agent Identity, another Solana identity program Sato Hub tracks separately."
+      ],
+      "canonical": "https://satohub.ai/glossary/sati"
+    },
+    {
+      "slug": "erc-4337-account",
+      "term": "ERC-4337 account (smart account)",
+      "short": "A contract wallet whose transactions are UserOperations, sent by bundlers through a shared EntryPoint — programmable validation with no protocol change.",
+      "definition": [
+        "ERC-4337 adds account abstraction without a consensus change. A user, or an agent, signs a UserOperation instead of a transaction; bundlers collect these from a separate mempool and submit them to a singleton EntryPoint contract, which calls each account's validateUserOp and then executes the call. A paymaster contract can agree to pay gas, so the account need not hold ETH.",
+        "For agents the interesting property is programmable validation: an account can accept a session key with a spending limit, require a second signature above a threshold, or rotate keys, all in contract code. Several wallet-infrastructure providers in the directory ship 4337 accounts or the bundler and paymaster services around them.",
+        "A 4337 account is not by itself a safety feature: the policy is whatever the account's code says, and a session key with no limit is a full key. Sato Hub measures the factories and EntryPoint activity, not the policies inside any account."
+      ],
+      "canonical": "https://satohub.ai/glossary/erc-4337-account"
+    },
+    {
+      "slug": "erc-7715-permission",
+      "term": "ERC-7715 permission",
+      "short": "A scoped permission granted by a wallet — spend up to X of Y until T — requested via wallet_grantPermissions and enforced by the wallet's own code.",
+      "definition": [
+        "ERC-7715 defines a JSON-RPC method, wallet_grantPermissions, that a dapp or agent calls to ask a wallet for a bounded capability instead of a blanket signature: which signer, which actions, which limits, for how long. The wallet shows the user the terms, and if approved returns a permission context the requester can use to execute within those bounds without prompting again.",
+        "Enforcement lives in the wallet. MetaMask implements it through its Delegation Framework, where each grant is a delegation with caveat enforcers — contracts that check a limit before an action goes through — attached to a smart account. That is what Sato Hub measures: grants observed on-chain through that framework.",
+        "A permission is only as narrow as its caveats. The standard makes limits expressible; it does not require them, and an unbounded grant is a key handover with better UI. It is also a young standard, so the observed counts describe one framework's deployments, not the idea in general."
+      ],
+      "canonical": "https://satohub.ai/glossary/erc-7715-permission"
+    },
+    {
+      "slug": "acp-job",
+      "term": "ACP job (Virtuals Agent Commerce Protocol)",
+      "short": "A unit of paid work between two agents on Virtuals' ACP: requested, negotiated, funded into escrow, delivered, then evaluated — each step an on-chain state.",
+      "definition": [
+        "The Agent Commerce Protocol is Virtuals' framework for one agent hiring another. A job moves through phases: a buyer agent posts a request, the provider responds with terms, the buyer funds the agreed amount into an escrow contract, the provider delivers, and an evaluator (an agent or a rule) judges the delivery, which releases or returns the funds. Each transition is a contract call, so the funnel is observable.",
+        "Sato Hub reads that funnel as stages — created, funded, delivered, evaluated — and reports each stage on its own, because a job created is not a job paid. The ratio between stages is the interesting number and is on the venue page, not in this text.",
+        "An ACP job is a payment mechanism with an evaluation step; it is not proof that the work was good, only that the evaluator accepted it. ACP is specific to Virtuals' contracts and is separate from the Virtuals token launch venue Sato Hub also tracks."
+      ],
+      "canonical": "https://satohub.ai/glossary/acp-job"
+    },
+    {
+      "slug": "olas-service",
+      "term": "Olas service",
+      "short": "On Olas (Autonolas), a registered composition of agent instances run by bonded operators — the unit that actually runs, as opposed to a single agent.",
+      "definition": [
+        "Olas separates components, agents and services in its on-chain registries. A component is a piece of code; an agent is a composition of components; a service is a deployment of one or more agent instances, registered with a configuration, a set of operators who bond to run it, and a multisig the instances control. Service registries exist on several chains, each with its own counts.",
+        "Staking programmes reward services that meet activity thresholds, which is why Olas has both a registered count and a staked count, and why the two differ. Sato Hub reads both from the registry contracts, per chain, without summing across chains.",
+        "A registered service is a record; a staked service has capital behind it and is being checked against an activity rule. Neither says what the service does or whether it does it well."
+      ],
+      "canonical": "https://satohub.ai/glossary/olas-service"
+    },
+    {
+      "slug": "mcp-server",
+      "term": "MCP server",
+      "short": "A process that exposes tools, resources and prompts to an AI agent over the Model Context Protocol, so the agent discovers what it can call at connect time.",
+      "definition": [
+        "The Model Context Protocol is a JSON-RPC protocol between an agent host (a client) and a server. On connect the two exchange an initialize handshake; the client then calls tools/list to learn what the server offers and tools/call to use one. Transports are stdio for a local process or Streamable HTTP for a hosted endpoint. A crypto MCP server typically wraps chain reads, a wallet, a DEX or a data API behind that interface.",
+        "Sato Hub distinguishes a listing that implements MCP (the interface is in its record) from one with a hosted endpoint (a URL Sato Hub can call). The hosted ones are probed daily: Sato Hub performs the handshake and asks for the tool list, and records whether that succeeded. Sato Hub's own directory is itself an MCP server.",
+        "An MCP server that answers is live; it is not thereby correct, safe to give a key to, or maintained. A tool named swap does whatever its code does. The daily check measures the interface, nothing behind it."
+      ],
+      "canonical": "https://satohub.ai/glossary/mcp-server"
+    },
+    {
+      "slug": "sato-score",
+      "term": "Sato Score",
+      "short": "A 0–100 measure of how open, active and verifiable a listed project is, computed daily from evidence. Not a safety, quality or returns grade.",
+      "definition": [
+        "The Sato Score sums six evidence-only components: maintenance and liveness (observed commits, releases and posts), code transparency, interface verifiability (a probe that answers), docs and demo, listing transparency and provenance, and independent verification. Each has a fixed maximum; the weights and the rules for every point are published on the methodology page. Tiers are High at 70 and above, Medium at 40, Low below that, and Provisional while there is too little history to score.",
+        "Only products are scored — research papers, newsletters and communities carry no score, because a score measures a running thing. The score is recomputed daily and its history is snapshotted, so a listing's score over time is a series, not a claim.",
+        "What the score is not: it does not say a project is safe, well-built or honest, and it says nothing about returns. A private, new, well-run project scores low because there is less to verify; an abandoned open-source repo can score in the middle on transparency alone. Read the components, not just the number."
+      ],
+      "canonical": "https://satohub.ai/glossary/sato-score"
+    },
+    {
+      "slug": "liveness",
+      "term": "Liveness",
+      "short": "Sato Hub's recency label — Active, Recent, Quiet or Dormant — from a listing's latest observed commit, release or post. A maintenance signal, not a risk grade.",
+      "definition": [
+        "Every listing's most recent observed activity — a commit, a release or an official post — is refreshed daily. Liveness buckets the age of that timestamp: Active within 30 days, Recent within 90, Quiet within a year, Dormant beyond it. When no activity signal exists, no label is shown rather than a guessed one.",
+        "The label feeds the maintenance component of the Sato Score and is what the directory's liveness badge displays. It is deliberately about observed activity rather than a project's own status field, because self-description drifts and commits do not.",
+        "Liveness is not uptime and not quality. A finished library can be Quiet and fine; a busy repo can be Active and broken. It also cannot see private activity, so closed-source projects read quieter than they are."
+      ],
+      "canonical": "https://satohub.ai/glossary/liveness"
+    },
+    {
+      "slug": "observed-success",
+      "term": "Observed success (share of our checks)",
+      "short": "The percentage of Sato Hub's own daily checks of a hosted endpoint that succeeded over a window. It is a record of our checks, never the server's uptime.",
+      "definition": [
+        "Each day Sato Hub calls every listed hosted MCP endpoint: an initialize handshake and a tools/list. The outcome is recorded as answered, refused (the host returned 401, 403 or 429 — a live server that declined an anonymous probe), host error, or inconclusive (a timeout or failure on Sato Hub's side). Observed success is answered checks divided by attributable checks over the rolled window, alongside the number of days observed and the current streak.",
+        "The wording is strict on purpose. One probe a day from one network cannot establish uptime; it can establish that on N days the interface answered a stranger. Inconclusive days are excluded from the denominator rather than counted against the host, and refusals are shown separately.",
+        "It is not a service-level figure, not a quality measure, and small windows are not published as findings. Read it with the day count next to it."
+      ],
+      "canonical": "https://satohub.ai/glossary/observed-success"
+    },
+    {
+      "slug": "evidence-tier",
+      "term": "Evidence tier",
+      "short": "The label on every agent-economy number saying how it was obtained: 1 proof (read from the contract), 2 indicator (sampled or joined), 3 inference (a proxy).",
+      "definition": [
+        "Every measurement Sato Hub publishes on the agent-economy pages carries a method, a sample size and an evidence tier. Tier 1 is a direct read — a registry counter, an event count — exact for that contract on that day. Tier 2 is an indicator: a sampled rate, a join between a catalogue and on-chain transfers, or a count with a known coverage gap. Tier 3 is an inference: a proxy such as token activity standing in for agent activity, published because it is the strongest reading available, labelled because it is weak.",
+        "The tier travels with the number into the exports, the MCP payloads and the per-number pages, so a reader repeating a figure can carry the caveat along. Rates from samples under twenty are stored but not published as findings.",
+        "A tier is about provenance, not importance. A tier-3 number can matter more than a tier-1 one; it just deserves more suspicion."
+      ],
+      "canonical": "https://satohub.ai/glossary/evidence-tier"
+    },
+    {
+      "slug": "deploy-spec",
+      "term": "Deploy spec / verified install",
+      "short": "A machine-readable install manifest for a listing; the install is verified when Sato Hub re-ran it in an isolated container and it completed.",
+      "definition": [
+        "A deploy spec records how a listing is run: the install command or image, required environment variables, transport, and any variants (npx, Docker, hosted). Sato Hub writes one per listing from the project's own documentation and serves it over MCP so an agent can set a tool up without reading a README.",
+        "An install is marked verified only when Sato Hub executed the documented path inside an isolated container and it completed. That flips a listing's deploy status and shows as an earned mark on the listing, distinct from the score's independent-verification component.",
+        "A verified install proves installability on the day it ran. It does not prove the software is safe to run, that its tools behave as documented, or that it will still install next month; a re-run is the only refresh."
+      ],
+      "canonical": "https://satohub.ai/glossary/deploy-spec"
+    },
+    {
+      "slug": "agent-skill",
+      "term": "Agent skill",
+      "short": "A packaged instruction set (typically a SKILL.md plus scripts) an agent loads to gain a capability; installed from registries such as ClawHub or skills.sh.",
+      "definition": [
+        "A skill is a folder an agent harness reads: a markdown file describing when and how to perform a task, often with helper scripts, and sometimes with tool definitions or credentials it expects. Registries distribute them with one-line installers, and a harness loads the ones relevant to a prompt. In crypto, skills wrap wallets, trading venues, chain queries and payment rails.",
+        "Because a skill runs with the agent's permissions, what it contacts and asks for matters more than what it claims. Sato Hub publishes a static disclosure per skill — hosts contacted, whether it generates keys, requests credentials, pipes remote content to a shell, or grants tools — read from the skill's files, plus the registry's own scan status attributed to the registry.",
+        "A disclosure describes; it never says safe. A skill with a clean disclosure can still be wrong, and a skill that requests a private key may be doing exactly what a trading skill needs. The disclosure exists so the reader can decide."
+      ],
+      "canonical": "https://satohub.ai/glossary/agent-skill"
+    },
+    {
+      "slug": "agent-passport",
+      "term": "Agent Passport",
+      "short": "A Sato Hub profile and manifest for a running agent, registered by proving control of its wallet key. Self-reported except where a named check says otherwise.",
+      "definition": [
+        "An Agent Passport is the registry entry for a running agent — as opposed to the directory, which lists what agents are built from. It has a public page, a versioned JSON manifest, and an embeddable badge. Registration is instant when the registrant signs a challenge with the agent's wallet key; unsigned registrations wait for review.",
+        "The passport surfaces what Sato Hub could check by reading public sources: whether the wallet holds an ERC-8004 registration on any of the covered chains, whether a declared MCP endpoint answers, whether an A2A card resolves, whether the wallet appears as an x402 payee, and on-chain activity per chain. Each check names its method; the checks are re-run on a schedule and their history is kept.",
+        "A passport is not an endorsement and a signature proves the key, not the product. Verification status stays Self-Reported; contact details are never public; payment fields are metadata. The badge says Registered, never Verified."
+      ],
+      "canonical": "https://satohub.ai/glossary/agent-passport"
+    },
+    {
+      "slug": "a2a",
+      "term": "A2A (Agent2Agent)",
+      "short": "A protocol for agents to delegate work to each other: each publishes a card saying what it does and how to reach it, and tasks are handed over, not called.",
+      "definition": [
+        "A2A covers the case MCP does not. MCP hands an agent a set of tools; A2A hands a task to another agent. Each participant publishes an agent card at a well-known URL describing its skills, endpoints and authentication, and an orchestrator reads those cards to decide where to route work. The task then has a lifecycle of its own — submitted, working, input-required, completed — rather than a single request and response.",
+        "It is the least settled of the standards tracked here, and coverage varies sharply between implementations: publishing a card is not the same as accepting a task, and accepting a task is not the same as completing one.",
+        "A2A is not a payment rail, not an identity system, and not a guarantee that the agent on the other end is competent. Sato Hub probes for a published agent card and records whether one answered; nothing beyond that is claimed, and Sato Hub deliberately does not publish an agent card of its own, because publishing one is a claim we would break the first time an orchestrator sent a task."
+      ],
+      "canonical": "https://satohub.ai/glossary/a2a"
+    },
+    {
+      "slug": "agent-card",
+      "term": "Agent card",
+      "short": "A JSON document at /.well-known/agent-card.json describing what an agent can do, where to reach it and how to authenticate — A2A's discovery unit.",
+      "definition": [
+        "An agent card is how an A2A participant advertises itself: name, description, the skills it offers, the transport and URL to reach it, and the authentication it expects. An orchestrator fetches the card before sending anything, which makes discovery a plain HTTP GET rather than a directory lookup.",
+        "Because it is fetchable, it is checkable. Sato Hub probes the well-known path and records whether a card was served and parsed on a date — one of the few machine-checkable interface proofs the Sato Score credits.",
+        "A card describes intent, not capability. Anyone can serve one; serving it proves a document exists at a URL, not that the agent behind it does what the card says, or that it is running at all."
+      ],
+      "canonical": "https://satohub.ai/glossary/agent-card"
+    },
+    {
+      "slug": "preflight-verdict",
+      "term": "Preflight verdict",
+      "short": "One of four answers — go, caution, no, unknown — returned before an agent installs, connects, pays or trades, with every reading and the field it came from.",
+      "definition": [
+        "Preflight is a single free call an agent makes before acting on something it did not write: a GitHub repository, an npm package, an https endpoint, an ERC-8004 agent reference, or an ERC-20 token. It returns one verdict plus the readings behind it, each naming the field it came from and the date that field was written.",
+        "The verdict is a summary of evidence, not a judgment of the thing. \"go\" means the listing is active, sits in the High Sato Score tier and carries at least one earned check such as a reproduced install. \"unknown\" means Sato Hub holds no record and nothing was probed — an honest absence returned instead of a low-confidence guess.",
+        "It is not a security review, a code audit, or a statement about returns. The same engine answers over HTTP and over MCP, so the two lanes cannot disagree about what was read."
+      ],
+      "canonical": "https://satohub.ai/glossary/preflight-verdict"
+    },
+    {
+      "slug": "skill-disclosure",
+      "term": "Skill disclosure",
+      "short": "A static scan of an agent skill's own files, listing what it contacts, whether it generates keys or asks for credentials, and what tools it grants.",
+      "definition": [
+        "A skill is a document an agent follows, and a document can tell an agent to do anything the agent is able to do. A disclosure is what Sato Hub publishes instead of a verdict: the hosts the skill's text reaches for, whether it generates or requests keys, whether it asks the operator to paste a credential, whether it pipes a remote response into a shell, and which tools it asks to be granted.",
+        "It is a static pattern scan, re-run weekly, and a changed file hash is recorded so a skill cannot be quietly rewritten after it is indexed. Where a registry publishes its own scan result, that result is shown as the registry's and attributed to it.",
+        "A disclosure describes; it never clears. A flag is not an accusation — a wallet skill that generates keys is doing its job — and the absence of flags is not a clearance."
+      ],
+      "canonical": "https://satohub.ai/glossary/skill-disclosure"
+    },
+    {
+      "slug": "mcp-transport",
+      "term": "MCP transport (stdio and Streamable HTTP)",
+      "short": "How an MCP client reaches a server: stdio launches it as a local subprocess; Streamable HTTP posts JSON-RPC to a URL. The tools are identical either way.",
+      "definition": [
+        "MCP separates what a server offers from how it is reached. Over stdio the client spawns the server as a local process and speaks JSON-RPC on its pipes, which is how most npm- and Docker-packaged servers run. Over Streamable HTTP the client posts JSON-RPC to a URL, optionally upgrading to a server-sent event stream, which is how a hosted server is reached without installing anything.",
+        "The distinction matters for checking. A hosted endpoint can be probed from outside: initialize, then tools/list, and a parked domain cannot fake either. A stdio server can only be checked by installing and running it, which is why a reproduced install is a separate kind of evidence.",
+        "Neither transport says anything about what the tools do or whether their answers are correct. It only says how the conversation is carried."
+      ],
+      "canonical": "https://satohub.ai/glossary/mcp-transport"
+    },
+    {
+      "slug": "bonding-curve-launch",
+      "term": "Bonding curve launch",
+      "short": "A token sale priced by a formula against supply: each buy mints higher, each sell burns lower, with no order book and no counterparty to find.",
+      "definition": [
+        "A bonding curve replaces a market maker with arithmetic. The contract holds the reserve asset, mints tokens to buyers at a price determined by how many already exist, and burns them on sale at the corresponding point on the same curve. There is no book to fill and no counterparty to find, so a launch can happen the moment the contract is deployed.",
+        "Most agent launchpads use one as the entry stage: a token is created, trades on the curve, and — if it accumulates enough reserve — graduates to a conventional liquidity pool. The curve stage and the graduated stage are different objects and are counted separately.",
+        "A curve guarantees a quoted price, not liquidity at that price, and says nothing about whether the project behind the token exists. Launch counts are counts of deployments, never of working agents."
+      ],
+      "canonical": "https://satohub.ai/glossary/bonding-curve-launch"
+    },
+    {
+      "slug": "graduation",
+      "term": "Graduation",
+      "short": "The moment a bonding-curve token accumulates enough reserve to move to a conventional liquidity pool. Far fewer tokens graduate than launch.",
+      "definition": [
+        "Graduation is the threshold a launchpad sets: once a token's curve has absorbed a set amount of the reserve asset, the contract seeds a standard AMM pool with that reserve and trading moves there. The curve stops being the venue and becomes history.",
+        "It is the most useful stage boundary in the launchpad data because it is the first one that costs something. Deploying on a curve is close to free and happens constantly; reaching the graduation threshold requires real buying. The gap between launched and graduated is the single clearest signal in the launch venues.",
+        "Graduation is a liquidity event, not a quality event. A graduated token has a pool; it does not have a product, a team or a working agent, and nothing about its price afterwards is implied."
+      ],
+      "canonical": "https://satohub.ai/glossary/graduation"
+    },
+    {
+      "slug": "reward-recipient-split",
+      "term": "Reward recipient split",
+      "short": "The on-chain configuration setting who receives a launched token's trading fees, and in what share — usually creator, platform and any referring interface.",
+      "definition": [
+        "When a token is deployed through a launchpad, the deployment call carries a list of addresses and basis-point shares describing where the pool's trading fees accrue. That list is part of the deployment, readable afterwards by anyone, and it is what makes launching through an interface a business rather than a favour.",
+        "Because the split is on-chain, it can be verified rather than believed: the addresses and percentages are in the deployment record, and a router that claims a referral share must have set it there. Sato Route discloses its own share on every quote before anything is signed.",
+        "A split describes where fees go, not how much there will be. A token with a generous split and no volume pays nothing to anyone."
+      ],
+      "canonical": "https://satohub.ai/glossary/reward-recipient-split"
+    },
+    {
+      "slug": "token-launchpad",
+      "term": "Token launchpad",
+      "short": "A contract system that deploys a token, seeds its initial market and configures fee recipients in one transaction — the entry venue for most agent tokens.",
+      "definition": [
+        "A launchpad bundles what used to be several steps: deploying an ERC-20, creating a market for it, setting who receives trading fees, and often registering metadata. One call produces all of it, which is why launch counts are large and why they are a measurement of deployments rather than of projects.",
+        "Launchpads are the most visible part of the agent economy and the least informative about it. A launchpad counts tokens; a registry counts identities; a payment rail counts settlements. They are different objects, and Sato Hub never adds them together.",
+        "Listing a launchpad is not an endorsement of anything launched on it, and a launch is not evidence that an agent exists behind the token."
+      ],
+      "canonical": "https://satohub.ai/glossary/token-launchpad"
+    },
+    {
+      "slug": "session-key",
+      "term": "Session key",
+      "short": "A short-lived key granted narrow, expiring permission to act for an account — so an agent can transact without ever holding the account's main key.",
+      "definition": [
+        "A session key is the practical answer to giving an agent spending power without giving it everything. The account authorises a separate key to perform a bounded set of actions — specific contracts, specific methods, a spending cap, an expiry — and the agent signs with that key only. Revoking it does not touch the account.",
+        "Smart-account standards implement this through validation modules; ERC-7715 standardises the request an application makes for such a permission, so the grant is a protocol interaction rather than a wallet-specific feature.",
+        "A session key bounds damage; it does not prevent it. Everything inside the granted scope is still permitted, and a key that can swap can still swap badly."
+      ],
+      "canonical": "https://satohub.ai/glossary/session-key"
+    },
+    {
+      "slug": "paymaster",
+      "term": "Paymaster",
+      "short": "A contract that pays gas for someone else's user operation, so an account can transact without holding the chain's native token.",
+      "definition": [
+        "In ERC-4337 a user operation may name a paymaster. The paymaster contract is asked whether it will cover that operation and, if it agrees, the bundler is reimbursed from the paymaster's deposit rather than from the sender's balance. The sender may pay in a stablecoin instead, or not at all if someone is sponsoring.",
+        "For agents this removes an awkward bootstrapping problem: an agent funded in stablecoins can act without first being given native gas on every chain it touches. It also moves a decision — who is allowed to spend the sponsor's money — into contract logic that can be read.",
+        "A paymaster is a billing arrangement, not a permission. It decides who pays, never what the operation is allowed to do."
+      ],
+      "canonical": "https://satohub.ai/glossary/paymaster"
+    },
+    {
+      "slug": "erc-3009-authorization",
+      "term": "ERC-3009 transfer authorization",
+      "short": "A signed message authorising a token transfer that someone else submits and pays gas for — the mechanism most x402 payments settle with.",
+      "definition": [
+        "ERC-3009 adds signature-based transfers to a token: the holder signs a typed message naming recipient, amount, validity window and a nonce, and any party can submit that message to move the funds. The holder never sends a transaction and never needs native gas.",
+        "That is exactly the shape an HTTP payment needs. In x402 the client signs an authorization, attaches it to the retried request, and the server or its facilitator submits it — which is why an agent with only a stablecoin balance can pay for an API call.",
+        "An authorization is a signature, not a payment: it can be replayed within its window by whoever holds it, it expires, and it says nothing about whether the resource being paid for is worth anything."
+      ],
+      "canonical": "https://satohub.ai/glossary/erc-3009-authorization"
+    },
+    {
+      "slug": "erc-7702-delegation",
+      "term": "ERC-7702 delegation",
+      "short": "A transaction type letting an ordinary externally-owned account temporarily run contract code, so a plain wallet can behave like a smart account.",
+      "definition": [
+        "ERC-7702 lets an EOA sign an authorisation pointing at a contract's code, after which transactions from that account execute with that code's logic. Batching, sponsored gas and scoped permissions become available without migrating to a new address — the account keeps its history, balances and approvals.",
+        "For agent work it narrows the gap between the two account models. A key that was only ever able to sign one transfer at a time can be given, temporarily, the permission structure a smart account has.",
+        "It also concentrates risk: whatever code an account delegates to acts with the account's full authority, so the authorisation itself is the thing to scrutinise. Delegation is a capability, never a safeguard."
+      ],
+      "canonical": "https://satohub.ai/glossary/erc-7702-delegation"
+    },
+    {
+      "slug": "stablecoin-settlement",
+      "term": "Stablecoin settlement",
+      "short": "Paying in a token pegged to a currency rather than a volatile asset — what makes a machine-to-machine price quotable and an agent's balance predictable.",
+      "definition": [
+        "An agent that pays per API call needs a unit that still means the same thing an hour later. Stablecoin transfers give it one: a price can be quoted in cents, a budget can be enforced, and a payer's balance does not need re-checking against a market. Nearly all agent payment rails settle this way.",
+        "Settlement is observable. A transfer to a catalogued seller address is a fact on a chain, which is how a nominal seller — one that has merely registered a price — is separated from one that has actually been paid.",
+        "A peg is a design, not a promise. Sato Hub records which asset a payload declared and what settled; it makes no claim about any issuer's solvency, and it never sends a payment, so delivery is never observed."
+      ],
+      "canonical": "https://satohub.ai/glossary/stablecoin-settlement"
+    },
+    {
+      "slug": "non-custodial-routing",
+      "term": "Non-custodial routing",
+      "short": "Recommending where a swap, payment or job should go without ever holding, forwarding or signing for the funds involved.",
+      "definition": [
+        "A router can either move money or name a destination. Sato Route names one: it returns the venue it chose, the aggregator's own quote and calldata, and the full ladder of readings it chose on. You sign it with your own wallet, and nothing is held, netted or forwarded at any point.",
+        "This is a structural property, not a policy. There is no account to fund, no balance to reconcile and no facilitator role being played, so there is nothing to custody even in principle.",
+        "A route is a recommendation from dated readings, never a promise of price or fill. A quote is a quote; the trade that lands is whatever the venue executes when the signed transaction arrives."
+      ],
+      "canonical": "https://satohub.ai/glossary/non-custodial-routing"
+    },
+    {
+      "slug": "fee-tier",
+      "term": "Fee tier",
+      "short": "The swap fee a concentrated-liquidity pool charges, fixed per pool — so one pair has several separate pools, each with its own liquidity and volume.",
+      "definition": [
+        "Uniswap v3 and its forks create a distinct pool for each fee level of a pair, typically 0.01%, 0.05%, 0.3% and 1%. Liquidity does not move between them, so the same two tokens can have a deep, cheap pool and a thin, expensive one at the same moment, and a router must pick.",
+        "Sato Hub reads each tier's pool directly and reports, per pair, which tier carried the most swap volume it observed — in the pool's own token units, over that pool's own covered window, never scaled up and never compared across pairs.",
+        "The busiest tier is not advice for a liquidity provider. Most volume is not most fee revenue per unit of capital, and impermanent loss is not modelled anywhere on this site."
+      ],
+      "canonical": "https://satohub.ai/glossary/fee-tier"
+    },
+    {
+      "slug": "impermanent-loss",
+      "term": "Impermanent loss",
+      "short": "The shortfall a liquidity provider takes versus simply holding the two tokens, caused by the pool rebalancing against them as the price moves.",
+      "definition": [
+        "An automated market maker sells whichever token is rising and buys whichever is falling. A provider therefore ends up holding more of the weaker asset and less of the stronger one than they started with, and the difference against having held both is the loss. It is called impermanent because it reverses if the price returns — and does not if the position is closed first.",
+        "It is usually the largest term in what a liquidity provider actually ends up with, which is why fee figures alone cannot answer whether providing was worthwhile.",
+        "Sato Hub does not model it anywhere. Every fee reading published here says so explicitly, and states its own null for it, rather than letting a fee number be read as a yield."
+      ],
+      "canonical": "https://satohub.ai/glossary/impermanent-loss"
+    },
+    {
+      "slug": "slippage",
+      "term": "Slippage",
+      "short": "The gap between a quoted price and the price actually executed, caused by pool depth, the size of the trade, and whatever happens between quote and fill.",
+      "definition": [
+        "A quote is computed against the pool as it is right now. By the time a signed transaction lands, other trades may have moved the price and the depth available at that price may be gone. The trade executes wherever the curve then sits, and a slippage limit is the instruction to revert rather than accept a worse fill than stated.",
+        "It is why a router's output figure is a projection and not a result, and why Sato Hub ranks venues on whether they are live and answering before ranking them on quoted output. A quote from a venue that is not there is worth nothing regardless of the number.",
+        "Slippage is not a fee and is not paid to anyone in particular; it is the market moving. A reverted trade costs gas and pays no routing fee."
+      ],
+      "canonical": "https://satohub.ai/glossary/slippage"
+    },
+    {
+      "slug": "holder-concentration",
+      "term": "Holder concentration",
+      "short": "How much of a token's supply sits in how few addresses. Sato Hub reports it as not checked rather than guessing it from a partial holder list.",
+      "definition": [
+        "Concentration is the share of supply held by the largest addresses, and it is the first thing anyone wants to know about a freshly launched token. Computing it honestly needs the full holder set, which needs an indexer; computing it from a truncated list produces a number that looks authoritative and is not.",
+        "So the token lane returns it as not checked. What is read instead is what public RPC can answer directly: whether bytecode is present, the standard token views, a deployment record where the launchpad publishes one, which pools exist, and who holds the liquidity position.",
+        "Not checked is a value. It is never rendered as zero, never as a pass, and never quietly dropped from a response so the absence goes unnoticed."
+      ],
+      "canonical": "https://satohub.ai/glossary/holder-concentration"
+    }
+  ]
+}

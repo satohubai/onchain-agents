@@ -2,7 +2,22 @@
 title: "EruditePay Blockchain Intelligence — Sato Hub index"
 description: "Pay-per-call MCP for blockchain analytics — gas tracking, whale monitoring, wallet profiling — spanning Base, Bitcoin, and XRP Ledger."
 canonical: "https://satohub.ai/resources/eruditepay-blockchain-intelligence"
+canonical_url: "https://satohub.ai/resources/eruditepay-blockchain-intelligence"
 layout: "default"
+page_type: "listing"
+item_name: "EruditePay Blockchain Intelligence"
+code_repository: "https://github.com/eruditeintelligence/blockchain-intelligence-mcp"
+software_url: "https://bridge.eruditepay.com"
+application_category: "Data Tool"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Data, RPC & indexing"
+    url: "https://satohubai.github.io/onchain-agents/categories/data-rpc"
+  - name: "EruditePay Blockchain Intelligence"
+    url: "https://satohubai.github.io/onchain-agents/listings/eruditepay-blockchain-intelligence"
 ---
 
 # EruditePay Blockchain Intelligence

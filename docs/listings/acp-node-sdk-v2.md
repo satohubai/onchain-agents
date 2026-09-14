@@ -2,7 +2,23 @@
 title: "ACP Node SDK v2 (Agent Commerce Protocol) — Sato Hub index"
 description: "Official Node.js SDK for Virtuals' Agent Commerce Protocol — event-driven agent-to-agent job and escrow flows."
 canonical: "https://satohub.ai/resources/acp-node-sdk-v2"
+canonical_url: "https://satohub.ai/resources/acp-node-sdk-v2"
 layout: "default"
+page_type: "listing"
+item_name: "ACP Node SDK v2 (Agent Commerce Protocol)"
+code_repository: "https://github.com/Virtual-Protocol/acp-node-v2"
+software_url: "https://whitepaper.virtuals.io/about-virtuals/agent-commerce-protocol-acp"
+application_category: "API / SDK"
+operating_system: "Any"
+license_name: "Unknown"
+date_modified: "2026-07-17"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Payments & agent commerce"
+    url: "https://satohubai.github.io/onchain-agents/categories/payments"
+  - name: "ACP Node SDK v2 (Agent Commerce Protocol)"
+    url: "https://satohubai.github.io/onchain-agents/listings/acp-node-sdk-v2"
 ---
 
 # ACP Node SDK v2 (Agent Commerce Protocol)

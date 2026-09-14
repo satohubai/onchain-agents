@@ -2,7 +2,23 @@
 title: "Aevo — Sato Hub index"
 description: "Decentralized options and perpetuals exchange on a custom OP Stack L2 with REST and WebSocket APIs."
 canonical: "https://satohub.ai/resources/aevo"
+canonical_url: "https://satohub.ai/resources/aevo"
 layout: "default"
+page_type: "listing"
+item_name: "Aevo"
+software_url: "https://www.aevo.xyz/"
+application_category: "Trading Tool"
+application_subcategory: "Perps & Options DEX"
+operating_system: "Any"
+license_name: "Unknown"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Aevo"
+    url: "https://satohubai.github.io/onchain-agents/listings/aevo"
 ---
 
 # Aevo

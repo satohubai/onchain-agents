@@ -2,7 +2,24 @@
 title: "Gate for AI — Sato Hub index"
 description: "Gate.io's official AI infrastructure: CEX/DEX trading, wallet, news, and info MCP tools for agents."
 canonical: "https://satohub.ai/resources/gate-for-ai"
+canonical_url: "https://satohub.ai/resources/gate-for-ai"
 layout: "default"
+page_type: "listing"
+item_name: "Gate for AI"
+code_repository: "https://github.com/gate/gate-for-ai"
+software_url: "https://github.com/gate/gate-for-ai"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-03-15"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Gate for AI"
+    url: "https://satohubai.github.io/onchain-agents/listings/gate-for-ai"
 ---
 
 # Gate for AI

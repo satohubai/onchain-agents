@@ -2,7 +2,24 @@
 title: "Multichain MCP — Sato Hub index"
 description: "Single MCP server for balance/price reads and unsigned transfer prep across Stacks, Celo, and Base."
 canonical: "https://satohub.ai/resources/wkalidev-multichain-mcp"
+canonical_url: "https://satohub.ai/resources/wkalidev-multichain-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Multichain MCP"
+code_repository: "https://github.com/wkalidev/multichain-mcp"
+software_url: "https://github.com/wkalidev/multichain-mcp"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-08-04"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Multichain MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/wkalidev-multichain-mcp"
 ---
 
 # Multichain MCP

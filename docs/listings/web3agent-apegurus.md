@@ -2,7 +2,22 @@
 title: "web3agent (Apegurus) — Sato Hub index"
 description: "MCP package giving agents 190+ EVM DeFi tools — swaps, bridges, limit orders, exchange trading — with confirmation gating."
 canonical: "https://satohub.ai/resources/web3agent-apegurus"
+canonical_url: "https://satohub.ai/resources/web3agent-apegurus"
 layout: "default"
+page_type: "listing"
+item_name: "web3agent (Apegurus)"
+code_repository: "https://github.com/Apegurus/web3agent"
+software_url: "https://github.com/Apegurus/web3agent"
+application_category: "API / SDK"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-08-27"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "web3agent (Apegurus)"
+    url: "https://satohubai.github.io/onchain-agents/listings/web3agent-apegurus"
 ---
 
 # web3agent (Apegurus)

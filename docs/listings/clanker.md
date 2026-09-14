@@ -2,7 +2,25 @@
 title: "Clanker — Sato Hub index"
 description: "Agent that deploys tokens on Base when tagged on Farcaster."
 canonical: "https://satohub.ai/resources/clanker"
+canonical_url: "https://satohub.ai/resources/clanker"
 layout: "default"
+page_type: "listing"
+item_name: "Clanker"
+code_repository: "https://github.com/clanker-devco"
+software_url: "https://clanker.world"
+application_category: "Onchain Agent"
+application_subcategory: "Token Deployment"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Onchain action kits & SDKs"
+    url: "https://satohubai.github.io/onchain-agents/categories/action-kits"
+  - name: "Clanker"
+    url: "https://satohubai.github.io/onchain-agents/listings/clanker"
 ---
 
 # Clanker

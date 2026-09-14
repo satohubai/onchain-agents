@@ -2,7 +2,22 @@
 title: "Bitquery MCP — Sato Hub index"
 description: "Hosted MCP endpoint for natural-language queries over Bitquery's trading, OHLC, and token-economics datasets."
 canonical: "https://satohub.ai/resources/bitquery-mcp"
+canonical_url: "https://satohub.ai/resources/bitquery-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Bitquery MCP"
+software_url: "https://docs.bitquery.io/docs/mcp/mcp-server/"
+application_category: "MCP"
+operating_system: "Any"
+license_name: "Unknown"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Bitquery MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/bitquery-mcp"
 ---
 
 # Bitquery MCP

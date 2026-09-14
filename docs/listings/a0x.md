@@ -2,7 +2,21 @@
 title: "A0x — Sato Hub index"
 description: "A no-code platform on Base for building, tokenizing, and deploying social AI agents ('Onchain Minds') across Farcaster, X, and Telegram."
 canonical: "https://satohub.ai/resources/a0x"
+canonical_url: "https://satohub.ai/resources/a0x"
 layout: "default"
+page_type: "listing"
+item_name: "A0x"
+code_repository: "https://github.com/a0x-co"
+software_url: "https://a0x.co"
+application_category: "Agent Launchpad"
+application_subcategory: "No-code social agent creation / tokenization"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "A0x"
+    url: "https://satohubai.github.io/onchain-agents/listings/a0x"
 ---
 
 # A0x

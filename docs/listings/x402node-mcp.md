@@ -2,7 +2,24 @@
 title: "x402node MCP — Sato Hub index"
 description: "MCP server that discovers x402-paid APIs via CDP Bazaar and handles USDC micropayments on Base."
 canonical: "https://satohub.ai/resources/x402node-mcp"
+canonical_url: "https://satohub.ai/resources/x402node-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "x402node MCP"
+code_repository: "https://github.com/x402node/x402-mcp"
+software_url: "https://github.com/x402node/x402-mcp"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-07-18"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "x402node MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/x402node-mcp"
 ---
 
 # x402node MCP

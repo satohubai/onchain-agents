@@ -2,7 +2,23 @@
 title: "Surf (asksurf.ai) — Sato Hub index"
 description: "An installable skill and unified API giving AI agents access to crypto market, on-chain, social, and prediction-market data across 40+ chains."
 canonical: "https://satohub.ai/resources/surf-asksurf"
+canonical_url: "https://satohub.ai/resources/surf-asksurf"
 layout: "default"
+page_type: "listing"
+item_name: "Surf (asksurf.ai)"
+code_repository: "https://github.com/asksurf-ai/surf-skills"
+software_url: "https://asksurf.ai/"
+application_category: "Skill Repo"
+application_subcategory: "Crypto data skill/API for agents"
+operating_system: "Any"
+date_modified: "2026-07-27"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Surf (asksurf.ai)"
+    url: "https://satohubai.github.io/onchain-agents/listings/surf-asksurf"
 ---
 
 # Surf (asksurf.ai)

@@ -2,7 +2,22 @@
 title: "MetaMask Agent Wallet — Sato Hub index"
 description: "Self-custodial MetaMask wallet for AI agents with built-in transaction simulation, threat scanning, and spending controls across EVM chains."
 canonical: "https://satohub.ai/resources/metamask-agent-wallet"
+canonical_url: "https://satohub.ai/resources/metamask-agent-wallet"
 layout: "default"
+page_type: "listing"
+item_name: "MetaMask Agent Wallet"
+software_url: "https://metamask.io/agent-wallet"
+application_category: "Wallet Infrastructure"
+application_subcategory: "Self-custodial wallet for AI agents"
+operating_system: "Any"
+date_modified: "2026-06-05"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Wallets, keys & permissions"
+    url: "https://satohubai.github.io/onchain-agents/categories/wallets-keys"
+  - name: "MetaMask Agent Wallet"
+    url: "https://satohubai.github.io/onchain-agents/listings/metamask-agent-wallet"
 ---
 
 # MetaMask Agent Wallet

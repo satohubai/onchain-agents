@@ -2,7 +2,23 @@
 title: "listen (DeFAI toolkit) — Sato Hub index"
 description: "Rust toolkit pairing the rig LLM framework with Solana trading primitives, including Jito bundle submission."
 canonical: "https://satohub.ai/resources/listen-rs"
+canonical_url: "https://satohub.ai/resources/listen-rs"
 layout: "default"
+page_type: "listing"
+item_name: "listen (DeFAI toolkit)"
+code_repository: "https://github.com/piotrostr/listen"
+software_url: "https://github.com/piotrostr/listen"
+application_category: "Agent Framework"
+operating_system: "Any"
+license_name: "Unknown"
+date_modified: "2025-11-05"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Agent runtimes & frameworks"
+    url: "https://satohubai.github.io/onchain-agents/categories/agent-frameworks"
+  - name: "listen (DeFAI toolkit)"
+    url: "https://satohubai.github.io/onchain-agents/listings/listen-rs"
 ---
 
 # listen (DeFAI toolkit)

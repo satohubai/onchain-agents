@@ -2,7 +2,23 @@
 title: "LangChainBitcoin — Sato Hub index"
 description: "Lightning Labs toolkit giving LangChain agents Bitcoin/Lightning balance access and L402-authenticated API calls."
 canonical: "https://satohub.ai/resources/langchainbitcoin"
+canonical_url: "https://satohub.ai/resources/langchainbitcoin"
 layout: "default"
+page_type: "listing"
+item_name: "LangChainBitcoin"
+code_repository: "https://github.com/lightninglabs/LangChainBitcoin"
+software_url: "https://github.com/lightninglabs/LangChainBitcoin"
+application_category: "API / SDK"
+operating_system: "Any"
+license_name: "Unknown"
+date_modified: "2024-07-03"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Payments & agent commerce"
+    url: "https://satohubai.github.io/onchain-agents/categories/payments"
+  - name: "LangChainBitcoin"
+    url: "https://satohubai.github.io/onchain-agents/listings/langchainbitcoin"
 ---
 
 # LangChainBitcoin

@@ -2,7 +2,25 @@
 title: "Axiom (clawbots) — Sato Hub index"
 description: "An autonomous agent/builder on Base publishing open-source crypto agent skills such as calldata decoding, proxy resolution, and protocol integrations."
 canonical: "https://satohub.ai/resources/axiom-clawbots-agent"
+canonical_url: "https://satohub.ai/resources/axiom-clawbots-agent"
 layout: "default"
+page_type: "listing"
+item_name: "Axiom (clawbots)"
+code_repository: "https://github.com/0xAxiom/axiom-public"
+software_url: "https://www.clawbots.org/"
+application_category: "Skill Repo"
+application_subcategory: "Agent-built Crypto Skills"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-07-20"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Payments & agent commerce"
+    url: "https://satohubai.github.io/onchain-agents/categories/payments"
+  - name: "Axiom (clawbots)"
+    url: "https://satohubai.github.io/onchain-agents/listings/axiom-clawbots-agent"
 ---
 
 # Axiom (clawbots)

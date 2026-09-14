@@ -2,7 +2,25 @@
 title: "GMX — Sato Hub index"
 description: "Decentralized spot and perpetual exchange on Arbitrum and Avalanche with an official SDK and REST API."
 canonical: "https://satohub.ai/resources/gmx"
+canonical_url: "https://satohub.ai/resources/gmx"
 layout: "default"
+page_type: "listing"
+item_name: "GMX"
+code_repository: "https://github.com/gmx-io"
+software_url: "https://gmx.io/"
+application_category: "Trading Tool"
+application_subcategory: "Perps DEX"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-09"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Trading & DeFi venues"
+    url: "https://satohubai.github.io/onchain-agents/categories/trading-venues"
+  - name: "GMX"
+    url: "https://satohubai.github.io/onchain-agents/listings/gmx"
 ---
 
 # GMX

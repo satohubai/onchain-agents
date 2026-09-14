@@ -2,7 +2,22 @@
 title: "Neynar MCP — Sato Hub index"
 description: "Official Neynar hosted MCP exposing Farcaster's OpenAPI spec and Node.js SDK to AI coding assistants."
 canonical: "https://satohub.ai/resources/neynar-mcp"
+canonical_url: "https://satohub.ai/resources/neynar-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Neynar MCP"
+software_url: "https://neynar.com"
+application_category: "MCP"
+operating_system: "Any"
+license_name: "Unknown"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Neynar MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/neynar-mcp"
 ---
 
 # Neynar MCP

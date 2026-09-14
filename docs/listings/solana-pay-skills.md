@@ -2,7 +2,22 @@
 title: "Solana Pay Agent Skills — Sato Hub index"
 description: "Solana Foundation community registry of stablecoin-gated (USDC/USDT) APIs the pay CLI and AI agents can search, route to, and pay through."
 canonical: "https://satohub.ai/resources/solana-pay-skills"
+canonical_url: "https://satohub.ai/resources/solana-pay-skills"
 layout: "default"
+page_type: "listing"
+item_name: "Solana Pay Agent Skills"
+code_repository: "https://github.com/solana-foundation/pay-skills"
+software_url: "https://solanapay.com"
+application_category: "Data Tool"
+operating_system: "Any"
+date_modified: "2026-07-30"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Data, RPC & indexing"
+    url: "https://satohubai.github.io/onchain-agents/categories/data-rpc"
+  - name: "Solana Pay Agent Skills"
+    url: "https://satohubai.github.io/onchain-agents/listings/solana-pay-skills"
 ---
 
 # Solana Pay Agent Skills

@@ -2,7 +2,23 @@
 title: "1inch — Sato Hub index"
 description: "Multichain DEX aggregator with a developer API suite and an official MCP server for AI-agent swap execution."
 canonical: "https://satohub.ai/resources/1inch"
+canonical_url: "https://satohub.ai/resources/1inch"
 layout: "default"
+page_type: "listing"
+item_name: "1inch"
+code_repository: "https://github.com/1inch"
+software_url: "https://1inch.io/"
+application_category: "Trading Tool"
+application_subcategory: "Swap Aggregator"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "1inch"
+    url: "https://satohubai.github.io/onchain-agents/listings/1inch"
 ---
 
 # 1inch

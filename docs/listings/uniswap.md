@@ -2,7 +2,25 @@
 title: "Uniswap — Sato Hub index"
 description: "Leading multichain spot DEX with v4 hooks, official SDKs, and a hosted Trading API."
 canonical: "https://satohub.ai/resources/uniswap"
+canonical_url: "https://satohub.ai/resources/uniswap"
 layout: "default"
+page_type: "listing"
+item_name: "Uniswap"
+code_repository: "https://github.com/Uniswap"
+software_url: "https://uniswap.org/"
+application_category: "Trading Tool"
+application_subcategory: "Spot DEX"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Uniswap"
+    url: "https://satohubai.github.io/onchain-agents/listings/uniswap"
 ---
 
 # Uniswap

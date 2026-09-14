@@ -2,7 +2,24 @@
 title: "Web3 Research MCP — Sato Hub index"
 description: "Local, keyless MCP for structured crypto token research: web/news/image/video search plus CoinGecko and DeFiLlama data."
 canonical: "https://satohub.ai/resources/web3-research-mcp"
+canonical_url: "https://satohub.ai/resources/web3-research-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Web3 Research MCP"
+code_repository: "https://github.com/aaronjmars/web3-research-mcp"
+software_url: "https://github.com/aaronjmars/web3-research-mcp"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-03"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Web3 Research MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/web3-research-mcp"
 ---
 
 # Web3 Research MCP

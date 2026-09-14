@@ -2,7 +2,21 @@
 title: "Trail of Bits Skills — Sato Hub index"
 description: "Security-research skill marketplace incl. smart-contract vulnerability scanning and constant-time analysis."
 canonical: "https://satohub.ai/resources/trailofbits-skills"
+canonical_url: "https://satohub.ai/resources/trailofbits-skills"
 layout: "default"
+page_type: "listing"
+item_name: "Trail of Bits Skills"
+code_repository: "https://github.com/trailofbits/skills"
+software_url: "https://github.com/trailofbits/skills"
+application_category: "Skill Repo"
+operating_system: "Any"
+license_name: "CC-BY-SA-4.0"
+date_modified: "2026-09-02"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Trail of Bits Skills"
+    url: "https://satohubai.github.io/onchain-agents/listings/trailofbits-skills"
 ---
 
 # Trail of Bits Skills

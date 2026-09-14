@@ -2,7 +2,22 @@
 title: "Universal Commerce Protocol (UCP) — Sato Hub index"
 description: "Open standard co-developed by Google and Shopify for AI agents to discover, negotiate, and transact with any merchant across the full commerce…"
 canonical: "https://satohub.ai/resources/universal-commerce-protocol-ucp"
+canonical_url: "https://satohub.ai/resources/universal-commerce-protocol-ucp"
 layout: "default"
+page_type: "listing"
+item_name: "Universal Commerce Protocol (UCP)"
+software_url: "https://www.shopify.com/ucp"
+application_category: "API / SDK"
+application_subcategory: "Agent Commerce Standard (Web2)"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Onchain action kits & SDKs"
+    url: "https://satohubai.github.io/onchain-agents/categories/action-kits"
+  - name: "Universal Commerce Protocol (UCP)"
+    url: "https://satohubai.github.io/onchain-agents/listings/universal-commerce-protocol-ucp"
 ---
 
 # Universal Commerce Protocol (UCP)

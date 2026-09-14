@@ -2,7 +2,22 @@
 title: "Phantom MCP — Sato Hub index"
 description: "Phantom's MCP server that lets AI agents view addresses, sign transactions, swap, and transfer tokens across Solana, Ethereum, Bitcoin, and Sui."
 canonical: "https://satohub.ai/resources/phantom-mcp"
+canonical_url: "https://satohub.ai/resources/phantom-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Phantom MCP"
+software_url: "https://help.phantom.com/hc/en-us/articles/49235725504147-Get-started-with-Phantom-MCP"
+application_category: "MCP"
+application_subcategory: "Wallet MCP server for AI agents"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Phantom MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/phantom-mcp"
 ---
 
 # Phantom MCP

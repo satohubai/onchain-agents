@@ -2,7 +2,22 @@
 title: "Solana Agent Kit — Sato Hub index"
 description: "SendAI's open-source toolkit connecting AI agents to Solana protocol actions."
 canonical: "https://satohub.ai/resources/solana-agent-kit"
+canonical_url: "https://satohub.ai/resources/solana-agent-kit"
 layout: "default"
+page_type: "listing"
+item_name: "Solana Agent Kit"
+code_repository: "https://github.com/sendaifun/solana-agent-kit"
+software_url: "https://kit.sendai.fun"
+application_category: "Skill Repo"
+operating_system: "Any"
+license_url: "https://www.apache.org/licenses/LICENSE-2.0"
+license_name: "Apache-2.0"
+date_modified: "2026-05-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Solana Agent Kit"
+    url: "https://satohubai.github.io/onchain-agents/listings/solana-agent-kit"
 ---
 
 # Solana Agent Kit

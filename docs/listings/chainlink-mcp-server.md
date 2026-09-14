@@ -2,7 +2,22 @@
 title: "Chainlink MCP Server — Sato Hub index"
 description: "MCP server exposing Chainlink Data Feeds, VRF, Automation, CCIP, and Proof of Reserve."
 canonical: "https://satohub.ai/resources/chainlink-mcp-server"
+canonical_url: "https://satohub.ai/resources/chainlink-mcp-server"
 layout: "default"
+page_type: "listing"
+item_name: "Chainlink MCP Server"
+code_repository: "https://github.com/goldk3y/chainlink-mcp-server"
+software_url: "https://smithery.ai/servers/goldk3y/chainlink-mcp-server"
+application_category: "MCP"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Chainlink MCP Server"
+    url: "https://satohubai.github.io/onchain-agents/listings/chainlink-mcp-server"
 ---
 
 # Chainlink MCP Server

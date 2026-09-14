@@ -2,7 +2,21 @@
 title: "Allium MCP — Sato Hub index"
 description: "Allium's official MCP for querying its multichain blockchain data warehouse via SQL over 80+ chains."
 canonical: "https://satohub.ai/resources/allium-mcp"
+canonical_url: "https://satohub.ai/resources/allium-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Allium MCP"
+software_url: "https://www.allium.so"
+application_category: "MCP"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Allium MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/allium-mcp"
 ---
 
 # Allium MCP

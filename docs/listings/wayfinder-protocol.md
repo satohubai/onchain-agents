@@ -2,7 +2,23 @@
 title: "Wayfinder — Sato Hub index"
 description: "Omnichain protocol that lets AI agents navigate blockchains and execute transactions via natural-language 'Paths'."
 canonical: "https://satohub.ai/resources/wayfinder-protocol"
+canonical_url: "https://satohub.ai/resources/wayfinder-protocol"
 layout: "default"
+page_type: "listing"
+item_name: "Wayfinder"
+software_url: "https://wayfinder.ai"
+application_category: "Agent Framework"
+application_subcategory: "Omnichain agent navigation protocol"
+operating_system: "Any"
+license_name: "Unknown"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Agent runtimes & frameworks"
+    url: "https://satohubai.github.io/onchain-agents/categories/agent-frameworks"
+  - name: "Wayfinder"
+    url: "https://satohubai.github.io/onchain-agents/listings/wayfinder-protocol"
 ---
 
 # Wayfinder

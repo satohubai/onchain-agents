@@ -2,7 +2,23 @@
 title: "Agenti — Sato Hub index"
 description: "Gives any AI agent a crypto wallet to pay x402 APIs, receive USDC, and check balances."
 canonical: "https://satohub.ai/resources/agenti"
+canonical_url: "https://satohub.ai/resources/agenti"
 layout: "default"
+page_type: "listing"
+item_name: "Agenti"
+code_repository: "https://github.com/nirholas/agenti"
+software_url: "https://agenti.cash"
+application_category: "Wallet Infrastructure"
+operating_system: "Any"
+license_name: "Unknown (repo README states all rights reserved; not an open-source SPDX license)"
+date_modified: "2026-08-04"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Agenti"
+    url: "https://satohubai.github.io/onchain-agents/listings/agenti"
 ---
 
 # Agenti

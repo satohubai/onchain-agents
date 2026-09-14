@@ -2,7 +2,22 @@
 title: "Pieverse — Sato Hub index"
 description: "One-click deployment of Web3-native AI agents to Line, Kakao, and WhatsApp, each with its own wallet and onchain execution."
 canonical: "https://satohub.ai/resources/pieverse"
+canonical_url: "https://satohub.ai/resources/pieverse"
 layout: "default"
+page_type: "listing"
+item_name: "Pieverse"
+software_url: "https://www.pieverse.io"
+application_category: "Agent Launchpad"
+application_subcategory: "Messaging-app agent deployment / payments"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Payments & agent commerce"
+    url: "https://satohubai.github.io/onchain-agents/categories/payments"
+  - name: "Pieverse"
+    url: "https://satohubai.github.io/onchain-agents/listings/pieverse"
 ---
 
 # Pieverse

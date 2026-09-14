@@ -2,7 +2,22 @@
 title: "Visa Trusted Agent Protocol (TAP) — Sato Hub index"
 description: "Visa protocol that lets merchants authenticate trusted AI shopping agents via cryptographic signatures, with x402 interoperability into traditional…"
 canonical: "https://satohub.ai/resources/visa-trusted-agent-protocol-tap"
+canonical_url: "https://satohub.ai/resources/visa-trusted-agent-protocol-tap"
 layout: "default"
+page_type: "listing"
+item_name: "Visa Trusted Agent Protocol (TAP)"
+software_url: "https://www.digitaltransactions.net/visa-launches-trusted-agent-an-agentic-commerce-protocol/"
+application_category: "API / SDK"
+application_subcategory: "Agent Authentication / Payment Protocol"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Onchain action kits & SDKs"
+    url: "https://satohubai.github.io/onchain-agents/categories/action-kits"
+  - name: "Visa Trusted Agent Protocol (TAP)"
+    url: "https://satohubai.github.io/onchain-agents/listings/visa-trusted-agent-protocol-tap"
 ---
 
 # Visa Trusted Agent Protocol (TAP)

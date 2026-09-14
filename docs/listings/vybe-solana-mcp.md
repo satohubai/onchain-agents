@@ -2,7 +2,22 @@
 title: "Vybe Solana MCP — Sato Hub index"
 description: "Hosted Solana MCP from Vybe Network: schema browsing plus live Solana API calls, no local deployment."
 canonical: "https://satohub.ai/resources/vybe-solana-mcp"
+canonical_url: "https://satohub.ai/resources/vybe-solana-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Vybe Solana MCP"
+code_repository: "https://github.com/vybenetwork/solana-mcp-vybe"
+software_url: "https://github.com/vybenetwork/solana-mcp-vybe"
+application_category: "MCP"
+operating_system: "Any"
+date_modified: "2026-05-11"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Vybe Solana MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/vybe-solana-mcp"
 ---
 
 # Vybe Solana MCP

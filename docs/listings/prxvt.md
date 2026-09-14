@@ -2,7 +2,25 @@
 title: "PRXVT — Sato Hub index"
 description: "Open-source privacy SDK that adds unlinkable, zero-knowledge payments on top of the x402 agent payment standard."
 canonical: "https://satohub.ai/resources/prxvt"
+canonical_url: "https://satohub.ai/resources/prxvt"
 layout: "default"
+page_type: "listing"
+item_name: "PRXVT"
+code_repository: "https://github.com/prxvt"
+software_url: "https://www.prxvt.com"
+application_category: "Security Tool"
+application_subcategory: "Privacy infrastructure for agent payments"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Payments & agent commerce"
+    url: "https://satohubai.github.io/onchain-agents/categories/payments"
+  - name: "PRXVT"
+    url: "https://satohubai.github.io/onchain-agents/listings/prxvt"
 ---
 
 # PRXVT

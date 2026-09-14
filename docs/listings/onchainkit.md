@@ -2,7 +2,22 @@
 title: "OnchainKit — Sato Hub index"
 description: "Coinbase's React component and TypeScript SDK library for building onchain apps and mini-apps on Base."
 canonical: "https://satohub.ai/resources/onchainkit"
+canonical_url: "https://satohub.ai/resources/onchainkit"
 layout: "default"
+page_type: "listing"
+item_name: "OnchainKit"
+code_repository: "https://github.com/coinbase/onchainkit"
+software_url: "https://github.com/coinbase/onchainkit"
+application_category: "API / SDK"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-01-31"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "OnchainKit"
+    url: "https://satohubai.github.io/onchain-agents/listings/onchainkit"
 ---
 
 # OnchainKit

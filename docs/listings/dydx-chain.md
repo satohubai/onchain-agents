@@ -2,7 +2,24 @@
 title: "dYdX — Sato Hub index"
 description: "Perpetual futures DEX running on its own Cosmos SDK app-chain with REST/WebSocket and gRPC APIs."
 canonical: "https://satohub.ai/resources/dydx-chain"
+canonical_url: "https://satohub.ai/resources/dydx-chain"
 layout: "default"
+page_type: "listing"
+item_name: "dYdX"
+code_repository: "https://github.com/dydxprotocol/v4-chain"
+software_url: "https://dydx.exchange/"
+application_category: "Trading Tool"
+application_subcategory: "Perps DEX"
+operating_system: "Any"
+license_name: "AGPL-3.0 (modified — subject to dYdX Terms of Use)"
+date_modified: "2026-09-11"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Trading & DeFi venues"
+    url: "https://satohubai.github.io/onchain-agents/categories/trading-venues"
+  - name: "dYdX"
+    url: "https://satohubai.github.io/onchain-agents/listings/dydx-chain"
 ---
 
 # dYdX

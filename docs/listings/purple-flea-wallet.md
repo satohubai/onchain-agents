@@ -2,7 +2,24 @@
 title: "Purple Flea Wallet — Sato Hub index"
 description: "Non-custodial HD wallet MCP server for AI agents with cross-chain swaps via the Wagyu aggregator."
 canonical: "https://satohub.ai/resources/purple-flea-wallet"
+canonical_url: "https://satohub.ai/resources/purple-flea-wallet"
 layout: "default"
+page_type: "listing"
+item_name: "Purple Flea Wallet"
+code_repository: "https://github.com/purple-flea/wallet-mcp"
+software_url: "https://purpleflea.com/"
+application_category: "Wallet Infrastructure"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-02-26"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Wallets, keys & permissions"
+    url: "https://satohubai.github.io/onchain-agents/categories/wallets-keys"
+  - name: "Purple Flea Wallet"
+    url: "https://satohubai.github.io/onchain-agents/listings/purple-flea-wallet"
 ---
 
 # Purple Flea Wallet

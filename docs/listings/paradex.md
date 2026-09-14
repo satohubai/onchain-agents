@@ -2,7 +2,23 @@
 title: "Paradex — Sato Hub index"
 description: "Perpetuals (and options) DEX built as a Starknet appchain with REST/WebSocket APIs and SDK tooling."
 canonical: "https://satohub.ai/resources/paradex"
+canonical_url: "https://satohub.ai/resources/paradex"
 layout: "default"
+page_type: "listing"
+item_name: "Paradex"
+software_url: "https://www.paradex.trade/"
+application_category: "Trading Tool"
+application_subcategory: "Perps DEX"
+operating_system: "Any"
+license_name: "Unknown (SDK); official MCP server mcp-paradex-py is MIT"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Trading & DeFi venues"
+    url: "https://satohubai.github.io/onchain-agents/categories/trading-venues"
+  - name: "Paradex"
+    url: "https://satohubai.github.io/onchain-agents/listings/paradex"
 ---
 
 # Paradex

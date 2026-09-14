@@ -2,7 +2,25 @@
 title: "Agently — Sato Hub index"
 description: "Routing and settlement layer and CLI for agent-to-agent commerce, supporting EVM wallets, agent discovery, A2A messaging, x402 payments, and ERC-8004…"
 canonical: "https://satohub.ai/resources/agently-agent-commerce"
+canonical_url: "https://satohub.ai/resources/agently-agent-commerce"
 layout: "default"
+page_type: "listing"
+item_name: "Agently"
+code_repository: "https://github.com/AgentlyHQ/use-agently"
+software_url: "https://use-agently.com"
+application_category: "API / SDK"
+application_subcategory: "Agent-to-Agent Routing & Settlement"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-04-01"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Onchain action kits & SDKs"
+    url: "https://satohubai.github.io/onchain-agents/categories/action-kits"
+  - name: "Agently"
+    url: "https://satohubai.github.io/onchain-agents/listings/agently-agent-commerce"
 ---
 
 # Agently

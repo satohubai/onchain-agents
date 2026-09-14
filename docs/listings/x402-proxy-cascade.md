@@ -2,7 +2,24 @@
 title: "x402-proxy — Sato Hub index"
 description: "CLI and MCP proxy that auto-pays x402/MPP-gated endpoints on Base, Solana, Monad, and Tempo from one mnemonic."
 canonical: "https://satohub.ai/resources/x402-proxy-cascade"
+canonical_url: "https://satohub.ai/resources/x402-proxy-cascade"
 layout: "default"
+page_type: "listing"
+item_name: "x402-proxy"
+code_repository: "https://github.com/cascade-protocol/x402-proxy"
+software_url: "https://github.com/cascade-protocol/x402-proxy"
+application_category: "Developer Tool"
+operating_system: "Any"
+license_url: "https://www.apache.org/licenses/LICENSE-2.0"
+license_name: "Apache-2.0"
+date_modified: "2026-08-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Onchain action kits & SDKs"
+    url: "https://satohubai.github.io/onchain-agents/categories/action-kits"
+  - name: "x402-proxy"
+    url: "https://satohubai.github.io/onchain-agents/listings/x402-proxy-cascade"
 ---
 
 # x402-proxy

@@ -2,7 +2,23 @@
 title: "PaladinFi Swap MCP — Sato Hub index"
 description: "MCP-native swap router on Base querying 0x and Velora in parallel, with a built-in risk-screen tool."
 canonical: "https://satohub.ai/resources/paladinfi-swap-mcp"
+canonical_url: "https://satohub.ai/resources/paladinfi-swap-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "PaladinFi Swap MCP"
+code_repository: "https://github.com/paladinfi/paladin-swap-mcp"
+software_url: "https://paladinfi.com/swap/"
+application_category: "Trading Tool"
+operating_system: "Any"
+license_name: "MIT (repo; hosted backend proprietary)"
+date_modified: "2026-05-24"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Trading & DeFi venues"
+    url: "https://satohubai.github.io/onchain-agents/categories/trading-venues"
+  - name: "PaladinFi Swap MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/paladinfi-swap-mcp"
 ---
 
 # PaladinFi Swap MCP

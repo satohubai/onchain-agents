@@ -2,7 +2,24 @@
 title: "Polymarket MCP Server — Sato Hub index"
 description: "Community Polymarket MCP with 45 tools: market discovery, analysis, trading, portfolio, and WebSocket monitoring."
 canonical: "https://satohub.ai/resources/polymarket-mcp"
+canonical_url: "https://satohub.ai/resources/polymarket-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Polymarket MCP Server"
+code_repository: "https://github.com/caiovicentino/polymarket-mcp-server"
+software_url: "https://github.com/caiovicentino/polymarket-mcp-server"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-07-30"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Polymarket MCP Server"
+    url: "https://satohubai.github.io/onchain-agents/listings/polymarket-mcp"
 ---
 
 # Polymarket MCP Server

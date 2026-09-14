@@ -2,7 +2,21 @@
 title: "LI.FI MCP — Sato Hub index"
 description: "Official hosted LI.FI MCP server for read-only cross-chain swap quotes and route discovery."
 canonical: "https://satohub.ai/resources/lifi-mcp"
+canonical_url: "https://satohub.ai/resources/lifi-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "LI.FI MCP"
+software_url: "https://li.fi"
+application_category: "MCP"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "LI.FI MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/lifi-mcp"
 ---
 
 # LI.FI MCP

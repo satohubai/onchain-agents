@@ -2,7 +2,24 @@
 title: "Moonwell — Sato Hub index"
 description: "Open lending and borrowing protocol on Base, included as a launch-day Base MCP skill plugin."
 canonical: "https://satohub.ai/resources/moonwell"
+canonical_url: "https://satohub.ai/resources/moonwell"
 layout: "default"
+page_type: "listing"
+item_name: "Moonwell"
+code_repository: "https://github.com/moonwell-fi"
+software_url: "https://moonwell.fi/"
+application_category: "DeFi Tool"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Trading & DeFi venues"
+    url: "https://satohubai.github.io/onchain-agents/categories/trading-venues"
+  - name: "Moonwell"
+    url: "https://satohubai.github.io/onchain-agents/listings/moonwell"
 ---
 
 # Moonwell

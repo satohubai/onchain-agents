@@ -2,7 +2,22 @@
 title: "CabalSpy Wallet Tracker — Sato Hub index"
 description: "Multi-chain API tracking 1,600+ labeled KOL, smart-money, and whale wallets, with an MCP server."
 canonical: "https://satohub.ai/resources/cabalspy-wallet-tracker"
+canonical_url: "https://satohub.ai/resources/cabalspy-wallet-tracker"
 layout: "default"
+page_type: "listing"
+item_name: "CabalSpy Wallet Tracker"
+code_repository: "https://github.com/CabalSpy/CabalSpy-MCP-Server"
+software_url: "https://www.cabalspy.xyz"
+application_category: "Data Tool"
+operating_system: "Any"
+date_modified: "2026-07-27"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Data, RPC & indexing"
+    url: "https://satohubai.github.io/onchain-agents/categories/data-rpc"
+  - name: "CabalSpy Wallet Tracker"
+    url: "https://satohubai.github.io/onchain-agents/listings/cabalspy-wallet-tracker"
 ---
 
 # CabalSpy Wallet Tracker

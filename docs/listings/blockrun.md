@@ -2,7 +2,25 @@
 title: "BlockRun — Sato Hub index"
 description: "Pay-per-call gateway where AI agents reach 55+ LLMs, data, and tools through one endpoint, settled in USDC via x402 — no API keys."
 canonical: "https://satohub.ai/resources/blockrun"
+canonical_url: "https://satohub.ai/resources/blockrun"
 layout: "default"
+page_type: "listing"
+item_name: "BlockRun"
+code_repository: "https://github.com/BlockRunAI"
+software_url: "https://blockrun.ai/"
+application_category: "API / SDK"
+application_subcategory: "Agent payment gateway"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Onchain action kits & SDKs"
+    url: "https://satohubai.github.io/onchain-agents/categories/action-kits"
+  - name: "BlockRun"
+    url: "https://satohubai.github.io/onchain-agents/listings/blockrun"
 ---
 
 # BlockRun

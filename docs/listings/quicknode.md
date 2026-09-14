@@ -2,7 +2,25 @@
 title: "QuickNode — Sato Hub index"
 description: "RPC infrastructure provider offering endpoints, Streams, and indexing tools across many blockchain networks."
 canonical: "https://satohub.ai/resources/quicknode"
+canonical_url: "https://satohub.ai/resources/quicknode"
 layout: "default"
+page_type: "listing"
+item_name: "QuickNode"
+code_repository: "https://github.com/quiknode-labs"
+software_url: "https://www.quicknode.com/"
+application_category: "API / SDK"
+application_subcategory: "RPC & blockchain data infrastructure"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-06-04"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Onchain action kits & SDKs"
+    url: "https://satohubai.github.io/onchain-agents/categories/action-kits"
+  - name: "QuickNode"
+    url: "https://satohubai.github.io/onchain-agents/listings/quicknode"
 ---
 
 # QuickNode

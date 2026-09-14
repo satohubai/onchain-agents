@@ -2,7 +2,22 @@
 title: "Model Context Protocol (MCP) — Sato Hub index"
 description: "Anthropic's open standard for connecting AI systems to external tools and data sources."
 canonical: "https://satohub.ai/resources/model-context-protocol"
+canonical_url: "https://satohub.ai/resources/model-context-protocol"
 layout: "default"
+page_type: "listing"
+item_name: "Model Context Protocol (MCP)"
+code_repository: "https://github.com/modelcontextprotocol"
+software_url: "https://modelcontextprotocol.io"
+application_category: "Developer Tool"
+operating_system: "Any"
+date_modified: "2026-09-10"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Onchain action kits & SDKs"
+    url: "https://satohubai.github.io/onchain-agents/categories/action-kits"
+  - name: "Model Context Protocol (MCP)"
+    url: "https://satohubai.github.io/onchain-agents/listings/model-context-protocol"
 ---
 
 # Model Context Protocol (MCP)

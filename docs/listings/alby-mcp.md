@@ -2,7 +2,24 @@
 title: "Alby MCP — Sato Hub index"
 description: "Official Alby MCP connecting Bitcoin Lightning wallets to agents via Nostr Wallet Connect."
 canonical: "https://satohub.ai/resources/alby-mcp"
+canonical_url: "https://satohub.ai/resources/alby-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Alby MCP"
+code_repository: "https://github.com/getAlby/mcp"
+software_url: "https://getalby.com"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://www.apache.org/licenses/LICENSE-2.0"
+license_name: "Apache-2.0"
+date_modified: "2026-07-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Alby MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/alby-mcp"
 ---
 
 # Alby MCP

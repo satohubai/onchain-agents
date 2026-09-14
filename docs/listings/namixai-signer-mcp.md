@@ -2,7 +2,24 @@
 title: "Usenami Signer MCP — Sato Hub index"
 description: "MCP server that signs CEX/DEX orders inside an attested AWS Nitro Enclave so keys never touch the agent process."
 canonical: "https://satohub.ai/resources/namixai-signer-mcp"
+canonical_url: "https://satohub.ai/resources/namixai-signer-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Usenami Signer MCP"
+code_repository: "https://github.com/namixai/signer-mcp"
+software_url: "https://github.com/namixai/signer-mcp"
+application_category: "Security Tool"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-12"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Security & preflight"
+    url: "https://satohubai.github.io/onchain-agents/categories/security"
+  - name: "Usenami Signer MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/namixai-signer-mcp"
 ---
 
 # Usenami Signer MCP

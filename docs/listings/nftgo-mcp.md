@@ -2,7 +2,24 @@
 title: "NFTGo — Sato Hub index"
 description: "Official MCP server for NFTGo's Ethereum NFT analytics API: collections, assets, market data, and wallet holdings."
 canonical: "https://satohub.ai/resources/nftgo-mcp"
+canonical_url: "https://satohub.ai/resources/nftgo-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "NFTGo"
+code_repository: "https://github.com/NFTGo/mcp-nftgo-api"
+software_url: "https://nftgo.io"
+application_category: "Data Tool"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2025-04-24"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Data, RPC & indexing"
+    url: "https://satohubai.github.io/onchain-agents/categories/data-rpc"
+  - name: "NFTGo"
+    url: "https://satohubai.github.io/onchain-agents/listings/nftgo-mcp"
 ---
 
 # NFTGo

@@ -2,7 +2,22 @@
 title: "Virtuals Protocol — Sato Hub index"
 description: "Launchpad and protocol for creating and tokenizing AI agents, primarily on Base."
 canonical: "https://satohub.ai/resources/virtuals-protocol"
+canonical_url: "https://satohub.ai/resources/virtuals-protocol"
 layout: "default"
+page_type: "listing"
+item_name: "Virtuals Protocol"
+code_repository: "https://github.com/Virtual-Protocol"
+software_url: "https://virtuals.io"
+application_category: "Agent Launchpad"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-09"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Virtuals Protocol"
+    url: "https://satohubai.github.io/onchain-agents/listings/virtuals-protocol"
 ---
 
 # Virtuals Protocol

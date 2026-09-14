@@ -2,7 +2,25 @@
 title: "PayAI Network — Sato Hub index"
 description: "Solana-first x402 payment facilitator enabling usage-based, machine-to-machine payments for AI agents."
 canonical: "https://satohub.ai/resources/payai-network"
+canonical_url: "https://satohub.ai/resources/payai-network"
 layout: "default"
+page_type: "listing"
+item_name: "PayAI Network"
+code_repository: "https://github.com/PayAINetwork"
+software_url: "https://payai.network"
+application_category: "API / SDK"
+application_subcategory: "x402 payment facilitator for agents"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Onchain action kits & SDKs"
+    url: "https://satohubai.github.io/onchain-agents/categories/action-kits"
+  - name: "PayAI Network"
+    url: "https://satohubai.github.io/onchain-agents/listings/payai-network"
 ---
 
 # PayAI Network

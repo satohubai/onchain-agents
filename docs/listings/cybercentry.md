@@ -2,7 +2,22 @@
 title: "Cybercentry — Sato Hub index"
 description: "Pay-per-use security verification endpoints for AI agents, billed via x402 micropayments."
 canonical: "https://satohub.ai/resources/cybercentry"
+canonical_url: "https://satohub.ai/resources/cybercentry"
 layout: "default"
+page_type: "listing"
+item_name: "Cybercentry"
+software_url: "https://cybercentry.com"
+application_category: "Security Tool"
+application_subcategory: "AI-agent security verification endpoints"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Payments & agent commerce"
+    url: "https://satohubai.github.io/onchain-agents/categories/payments"
+  - name: "Cybercentry"
+    url: "https://satohubai.github.io/onchain-agents/listings/cybercentry"
 ---
 
 # Cybercentry

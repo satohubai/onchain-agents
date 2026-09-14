@@ -2,7 +2,21 @@
 title: "x402scan — Sato Hub index"
 description: "Explorer for the x402 ecosystem: transactions, sellers, origins, and resources across agentic commerce."
 canonical: "https://satohub.ai/resources/x402scan"
+canonical_url: "https://satohub.ai/resources/x402scan"
 layout: "default"
+page_type: "listing"
+item_name: "x402scan"
+software_url: "https://www.x402scan.com"
+application_category: "Data Tool"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Data, RPC & indexing"
+    url: "https://satohubai.github.io/onchain-agents/categories/data-rpc"
+  - name: "x402scan"
+    url: "https://satohubai.github.io/onchain-agents/listings/x402scan"
 ---
 
 # x402scan

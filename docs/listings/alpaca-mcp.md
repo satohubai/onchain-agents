@@ -2,7 +2,24 @@
 title: "Alpaca MCP Server — Sato Hub index"
 description: "Official Alpaca MCP for stock, options, and crypto trading, portfolio and order management, and market data."
 canonical: "https://satohub.ai/resources/alpaca-mcp"
+canonical_url: "https://satohub.ai/resources/alpaca-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Alpaca MCP Server"
+code_repository: "https://github.com/alpacahq/alpaca-mcp-server"
+software_url: "https://alpaca.markets"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-08-24"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Alpaca MCP Server"
+    url: "https://satohubai.github.io/onchain-agents/listings/alpaca-mcp"
 ---
 
 # Alpaca MCP Server

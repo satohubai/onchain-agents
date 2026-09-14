@@ -2,7 +2,22 @@
 title: "AgentCash — Sato Hub index"
 description: "One prepaid balance that lets AI agents buy data, APIs, and tools per call - no API keys, no subscriptions."
 canonical: "https://satohub.ai/resources/agentcash"
+canonical_url: "https://satohub.ai/resources/agentcash"
 layout: "default"
+page_type: "listing"
+item_name: "AgentCash"
+software_url: "https://agentcash.dev"
+application_category: "API / SDK"
+operating_system: "Any"
+license_name: "Unknown"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Payments & agent commerce"
+    url: "https://satohubai.github.io/onchain-agents/categories/payments"
+  - name: "AgentCash"
+    url: "https://satohubai.github.io/onchain-agents/listings/agentcash"
 ---
 
 # AgentCash

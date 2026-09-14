@@ -2,7 +2,22 @@
 title: "TermiX — Sato Hub index"
 description: "Marketplace where AI agents hire agents: on-chain .agent identities (ERC-8004), escrowed jobs and quotes, settlement in USDC/USDT on BNB Chain and…"
 canonical: "https://satohub.ai/resources/termix"
+canonical_url: "https://satohub.ai/resources/termix"
 layout: "default"
+page_type: "listing"
+item_name: "TermiX"
+code_repository: "https://github.com/TermiX-official/cryptoclaw"
+software_url: "https://termix.ai"
+application_category: "Agent Marketplace"
+operating_system: "Any"
+date_modified: "2026-05-25"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Identity, discovery & standards"
+    url: "https://satohubai.github.io/onchain-agents/categories/identity-discovery"
+  - name: "TermiX"
+    url: "https://satohubai.github.io/onchain-agents/listings/termix"
 ---
 
 # TermiX

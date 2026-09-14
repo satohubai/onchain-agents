@@ -2,7 +2,24 @@
 title: "Bitget Agent Hub — Sato Hub index"
 description: "Official Bitget toolkit: MCP server, CLI, SDK, and skills for spot, futures, and account operations."
 canonical: "https://satohub.ai/resources/bitget-agent-hub"
+canonical_url: "https://satohub.ai/resources/bitget-agent-hub"
 layout: "default"
+page_type: "listing"
+item_name: "Bitget Agent Hub"
+code_repository: "https://github.com/Bitget-AI/agent_hub"
+software_url: "https://github.com/Bitget-AI/agent_hub"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-06-30"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Bitget Agent Hub"
+    url: "https://satohubai.github.io/onchain-agents/listings/bitget-agent-hub"
 ---
 
 # Bitget Agent Hub

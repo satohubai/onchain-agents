@@ -2,7 +2,24 @@
 title: "CloddsBot — Sato Hub index"
 description: "Open-source autonomous AI trading agent operating across 1000+ markets including Polymarket, Kalshi, and Hyperliquid."
 canonical: "https://satohub.ai/resources/cloddsbot"
+canonical_url: "https://satohub.ai/resources/cloddsbot"
 layout: "default"
+page_type: "listing"
+item_name: "CloddsBot"
+code_repository: "https://github.com/alsk1992/CloddsBot"
+software_url: "https://www.cloddsbot.com"
+application_category: "Trading Tool"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-12"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Trading & DeFi venues"
+    url: "https://satohubai.github.io/onchain-agents/categories/trading-venues"
+  - name: "CloddsBot"
+    url: "https://satohubai.github.io/onchain-agents/listings/cloddsbot"
 ---
 
 # CloddsBot

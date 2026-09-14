@@ -2,7 +2,24 @@
 title: "Mina MCP Server — Sato Hub index"
 description: "Official Mina Protocol MCP server for Mina blockchain tooling and developer workflows."
 canonical: "https://satohub.ai/resources/mina-mcp"
+canonical_url: "https://satohub.ai/resources/mina-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Mina MCP Server"
+code_repository: "https://github.com/MinaProtocol/mina-mcp-server"
+software_url: "https://minaprotocol.com"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://www.apache.org/licenses/LICENSE-2.0"
+license_name: "Apache-2.0"
+date_modified: "2026-06-18"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Mina MCP Server"
+    url: "https://satohubai.github.io/onchain-agents/listings/mina-mcp"
 ---
 
 # Mina MCP Server

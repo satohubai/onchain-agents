@@ -2,7 +2,24 @@
 title: "Nodit MCP Server — Sato Hub index"
 description: "Official Nodit MCP server giving agents normalized multi-chain blockchain data across EVM and non-EVM networks."
 canonical: "https://satohub.ai/resources/nodit-mcp"
+canonical_url: "https://satohub.ai/resources/nodit-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Nodit MCP Server"
+code_repository: "https://github.com/noditlabs/nodit-mcp-server"
+software_url: "https://developer.nodit.io/"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://www.apache.org/licenses/LICENSE-2.0"
+license_name: "Apache-2.0"
+date_modified: "2026-06-23"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Nodit MCP Server"
+    url: "https://satohubai.github.io/onchain-agents/listings/nodit-mcp"
 ---
 
 # Nodit MCP Server

@@ -2,7 +2,25 @@
 title: "TradingAgents — Sato Hub index"
 description: "An open-source multi-agent LLM framework that simulates a trading firm with analyst, trader, and risk-management agents for research purposes."
 canonical: "https://satohub.ai/resources/tradingagents"
+canonical_url: "https://satohub.ai/resources/tradingagents"
 layout: "default"
+page_type: "listing"
+item_name: "TradingAgents"
+code_repository: "https://github.com/TauricResearch/TradingAgents"
+software_url: "https://tauricresearch.github.io/TradingAgents/"
+application_category: "Agent Framework"
+application_subcategory: "Multi-Agent LLM Trading Research Framework"
+operating_system: "Any"
+license_url: "https://www.apache.org/licenses/LICENSE-2.0"
+license_name: "Apache-2.0"
+date_modified: "2026-09-07"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Agent runtimes & frameworks"
+    url: "https://satohubai.github.io/onchain-agents/categories/agent-frameworks"
+  - name: "TradingAgents"
+    url: "https://satohubai.github.io/onchain-agents/listings/tradingagents"
 ---
 
 # TradingAgents

@@ -2,7 +2,22 @@
 title: "KuCoin Skills Hub — Sato Hub index"
 description: "Official KuCoin skills giving agents read-only access to spot, margin, futures, and account data."
 canonical: "https://satohub.ai/resources/kucoin-skills-hub"
+canonical_url: "https://satohub.ai/resources/kucoin-skills-hub"
 layout: "default"
+page_type: "listing"
+item_name: "KuCoin Skills Hub"
+code_repository: "https://github.com/Kucoin/kucoin-skills-hub"
+software_url: "https://github.com/Kucoin/kucoin-skills-hub"
+application_category: "Skill Repo"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-03-17"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "KuCoin Skills Hub"
+    url: "https://satohubai.github.io/onchain-agents/listings/kucoin-skills-hub"
 ---
 
 # KuCoin Skills Hub

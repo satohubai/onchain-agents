@@ -2,7 +2,24 @@
 title: "MCP Crypto Price — Sato Hub index"
 description: "MCP server exposing CoinCap-backed crypto pricing, market stats, and technical indicators as agent-callable tools."
 canonical: "https://satohub.ai/resources/mcp-crypto-price"
+canonical_url: "https://satohub.ai/resources/mcp-crypto-price"
 layout: "default"
+page_type: "listing"
+item_name: "MCP Crypto Price"
+code_repository: "https://github.com/truss44/mcp-crypto-price"
+software_url: "https://github.com/truss44/mcp-crypto-price"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-06"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "MCP Crypto Price"
+    url: "https://satohubai.github.io/onchain-agents/listings/mcp-crypto-price"
 ---
 
 # MCP Crypto Price

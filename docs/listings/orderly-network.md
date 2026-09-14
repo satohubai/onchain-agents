@@ -2,7 +2,25 @@
 title: "Orderly Network — Sato Hub index"
 description: "Omnichain orderbook trading infrastructure exposing REST and WebSocket APIs and SDKs for DEX builders."
 canonical: "https://satohub.ai/resources/orderly-network"
+canonical_url: "https://satohub.ai/resources/orderly-network"
 layout: "default"
+page_type: "listing"
+item_name: "Orderly Network"
+code_repository: "https://github.com/OrderlyNetwork"
+software_url: "https://orderly.network/"
+application_category: "API / SDK"
+application_subcategory: "Orderbook Infrastructure"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Onchain action kits & SDKs"
+    url: "https://satohubai.github.io/onchain-agents/categories/action-kits"
+  - name: "Orderly Network"
+    url: "https://satohubai.github.io/onchain-agents/listings/orderly-network"
 ---
 
 # Orderly Network

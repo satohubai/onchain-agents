@@ -2,7 +2,25 @@
 title: "ChainAware — Sato Hub index"
 description: "Pre-built MCP blockchain capability modules giving agents fraud detection, AML scoring, wallet profiling, and token analysis."
 canonical: "https://satohub.ai/resources/chainaware"
+canonical_url: "https://satohub.ai/resources/chainaware"
 layout: "default"
+page_type: "listing"
+item_name: "ChainAware"
+code_repository: "https://github.com/ChainAware/behavioral-prediction-mcp"
+software_url: "https://chainaware.ai"
+application_category: "Security Tool"
+application_subcategory: "Fraud / AML MCP server"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-08-11"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "ChainAware"
+    url: "https://satohubai.github.io/onchain-agents/listings/chainaware"
 ---
 
 # ChainAware

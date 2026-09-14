@@ -2,7 +2,22 @@
 title: "Coinbase MCP Server — Sato Hub index"
 description: "Coinbase's remote MCP server — grant an AI agent scoped access to your Coinbase account to trade, make payments, and more."
 canonical: "https://satohub.ai/resources/coinbase-mcp"
+canonical_url: "https://satohub.ai/resources/coinbase-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Coinbase MCP Server"
+software_url: "https://www.coinbase.com/blog/coinbase-for-agents"
+application_category: "MCP"
+application_subcategory: "Exchange account access for agents"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Coinbase MCP Server"
+    url: "https://satohubai.github.io/onchain-agents/listings/coinbase-mcp"
 ---
 
 # Coinbase MCP Server

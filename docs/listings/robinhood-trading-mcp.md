@@ -2,7 +2,23 @@
 title: "Robinhood Trading MCP — Sato Hub index"
 description: "Robinhood's first-party MCP server: an agent reads the account and places orders in a separate Agentic trading account, over OAuth."
 canonical: "https://satohub.ai/resources/robinhood-trading-mcp"
+canonical_url: "https://satohub.ai/resources/robinhood-trading-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Robinhood Trading MCP"
+software_url: "https://robinhood.com/us/en/support/agentic-trading"
+application_category: "MCP"
+application_subcategory: "Brokerage MCP server"
+operating_system: "Any"
+license_name: "Proprietary"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Robinhood Trading MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/robinhood-trading-mcp"
 ---
 
 # Robinhood Trading MCP

@@ -2,7 +2,21 @@
 title: "MOSS Agent Skills Pack — Sato Hub index"
 description: "Eight install-ready SKILL.md modules that teach coding agents — Claude Code, Codex, Cursor, Gemini — to build MOSS wallet integrations on MegaETH…"
 canonical: "https://satohub.ai/resources/moss-skills"
+canonical_url: "https://satohub.ai/resources/moss-skills"
 layout: "default"
+page_type: "listing"
+item_name: "MOSS Agent Skills Pack"
+code_repository: "https://github.com/megaeth-labs/moss-skills"
+software_url: "https://docs.megaeth.com/moss-docs/wallet/agent-skills"
+application_category: "Skill Repo"
+operating_system: "Any"
+license_name: "Unknown"
+date_modified: "2026-06-25"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MOSS Agent Skills Pack"
+    url: "https://satohubai.github.io/onchain-agents/listings/moss-skills"
 ---
 
 # MOSS Agent Skills Pack

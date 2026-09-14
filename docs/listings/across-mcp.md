@@ -2,7 +2,24 @@
 title: "Across MCP — Sato Hub index"
 description: "Official Across Protocol hosted MCP: docs search, chain data, and live bridge fees at mcp.across.to."
 canonical: "https://satohub.ai/resources/across-mcp"
+canonical_url: "https://satohub.ai/resources/across-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Across MCP"
+code_repository: "https://github.com/across-protocol/mcp-server-across"
+software_url: "https://across.to"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-07-20"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Across MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/across-mcp"
 ---
 
 # Across MCP

@@ -2,7 +2,24 @@
 title: "Franklin — Sato Hub index"
 description: "An autonomous AI agent with its own wallet that spends USDC to get real work done."
 canonical: "https://satohub.ai/resources/franklin-blockrun"
+canonical_url: "https://satohub.ai/resources/franklin-blockrun"
 layout: "default"
+page_type: "listing"
+item_name: "Franklin"
+code_repository: "https://github.com/BlockRunAI/Franklin"
+software_url: "https://franklin.run"
+application_category: "Onchain Agent"
+operating_system: "Any"
+license_url: "https://www.apache.org/licenses/LICENSE-2.0"
+license_name: "Apache-2.0"
+date_modified: "2026-09-05"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Payments & agent commerce"
+    url: "https://satohubai.github.io/onchain-agents/categories/payments"
+  - name: "Franklin"
+    url: "https://satohubai.github.io/onchain-agents/listings/franklin-blockrun"
 ---
 
 # Franklin

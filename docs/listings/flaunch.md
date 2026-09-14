@@ -2,7 +2,22 @@
 title: "Flaunch — Sato Hub index"
 description: "Uniswap-V4-based token launch protocol on Base with a TypeScript SDK and its own MCP server."
 canonical: "https://satohub.ai/resources/flaunch"
+canonical_url: "https://satohub.ai/resources/flaunch"
 layout: "default"
+page_type: "listing"
+item_name: "Flaunch"
+code_repository: "https://github.com/flayerlabs/flaunch-sdk"
+software_url: "https://docs.flaunch.gg/"
+application_category: "API / SDK"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-08"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Flaunch"
+    url: "https://satohubai.github.io/onchain-agents/listings/flaunch"
 ---
 
 # Flaunch

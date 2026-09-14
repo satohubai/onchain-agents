@@ -2,7 +2,24 @@
 title: "Para — Sato Hub index"
 description: "MPC embedded-wallet platform (SOC 2 Type II) with an MCP server for AI agents to create and sign wallets across chains."
 canonical: "https://satohub.ai/resources/para-wallet"
+canonical_url: "https://satohub.ai/resources/para-wallet"
 layout: "default"
+page_type: "listing"
+item_name: "Para"
+code_repository: "https://github.com/getpara/para-wallet-mcp"
+software_url: "https://developer.getpara.com"
+application_category: "Wallet Infrastructure"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Wallets, keys & permissions"
+    url: "https://satohubai.github.io/onchain-agents/categories/wallets-keys"
+  - name: "Para"
+    url: "https://satohubai.github.io/onchain-agents/listings/para-wallet"
 ---
 
 # Para

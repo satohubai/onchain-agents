@@ -2,7 +2,24 @@
 title: "Lightning Wallet MCP — Sato Hub index"
 description: "Bitcoin Lightning wallet MCP and CLI for agent payments: invoices, sends, and L402 support."
 canonical: "https://satohub.ai/resources/lightning-wallet-mcp"
+canonical_url: "https://satohub.ai/resources/lightning-wallet-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Lightning Wallet MCP"
+code_repository: "https://github.com/lightningfaucet/lightning-wallet-mcp"
+software_url: "https://github.com/lightningfaucet/lightning-wallet-mcp"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-11"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Lightning Wallet MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/lightning-wallet-mcp"
 ---
 
 # Lightning Wallet MCP
@@ -21,7 +38,7 @@ Sato Score: **⬡ 73** (High), +10 over 7 days — a measure of how open, active
 - **Use cases:** payments, wallets
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 2 days ago
+- **Activity:** Active — last activity 3 days ago
 - **GitHub stars:** 9
 - **Deploys as:** npm
 - **Works with:** Claude Code, OpenClaw, Cursor

@@ -2,7 +2,24 @@
 title: "Snak (Starknet Agent Kit) — Sato Hub index"
 description: "NestJS-based toolkit for building AI agents that interact with Starknet, supporting multiple LLM providers."
 canonical: "https://satohub.ai/resources/snak-starknet-agent-kit"
+canonical_url: "https://satohub.ai/resources/snak-starknet-agent-kit"
 layout: "default"
+page_type: "listing"
+item_name: "Snak (Starknet Agent Kit)"
+code_repository: "https://github.com/KasarLabs/snak"
+software_url: "https://www.starkagent.ai/"
+application_category: "Agent Framework"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2025-10-31"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Agent runtimes & frameworks"
+    url: "https://satohubai.github.io/onchain-agents/categories/agent-frameworks"
+  - name: "Snak (Starknet Agent Kit)"
+    url: "https://satohubai.github.io/onchain-agents/listings/snak-starknet-agent-kit"
 ---
 
 # Snak (Starknet Agent Kit)

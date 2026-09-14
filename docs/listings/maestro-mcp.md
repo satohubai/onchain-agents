@@ -2,7 +2,24 @@
 title: "Maestro MCP Server — Sato Hub index"
 description: "Official Maestro Bitcoin MCP: indexer, mempool, price, and node RPC data via hosted mainnet/testnet endpoints."
 canonical: "https://satohub.ai/resources/maestro-mcp"
+canonical_url: "https://satohub.ai/resources/maestro-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Maestro MCP Server"
+code_repository: "https://github.com/maestro-org/maestro-mcp-server"
+software_url: "https://www.gomaestro.org"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://www.apache.org/licenses/LICENSE-2.0"
+license_name: "Apache-2.0"
+date_modified: "2026-04-30"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Maestro MCP Server"
+    url: "https://satohubai.github.io/onchain-agents/listings/maestro-mcp"
 ---
 
 # Maestro MCP Server

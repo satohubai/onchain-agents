@@ -2,7 +2,24 @@
 title: "graph-aave-mcp — Sato Hub index"
 description: "MCP server querying Aave V2/V3/V4 lending and governance data across 7 chains via The Graph."
 canonical: "https://satohub.ai/resources/graph-aave-mcp"
+canonical_url: "https://satohub.ai/resources/graph-aave-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "graph-aave-mcp"
+code_repository: "https://github.com/PaulieB14/graph-aave-mcp"
+software_url: "https://github.com/PaulieB14/graph-aave-mcp"
+application_category: "Data Tool"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-02"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Data, RPC & indexing"
+    url: "https://satohubai.github.io/onchain-agents/categories/data-rpc"
+  - name: "graph-aave-mcp"
+    url: "https://satohubai.github.io/onchain-agents/listings/graph-aave-mcp"
 ---
 
 # graph-aave-mcp

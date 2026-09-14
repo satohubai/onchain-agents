@@ -2,7 +2,24 @@
 title: "Aerodrome — Sato Hub index"
 description: "Spot DEX and liquidity marketplace on Base, with open-source contracts and third-party swap APIs/SDKs."
 canonical: "https://satohub.ai/resources/aerodrome-finance"
+canonical_url: "https://satohub.ai/resources/aerodrome-finance"
 layout: "default"
+page_type: "listing"
+item_name: "Aerodrome"
+code_repository: "https://github.com/aerodrome-finance"
+software_url: "https://aerodrome.finance/"
+application_category: "Trading Tool"
+application_subcategory: "Spot DEX"
+operating_system: "Any"
+license_name: "Unknown (README references Apache Foundation licensing guidelines; see LICENSE/NOTICE)"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Trading & DeFi venues"
+    url: "https://satohubai.github.io/onchain-agents/categories/trading-venues"
+  - name: "Aerodrome"
+    url: "https://satohubai.github.io/onchain-agents/listings/aerodrome-finance"
 ---
 
 # Aerodrome

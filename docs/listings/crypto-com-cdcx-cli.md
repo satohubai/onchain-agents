@@ -2,7 +2,21 @@
 title: "Crypto.com Exchange CLI (cdcx-cli) — Sato Hub index"
 description: "Official Crypto.com Exchange command-line client — scriptable trading API access with a TUI for humans."
 canonical: "https://satohub.ai/resources/crypto-com-cdcx-cli"
+canonical_url: "https://satohub.ai/resources/crypto-com-cdcx-cli"
 layout: "default"
+page_type: "listing"
+item_name: "Crypto.com Exchange CLI (cdcx-cli)"
+code_repository: "https://github.com/crypto-com/cdcx-cli"
+software_url: "https://crypto.com/exchange"
+application_category: "API / SDK"
+operating_system: "Any"
+license_name: "Apache-2.0 OR MIT"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Crypto.com Exchange CLI (cdcx-cli)"
+    url: "https://satohubai.github.io/onchain-agents/listings/crypto-com-cdcx-cli"
 ---
 
 # Crypto.com Exchange CLI (cdcx-cli)

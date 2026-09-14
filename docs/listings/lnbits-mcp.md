@@ -2,7 +2,24 @@
 title: "LNbits MCP — Sato Hub index"
 description: "Open-source MCP server for the LNbits Lightning accounts system: wallet balances, payments, and admin tools."
 canonical: "https://satohub.ai/resources/lnbits-mcp"
+canonical_url: "https://satohub.ai/resources/lnbits-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "LNbits MCP"
+code_repository: "https://github.com/lnbits/LNbits-MCP-Server"
+software_url: "https://lnbits.com"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-03-24"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "LNbits MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/lnbits-mcp"
 ---
 
 # LNbits MCP

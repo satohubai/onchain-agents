@@ -2,7 +2,24 @@
 title: "Olas (Autonolas) — Sato Hub index"
 description: "Network and framework for co-owned autonomous agent services operating onchain."
 canonical: "https://satohub.ai/resources/olas"
+canonical_url: "https://satohub.ai/resources/olas"
 layout: "default"
+page_type: "listing"
+item_name: "Olas (Autonolas)"
+code_repository: "https://github.com/valory-xyz"
+software_url: "https://olas.network"
+application_category: "Agent Framework"
+operating_system: "Any"
+license_url: "https://www.apache.org/licenses/LICENSE-2.0"
+license_name: "Apache-2.0"
+date_modified: "2026-09-11"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Agent runtimes & frameworks"
+    url: "https://satohubai.github.io/onchain-agents/categories/agent-frameworks"
+  - name: "Olas (Autonolas)"
+    url: "https://satohubai.github.io/onchain-agents/listings/olas"
 ---
 
 # Olas (Autonolas)

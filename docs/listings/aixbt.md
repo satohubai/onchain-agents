@@ -2,7 +2,20 @@
 title: "aixbt — Sato Hub index"
 description: "AI market-intelligence agent that publishes crypto narrative and project analysis."
 canonical: "https://satohub.ai/resources/aixbt"
+canonical_url: "https://satohub.ai/resources/aixbt"
 layout: "default"
+page_type: "listing"
+item_name: "aixbt"
+software_url: "https://aixbt.tech"
+application_category: "Onchain Agent"
+application_subcategory: "Market Intelligence"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "aixbt"
+    url: "https://satohubai.github.io/onchain-agents/listings/aixbt"
 ---
 
 # aixbt

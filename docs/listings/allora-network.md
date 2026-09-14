@@ -2,7 +2,23 @@
 title: "Allora Network — Sato Hub index"
 description: "Decentralized ML-inference network aggregating community models into price/volatility forecasts agents can query."
 canonical: "https://satohub.ai/resources/allora-network"
+canonical_url: "https://satohub.ai/resources/allora-network"
 layout: "default"
+page_type: "listing"
+item_name: "Allora Network"
+code_repository: "https://github.com/allora-network"
+software_url: "https://www.allora.network"
+application_category: "Data Tool"
+operating_system: "Any"
+license_name: "Unknown"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Data, RPC & indexing"
+    url: "https://satohubai.github.io/onchain-agents/categories/data-rpc"
+  - name: "Allora Network"
+    url: "https://satohubai.github.io/onchain-agents/listings/allora-network"
 ---
 
 # Allora Network

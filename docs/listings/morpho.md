@@ -2,7 +2,22 @@
 title: "Morpho — Sato Hub index"
 description: "Non-custodial lending protocol with isolated markets and curated vaults, shipped as a Base MCP skill plugin."
 canonical: "https://satohub.ai/resources/morpho"
+canonical_url: "https://satohub.ai/resources/morpho"
 layout: "default"
+page_type: "listing"
+item_name: "Morpho"
+code_repository: "https://github.com/morpho-org/morpho-blue"
+software_url: "https://morpho.org/"
+application_category: "DeFi Tool"
+operating_system: "Any"
+date_modified: "2026-07-31"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Trading & DeFi venues"
+    url: "https://satohubai.github.io/onchain-agents/categories/trading-venues"
+  - name: "Morpho"
+    url: "https://satohubai.github.io/onchain-agents/listings/morpho"
 ---
 
 # Morpho

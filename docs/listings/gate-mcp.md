@@ -2,7 +2,24 @@
 title: "Gate MCP Server — Sato Hub index"
 description: "Official Gate MCP: hosted endpoints for market data, info, and news, plus OAuth-gated CEX trading and DEX swaps."
 canonical: "https://satohub.ai/resources/gate-mcp"
+canonical_url: "https://satohub.ai/resources/gate-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Gate MCP Server"
+code_repository: "https://github.com/gate/gate-mcp"
+software_url: "https://www.gate.com"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-04-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Gate MCP Server"
+    url: "https://satohubai.github.io/onchain-agents/listings/gate-mcp"
 ---
 
 # Gate MCP Server

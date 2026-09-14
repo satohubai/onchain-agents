@@ -2,7 +2,23 @@
 title: "Universal Contract AI Interface (UCAI) — Sato Hub index"
 description: "ABI-to-MCP generator: turns any smart contract ABI into an MCP server agents can call."
 canonical: "https://satohub.ai/resources/ucai"
+canonical_url: "https://satohub.ai/resources/ucai"
 layout: "default"
+page_type: "listing"
+item_name: "Universal Contract AI Interface (UCAI)"
+code_repository: "https://github.com/nirholas/UCAI"
+software_url: "https://github.com/nirholas/UCAI"
+application_category: "Developer Tool"
+operating_system: "Any"
+license_name: "Proprietary (README states 'All rights reserved')"
+date_modified: "2026-08-17"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Onchain action kits & SDKs"
+    url: "https://satohubai.github.io/onchain-agents/categories/action-kits"
+  - name: "Universal Contract AI Interface (UCAI)"
+    url: "https://satohubai.github.io/onchain-agents/listings/ucai"
 ---
 
 # Universal Contract AI Interface (UCAI)

@@ -2,7 +2,25 @@
 title: "OpenSea Agent Skill — Sato Hub index"
 description: "Official OpenSea agent skill and MCP server letting AI agents query NFT/token data and execute marketplace operations such as listing, offers, and…"
 canonical: "https://satohub.ai/resources/opensea-agent-skill"
+canonical_url: "https://satohub.ai/resources/opensea-agent-skill"
 layout: "default"
+page_type: "listing"
+item_name: "OpenSea Agent Skill"
+code_repository: "https://github.com/ProjectOpenSea/opensea-skill"
+software_url: "https://docs.opensea.io/docs/build-with-ai-agents"
+application_category: "API / SDK"
+application_subcategory: "NFT Marketplace Agent Skill / MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-01"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Onchain action kits & SDKs"
+    url: "https://satohubai.github.io/onchain-agents/categories/action-kits"
+  - name: "OpenSea Agent Skill"
+    url: "https://satohubai.github.io/onchain-agents/listings/opensea-agent-skill"
 ---
 
 # OpenSea Agent Skill

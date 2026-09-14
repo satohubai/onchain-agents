@@ -2,7 +2,21 @@
 title: "MPPscan — Sato Hub index"
 description: "Ecosystem explorer for the Machine Payments Protocol (MPP) on Tempo: agent payment servers, micropayments, and volume."
 canonical: "https://satohub.ai/resources/mppscan"
+canonical_url: "https://satohub.ai/resources/mppscan"
 layout: "default"
+page_type: "listing"
+item_name: "MPPscan"
+software_url: "https://mppscan.com"
+application_category: "Data Tool"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Data, RPC & indexing"
+    url: "https://satohubai.github.io/onchain-agents/categories/data-rpc"
+  - name: "MPPscan"
+    url: "https://satohubai.github.io/onchain-agents/listings/mppscan"
 ---
 
 # MPPscan

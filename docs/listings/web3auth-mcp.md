@@ -2,7 +2,24 @@
 title: "MetaMask Embedded Wallets MCP — Sato Hub index"
 description: "Official Web3Auth MCP for integrating MetaMask Embedded Wallets: live SDK docs, examples, and type lookup."
 canonical: "https://satohub.ai/resources/web3auth-mcp"
+canonical_url: "https://satohub.ai/resources/web3auth-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "MetaMask Embedded Wallets MCP"
+code_repository: "https://github.com/Web3Auth/web3auth-mcp"
+software_url: "https://web3auth.io"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-06-04"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "MetaMask Embedded Wallets MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/web3auth-mcp"
 ---
 
 # MetaMask Embedded Wallets MCP

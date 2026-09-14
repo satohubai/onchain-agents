@@ -2,7 +2,24 @@
 title: "TradeMemory Protocol — Sato Hub index"
 description: "Decision audit trail and persistent memory for AI trading agents, with tamper-evident recall."
 canonical: "https://satohub.ai/resources/tradememory-protocol"
+canonical_url: "https://satohub.ai/resources/tradememory-protocol"
 layout: "default"
+page_type: "listing"
+item_name: "TradeMemory Protocol"
+code_repository: "https://github.com/mnemox-ai/tradememory-protocol"
+software_url: "https://mnemox.ai/tradememory/"
+application_category: "Developer Tool"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-08"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Onchain action kits & SDKs"
+    url: "https://satohubai.github.io/onchain-agents/categories/action-kits"
+  - name: "TradeMemory Protocol"
+    url: "https://satohubai.github.io/onchain-agents/listings/tradememory-protocol"
 ---
 
 # TradeMemory Protocol

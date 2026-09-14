@@ -2,7 +2,23 @@
 title: "IronClaw — Sato Hub index"
 description: "NEAR AI's open-source secure agent runtime that runs agent workloads inside hardware TEEs on NEAR AI Cloud."
 canonical: "https://satohub.ai/resources/ironclaw-near-ai"
+canonical_url: "https://satohub.ai/resources/ironclaw-near-ai"
 layout: "default"
+page_type: "listing"
+item_name: "IronClaw"
+code_repository: "https://github.com/nearai/ironclaw"
+software_url: "https://www.ironclaw.com/"
+application_category: "Agent Framework"
+operating_system: "Any"
+license_name: "Apache-2.0 OR MIT"
+date_modified: "2026-09-08"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Agent runtimes & frameworks"
+    url: "https://satohubai.github.io/onchain-agents/categories/agent-frameworks"
+  - name: "IronClaw"
+    url: "https://satohubai.github.io/onchain-agents/listings/ironclaw-near-ai"
 ---
 
 # IronClaw

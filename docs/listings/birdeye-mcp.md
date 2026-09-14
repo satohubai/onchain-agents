@@ -2,7 +2,22 @@
 title: "Birdeye MCP — Sato Hub index"
 description: "Official hosted MCP for real-time and historical crypto market data across 8M+ tokens."
 canonical: "https://satohub.ai/resources/birdeye-mcp"
+canonical_url: "https://satohub.ai/resources/birdeye-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Birdeye MCP"
+software_url: "https://birdeye.so"
+application_category: "MCP"
+operating_system: "Any"
+license_name: "Unknown"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Birdeye MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/birdeye-mcp"
 ---
 
 # Birdeye MCP

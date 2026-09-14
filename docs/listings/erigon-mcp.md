@@ -2,7 +2,22 @@
 title: "Erigon MCP — Sato Hub index"
 description: "Open-source MCP built into the Erigon Ethereum client, exposing 40+ read-only JSON-RPC and node-data tools."
 canonical: "https://satohub.ai/resources/erigon-mcp"
+canonical_url: "https://satohub.ai/resources/erigon-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Erigon MCP"
+software_url: "https://erigon.tech"
+application_category: "MCP"
+operating_system: "Any"
+license_name: "Unknown"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Erigon MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/erigon-mcp"
 ---
 
 # Erigon MCP

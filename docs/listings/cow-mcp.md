@@ -2,7 +2,24 @@
 title: "CoW MCP — Sato Hub index"
 description: "Community MCP server for CoW Protocol: quotes, token/chain lookup, trade history, and EIP-712 order payloads."
 canonical: "https://satohub.ai/resources/cow-mcp"
+canonical_url: "https://satohub.ai/resources/cow-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "CoW MCP"
+code_repository: "https://github.com/krzysu/cow-mcp"
+software_url: "https://github.com/krzysu/cow-mcp"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-04-26"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "CoW MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/cow-mcp"
 ---
 
 # CoW MCP

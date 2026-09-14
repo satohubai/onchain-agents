@@ -2,7 +2,25 @@
 title: "OpenAI Codex — Sato Hub index"
 description: "OpenAI's agentic coding tool (CLI, IDE, and cloud) that runs agents and connects to MCP servers and skills."
 canonical: "https://satohub.ai/resources/openai-codex"
+canonical_url: "https://satohub.ai/resources/openai-codex"
 layout: "default"
+page_type: "listing"
+item_name: "OpenAI Codex"
+code_repository: "https://github.com/openai/codex"
+software_url: "https://openai.com/codex"
+application_category: "Agent Framework"
+application_subcategory: "Agentic coding harness"
+operating_system: "Any"
+license_url: "https://www.apache.org/licenses/LICENSE-2.0"
+license_name: "Apache-2.0"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Agent runtimes & frameworks"
+    url: "https://satohubai.github.io/onchain-agents/categories/agent-frameworks"
+  - name: "OpenAI Codex"
+    url: "https://satohubai.github.io/onchain-agents/listings/openai-codex"
 ---
 
 # OpenAI Codex

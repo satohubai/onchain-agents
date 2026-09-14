@@ -2,7 +2,23 @@
 title: "NodeOps (CreateOS) — Sato Hub index"
 description: "A deployment platform whose CreateOS skills let AI coding tools deploy and manage apps without manual DevOps."
 canonical: "https://satohub.ai/resources/nodeops-createos"
+canonical_url: "https://satohub.ai/resources/nodeops-createos"
 layout: "default"
+page_type: "listing"
+item_name: "NodeOps (CreateOS)"
+software_url: "https://nodeops.network"
+application_category: "Developer Tool"
+application_subcategory: "AI app deployment / DevOps skills"
+operating_system: "Any"
+license_name: "Unknown"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Onchain action kits & SDKs"
+    url: "https://satohubai.github.io/onchain-agents/categories/action-kits"
+  - name: "NodeOps (CreateOS)"
+    url: "https://satohubai.github.io/onchain-agents/listings/nodeops-createos"
 ---
 
 # NodeOps (CreateOS)

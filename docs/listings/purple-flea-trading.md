@@ -2,7 +2,24 @@
 title: "Purple Flea Trading — Sato Hub index"
 description: "API and MCP server for trading 275+ perpetual futures (crypto, stocks, commodities, forex) on Hyperliquid."
 canonical: "https://satohub.ai/resources/purple-flea-trading"
+canonical_url: "https://satohub.ai/resources/purple-flea-trading"
 layout: "default"
+page_type: "listing"
+item_name: "Purple Flea Trading"
+code_repository: "https://github.com/purple-flea/agent-trading"
+software_url: "https://purpleflea.com/"
+application_category: "Trading Tool"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-03-19"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Trading & DeFi venues"
+    url: "https://satohubai.github.io/onchain-agents/categories/trading-venues"
+  - name: "Purple Flea Trading"
+    url: "https://satohubai.github.io/onchain-agents/listings/purple-flea-trading"
 ---
 
 # Purple Flea Trading

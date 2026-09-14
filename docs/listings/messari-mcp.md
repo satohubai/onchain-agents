@@ -2,7 +2,21 @@
 title: "Messari MCP — Sato Hub index"
 description: "Official hosted Messari MCP for crypto research: market data, on-chain metrics, and news across 40,000+ assets."
 canonical: "https://satohub.ai/resources/messari-mcp"
+canonical_url: "https://satohub.ai/resources/messari-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Messari MCP"
+software_url: "https://messari.io"
+application_category: "MCP"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Messari MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/messari-mcp"
 ---
 
 # Messari MCP

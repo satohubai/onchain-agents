@@ -2,7 +2,23 @@
 title: "Polkadot MCP — Sato Hub index"
 description: "Read-only Rust stdio MCP for Polkadot, Kusama, and parachains: accounts, governance, staking, and chain state."
 canonical: "https://satohub.ai/resources/polkadot-mcp"
+canonical_url: "https://satohub.ai/resources/polkadot-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Polkadot MCP"
+code_repository: "https://github.com/shawntabrizi/polkadot-mcp"
+software_url: "https://github.com/shawntabrizi/polkadot-mcp"
+application_category: "MCP"
+operating_system: "Any"
+license_name: "Apache-2.0 (README header also mentions MIT — inconsistent; body states Apache-2.0)"
+date_modified: "2026-03-12"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Polkadot MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/polkadot-mcp"
 ---
 
 # Polkadot MCP

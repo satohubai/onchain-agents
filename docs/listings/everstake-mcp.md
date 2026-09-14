@@ -2,7 +2,24 @@
 title: "Everstake — Sato Hub index"
 description: "Official MCP server from certified staking provider Everstake exposing live APY, uptime, and staking-calculator data."
 canonical: "https://satohub.ai/resources/everstake-mcp"
+canonical_url: "https://satohub.ai/resources/everstake-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Everstake"
+code_repository: "https://github.com/everstake/mcp"
+software_url: "https://everstake.one"
+application_category: "Data Tool"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/BSD-3-Clause"
+license_name: "BSD-3-Clause"
+date_modified: "2026-07-01"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Data, RPC & indexing"
+    url: "https://satohubai.github.io/onchain-agents/categories/data-rpc"
+  - name: "Everstake"
+    url: "https://satohubai.github.io/onchain-agents/listings/everstake-mcp"
 ---
 
 # Everstake

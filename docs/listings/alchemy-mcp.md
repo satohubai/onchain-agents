@@ -2,7 +2,24 @@
 title: "Alchemy MCP Server — Sato Hub index"
 description: "Official Alchemy MCP server exposing token, NFT, transaction, and wallet-execution tools to agents."
 canonical: "https://satohub.ai/resources/alchemy-mcp"
+canonical_url: "https://satohub.ai/resources/alchemy-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Alchemy MCP Server"
+code_repository: "https://github.com/alchemyplatform/alchemy-mcp-server"
+software_url: "https://www.alchemy.com"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-06-29"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Alchemy MCP Server"
+    url: "https://satohubai.github.io/onchain-agents/listings/alchemy-mcp"
 ---
 
 # Alchemy MCP Server

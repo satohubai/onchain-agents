@@ -2,7 +2,22 @@
 title: "Para Wallet Skill — Sato Hub index"
 description: "Portable SKILL.md for Para's MPC embedded-wallet SDK, letting coding agents wire up seedless wallet auth/signing for Solana, EVM, and Cosmos."
 canonical: "https://satohub.ai/resources/para-wallet-skill"
+canonical_url: "https://satohub.ai/resources/para-wallet-skill"
 layout: "default"
+page_type: "listing"
+item_name: "Para Wallet Skill"
+software_url: "https://getpara.com"
+application_category: "Wallet Infrastructure"
+operating_system: "Any"
+license_name: "Unknown"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Wallets, keys & permissions"
+    url: "https://satohubai.github.io/onchain-agents/categories/wallets-keys"
+  - name: "Para Wallet Skill"
+    url: "https://satohubai.github.io/onchain-agents/listings/para-wallet-skill"
 ---
 
 # Para Wallet Skill

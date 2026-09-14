@@ -2,7 +2,23 @@
 title: "Manus — Sato Hub index"
 description: "General-purpose autonomous AI agent that executes multi-step tasks and can run onchain agent skills."
 canonical: "https://satohub.ai/resources/manus"
+canonical_url: "https://satohub.ai/resources/manus"
 layout: "default"
+page_type: "listing"
+item_name: "Manus"
+software_url: "https://manus.im"
+application_category: "Agent Framework"
+application_subcategory: "General-purpose autonomous agent"
+operating_system: "Any"
+license_name: "Proprietary (hosted)"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Agent runtimes & frameworks"
+    url: "https://satohubai.github.io/onchain-agents/categories/agent-frameworks"
+  - name: "Manus"
+    url: "https://satohubai.github.io/onchain-agents/listings/manus"
 ---
 
 # Manus

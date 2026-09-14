@@ -2,7 +2,23 @@
 title: "Giza (ARMA) — Sato Hub index"
 description: "ARMA is Giza's autonomous agent that manages stablecoin lending positions across Base DeFi protocols on the user's behalf."
 canonical: "https://satohub.ai/resources/giza-arma"
+canonical_url: "https://satohub.ai/resources/giza-arma"
 layout: "default"
+page_type: "listing"
+item_name: "Giza (ARMA)"
+software_url: "https://www.gizatech.xyz/"
+application_category: "Onchain Agent"
+application_subcategory: "Autonomous stablecoin yield agent"
+operating_system: "Any"
+license_name: "Unknown"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Onchain action kits & SDKs"
+    url: "https://satohubai.github.io/onchain-agents/categories/action-kits"
+  - name: "Giza (ARMA)"
+    url: "https://satohubai.github.io/onchain-agents/listings/giza-arma"
 ---
 
 # Giza (ARMA)

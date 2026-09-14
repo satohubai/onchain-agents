@@ -2,7 +2,24 @@
 title: "Swapper Toolkit — Sato Hub index"
 description: "DeFi toolkit that gives AI agents and coding assistants wallets to deposit funds, execute trades, and manage crypto."
 canonical: "https://satohub.ai/resources/swapper-toolkit"
+canonical_url: "https://satohub.ai/resources/swapper-toolkit"
 layout: "default"
+page_type: "listing"
+item_name: "Swapper Toolkit"
+code_repository: "https://github.com/swapperfinance/swapper-toolkit"
+software_url: "https://swapper.finance"
+application_category: "Wallet Infrastructure"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-03-23"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Wallets, keys & permissions"
+    url: "https://satohubai.github.io/onchain-agents/categories/wallets-keys"
+  - name: "Swapper Toolkit"
+    url: "https://satohubai.github.io/onchain-agents/listings/swapper-toolkit"
 ---
 
 # Swapper Toolkit

@@ -2,7 +2,22 @@
 title: "solana-ai-kit — Sato Hub index"
 description: "Claude Code / Codex configuration bundle for Solana development — CLAUDE.md, agents, commands, hooks, and skills."
 canonical: "https://satohub.ai/resources/solana-ai-kit"
+canonical_url: "https://satohub.ai/resources/solana-ai-kit"
 layout: "default"
+page_type: "listing"
+item_name: "solana-ai-kit"
+code_repository: "https://github.com/solanabr/solana-ai-kit"
+software_url: "https://github.com/solanabr/solana-ai-kit"
+application_category: "Skill Repo"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-06-26"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "solana-ai-kit"
+    url: "https://satohubai.github.io/onchain-agents/listings/solana-ai-kit"
 ---
 
 # solana-ai-kit

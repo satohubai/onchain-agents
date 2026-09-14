@@ -2,7 +2,22 @@
 title: "Spectral Syntax — Sato Hub index"
 description: "A no-code platform from Spectral Labs that turns natural-language prompts into autonomous onchain agents with wallets and trading capabilities."
 canonical: "https://satohub.ai/resources/spectral-syntax"
+canonical_url: "https://satohub.ai/resources/spectral-syntax"
 layout: "default"
+page_type: "listing"
+item_name: "Spectral Syntax"
+software_url: "https://www.spectrallabs.xyz/"
+application_category: "Agent Framework"
+application_subcategory: "No-code onchain agent creation"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Agent runtimes & frameworks"
+    url: "https://satohubai.github.io/onchain-agents/categories/agent-frameworks"
+  - name: "Spectral Syntax"
+    url: "https://satohubai.github.io/onchain-agents/listings/spectral-syntax"
 ---
 
 # Spectral Syntax

@@ -2,7 +2,24 @@
 title: "Arbitrum Vibekit — Sato Hub index"
 description: "Arbitrum-native, MCP-first agent framework with A2A and x402 support, backed by an Arbitrum Foundation grant program."
 canonical: "https://satohub.ai/resources/arbitrum-vibekit"
+canonical_url: "https://satohub.ai/resources/arbitrum-vibekit"
 layout: "default"
+page_type: "listing"
+item_name: "Arbitrum Vibekit"
+code_repository: "https://github.com/EmberAGI/arbitrum-vibekit"
+software_url: "https://docs.emberai.xyz/vibekit/introduction"
+application_category: "Agent Framework"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-08-05"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Agent runtimes & frameworks"
+    url: "https://satohubai.github.io/onchain-agents/categories/agent-frameworks"
+  - name: "Arbitrum Vibekit"
+    url: "https://satohubai.github.io/onchain-agents/listings/arbitrum-vibekit"
 ---
 
 # Arbitrum Vibekit

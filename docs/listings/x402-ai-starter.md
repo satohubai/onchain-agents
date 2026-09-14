@@ -2,7 +2,23 @@
 title: "x402 AI Starter — Sato Hub index"
 description: "Vercel Labs' reference Next.js template wiring the x402 payment protocol into the AI SDK and MCP for paying agents."
 canonical: "https://satohub.ai/resources/x402-ai-starter"
+canonical_url: "https://satohub.ai/resources/x402-ai-starter"
 layout: "default"
+page_type: "listing"
+item_name: "x402 AI Starter"
+code_repository: "https://github.com/vercel-labs/x402-ai-starter"
+software_url: "https://vercel.com/templates/next.js/x402-ai-starter"
+application_category: "Developer Tool"
+operating_system: "Any"
+license_name: "Unknown"
+date_modified: "2025-12-11"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Onchain action kits & SDKs"
+    url: "https://satohubai.github.io/onchain-agents/categories/action-kits"
+  - name: "x402 AI Starter"
+    url: "https://satohubai.github.io/onchain-agents/listings/x402-ai-starter"
 ---
 
 # x402 AI Starter

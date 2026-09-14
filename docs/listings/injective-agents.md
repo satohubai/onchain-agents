@@ -2,7 +2,24 @@
 title: "Injective Agents — Sato Hub index"
 description: "A platform for deploying autonomous AI trading agents on Injective with onchain identity, order-book trading, and MCP framework support."
 canonical: "https://satohub.ai/resources/injective-agents"
+canonical_url: "https://satohub.ai/resources/injective-agents"
 layout: "default"
+page_type: "listing"
+item_name: "Injective Agents"
+code_repository: "https://github.com/InjectiveLabs/iAgent"
+software_url: "https://agents.injective.com"
+application_category: "Agent Framework"
+application_subcategory: "Onchain trading agent platform"
+operating_system: "Any"
+license_name: "Unknown"
+date_modified: "2025-03-25"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Agent runtimes & frameworks"
+    url: "https://satohubai.github.io/onchain-agents/categories/agent-frameworks"
+  - name: "Injective Agents"
+    url: "https://satohubai.github.io/onchain-agents/listings/injective-agents"
 ---
 
 # Injective Agents

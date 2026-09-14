@@ -2,7 +2,21 @@
 title: "OpenSea MCP — Sato Hub index"
 description: "Official hosted OpenSea MCP: NFT, token, and wallet data plus swap quotes and mint actions for agents."
 canonical: "https://satohub.ai/resources/opensea-mcp"
+canonical_url: "https://satohub.ai/resources/opensea-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "OpenSea MCP"
+software_url: "https://opensea.io"
+application_category: "MCP"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "OpenSea MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/opensea-mcp"
 ---
 
 # OpenSea MCP

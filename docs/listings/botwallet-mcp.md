@@ -2,7 +2,24 @@
 title: "BotWallet MCP — Sato Hub index"
 description: "Non-custodial wallet MCP for AI agents to invoice, get paid, and spend on other agents/APIs, with human-set limits."
 canonical: "https://satohub.ai/resources/botwallet-mcp"
+canonical_url: "https://satohub.ai/resources/botwallet-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "BotWallet MCP"
+code_repository: "https://github.com/botwallet-co/mcp"
+software_url: "https://botwallet.co"
+application_category: "Wallet Infrastructure"
+operating_system: "Any"
+license_url: "https://www.apache.org/licenses/LICENSE-2.0"
+license_name: "Apache-2.0"
+date_modified: "2026-03-26"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Wallets, keys & permissions"
+    url: "https://satohubai.github.io/onchain-agents/categories/wallets-keys"
+  - name: "BotWallet MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/botwallet-mcp"
 ---
 
 # BotWallet MCP

@@ -2,7 +2,24 @@
 title: "AIBTC MCP Server — Sato Hub index"
 description: "Bitcoin-native MCP server: BTC/STX wallets, L1 reads and transfers, Stacks, sBTC, and x402 payments."
 canonical: "https://satohub.ai/resources/aibtc-mcp"
+canonical_url: "https://satohub.ai/resources/aibtc-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "AIBTC MCP Server"
+code_repository: "https://github.com/aibtcdev/aibtc-mcp-server"
+software_url: "https://github.com/aibtcdev/aibtc-mcp-server"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-10"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "AIBTC MCP Server"
+    url: "https://satohubai.github.io/onchain-agents/listings/aibtc-mcp"
 ---
 
 # AIBTC MCP Server

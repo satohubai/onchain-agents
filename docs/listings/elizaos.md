@@ -2,7 +2,24 @@
 title: "ElizaOS — Sato Hub index"
 description: "Open-source TypeScript framework for building crypto-native multi-agent systems."
 canonical: "https://satohub.ai/resources/elizaos"
+canonical_url: "https://satohub.ai/resources/elizaos"
 layout: "default"
+page_type: "listing"
+item_name: "ElizaOS"
+code_repository: "https://github.com/elizaOS/eliza"
+software_url: "https://elizaos.ai"
+application_category: "Agent Framework"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-13"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Agent runtimes & frameworks"
+    url: "https://satohubai.github.io/onchain-agents/categories/agent-frameworks"
+  - name: "ElizaOS"
+    url: "https://satohubai.github.io/onchain-agents/listings/elizaos"
 ---
 
 # ElizaOS

@@ -2,7 +2,24 @@
 title: "CryptoQuant MCP — Sato Hub index"
 description: "Official CryptoQuant MCP server exposing on-chain metrics like MVRV, SOPR, and exchange flows to agents."
 canonical: "https://satohub.ai/resources/cryptoquant-mcp"
+canonical_url: "https://satohub.ai/resources/cryptoquant-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "CryptoQuant MCP"
+code_repository: "https://github.com/CryptoQuantOfficial/cryptoquant-mcp"
+software_url: "https://cryptoquant.com"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-02-03"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "CryptoQuant MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/cryptoquant-mcp"
 ---
 
 # CryptoQuant MCP

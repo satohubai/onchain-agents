@@ -2,7 +2,22 @@
 title: "minia2a — Sato Hub index"
 description: "minia2a is a marketplace where agents find and pay for services on Base."
 canonical: "https://satohub.ai/resources/minia2a"
+canonical_url: "https://satohub.ai/resources/minia2a"
 layout: "default"
+page_type: "listing"
+item_name: "minia2a"
+code_repository: "https://github.com/minia2auk/minia2a-mcp"
+software_url: "https://minia2a.uk"
+application_category: "Agent Marketplace"
+operating_system: "Any"
+date_modified: "2026-09-11"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "minia2a"
+    url: "https://satohubai.github.io/onchain-agents/listings/minia2a"
 ---
 
 # minia2a

@@ -2,7 +2,24 @@
 title: "Nansen — Sato Hub index"
 description: "Onchain analytics platform with wallet labeling and smart-money tracking, offering an API with key-based and x402 access."
 canonical: "https://satohub.ai/resources/nansen"
+canonical_url: "https://satohub.ai/resources/nansen"
 layout: "default"
+page_type: "listing"
+item_name: "Nansen"
+software_url: "https://nansen.ai/"
+application_category: "Data Tool"
+application_subcategory: "Onchain intelligence & smart money tracking"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-06-04"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Data, RPC & indexing"
+    url: "https://satohubai.github.io/onchain-agents/categories/data-rpc"
+  - name: "Nansen"
+    url: "https://satohubai.github.io/onchain-agents/listings/nansen"
 ---
 
 # Nansen

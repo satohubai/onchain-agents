@@ -2,7 +2,24 @@
 title: "Ionic Protocol — Sato Hub index"
 description: "Money-market lending protocol on Base/Mode with a GOAT SDK plugin for agent-driven supply, borrow, and swap actions."
 canonical: "https://satohub.ai/resources/ionic-protocol"
+canonical_url: "https://satohub.ai/resources/ionic-protocol"
 layout: "default"
+page_type: "listing"
+item_name: "Ionic Protocol"
+code_repository: "https://github.com/ionicprotocol"
+software_url: "https://www.ionic.money"
+application_category: "DeFi Tool"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Trading & DeFi venues"
+    url: "https://satohubai.github.io/onchain-agents/categories/trading-venues"
+  - name: "Ionic Protocol"
+    url: "https://satohubai.github.io/onchain-agents/listings/ionic-protocol"
 ---
 
 # Ionic Protocol

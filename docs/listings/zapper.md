@@ -2,7 +2,22 @@
 title: "Zapper — Sato Hub index"
 description: "Onchain portfolio data provider exposing token, NFT, and DeFi position data across many chains via a GraphQL API."
 canonical: "https://satohub.ai/resources/zapper"
+canonical_url: "https://satohub.ai/resources/zapper"
 layout: "default"
+page_type: "listing"
+item_name: "Zapper"
+software_url: "https://zapper.xyz/"
+application_category: "Data Tool"
+application_subcategory: "Onchain portfolio data API"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Data, RPC & indexing"
+    url: "https://satohubai.github.io/onchain-agents/categories/data-rpc"
+  - name: "Zapper"
+    url: "https://satohubai.github.io/onchain-agents/listings/zapper"
 ---
 
 # Zapper

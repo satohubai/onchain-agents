@@ -2,7 +2,24 @@
 title: "Deside MCP — Sato Hub index"
 description: "MCP server for wallet-to-wallet messaging and agent identity resolution on Solana."
 canonical: "https://satohub.ai/resources/deside-mcp"
+canonical_url: "https://satohub.ai/resources/deside-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Deside MCP"
+code_repository: "https://github.com/DesideApp/deside-docs"
+software_url: "https://github.com/DesideApp/deside-docs"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-08-16"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Deside MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/deside-mcp"
 ---
 
 # Deside MCP

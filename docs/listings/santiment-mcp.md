@@ -2,7 +2,22 @@
 title: "Santiment MCP — Sato Hub index"
 description: "Official OAuth-backed Santiment MCP for on-chain, social, and financial crypto metrics."
 canonical: "https://satohub.ai/resources/santiment-mcp"
+canonical_url: "https://satohub.ai/resources/santiment-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Santiment MCP"
+software_url: "https://santiment.net"
+application_category: "MCP"
+operating_system: "Any"
+license_name: "Unknown"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Santiment MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/santiment-mcp"
 ---
 
 # Santiment MCP

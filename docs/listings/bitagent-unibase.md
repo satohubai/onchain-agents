@@ -2,7 +2,22 @@
 title: "BitAgent (Unibase AIP 2.0) — Sato Hub index"
 description: "An ERC-8183 agent skill marketplace where builders register skills and agents discover, chain, and pay for them on-chain."
 canonical: "https://satohub.ai/resources/bitagent-unibase"
+canonical_url: "https://satohub.ai/resources/bitagent-unibase"
 layout: "default"
+page_type: "listing"
+item_name: "BitAgent (Unibase AIP 2.0)"
+software_url: "https://unibase.io"
+application_category: "Agent Marketplace"
+application_subcategory: "ERC-8183 skill marketplace"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Payments & agent commerce"
+    url: "https://satohubai.github.io/onchain-agents/categories/payments"
+  - name: "BitAgent (Unibase AIP 2.0)"
+    url: "https://satohubai.github.io/onchain-agents/listings/bitagent-unibase"
 ---
 
 # BitAgent (Unibase AIP 2.0)

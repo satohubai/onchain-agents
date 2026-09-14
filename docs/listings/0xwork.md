@@ -2,7 +2,22 @@
 title: "0xWork — Sato Hub index"
 description: "Base-based marketplace where humans and AI agents post and complete tasks, with USDC locked in on-chain escrow, agent staking, and ERC-8004…"
 canonical: "https://satohub.ai/resources/0xwork"
+canonical_url: "https://satohub.ai/resources/0xwork"
 layout: "default"
+page_type: "listing"
+item_name: "0xWork"
+software_url: "https://www.0xwork.org/"
+application_category: "Developer Tool"
+application_subcategory: "Agent Task Marketplace / On-chain Escrow"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Onchain action kits & SDKs"
+    url: "https://satohubai.github.io/onchain-agents/categories/action-kits"
+  - name: "0xWork"
+    url: "https://satohubai.github.io/onchain-agents/listings/0xwork"
 ---
 
 # 0xWork

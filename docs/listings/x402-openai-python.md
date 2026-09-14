@@ -2,7 +2,24 @@
 title: "x402 OpenAI (Python) — Sato Hub index"
 description: "Drop-in OpenAI Python client with transparent x402 micropayment support."
 canonical: "https://satohub.ai/resources/x402-openai-python"
+canonical_url: "https://satohub.ai/resources/x402-openai-python"
 layout: "default"
+page_type: "listing"
+item_name: "x402 OpenAI (Python)"
+code_repository: "https://github.com/qntx/x402-openai-python"
+software_url: "https://satohub.ai/resources/x402-openai-python"
+application_category: "API / SDK"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-03"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Onchain action kits & SDKs"
+    url: "https://satohubai.github.io/onchain-agents/categories/action-kits"
+  - name: "x402 OpenAI (Python)"
+    url: "https://satohubai.github.io/onchain-agents/listings/x402-openai-python"
 ---
 
 # x402 OpenAI (Python)

@@ -2,7 +2,24 @@
 title: "BlockBeats MCP — Sato Hub index"
 description: "Official BlockBeats MCP: crypto newsflashes, articles, market metrics, ETF flows, and macro signals."
 canonical: "https://satohub.ai/resources/blockbeats-mcp"
+canonical_url: "https://satohub.ai/resources/blockbeats-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "BlockBeats MCP"
+code_repository: "https://github.com/BlockBeatsOfficial/blockbeats-MCP"
+software_url: "https://www.theblockbeats.info"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-03-22"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "BlockBeats MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/blockbeats-mcp"
 ---
 
 # BlockBeats MCP

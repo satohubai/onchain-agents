@@ -2,7 +2,24 @@
 title: "Crypto APIs MCP Servers — Sato Hub index"
 description: "Official Crypto APIs MCP suite: hosted endpoint plus per-package servers for balances, blocks, txs, fees, and market data."
 canonical: "https://satohub.ai/resources/cryptoapis-mcp"
+canonical_url: "https://satohub.ai/resources/cryptoapis-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Crypto APIs MCP Servers"
+code_repository: "https://github.com/CryptoAPIs-io/cryptoapis-mcp-hub"
+software_url: "https://cryptoapis.io"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-03-13"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Crypto APIs MCP Servers"
+    url: "https://satohubai.github.io/onchain-agents/listings/cryptoapis-mcp"
 ---
 
 # Crypto APIs MCP Servers

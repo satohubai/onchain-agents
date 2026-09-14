@@ -2,7 +2,23 @@
 title: "ZetaChain CLI — Sato Hub index"
 description: "Official ZetaChain CLI with MCP installation support for universal smart-contract workflows across connected chains."
 canonical: "https://satohub.ai/resources/zetachain-cli"
+canonical_url: "https://satohub.ai/resources/zetachain-cli"
 layout: "default"
+page_type: "listing"
+item_name: "ZetaChain CLI"
+code_repository: "https://github.com/zeta-chain/cli"
+software_url: "https://www.zetachain.com"
+application_category: "Developer Tool"
+operating_system: "Any"
+license_name: "Unknown"
+date_modified: "2026-02-19"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Onchain action kits & SDKs"
+    url: "https://satohubai.github.io/onchain-agents/categories/action-kits"
+  - name: "ZetaChain CLI"
+    url: "https://satohubai.github.io/onchain-agents/listings/zetachain-cli"
 ---
 
 # ZetaChain CLI

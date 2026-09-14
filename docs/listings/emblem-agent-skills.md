@@ -2,7 +2,24 @@
 title: "Emblem Agent Skills — Sato Hub index"
 description: "Skill collection for EmblemAI agents — 200+ crypto tools across seven blockchains."
 canonical: "https://satohub.ai/resources/emblem-agent-skills"
+canonical_url: "https://satohub.ai/resources/emblem-agent-skills"
 layout: "default"
+page_type: "listing"
+item_name: "Emblem Agent Skills"
+code_repository: "https://github.com/EmblemCompany/Agent-skills"
+software_url: "https://emblemvault.ai"
+application_category: "Skill Repo"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-05-18"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Emblem Agent Skills"
+    url: "https://satohubai.github.io/onchain-agents/listings/emblem-agent-skills"
 ---
 
 # Emblem Agent Skills

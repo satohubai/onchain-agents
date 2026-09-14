@@ -2,7 +2,22 @@
 title: "Messari — Sato Hub index"
 description: "Crypto research and data platform covering fundraising, metrics, signals, and news, with API-key and x402 agent access."
 canonical: "https://satohub.ai/resources/messari"
+canonical_url: "https://satohub.ai/resources/messari"
 layout: "default"
+page_type: "listing"
+item_name: "Messari"
+software_url: "https://messari.io/"
+application_category: "Research Tool"
+application_subcategory: "Crypto research & fundraising data"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Payments & agent commerce"
+    url: "https://satohubai.github.io/onchain-agents/categories/payments"
+  - name: "Messari"
+    url: "https://satohubai.github.io/onchain-agents/listings/messari"
 ---
 
 # Messari

@@ -2,7 +2,22 @@
 title: "SendAI Skills Repository — Sato Hub index"
 description: "SendAI-maintained catalog of Solana agent skills (Jupiter, Helius, Kamino, Squads, and more) spanning DeFi, infrastructure, trading, oracles, data…"
 canonical: "https://satohub.ai/resources/sendai-skills"
+canonical_url: "https://satohub.ai/resources/sendai-skills"
 layout: "default"
+page_type: "listing"
+item_name: "SendAI Skills Repository"
+code_repository: "https://github.com/sendaifun/skills"
+software_url: "https://github.com/sendaifun/skills"
+application_category: "Skill Repo"
+operating_system: "Any"
+license_url: "https://www.apache.org/licenses/LICENSE-2.0"
+license_name: "Apache-2.0"
+date_modified: "2026-04-29"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "SendAI Skills Repository"
+    url: "https://satohubai.github.io/onchain-agents/listings/sendai-skills"
 ---
 
 # SendAI Skills Repository

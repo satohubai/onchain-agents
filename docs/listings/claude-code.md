@@ -2,7 +2,24 @@
 title: "Claude Code — Sato Hub index"
 description: "Anthropic's agentic command-line coding tool that runs agents and loads Agent Skills, including onchain skills."
 canonical: "https://satohub.ai/resources/claude-code"
+canonical_url: "https://satohub.ai/resources/claude-code"
 layout: "default"
+page_type: "listing"
+item_name: "Claude Code"
+code_repository: "https://github.com/anthropics/claude-code"
+software_url: "https://claude.com/claude-code"
+application_category: "Agent Framework"
+application_subcategory: "Agentic coding harness"
+operating_system: "Any"
+license_name: "Proprietary (Anthropic — see LICENSE in the package README)"
+date_modified: "2026-09-12"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Agent runtimes & frameworks"
+    url: "https://satohubai.github.io/onchain-agents/categories/agent-frameworks"
+  - name: "Claude Code"
+    url: "https://satohubai.github.io/onchain-agents/listings/claude-code"
 ---
 
 # Claude Code

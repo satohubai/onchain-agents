@@ -2,7 +2,23 @@
 title: "Gloria MCP — Sato Hub index"
 description: "MCP server for Gloria AI's curated crypto news feed — sentiment-tagged headlines, recaps, and search for agents."
 canonical: "https://satohub.ai/resources/gloria-mcp"
+canonical_url: "https://satohub.ai/resources/gloria-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Gloria MCP"
+code_repository: "https://github.com/cryptobriefing/gloria-mcp"
+software_url: "https://itsgloria.ai"
+application_category: "Data Tool"
+operating_system: "Any"
+license_name: "Unknown"
+date_modified: "2026-08-15"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Data, RPC & indexing"
+    url: "https://satohubai.github.io/onchain-agents/categories/data-rpc"
+  - name: "Gloria MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/gloria-mcp"
 ---
 
 # Gloria MCP

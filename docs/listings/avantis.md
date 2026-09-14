@@ -2,7 +2,24 @@
 title: "Avantis — Sato Hub index"
 description: "Onchain perpetuals exchange on Base for crypto, forex, and commodities, with a dedicated Base MCP skill."
 canonical: "https://satohub.ai/resources/avantis"
+canonical_url: "https://satohub.ai/resources/avantis"
 layout: "default"
+page_type: "listing"
+item_name: "Avantis"
+code_repository: "https://github.com/Avantis-Labs"
+software_url: "https://www.avantisfi.com/"
+application_category: "Trading Tool"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Trading & DeFi venues"
+    url: "https://satohubai.github.io/onchain-agents/categories/trading-venues"
+  - name: "Avantis"
+    url: "https://satohubai.github.io/onchain-agents/listings/avantis"
 ---
 
 # Avantis

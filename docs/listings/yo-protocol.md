@@ -2,7 +2,21 @@
 title: "YO Protocol — Sato Hub index"
 description: "Non-custodial ERC-4626 yield optimizer on Base and Ethereum; agents deposit stablecoins into yoUSD to earn aggregated DeFi yield."
 canonical: "https://satohub.ai/resources/yo-protocol"
+canonical_url: "https://satohub.ai/resources/yo-protocol"
 layout: "default"
+page_type: "listing"
+item_name: "YO Protocol"
+software_url: "https://www.yo.xyz/"
+application_category: "DeFi Tool"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Payments & agent commerce"
+    url: "https://satohubai.github.io/onchain-agents/categories/payments"
+  - name: "YO Protocol"
+    url: "https://satohubai.github.io/onchain-agents/listings/yo-protocol"
 ---
 
 # YO Protocol

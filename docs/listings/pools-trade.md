@@ -2,7 +2,22 @@
 title: "Pools.trade — Sato Hub index"
 description: "Uniswap Labs' token launch venue on Robinhood Chain; every launch becomes a Uniswap v4 pool with locked liquidity."
 canonical: "https://satohub.ai/resources/pools-trade"
+canonical_url: "https://satohub.ai/resources/pools-trade"
 layout: "default"
+page_type: "listing"
+item_name: "Pools.trade"
+software_url: "https://pools.trade"
+application_category: "DeFi Tool"
+application_subcategory: "Token launchpad (Robinhood Chain)"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Trading & DeFi venues"
+    url: "https://satohubai.github.io/onchain-agents/categories/trading-venues"
+  - name: "Pools.trade"
+    url: "https://satohubai.github.io/onchain-agents/listings/pools-trade"
 ---
 
 # Pools.trade

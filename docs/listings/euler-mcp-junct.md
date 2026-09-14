@@ -2,7 +2,22 @@
 title: "Euler MCP by Junct — Sato Hub index"
 description: "Hosted MCP server with 16 tools for Euler lending-protocol rates and positions."
 canonical: "https://satohub.ai/resources/euler-mcp-junct"
+canonical_url: "https://satohub.ai/resources/euler-mcp-junct"
 layout: "default"
+page_type: "listing"
+item_name: "Euler MCP by Junct"
+code_repository: "https://github.com/junct-bot/euler-mcp"
+software_url: "https://junct.dev/servers/euler"
+application_category: "MCP"
+operating_system: "Any"
+date_modified: "2026-03-29"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Euler MCP by Junct"
+    url: "https://satohubai.github.io/onchain-agents/listings/euler-mcp-junct"
 ---
 
 # Euler MCP by Junct

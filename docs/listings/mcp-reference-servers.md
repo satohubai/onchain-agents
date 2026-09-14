@@ -2,7 +2,23 @@
 title: "MCP Reference Servers — Sato Hub index"
 description: "Anthropic's official collection of reference Model Context Protocol server implementations across languages."
 canonical: "https://satohub.ai/resources/mcp-reference-servers"
+canonical_url: "https://satohub.ai/resources/mcp-reference-servers"
 layout: "default"
+page_type: "listing"
+item_name: "MCP Reference Servers"
+code_repository: "https://github.com/modelcontextprotocol/servers"
+software_url: "https://github.com/modelcontextprotocol/servers"
+application_category: "Developer Tool"
+operating_system: "Any"
+license_name: "MIT/Apache-2.0 (transitioning; new contributions Apache-2.0, some existing MIT)"
+date_modified: "2026-09-03"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Onchain action kits & SDKs"
+    url: "https://satohubai.github.io/onchain-agents/categories/action-kits"
+  - name: "MCP Reference Servers"
+    url: "https://satohubai.github.io/onchain-agents/listings/mcp-reference-servers"
 ---
 
 # MCP Reference Servers

@@ -2,7 +2,22 @@
 title: "GoldRush MCP (Covalent) — Sato Hub index"
 description: "Covalent's official GoldRush MCP: 50+ tools for multichain wallet balances and token data."
 canonical: "https://satohub.ai/resources/goldrush-mcp"
+canonical_url: "https://satohub.ai/resources/goldrush-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "GoldRush MCP (Covalent)"
+software_url: "https://goldrush.dev"
+application_category: "MCP"
+operating_system: "Any"
+license_name: "Unknown"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "GoldRush MCP (Covalent)"
+    url: "https://satohubai.github.io/onchain-agents/listings/goldrush-mcp"
 ---
 
 # GoldRush MCP (Covalent)

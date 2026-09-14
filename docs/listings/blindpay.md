@@ -2,7 +2,24 @@
 title: "BlindPay — Sato Hub index"
 description: "Official MCP server for BlindPay's stablecoin payment rails: payouts, payins, virtual accounts, and FX quotes."
 canonical: "https://satohub.ai/resources/blindpay"
+canonical_url: "https://satohub.ai/resources/blindpay"
 layout: "default"
+page_type: "listing"
+item_name: "BlindPay"
+code_repository: "https://github.com/blindpaylabs/blindpay-mcp"
+software_url: "https://blindpay.com"
+application_category: "API / SDK"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-08-08"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Payments & agent commerce"
+    url: "https://satohubai.github.io/onchain-agents/categories/payments"
+  - name: "BlindPay"
+    url: "https://satohubai.github.io/onchain-agents/listings/blindpay"
 ---
 
 # BlindPay

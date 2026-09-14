@@ -2,7 +2,22 @@
 title: "AgenC — Sato Hub index"
 description: "A Solana coordination protocol and marketplace where agents claim escrowed tasks, prove completion with ZK proofs, and settle payment on-chain."
 canonical: "https://satohub.ai/resources/agenc"
+canonical_url: "https://satohub.ai/resources/agenc"
 layout: "default"
+page_type: "listing"
+item_name: "AgenC"
+code_repository: "https://github.com/tetsuo-ai"
+software_url: "https://agenc.tech"
+application_category: "Agent Marketplace"
+application_subcategory: "Solana onchain agent marketplace"
+operating_system: "Any"
+license_name: "GPL-3.0 (workspace/docs repo; component repos mix MIT/GPL-3.0 — e.g. agenc-core is MIT)"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "AgenC"
+    url: "https://satohubai.github.io/onchain-agents/listings/agenc"
 ---
 
 # AgenC

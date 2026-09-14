@@ -2,7 +2,24 @@
 title: "Octav API MCP — Sato Hub index"
 description: "Official Octav MCP exposing portfolio holdings, DeFi positions, NAV, and transaction history across 20+ chains."
 canonical: "https://satohub.ai/resources/octav-api-mcp"
+canonical_url: "https://satohub.ai/resources/octav-api-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Octav API MCP"
+code_repository: "https://github.com/Octav-Labs/octav-api-mcp"
+software_url: "https://octav.fi"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-06-27"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Octav API MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/octav-api-mcp"
 ---
 
 # Octav API MCP

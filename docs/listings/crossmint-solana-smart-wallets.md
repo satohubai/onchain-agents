@@ -2,7 +2,21 @@
 title: "Crossmint Solana Smart Wallets — Sato Hub index"
 description: "Smart-contract wallet SDK (50+ chains incl. Solana) with modular TEE/passkey signers and onchain permissions for delegated agent signing."
 canonical: "https://satohub.ai/resources/crossmint-solana-smart-wallets"
+canonical_url: "https://satohub.ai/resources/crossmint-solana-smart-wallets"
 layout: "default"
+page_type: "listing"
+item_name: "Crossmint Solana Smart Wallets"
+software_url: "https://www.crossmint.com/announcement/crossmint-wallet-sdk"
+application_category: "Wallet Infrastructure"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Wallets, keys & permissions"
+    url: "https://satohubai.github.io/onchain-agents/categories/wallets-keys"
+  - name: "Crossmint Solana Smart Wallets"
+    url: "https://satohubai.github.io/onchain-agents/listings/crossmint-solana-smart-wallets"
 ---
 
 # Crossmint Solana Smart Wallets

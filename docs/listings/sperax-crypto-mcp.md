@@ -2,7 +2,24 @@
 title: "Sperax Crypto MCP — Sato Hub index"
 description: "Official Sperax MCP for USDs/SPA protocol data: peg health, collateral, yield strategies, and vault risk on Arbitrum and BNB Chain."
 canonical: "https://satohub.ai/resources/sperax-crypto-mcp"
+canonical_url: "https://satohub.ai/resources/sperax-crypto-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Sperax Crypto MCP"
+code_repository: "https://github.com/Sperax/sperax-crypto-mcp"
+software_url: "https://sperax.io"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-07-06"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Sperax Crypto MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/sperax-crypto-mcp"
 ---
 
 # Sperax Crypto MCP

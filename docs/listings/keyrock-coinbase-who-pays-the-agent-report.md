@@ -2,7 +2,22 @@
 title: "Who Pays the Agent? (Keyrock x Coinbase Report) — Sato Hub index"
 description: "Research report analyzing on-chain AI-agent payments, finding agents settled roughly $73M across about 176M transactions over twelve months with USDC…"
 canonical: "https://satohub.ai/resources/keyrock-coinbase-who-pays-the-agent-report"
+canonical_url: "https://satohub.ai/resources/keyrock-coinbase-who-pays-the-agent-report"
 layout: "default"
+page_type: "listing"
+item_name: "Who Pays the Agent? (Keyrock x Coinbase Report)"
+software_url: "https://keyrock.com/who-pays-the-agent/"
+application_category: "Research Paper"
+application_subcategory: "Industry Report"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Payments & agent commerce"
+    url: "https://satohubai.github.io/onchain-agents/categories/payments"
+  - name: "Who Pays the Agent? (Keyrock x Coinbase Report)"
+    url: "https://satohubai.github.io/onchain-agents/listings/keyrock-coinbase-who-pays-the-agent-report"
 ---
 
 # Who Pays the Agent? (Keyrock x Coinbase Report)

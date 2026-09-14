@@ -2,7 +2,25 @@
 title: "DefiLlama — Sato Hub index"
 description: "Open DeFi analytics dashboard and free API tracking TVL, fees, revenue, volume, and yields across many chains and protocols."
 canonical: "https://satohub.ai/resources/defillama"
+canonical_url: "https://satohub.ai/resources/defillama"
 layout: "default"
+page_type: "listing"
+item_name: "DefiLlama"
+code_repository: "https://github.com/DefiLlama"
+software_url: "https://defillama.com/"
+application_category: "Data Tool"
+application_subcategory: "DeFi TVL & analytics"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-11"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Data, RPC & indexing"
+    url: "https://satohubai.github.io/onchain-agents/categories/data-rpc"
+  - name: "DefiLlama"
+    url: "https://satohubai.github.io/onchain-agents/listings/defillama"
 ---
 
 # DefiLlama

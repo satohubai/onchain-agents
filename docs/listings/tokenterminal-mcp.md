@@ -2,7 +2,22 @@
 title: "Token Terminal MCP — Sato Hub index"
 description: "Official hosted Token Terminal MCP with a research tool over onchain project/protocol financials."
 canonical: "https://satohub.ai/resources/tokenterminal-mcp"
+canonical_url: "https://satohub.ai/resources/tokenterminal-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Token Terminal MCP"
+software_url: "https://tokenterminal.com"
+application_category: "MCP"
+operating_system: "Any"
+license_name: "Unknown"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Token Terminal MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/tokenterminal-mcp"
 ---
 
 # Token Terminal MCP

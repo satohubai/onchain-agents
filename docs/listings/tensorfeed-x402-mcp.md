@@ -2,7 +2,24 @@
 title: "TensorFeed x402 Base MCP — Sato Hub index"
 description: "Read-only Base mainnet MCP for x402: verify USDC settlements, parse x402 manifests, probe endpoints, decode payment payloads."
 canonical: "https://satohub.ai/resources/tensorfeed-x402-mcp"
+canonical_url: "https://satohub.ai/resources/tensorfeed-x402-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "TensorFeed x402 Base MCP"
+code_repository: "https://github.com/RipperMercs/tensorfeed-x402-base-mcp"
+software_url: "https://github.com/RipperMercs/tensorfeed-x402-base-mcp"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-08-12"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "TensorFeed x402 Base MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/tensorfeed-x402-mcp"
 ---
 
 # TensorFeed x402 Base MCP

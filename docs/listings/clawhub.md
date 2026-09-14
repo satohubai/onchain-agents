@@ -2,7 +2,23 @@
 title: "ClawHub — Sato Hub index"
 description: "A public, npm-style registry for publishing, versioning, and searching OpenClaw agent skills and plugins."
 canonical: "https://satohub.ai/resources/clawhub"
+canonical_url: "https://satohub.ai/resources/clawhub"
 layout: "default"
+page_type: "listing"
+item_name: "ClawHub"
+code_repository: "https://github.com/openclaw/clawhub"
+software_url: "https://clawhub.ai"
+application_category: "Skill Repo"
+application_subcategory: "OpenClaw skill & plugin registry"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-09"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "ClawHub"
+    url: "https://satohubai.github.io/onchain-agents/listings/clawhub"
 ---
 
 # ClawHub

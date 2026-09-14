@@ -2,7 +2,24 @@
 title: "Linea MCP — Sato Hub index"
 description: "Community MCP server with on-chain tools for AI applications to interact with the Linea blockchain."
 canonical: "https://satohub.ai/resources/linea-mcp"
+canonical_url: "https://satohub.ai/resources/linea-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Linea MCP"
+code_repository: "https://github.com/qvkare/linea-mcp"
+software_url: "https://github.com/qvkare/linea-mcp"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-01-15"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Linea MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/linea-mcp"
 ---
 
 # Linea MCP

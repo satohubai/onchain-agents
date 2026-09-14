@@ -2,7 +2,24 @@
 title: "Blockchain Academics MCP — Sato Hub index"
 description: "MCP server exposing 99 tools for crypto market data, on-chain analytics, news, and entity dossiers."
 canonical: "https://satohub.ai/resources/blockchain-academics-mcp"
+canonical_url: "https://satohub.ai/resources/blockchain-academics-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Blockchain Academics MCP"
+code_repository: "https://github.com/blockchainacademics/bca-mcp"
+software_url: "https://brain.blockchainacademics.com"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-07-20"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Blockchain Academics MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/blockchain-academics-mcp"
 ---
 
 # Blockchain Academics MCP

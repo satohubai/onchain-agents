@@ -2,7 +2,24 @@
 title: "Cryo MCP Server — Sato Hub index"
 description: "MCP wrapper around Cryo, the Rust/Python Ethereum data-extraction tool, for bulk block/trace/log queries plus SQL."
 canonical: "https://satohub.ai/resources/cryo-mcp"
+canonical_url: "https://satohub.ai/resources/cryo-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Cryo MCP Server"
+code_repository: "https://github.com/z80dev/cryo-mcp"
+software_url: "https://github.com/z80dev/cryo-mcp"
+application_category: "Data Tool"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2025-03-10"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Data, RPC & indexing"
+    url: "https://satohubai.github.io/onchain-agents/categories/data-rpc"
+  - name: "Cryo MCP Server"
+    url: "https://satohubai.github.io/onchain-agents/listings/cryo-mcp"
 ---
 
 # Cryo MCP Server

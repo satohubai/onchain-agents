@@ -2,7 +2,24 @@
 title: "create-solana-agent — Sato Hub index"
 description: "SendAI scaffolding CLI (npx create-solana-agent) for spinning up an LLM-powered chat agent wired to Solana actions."
 canonical: "https://satohub.ai/resources/create-solana-agent"
+canonical_url: "https://satohub.ai/resources/create-solana-agent"
 layout: "default"
+page_type: "listing"
+item_name: "create-solana-agent"
+code_repository: "https://github.com/sendaifun/create-solana-agent"
+software_url: "https://github.com/sendaifun/create-solana-agent"
+application_category: "Developer Tool"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2025-04-16"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Onchain action kits & SDKs"
+    url: "https://satohubai.github.io/onchain-agents/categories/action-kits"
+  - name: "create-solana-agent"
+    url: "https://satohubai.github.io/onchain-agents/listings/create-solana-agent"
 ---
 
 # create-solana-agent

@@ -2,7 +2,22 @@
 title: "XRPL AI Starter Kit — Sato Hub index"
 description: "Ripple's starter kit for building agentic payment apps on the XRP Ledger, with x402 payments in XRP and RLUSD, an XRPL docs MCP server, and Claude…"
 canonical: "https://satohub.ai/resources/xrpl-ai-starter-kit"
+canonical_url: "https://satohub.ai/resources/xrpl-ai-starter-kit"
 layout: "default"
+page_type: "listing"
+item_name: "XRPL AI Starter Kit"
+software_url: "https://ripple.com/insights/xrpl-ai-starter-kit/"
+application_category: "Developer Tool"
+application_subcategory: "Agentic payments toolkit"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Onchain action kits & SDKs"
+    url: "https://satohubai.github.io/onchain-agents/categories/action-kits"
+  - name: "XRPL AI Starter Kit"
+    url: "https://satohubai.github.io/onchain-agents/listings/xrpl-ai-starter-kit"
 ---
 
 # XRPL AI Starter Kit

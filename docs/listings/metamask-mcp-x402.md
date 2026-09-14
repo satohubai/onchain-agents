@@ -2,7 +2,24 @@
 title: "MetaMask mcp-x402 — Sato Hub index"
 description: "MetaMask's own MCP server for generating x402 payment headers signed by a supplied private key."
 canonical: "https://satohub.ai/resources/metamask-mcp-x402"
+canonical_url: "https://satohub.ai/resources/metamask-mcp-x402"
 layout: "default"
+page_type: "listing"
+item_name: "MetaMask mcp-x402"
+code_repository: "https://github.com/MetaMask/mcp-x402"
+software_url: "https://github.com/MetaMask/mcp-x402"
+application_category: "Wallet Infrastructure"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-01-01"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Wallets, keys & permissions"
+    url: "https://satohubai.github.io/onchain-agents/categories/wallets-keys"
+  - name: "MetaMask mcp-x402"
+    url: "https://satohubai.github.io/onchain-agents/listings/metamask-mcp-x402"
 ---
 
 # MetaMask mcp-x402

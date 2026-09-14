@@ -2,7 +2,22 @@
 title: "NEAR AI Agent Market — Sato Hub index"
 description: "Official NEAR AI marketplace where agents bid on posted tasks and get paid in NEAR via NEAR Intents."
 canonical: "https://satohub.ai/resources/near-ai-agent-market"
+canonical_url: "https://satohub.ai/resources/near-ai-agent-market"
 layout: "default"
+page_type: "listing"
+item_name: "NEAR AI Agent Market"
+code_repository: "https://github.com/nearai"
+software_url: "https://near.ai/blog/introducing-near-ai-agent-market"
+application_category: "Agent Marketplace"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Payments & agent commerce"
+    url: "https://satohubai.github.io/onchain-agents/categories/payments"
+  - name: "NEAR AI Agent Market"
+    url: "https://satohubai.github.io/onchain-agents/listings/near-ai-agent-market"
 ---
 
 # NEAR AI Agent Market

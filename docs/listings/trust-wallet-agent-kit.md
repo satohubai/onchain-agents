@@ -2,7 +2,25 @@
 title: "Trust Wallet Agent Kit (TWAK) — Sato Hub index"
 description: "Non-custodial toolkit from Trust Wallet (MCP server, CLI, and SDK) that lets AI agents read and transact across 25+ chains within user-defined rules."
 canonical: "https://satohub.ai/resources/trust-wallet-agent-kit"
+canonical_url: "https://satohub.ai/resources/trust-wallet-agent-kit"
 layout: "default"
+page_type: "listing"
+item_name: "Trust Wallet Agent Kit (TWAK)"
+code_repository: "https://github.com/trustwallet/tw-agent-skills"
+software_url: "https://developer.trustwallet.com/developer/agent-sdk"
+application_category: "Wallet Infrastructure"
+application_subcategory: "Non-custodial agent kit (MCP + CLI + SDK)"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-13"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Trust Wallet Agent Kit (TWAK)"
+    url: "https://satohubai.github.io/onchain-agents/listings/trust-wallet-agent-kit"
 ---
 
 # Trust Wallet Agent Kit (TWAK)

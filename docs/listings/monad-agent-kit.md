@@ -2,7 +2,24 @@
 title: "Monad Agent Kit — Sato Hub index"
 description: "MCP toolkit for AI agents to send transactions and deploy/verify contracts on Monad with local-only key signing."
 canonical: "https://satohub.ai/resources/monad-agent-kit"
+canonical_url: "https://satohub.ai/resources/monad-agent-kit"
 layout: "default"
+page_type: "listing"
+item_name: "Monad Agent Kit"
+code_repository: "https://github.com/stakeme-team/monad-agent-kit"
+software_url: "https://github.com/stakeme-team/monad-agent-kit"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Monad Agent Kit"
+    url: "https://satohubai.github.io/onchain-agents/listings/monad-agent-kit"
 ---
 
 # Monad Agent Kit

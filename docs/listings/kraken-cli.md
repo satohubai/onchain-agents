@@ -2,7 +2,24 @@
 title: "Kraken CLI — Sato Hub index"
 description: "Official Kraken CLI with a built-in MCP server for spot, futures, forex, and tokenized stock trading."
 canonical: "https://satohub.ai/resources/kraken-cli"
+canonical_url: "https://satohub.ai/resources/kraken-cli"
 layout: "default"
+page_type: "listing"
+item_name: "Kraken CLI"
+code_repository: "https://github.com/krakenfx/kraken-cli"
+software_url: "https://github.com/krakenfx/kraken-cli"
+application_category: "Developer Tool"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-08-07"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Onchain action kits & SDKs"
+    url: "https://satohubai.github.io/onchain-agents/categories/action-kits"
+  - name: "Kraken CLI"
+    url: "https://satohubai.github.io/onchain-agents/listings/kraken-cli"
 ---
 
 # Kraken CLI

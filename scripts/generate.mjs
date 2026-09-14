@@ -689,9 +689,68 @@ function pruneGenerated(dir) {
   return removed;
 }
 
+// Front matter is the ONLY input docs/_layouts/default.html has for the JSON-LD
+// it emits, so it carries the structured fields, not just the title. Supported
+// value shapes: scalar, array of scalars, array of {name,url} objects. Null and
+// empty values are dropped rather than emitted as "null" — an absent field is
+// honest, a null one is noise in the markup.
+function yamlValue(v, indent) {
+  if (Array.isArray(v)) {
+    return (
+      "\n" +
+      v
+        .map((item) =>
+          item && typeof item === "object"
+            ? `${indent}- ` +
+              Object.entries(item)
+                .filter(([, iv]) => iv != null && iv !== "")
+                .map(([ik, iv]) => `${ik}: ${JSON.stringify(String(iv))}`)
+                .join(`\n${indent}  `)
+            : `${indent}- ${JSON.stringify(String(item))}`
+        )
+        .join("\n")
+    );
+  }
+  if (typeof v === "number" || typeof v === "boolean") return ` ${v}`;
+  return ` ${JSON.stringify(String(v))}`;
+}
+
+const PAGES_URL = "https://satohubai.github.io/onchain-agents";
+
+// SPDX ids we can resolve to a canonical URL. Anything else is emitted as a
+// plain name and no url — an unresolvable id is not a link.
+const LICENSE_URLS = {
+  MIT: "https://opensource.org/licenses/MIT",
+  "APACHE-2.0": "https://www.apache.org/licenses/LICENSE-2.0",
+  "BSD-3-CLAUSE": "https://opensource.org/licenses/BSD-3-Clause",
+  "BSD-2-CLAUSE": "https://opensource.org/licenses/BSD-2-Clause",
+  "GPL-3.0": "https://www.gnu.org/licenses/gpl-3.0.html",
+  "AGPL-3.0": "https://www.gnu.org/licenses/agpl-3.0.html",
+  "LGPL-3.0": "https://www.gnu.org/licenses/lgpl-3.0.html",
+  "MPL-2.0": "https://www.mozilla.org/MPL/2.0/",
+  ISC: "https://opensource.org/licenses/ISC",
+  UNLICENSE: "https://unlicense.org/",
+};
+
+function licenseUrl(r) {
+  const id = String(r.deploy_spec?.license || "").trim().toUpperCase();
+  return LICENSE_URLS[id] || "";
+}
+
+// The first layer that claims a listing. Layers are not exclusive, so a
+// breadcrumb picks the first match rather than inventing a primary one.
+function breadcrumbFor(r) {
+  const crumbs = [{ name: "Onchain Agents index", url: `${PAGES_URL}/` }];
+  const layer = LAYERS.find((l) => l.match(r));
+  if (layer) crumbs.push({ name: layer.title, url: `${PAGES_URL}/categories/${layer.slug}` });
+  crumbs.push({ name: r.name, url: `${PAGES_URL}/listings/${r.slug}` });
+  return crumbs;
+}
+
 function frontMatter(fields) {
   const yaml = Object.entries(fields)
-    .map(([k, v]) => `${k}: ${JSON.stringify(String(v))}`)
+    .filter(([, v]) => v != null && v !== "" && !(Array.isArray(v) && v.length === 0))
+    .map(([k, v]) => `${k}:${yamlValue(v, "  ")}`)
     .join("\n");
   return `---\n${yaml}\n---\n\n`;
 }
@@ -713,7 +772,20 @@ function renderCategoryPage(layer, rows, today) {
       title: `${layer.title} — Onchain Agents index`,
       description: layer.what,
       canonical: `${SITE}/directory`,
+      canonical_url: `${SITE}/directory`,
       layout: "default",
+      page_type: "category",
+      item_list_name: layer.title,
+      item_count: sorted.length,
+      date_modified: today,
+      item_list: sorted.slice(0, 100).map((r) => ({
+        name: r.name,
+        url: `${PAGES_URL}/listings/${r.slug}`,
+      })),
+      breadcrumb: [
+        { name: "Onchain Agents index", url: `${PAGES_URL}/` },
+        { name: layer.title, url: `${PAGES_URL}/categories/${layer.slug}` },
+      ],
     }) +
     `# ${layer.title}\n\n${layer.what}\n\n` +
     `**${sorted.length} listings**, ordered by Sato Score — a 0–100 measure of how open, active and verifiable a project is, [not a safety or returns grade](../sato-score.md). Rendered ${today} from the public Sato Hub export.\n\n` +
@@ -795,7 +867,19 @@ function renderListingPage(r, today) {
       title: `${r.name} — Sato Hub index`,
       description: clip(r.description_short, 150),
       canonical: r.detail_url || SITE,
+      canonical_url: r.detail_url || SITE,
       layout: "default",
+      page_type: "listing",
+      item_name: r.name,
+      code_repository: r.github_url || "",
+      software_url: r.website_url || r.docs_url || r.detail_url || "",
+      application_category: r.category || "",
+      application_subcategory: r.subcategory || "",
+      operating_system: "Any",
+      license_url: licenseUrl(r),
+      license_name: r.deploy_spec?.license || "",
+      date_modified: (r.last_activity_at || "").slice(0, 10) || today,
+      breadcrumb: breadcrumbFor(r),
     }) +
     `# ${esc(r.name)}\n\n${esc(r.description_short)}\n\n` +
     `Sato Score: ${score} — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).\n\n` +
@@ -814,7 +898,11 @@ function renderDocsIndex(resources, today) {
       description:
         "What to build an onchain agent with: frameworks, action kits, MCP servers, wallets, data, payment rails, identity, security and trading venues — scored and updated daily.",
       canonical: SITE,
+      canonical_url: SITE,
       layout: "default",
+      page_type: "index",
+      item_count: resources.length,
+      date_modified: today,
     }) +
     `# The onchain agent stack, layer by layer\n\n` +
     `A daily-rendered index of what onchain AI agents are built from — ${resources.length} listings, each with a 0–100 Sato Score of how open, active and verifiable it is. Rendered ${today}. Catalog data CC-BY-4.0, attribution: data by satohub.ai.\n\n` +
@@ -837,9 +925,142 @@ baseurl: /onchain-agents
 markdown: kramdown
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
+`;
+
+// ---------- compare pages ----------
+// Mirrors satohub.ai/compare/<slug>. Three rules carried over verbatim from
+// lib/comparisons.ts in the app repo, and any change here has to keep them:
+// the table is DERIVED from the live export (never typed), NO winner is
+// declared, and the caveat is mandatory and reproduced word for word. The pair
+// list itself comes from data/comparisons.json, written by the app repo's
+// scripts/export-comparisons.mjs — so a pair exists in exactly one place.
+
+function loadComparisons() {
+  try {
+    const raw = JSON.parse(readFileSync(join(ROOT, "data", "comparisons.json"), "utf8"));
+    return Array.isArray(raw?.pages) ? raw.pages : [];
+  } catch {
+    return [];
+  }
+}
+
+const COMPARE_ROWS = [
+  ["What it is", (r) => clip(r.description_short, 160)],
+  ["Category", (r) => r.category || "—"],
+  ["Chains", (r) => chainCell(r.chains_supported)],
+  ["Standards", (r) => (r.standards || []).map(esc).join(", ") || "—"],
+  ["Open source", (r) => r.open_source_status || "unknown"],
+  ["⬡ Sato Score", (r) => (r.trust_score != null ? `${r.trust_score} (${r.trust_tier || "—"})` : "not scored")],
+  ["Activity", (r) => (r.liveness ? `${r.liveness}, last activity ${relDays(r.last_activity_at)}` : "—")],
+  ["★ GitHub stars", (r) => (r.github_stars != null ? fmtStars(r.github_stars) : "—")],
+  ["Install reproduced", (r) => (r.verified_install ? "yes" : "not reproduced")],
+  ["Verification status", (r) => r.verification_status || "Unverified"],
+  ["Deploys as", (r) => (r.deployment_options || []).map(esc).join(", ") || "—"],
+];
+
+function renderComparePage(page, a, b, today) {
+  const table =
+    `| | ${esc(a.name)} | ${esc(b.name)} |\n|---|---|---|\n` +
+    COMPARE_ROWS.map(([label, get]) => `| **${label}** | ${get(a)} | ${get(b)} |`).join("\n");
+  const links = (r) =>
+    [r.github_url ? `[GitHub](${r.github_url})` : null, r.docs_url ? `[Docs](${r.docs_url})` : null, `[Sato Hub page ↗](${withUtm(r.detail_url)})`]
+      .filter(Boolean)
+      .join(" · ");
+  return (
+    frontMatter({
+      title: `${page.h1} — Sato Hub index`,
+      description: clip(page.meta_description, 150),
+      canonical: page.canonical,
+      canonical_url: page.canonical,
+      layout: "default",
+      page_type: "compare",
+      date_modified: today,
+      breadcrumb: [
+        { name: "Onchain Agents index", url: `${PAGES_URL}/` },
+        { name: "Compare", url: `${PAGES_URL}/compare/` },
+        { name: page.h1, url: `${PAGES_URL}/compare/${page.slug}` },
+      ],
+    }) +
+    `# ${esc(page.h1)}\n\n` +
+    page.intro.map((para) => esc(para)).join("\n\n") +
+    `\n\n## Side by side\n\nEvery row is read off the live index, rendered ${today}. No winner is declared.\n\n` +
+    table +
+    `\n\n## Pick ${esc(a.name)} if\n\n` +
+    page.pick_a.map((x) => `- ${esc(x)}`).join("\n") +
+    `\n\n## Pick ${esc(b.name)} if\n\n` +
+    page.pick_b.map((x) => `- ${esc(x)}`).join("\n") +
+    `\n\n## What this cannot settle\n\n${esc(page.caveat)}\n\n` +
+    `## Links\n\n- **${esc(a.name)}** — ${links(a)}\n- **${esc(b.name)}** — ${links(b)}\n\n` +
+    `[Full comparison on satohub.ai ↗](${withUtm(page.canonical)}) · [← All layers](../index.md)\n`
+  );
+}
+
+// ---------- alternatives pages ----------
+// Mirrors satohub.ai/alternatives/<slug>. Peers are same-category, scored
+// listings, ordered by score — the only claim the data supports. Rule-gated:
+// a subject with fewer than ALT_MIN_PEERS peers gets no page, because a page
+// listing two alternatives implies there are only two.
+
+const ALT_MIN_PEERS = 3;
+const ALT_MAX_PEERS = 8;
+const ALT_SUBJECTS = 50;
+
+const ALT_CAVEAT =
+  "This page ranks peers on how open, active and verifiable each one is — the same evidence the rest of this index publishes. It is not a quality, safety or performance ranking, it declares no winner, and it cannot tell you which of these fits your codebase. A Sato Score is not an audit, and a listing with no earned verification is self-reported.";
+
+function altPeers(resources, subject) {
+  return sortRows(
+    resources.filter(
+      (r) => r.slug !== subject.slug && r.trust_score != null && r.category === subject.category
+    )
+  ).slice(0, ALT_MAX_PEERS);
+}
+
+function renderAlternativesPage(subject, peers, today) {
+  const canonical = `${SITE}/alternatives/${subject.slug}`;
+  return (
+    frontMatter({
+      title: `Alternatives to ${subject.name} — Sato Hub index`,
+      description: clip(
+        `${peers.length} alternatives to ${subject.name} in the ${subject.category} layer, ordered by how open, active and verifiable each one is.`,
+        150
+      ),
+      canonical,
+      canonical_url: canonical,
+      layout: "default",
+      page_type: "category",
+      item_list_name: `Alternatives to ${subject.name}`,
+      item_count: peers.length,
+      date_modified: today,
+      item_list: peers.map((r) => ({ name: r.name, url: `${PAGES_URL}/listings/${r.slug}` })),
+      breadcrumb: [
+        { name: "Onchain Agents index", url: `${PAGES_URL}/` },
+        { name: subject.name, url: `${PAGES_URL}/listings/${subject.slug}` },
+        { name: `Alternatives to ${subject.name}`, url: `${PAGES_URL}/alternatives/${subject.slug}` },
+      ],
+    }) +
+    `# Alternatives to ${esc(subject.name)}\n\n` +
+    `${esc(subject.name)} sits in the **${esc(subject.category)}** layer. These are the other scored listings in that layer, ordered by Sato Score — a 0–100 measure of how open, active and verifiable a project is, [not a safety or returns grade](../sato-score.md). Rendered ${today}.\n\n` +
+    `| Name | What it is | Chains | ⬡ Score | Last activity | Links |\n|---|---|---|---|---|---|\n` +
+    peers.map(listRow).join("\n") +
+    `\n\n## What this cannot settle\n\n${ALT_CAVEAT}\n\n` +
+    `## The listing itself\n\n[${esc(subject.name)}](../listings/${subject.slug}.md) — ⬡ ${subject.trust_score ?? "—"} · [Sato Hub page ↗](${withUtm(subject.detail_url)})\n\n` +
+    `[Full page on satohub.ai ↗](${withUtm(canonical)}) · [← All layers](../index.md)\n`
+  );
+}
+
+// robots.txt for the Pages site. Every page here declares a satohub.ai
+// canonical, so crawling is welcome — the canonical, not a block, is what keeps
+// the two surfaces from competing.
+const DOCS_ROBOTS = `User-agent: *
+Allow: /
+
+Sitemap: ${PAGES_URL}/sitemap.xml
 `;
 
 // ---------- llms.txt ----------
+
 // Generated, not hand-maintained: the previous hand-written copy claimed
 // "12 read-only tools" long after the server had grown past it.
 const TOOLS_URL = process.env.INDEX_TOOLS_URL || `${SITE}/api/mcp/tools.json`;
@@ -1152,6 +1373,7 @@ Weekly tagged releases carry the day's \`index.json\` + \`index.csv\` as assets,
   // reflects real movement rather than a re-stamped date on 382 files.
   let pagesChanged = 0;
   writeIfChanged("docs/_config.yml", DOCS_CONFIG);
+  writeIfChanged("docs/robots.txt", DOCS_ROBOTS);
   if (writeIfChanged("docs/index.md", renderDocsIndex(resources, today))) pagesChanged++;
   for (const layer of LAYERS) {
     const rows = resources.filter(layer.match);
@@ -1162,7 +1384,34 @@ Weekly tagged releases carry the day's \`index.json\` + \`index.csv\` as assets,
     if (!r.slug) continue;
     if (writeIfChanged(`docs/listings/${r.slug}.md`, renderListingPage(r, today))) pagesChanged++;
   }
-  const pruned = pruneGenerated("docs/categories") + pruneGenerated("docs/listings");
+  // Compare pages: the pair list comes from data/comparisons.json; a pair whose
+  // two subjects are not both in today's export is skipped rather than rendered
+  // half empty.
+  const bySlug = new Map(resources.map((r) => [r.slug, r]));
+  let compareCount = 0;
+  for (const page of loadComparisons()) {
+    const a = bySlug.get(page.a);
+    const b = bySlug.get(page.b);
+    if (!a || !b) continue;
+    compareCount++;
+    if (writeIfChanged(`docs/compare/${page.slug}.md`, renderComparePage(page, a, b, today))) pagesChanged++;
+  }
+
+  // Alternatives: the top ALT_SUBJECTS scored listings that clear the peer bar.
+  let altCount = 0;
+  for (const subject of sortRows(resources.filter((r) => r.trust_score != null)).slice(0, ALT_SUBJECTS)) {
+    const peers = altPeers(resources, subject);
+    if (peers.length < ALT_MIN_PEERS) continue;
+    altCount++;
+    if (writeIfChanged(`docs/alternatives/${subject.slug}.md`, renderAlternativesPage(subject, peers, today)))
+      pagesChanged++;
+  }
+
+  const pruned =
+    pruneGenerated("docs/categories") +
+    pruneGenerated("docs/listings") +
+    pruneGenerated("docs/compare") +
+    pruneGenerated("docs/alternatives");
 
   writeIfChanged("llms.txt", renderLlms(resources, await loadToolMeta(), today));
   // schema.org Dataset record for the repo itself. GitHub strips <script> from
@@ -1209,8 +1458,8 @@ Weekly tagged releases carry the day's \`index.json\` + \`index.csv\` as assets,
 
   console.log(
     agg
-      ? `rendered ${resources.length} entries (${pagesChanged} pages written, ${pruned} pruned, ${agg.scored} scored, ${agg.independently_checked} independently checked, ${agents.length} passports${movers ? ", movers on" : ""}${support ? ", support on" : ""}${CONFIG.discord_url ? ", discord on" : ""})`
-      : `rendered ${resources.length} entries (${pagesChanged} pages written, ${pruned} pruned, ${scored} scored, ${verified} verified installs, ${agents.length} passports${movers ? ", movers on" : ""}${support ? ", support on" : ""}${CONFIG.discord_url ? ", discord on" : ""})`
+      ? `rendered ${resources.length} entries (${pagesChanged} pages written, ${pruned} pruned, ${compareCount} compare, ${altCount} alternatives, ${agg.scored} scored, ${agg.independently_checked} independently checked, ${agents.length} passports${movers ? ", movers on" : ""}${support ? ", support on" : ""}${CONFIG.discord_url ? ", discord on" : ""})`
+      : `rendered ${resources.length} entries (${pagesChanged} pages written, ${pruned} pruned, ${compareCount} compare, ${altCount} alternatives, ${scored} scored, ${verified} verified installs, ${agents.length} passports${movers ? ", movers on" : ""}${support ? ", support on" : ""}${CONFIG.discord_url ? ", discord on" : ""})`
   );
 }
 

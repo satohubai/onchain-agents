@@ -2,7 +2,22 @@
 title: "Clawmes — Sato Hub index"
 description: "Hermes Agent plugin for crypto: wallets, DEX trading, lending, staking, governance, and onchain automation."
 canonical: "https://satohub.ai/resources/clawmes"
+canonical_url: "https://satohub.ai/resources/clawmes"
 layout: "default"
+page_type: "listing"
+item_name: "Clawmes"
+code_repository: "https://github.com/clawnchdev/clawmes"
+software_url: "https://satohub.ai/resources/clawmes"
+application_category: "Skill Repo"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-07-07"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Clawmes"
+    url: "https://satohubai.github.io/onchain-agents/listings/clawmes"
 ---
 
 # Clawmes

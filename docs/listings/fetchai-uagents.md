@@ -2,7 +2,24 @@
 title: "Fetch.ai uAgents — Sato Hub index"
 description: "Python framework for lightweight autonomous agents with built-in crypto-economic features."
 canonical: "https://satohub.ai/resources/fetchai-uagents"
+canonical_url: "https://satohub.ai/resources/fetchai-uagents"
 layout: "default"
+page_type: "listing"
+item_name: "Fetch.ai uAgents"
+code_repository: "https://github.com/fetchai/uAgents"
+software_url: "https://fetch.ai"
+application_category: "Agent Framework"
+operating_system: "Any"
+license_url: "https://www.apache.org/licenses/LICENSE-2.0"
+license_name: "Apache-2.0"
+date_modified: "2026-09-07"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Agent runtimes & frameworks"
+    url: "https://satohubai.github.io/onchain-agents/categories/agent-frameworks"
+  - name: "Fetch.ai uAgents"
+    url: "https://satohubai.github.io/onchain-agents/listings/fetchai-uagents"
 ---
 
 # Fetch.ai uAgents
@@ -21,7 +38,7 @@ Sato Score: **⬡ 87** (High) — a measure of how open, active and verifiable t
 - **Creator:** Fetch.ai
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 6 days ago
+- **Activity:** Active — last activity 7 days ago
 - **GitHub stars:** 1.6k
 - **Deploys as:** pip, Self-hosted
 - **Works with:** Agentverse, ASI:One, crewAI, Almanac

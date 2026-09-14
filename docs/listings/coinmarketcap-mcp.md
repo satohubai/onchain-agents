@@ -2,7 +2,21 @@
 title: "CoinMarketCap MCP — Sato Hub index"
 description: "Official CoinMarketCap hosted MCP for quotes, technical analysis, on-chain metrics, and market data."
 canonical: "https://satohub.ai/resources/coinmarketcap-mcp"
+canonical_url: "https://satohub.ai/resources/coinmarketcap-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "CoinMarketCap MCP"
+software_url: "https://coinmarketcap.com/api/"
+application_category: "MCP"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "CoinMarketCap MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/coinmarketcap-mcp"
 ---
 
 # CoinMarketCap MCP

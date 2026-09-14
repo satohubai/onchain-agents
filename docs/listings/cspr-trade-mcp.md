@@ -2,7 +2,24 @@
 title: "CSPR.trade MCP — Sato Hub index"
 description: "Non-custodial MCP for trading on CSPR.trade, the leading Casper Network DEX, with a public hosted endpoint."
 canonical: "https://satohub.ai/resources/cspr-trade-mcp"
+canonical_url: "https://satohub.ai/resources/cspr-trade-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "CSPR.trade MCP"
+code_repository: "https://github.com/make-software/cspr-trade-mcp"
+software_url: "https://cspr.trade"
+application_category: "Trading Tool"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-04-28"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Trading & DeFi venues"
+    url: "https://satohubai.github.io/onchain-agents/categories/trading-venues"
+  - name: "CSPR.trade MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/cspr-trade-mcp"
 ---
 
 # CSPR.trade MCP

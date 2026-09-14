@@ -2,7 +2,23 @@
 title: "Agentic Commerce Protocol (ACP) — Sato Hub index"
 description: "Open standard maintained by OpenAI and Stripe for connecting buyers, their AI agents, and businesses to complete purchases."
 canonical: "https://satohub.ai/resources/agentic-commerce-protocol-acp"
+canonical_url: "https://satohub.ai/resources/agentic-commerce-protocol-acp"
 layout: "default"
+page_type: "listing"
+item_name: "Agentic Commerce Protocol (ACP)"
+code_repository: "https://github.com/agentic-commerce-protocol/agentic-commerce-protocol"
+software_url: "https://www.agenticcommerce.dev"
+application_category: "API / SDK"
+application_subcategory: "Agent Commerce Standard (Web2)"
+operating_system: "Any"
+date_modified: "2026-06-15"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Onchain action kits & SDKs"
+    url: "https://satohubai.github.io/onchain-agents/categories/action-kits"
+  - name: "Agentic Commerce Protocol (ACP)"
+    url: "https://satohubai.github.io/onchain-agents/listings/agentic-commerce-protocol-acp"
 ---
 
 # Agentic Commerce Protocol (ACP)

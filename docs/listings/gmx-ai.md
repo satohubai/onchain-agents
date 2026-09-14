@@ -2,7 +2,22 @@
 title: "GMX AI — Sato Hub index"
 description: "Official GMX V2 skill repo for perp trading and liquidity-pool operations via agent."
 canonical: "https://satohub.ai/resources/gmx-ai"
+canonical_url: "https://satohub.ai/resources/gmx-ai"
 layout: "default"
+page_type: "listing"
+item_name: "GMX AI"
+code_repository: "https://github.com/gmx-io/gmx-ai"
+software_url: "https://github.com/gmx-io/gmx-ai"
+application_category: "Skill Repo"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-03-20"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "GMX AI"
+    url: "https://satohubai.github.io/onchain-agents/listings/gmx-ai"
 ---
 
 # GMX AI

@@ -2,7 +2,22 @@
 title: "Sei MCP — Sato Hub index"
 description: "Official Sei MCP: wallet/account management, SEI transfers, and ERC20/721/1155 token operations."
 canonical: "https://satohub.ai/resources/sei-mcp"
+canonical_url: "https://satohub.ai/resources/sei-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Sei MCP"
+software_url: "https://www.sei.io"
+application_category: "MCP"
+operating_system: "Any"
+license_name: "Unknown"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Sei MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/sei-mcp"
 ---
 
 # Sei MCP

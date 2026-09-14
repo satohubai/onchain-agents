@@ -2,7 +2,21 @@
 title: "Squads Grid — Sato Hub index"
 description: "REST API suite (accounts, cards, yield, trading data) for building stablecoin-native fintech on Solana, from the Squads Labs team."
 canonical: "https://satohub.ai/resources/squads-grid"
+canonical_url: "https://satohub.ai/resources/squads-grid"
 layout: "default"
+page_type: "listing"
+item_name: "Squads Grid"
+software_url: "https://squads.xyz/blog/grid"
+application_category: "API / SDK"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Payments & agent commerce"
+    url: "https://satohubai.github.io/onchain-agents/categories/payments"
+  - name: "Squads Grid"
+    url: "https://satohubai.github.io/onchain-agents/listings/squads-grid"
 ---
 
 # Squads Grid

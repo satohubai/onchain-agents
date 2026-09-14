@@ -2,7 +2,22 @@
 title: "RobinPad — Sato Hub index"
 description: "Small Robinhood Chain launchpad that opens a Uniswap v3 pool at launch instead of migrating one later."
 canonical: "https://satohub.ai/resources/robinpad"
+canonical_url: "https://satohub.ai/resources/robinpad"
 layout: "default"
+page_type: "listing"
+item_name: "RobinPad"
+software_url: "https://robinpad.fun"
+application_category: "DeFi Tool"
+application_subcategory: "Token launchpad (Robinhood Chain)"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Trading & DeFi venues"
+    url: "https://satohubai.github.io/onchain-agents/categories/trading-venues"
+  - name: "RobinPad"
+    url: "https://satohubai.github.io/onchain-agents/listings/robinpad"
 ---
 
 # RobinPad

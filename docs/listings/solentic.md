@@ -2,7 +2,24 @@
 title: "Solentic — Sato Hub index"
 description: "Zero-custody Solana staking MCP server with 26 tools for staking, unstaking, validator lookup, and APY data."
 canonical: "https://satohub.ai/resources/solentic"
+canonical_url: "https://satohub.ai/resources/solentic"
 layout: "default"
+page_type: "listing"
+item_name: "Solentic"
+code_repository: "https://github.com/blueprint-infrastructure/solentic-mcp"
+software_url: "https://glama.ai/mcp/servers/blueprint-infrastructure/solentic-mcp"
+application_category: "Wallet Infrastructure"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-06-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Wallets, keys & permissions"
+    url: "https://satohubai.github.io/onchain-agents/categories/wallets-keys"
+  - name: "Solentic"
+    url: "https://satohubai.github.io/onchain-agents/listings/solentic"
 ---
 
 # Solentic

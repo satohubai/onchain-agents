@@ -2,7 +2,24 @@
 title: "AgentNode — Sato Hub index"
 description: "An open package registry where AI agents detect missing capabilities and install trust-scored skills on demand."
 canonical: "https://satohub.ai/resources/agentnode"
+canonical_url: "https://satohub.ai/resources/agentnode"
 layout: "default"
+page_type: "listing"
+item_name: "AgentNode"
+code_repository: "https://github.com/agentnode-ai/agentnode"
+software_url: "https://www.agentnode.net/"
+application_category: "Developer Tool"
+application_subcategory: "Agent capability package registry"
+operating_system: "Any"
+license_name: "MIT (SDK & Packs); BSL-1.1 (backend)"
+date_modified: "2026-09-07"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Onchain action kits & SDKs"
+    url: "https://satohubai.github.io/onchain-agents/categories/action-kits"
+  - name: "AgentNode"
+    url: "https://satohubai.github.io/onchain-agents/listings/agentnode"
 ---
 
 # AgentNode

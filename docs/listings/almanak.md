@@ -2,7 +2,25 @@
 title: "Almanak — Sato Hub index"
 description: "An AI-agent framework and non-custodial vault protocol for designing, backtesting, and deploying automated DeFi yield and trading strategies."
 canonical: "https://satohub.ai/resources/almanak"
+canonical_url: "https://satohub.ai/resources/almanak"
 layout: "default"
+page_type: "listing"
+item_name: "Almanak"
+code_repository: "https://github.com/almanak-co/sdk"
+software_url: "https://almanak.co/"
+application_category: "Agent Framework"
+application_subcategory: "DeFi quant strategy infrastructure"
+operating_system: "Any"
+license_url: "https://www.apache.org/licenses/LICENSE-2.0"
+license_name: "Apache-2.0"
+date_modified: "2026-09-11"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Agent runtimes & frameworks"
+    url: "https://satohubai.github.io/onchain-agents/categories/agent-frameworks"
+  - name: "Almanak"
+    url: "https://satohubai.github.io/onchain-agents/listings/almanak"
 ---
 
 # Almanak

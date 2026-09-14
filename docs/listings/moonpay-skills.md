@@ -2,7 +2,22 @@
 title: "MoonPay Skills — Sato Hub index"
 description: "Official MoonPay skill repo for crypto onramps, wallet ops, swaps, and prediction-market trading."
 canonical: "https://satohub.ai/resources/moonpay-skills"
+canonical_url: "https://satohub.ai/resources/moonpay-skills"
 layout: "default"
+page_type: "listing"
+item_name: "MoonPay Skills"
+code_repository: "https://github.com/moonpay/skills"
+software_url: "https://github.com/moonpay/skills"
+application_category: "Skill Repo"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-05-20"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MoonPay Skills"
+    url: "https://satohubai.github.io/onchain-agents/listings/moonpay-skills"
 ---
 
 # MoonPay Skills

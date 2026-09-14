@@ -2,7 +2,23 @@
 title: "Coinbase Agentic Wallets — Sato Hub index"
 description: "Coinbase Developer Platform wallet infrastructure built for AI agents, with spend caps, gasless Base settlement, and native x402."
 canonical: "https://satohub.ai/resources/coinbase-agentic-wallets"
+canonical_url: "https://satohub.ai/resources/coinbase-agentic-wallets"
 layout: "default"
+page_type: "listing"
+item_name: "Coinbase Agentic Wallets"
+software_url: "https://www.coinbase.com/developer-platform/products/agentic-wallets"
+application_category: "Wallet Infrastructure"
+application_subcategory: "Agent wallet infrastructure"
+operating_system: "Any"
+license_name: "Unknown"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Wallets, keys & permissions"
+    url: "https://satohubai.github.io/onchain-agents/categories/wallets-keys"
+  - name: "Coinbase Agentic Wallets"
+    url: "https://satohubai.github.io/onchain-agents/listings/coinbase-agentic-wallets"
 ---
 
 # Coinbase Agentic Wallets

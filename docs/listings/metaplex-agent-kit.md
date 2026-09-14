@@ -2,7 +2,23 @@
 title: "Metaplex Agent Kit (mpl-agent) — Sato Hub index"
 description: "Solana program binding a verifiable on-chain identity PDA to an agent, so agents can hold assets without exposing a private key."
 canonical: "https://satohub.ai/resources/metaplex-agent-kit"
+canonical_url: "https://satohub.ai/resources/metaplex-agent-kit"
 layout: "default"
+page_type: "listing"
+item_name: "Metaplex Agent Kit (mpl-agent)"
+code_repository: "https://github.com/metaplex-foundation/mpl-agent"
+software_url: "https://www.metaplex.com/docs/agents"
+application_category: "Wallet Infrastructure"
+operating_system: "Any"
+license_name: "Unknown (Metaplex NFT Open Source License, non-SPDX)"
+date_modified: "2026-06-29"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Wallets, keys & permissions"
+    url: "https://satohubai.github.io/onchain-agents/categories/wallets-keys"
+  - name: "Metaplex Agent Kit (mpl-agent)"
+    url: "https://satohubai.github.io/onchain-agents/listings/metaplex-agent-kit"
 ---
 
 # Metaplex Agent Kit (mpl-agent)

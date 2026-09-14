@@ -2,7 +2,23 @@
 title: "Squads MCP — Sato Hub index"
 description: "Community MCP server letting agents create, vote on, and manage Squads Solana multisig proposals."
 canonical: "https://satohub.ai/resources/squads-mcp"
+canonical_url: "https://satohub.ai/resources/squads-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Squads MCP"
+code_repository: "https://github.com/dorkydhruv/squads-mcp"
+software_url: "https://docs.squads.so/main"
+application_category: "MCP"
+operating_system: "Any"
+license_name: "Unknown"
+date_modified: "2025-06-17"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Squads MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/squads-mcp"
 ---
 
 # Squads MCP

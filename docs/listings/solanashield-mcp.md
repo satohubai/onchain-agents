@@ -2,7 +2,24 @@
 title: "SolanaShield MCP — Sato Hub index"
 description: "MIT-licensed MCP server that runs vulnerability-pattern checks against Solana smart contracts."
 canonical: "https://satohub.ai/resources/solanashield-mcp"
+canonical_url: "https://satohub.ai/resources/solanashield-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "SolanaShield MCP"
+code_repository: "https://github.com/ElromEvedElElyon/solanashield-mcp"
+software_url: "https://github.com/ElromEvedElElyon/solanashield-mcp"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-04-12"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "SolanaShield MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/solanashield-mcp"
 ---
 
 # SolanaShield MCP

@@ -2,7 +2,22 @@
 title: "Definitive — Sato Hub index"
 description: "A non-custodial trading platform and API offering algorithmic order types (TWAP, limit, stop) with smart order routing across many chains."
 canonical: "https://satohub.ai/resources/definitive-fi"
+canonical_url: "https://satohub.ai/resources/definitive-fi"
 layout: "default"
+page_type: "listing"
+item_name: "Definitive"
+software_url: "https://www.definitive.fi/"
+application_category: "Trading Tool"
+application_subcategory: "Non-custodial automated trading"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Trading & DeFi venues"
+    url: "https://satohubai.github.io/onchain-agents/categories/trading-venues"
+  - name: "Definitive"
+    url: "https://satohubai.github.io/onchain-agents/listings/definitive-fi"
 ---
 
 # Definitive

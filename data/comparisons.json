@@ -1,0 +1,147 @@
+{
+  "schema_version": 1,
+  "source": "https://satohub.ai/compare",
+  "license": "CC-BY-4.0",
+  "generated_at": "2026-09-14T16:52:49.751Z",
+  "count": 6,
+  "pages": [
+    {
+      "slug": "coinbase-agentkit-vs-solana-agent-kit",
+      "a": "coinbase-agentkit",
+      "b": "solana-agent-kit",
+      "h1": "Coinbase AgentKit vs Solana Agent Kit",
+      "meta_description": "Coinbase AgentKit and Solana Agent Kit compared on the same axes — chains, openness, maintenance, and install verification — from live Sato Hub directory data. No winner declared.",
+      "intro": [
+        "These two get compared constantly, and the comparison is slightly wrong from the start: they do not overlap on chains. AgentKit gives an agent a wallet and onchain actions on Base and Ethereum; Solana Agent Kit connects an agent to Solana protocol actions. For most builders the chain decision comes first and picks the toolkit for you.",
+        "Where the comparison does earn its keep is everything else — who maintains it, how open it is, whether it is still moving, and whether anyone has reproduced the install. Those are the axes below, read live from the directory rather than typed into copy that would go stale."
+      ],
+      "pick_a": [
+        "You are building on Base or Ethereum, which is where the majority of onchain agent activity currently lands.",
+        "You want the wallet and the actions from one vendor, with CDP infrastructure behind them.",
+        "You value a maintainer with an obvious commercial reason to keep shipping — Coinbase sells the rails underneath it."
+      ],
+      "pick_b": [
+        "You are on Solana, where AgentKit does not reach at all.",
+        "You want breadth of protocol coverage — it is a skill repo, so the surface is protocol actions rather than a wallet abstraction.",
+        "You prefer an independent, community-maintained project over a first-party vendor toolkit."
+      ],
+      "caveat": "Neither Sato Score is a security assessment. Both are open source and both have a reproduced install, which is more than most listings can say — but neither has been audited, and the score does not credit anything that has not been independently checked. If you are giving either one signing power over real funds, read the key-handling code yourself.",
+      "canonical": "https://satohub.ai/compare/coinbase-agentkit-vs-solana-agent-kit"
+    },
+    {
+      "slug": "x402-vs-ap2",
+      "a": "x402",
+      "b": "agent-payments-protocol-ap2",
+      "h1": "x402 vs AP2",
+      "meta_description": "x402 and Google's Agent Payments Protocol compared on scope, chains, standards support, and maintenance — from live Sato Hub directory data. They overlap less than the framing suggests.",
+      "intro": [
+        "Framing these as rivals misreads both. x402 is a narrow, shipped primitive: a server answers HTTP 402 with a price, the caller pays stablecoin, the request retries. AP2 is a broader mandate framework for agent-led purchasing across payment rails — and its crypto extension was built with Coinbase, so it can carry x402 rather than replace it.",
+        "The practical question is not which one wins but which layer you are working at. If you are metering an API call, that is x402's whole job. If you are handling a delegated purchase with authorisation and dispute semantics attached, that is what AP2 specifies. The table below compares them on the axes the directory tracks for both."
+      ],
+      "pick_a": [
+        "You are charging for a request — an API call, a query, a compute job — and want the smallest thing that works.",
+        "You want an agent to pay without an account, a key, or a prior relationship with the seller.",
+        "You want implementations available today: this directory tracks fifty listings that support x402."
+      ],
+      "pick_b": [
+        "You need the mandate and authorisation layer around a purchase, not just the transfer.",
+        "You need to span traditional and crypto rails rather than settle only in stablecoin.",
+        "You are building toward merchant checkout, where the card networks' agent specs matter as much as the chain."
+      ],
+      "caveat": "Both are early, and neither listing's adoption figures are independently verified — self-reported volume is never presented as fact on this site. AP2's higher star count reflects a specification repository from a large vendor, not deployed usage; x402's lower one sits under a protocol with more shipped implementations in this directory. Star counts are the least meaningful row in the table, which is exactly why they are not the first one.",
+      "canonical": "https://satohub.ai/compare/x402-vs-ap2"
+    },
+    {
+      "slug": "jupiter-vs-1inch",
+      "a": "jupiter-aggregator",
+      "b": "1inch",
+      "h1": "Jupiter vs 1inch",
+      "meta_description": "Jupiter and 1inch compared on the same axes — chains, openness, maintenance, interfaces and install verification — from live Sato Hub directory data. No winner declared.",
+      "intro": [
+        "An agent that needs a swap route reaches for an aggregator, and these are the two names it hears. They are not substitutes: Jupiter aggregates Solana liquidity, 1inch aggregates EVM liquidity. Pick the chain first and the aggregator is mostly picked for you — the interesting question only starts after that.",
+        "What is worth comparing is everything the chain decision does not settle: how each is maintained, how much is published as source, what interfaces an agent can actually call, and whether anyone has reproduced the setup. Those rows are read live from the directory rather than typed into copy that would rot."
+      ],
+      "pick_a": [
+        "Your agent trades on Solana, where 1inch does not reach.",
+        "You want the route and the transaction from the same API, which is what most Solana agent stacks are built around.",
+        "You are pairing it with Solana-native tooling — a Solana agent kit, a Solana MCP server — and want one liquidity story across them."
+      ],
+      "pick_b": [
+        "Your agent trades on EVM chains, where Jupiter does not reach.",
+        "You need one aggregator across several EVM networks rather than one per chain.",
+        "You want a long-lived, widely integrated EVM routing surface with a large body of existing integration code to copy from."
+      ],
+      "caveat": "Neither row in this table is an execution-quality measurement. Which aggregator returns a better fill for your size, your pair and your slippage tolerance is not something the directory observes, and no figure here should be read as a price claim. Quoted output is also not a fill: routes are quoted before signing and can move. If execution quality is the decision, benchmark both against your own order flow.",
+      "canonical": "https://satohub.ai/compare/jupiter-vs-1inch"
+    },
+    {
+      "slug": "clanker-vs-pons",
+      "a": "clanker",
+      "b": "pons",
+      "h1": "Clanker vs Pons",
+      "meta_description": "Clanker and Pons compared on the same axes — what each one is, chains, openness, maintenance and verification — from live Sato Hub directory data. They solve different problems.",
+      "intro": [
+        "These two get mentioned in the same breath because both are agent-facing onchain services on Base, and the comparison usually starts from a false premise: they are not competitors. The directory classifies them differently, and that difference — visible in the first row of the table — is the answer to most questions people bring here.",
+        "So read this page as a disambiguation rather than a shootout. The table shows what each is, who maintains it, how open it is, and what evidence we hold for either. Every cell is read live from the directory, so it says what the record says today and nothing more."
+      ],
+      "pick_a": [
+        "You want an agent-operated token deployment path on Base with an established public footprint.",
+        "You are working inside the Farcaster/Base surface where its deployments already sit.",
+        "You want a launch venue with a documented interface an agent can call, rather than a UI flow."
+      ],
+      "pick_b": [
+        "You are working on the DeFi tooling side rather than the launch side — the first row of the table is the whole distinction.",
+        "You want the project whose category and interfaces match a DeFi integration, not a deployment.",
+        "You prefer the newer, narrower surface over a broader launch product."
+      ],
+      "caveat": "This pair spans two different categories, so several rows compare things that are not alike — a launch venue and a DeFi tool can share a chain and share nothing else. Nothing here is a measurement of token outcomes, deployment safety, or what happens to anything either one launches or touches: the directory records what each project is and how maintained it is, not what using it results in. Neither has an earned verification that would say otherwise.",
+      "canonical": "https://satohub.ai/compare/clanker-vs-pons"
+    },
+    {
+      "slug": "elizaos-vs-almanak",
+      "a": "elizaos",
+      "b": "almanak",
+      "h1": "ElizaOS vs Almanak",
+      "meta_description": "ElizaOS and Almanak compared on the same axes — chains, openness, maintenance, interfaces and install verification — from live Sato Hub directory data. No winner declared.",
+      "intro": [
+        "Both are listed as agent frameworks, which makes this the rarer kind of comparison: a genuine like-for-like. The question people actually bring is whether to build on the large, general, plugin-heavy framework or the narrower, strategy-shaped one, and that is a question about what you are building rather than about which project is better.",
+        "The table below is the evidence the directory holds on both: how open each is, when each last moved in public, what an agent can call, and whether the documented install has been reproduced. Read the openness and maintenance rows first — for a framework you will live inside for months, they matter more than any feature list."
+      ],
+      "pick_a": [
+        "You want a broad, general-purpose agent framework with a large plugin surface and a lot of existing integration code to read.",
+        "You expect to wire several chains and several services into one agent rather than specialising.",
+        "You value an active public repository you can fork and debug yourself over a managed surface."
+      ],
+      "pick_b": [
+        "Your agent is a trading or strategy agent first, and a conversational one second or not at all.",
+        "You prefer a narrower framework shaped around the problem you actually have over a general one you must shape yourself.",
+        "You are comfortable with whatever the openness row below says about it — check it before committing, because it is the row that decides how much of this you can fix yourself."
+      ],
+      "caveat": "Neither Sato Score is a security assessment, and a framework score says nothing about the code you will write inside it. The rows that matter most here — how much of each is published as source, and how recently each moved — are also the rows most likely to have changed since you last looked, which is why they are read live rather than written down. If either will hold signing keys, read its key-handling code yourself before it holds anything worth taking.",
+      "canonical": "https://satohub.ai/compare/elizaos-vs-almanak"
+    },
+    {
+      "slug": "privy-vs-turnkey",
+      "a": "privy",
+      "b": "turnkey",
+      "h1": "Privy vs Turnkey",
+      "meta_description": "Privy and Turnkey compared on the same axes — chains, openness, maintenance, interfaces and verification — from live Sato Hub directory data. No winner declared, and neither is audited by us.",
+      "intro": [
+        "This is the wallet-infrastructure decision most agent builders hit on day two: something has to hold a key and sign, and it should not be a hot key in an environment variable. Both are listed here as wallet infrastructure, and both are used underneath production agents.",
+        "The table compares them on what the directory tracks for both — chains, interfaces, openness, maintenance and what evidence we hold. It deliberately does not rank them on security, because security is not a row this site is entitled to fill in."
+      ],
+      "pick_a": [
+        "Your agent has human users behind it and you want embedded wallets and the login flow from one vendor.",
+        "You are starting from a consumer-shaped app and adding agent behaviour to it.",
+        "You want the shortest path from a signed-in user to a wallet that can act."
+      ],
+      "pick_b": [
+        "The signer is the product: you want a key-management surface with explicit policy over what may be signed.",
+        "You need programmatic signing for an agent that has no human sitting behind each action.",
+        "You would rather express who may sign what as policy than enforce it in your own application code."
+      ],
+      "caveat": "The single most important axis here — how each one custodies and protects keys — is the one this table cannot settle. Sato Hub has not audited either, holds no security assessment of either, and a Sato Score measures how open, active and verifiable a project is, not how well it protects a key. Whatever either vendor publishes about its own key handling is self-reported until someone independent checks it. If an agent will sign with real funds, read both vendors' security documentation and their own third-party audits directly.",
+      "canonical": "https://satohub.ai/compare/privy-vs-turnkey"
+    }
+  ]
+}

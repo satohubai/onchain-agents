@@ -2,7 +2,23 @@
 title: "OpenDexter — Sato Hub index"
 description: "Agent middleware (npm/MCP) that discovers, prices, and pays for paid APIs with multi-chain USDC, tracking 21,000+ endpoints."
 canonical: "https://satohub.ai/resources/opendexter"
+canonical_url: "https://satohub.ai/resources/opendexter"
 layout: "default"
+page_type: "listing"
+item_name: "OpenDexter"
+code_repository: "https://github.com/Dexter-DAO"
+software_url: "https://dexter.cash/opendexter"
+application_category: "MCP"
+operating_system: "Any"
+license_name: "Unknown"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "OpenDexter"
+    url: "https://satohubai.github.io/onchain-agents/listings/opendexter"
 ---
 
 # OpenDexter

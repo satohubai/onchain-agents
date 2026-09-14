@@ -2,7 +2,22 @@
 title: "SOLx402 MCP Server — Sato Hub index"
 description: "MCP server bridging AI assistants to the x402 micropayment protocol on Solana, so agents can discover and pay for services in USDC."
 canonical: "https://satohub.ai/resources/solx402-mcp-server"
+canonical_url: "https://satohub.ai/resources/solx402-mcp-server"
 layout: "default"
+page_type: "listing"
+item_name: "SOLx402 MCP Server"
+code_repository: "https://github.com/leandrogavidia/solx402-mcp-server"
+software_url: "https://solx402-mcp-server-web.vercel.app/"
+application_category: "MCP"
+operating_system: "Any"
+date_modified: "2026-02-06"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "SOLx402 MCP Server"
+    url: "https://satohubai.github.io/onchain-agents/listings/solx402-mcp-server"
 ---
 
 # SOLx402 MCP Server

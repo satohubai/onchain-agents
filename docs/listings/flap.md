@@ -2,7 +2,22 @@
 title: "Flap — Sato Hub index"
 description: "A one-click token launch and trading platform whose skill lets agents launch tokens, provide liquidity, and manage tokens autonomously."
 canonical: "https://satohub.ai/resources/flap"
+canonical_url: "https://satohub.ai/resources/flap"
 layout: "default"
+page_type: "listing"
+item_name: "Flap"
+software_url: "https://flap.sh"
+application_category: "DeFi Tool"
+application_subcategory: "Token launchpad / agent skill"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Identity, discovery & standards"
+    url: "https://satohubai.github.io/onchain-agents/categories/identity-discovery"
+  - name: "Flap"
+    url: "https://satohubai.github.io/onchain-agents/listings/flap"
 ---
 
 # Flap

@@ -2,7 +2,24 @@
 title: "Usenami Funding MCP — Sato Hub index"
 description: "MCP server for perp funding rates and cross-exchange data across 20+ venues, including Hyperliquid HIP-3."
 canonical: "https://satohub.ai/resources/namixai-funding-mcp"
+canonical_url: "https://satohub.ai/resources/namixai-funding-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Usenami Funding MCP"
+code_repository: "https://github.com/namixai/funding-mcp"
+software_url: "https://github.com/namixai/funding-mcp"
+application_category: "Trading Tool"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-06-16"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Payments & agent commerce"
+    url: "https://satohubai.github.io/onchain-agents/categories/payments"
+  - name: "Usenami Funding MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/namixai-funding-mcp"
 ---
 
 # Usenami Funding MCP

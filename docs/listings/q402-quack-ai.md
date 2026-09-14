@@ -2,7 +2,22 @@
 title: "Q402 (Quack AI) — Sato Hub index"
 description: "Gasless stablecoin payment relay and managed Agent Wallets across 12 EVM chains (EIP-712 + EIP-7702), with an MCP server and optional ERC-8004…"
 canonical: "https://satohub.ai/resources/q402-quack-ai"
+canonical_url: "https://satohub.ai/resources/q402-quack-ai"
 layout: "default"
+page_type: "listing"
+item_name: "Q402 (Quack AI)"
+code_repository: "https://github.com/quackai-org/q402-mcp"
+software_url: "https://q402.quackai.ai"
+application_category: "Wallet Infrastructure"
+operating_system: "Any"
+date_modified: "2026-09-10"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Wallets, keys & permissions"
+    url: "https://satohubai.github.io/onchain-agents/categories/wallets-keys"
+  - name: "Q402 (Quack AI)"
+    url: "https://satohubai.github.io/onchain-agents/listings/q402-quack-ai"
 ---
 
 # Q402 (Quack AI)

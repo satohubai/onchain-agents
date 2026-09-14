@@ -2,7 +2,22 @@
 title: "hood.fun — Sato Hub index"
 description: "Bonding-curve token launchpad on Robinhood Chain; a filled curve migrates into a Uniswap v3 position held by an ownerless locker."
 canonical: "https://satohub.ai/resources/hood-fun"
+canonical_url: "https://satohub.ai/resources/hood-fun"
 layout: "default"
+page_type: "listing"
+item_name: "hood.fun"
+software_url: "https://hood.fun"
+application_category: "DeFi Tool"
+application_subcategory: "Token launchpad (Robinhood Chain)"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Trading & DeFi venues"
+    url: "https://satohubai.github.io/onchain-agents/categories/trading-venues"
+  - name: "hood.fun"
+    url: "https://satohubai.github.io/onchain-agents/listings/hood-fun"
 ---
 
 # hood.fun

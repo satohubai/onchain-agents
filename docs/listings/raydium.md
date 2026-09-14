@@ -2,7 +2,25 @@
 title: "Raydium — Sato Hub index"
 description: "Solana AMM and DEX with an open-source TypeScript SDK V2 and public trade/routing API."
 canonical: "https://satohub.ai/resources/raydium"
+canonical_url: "https://satohub.ai/resources/raydium"
 layout: "default"
+page_type: "listing"
+item_name: "Raydium"
+code_repository: "https://github.com/raydium-io/raydium-sdk-V2"
+software_url: "https://raydium.io/"
+application_category: "Trading Tool"
+application_subcategory: "Spot DEX"
+operating_system: "Any"
+license_url: "https://www.gnu.org/licenses/gpl-3.0.html"
+license_name: "GPL-3.0"
+date_modified: "2026-09-08"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Trading & DeFi venues"
+    url: "https://satohubai.github.io/onchain-agents/categories/trading-venues"
+  - name: "Raydium"
+    url: "https://satohubai.github.io/onchain-agents/listings/raydium"
 ---
 
 # Raydium

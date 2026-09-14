@@ -2,7 +2,24 @@
 title: "CryptoGuard — Sato Hub index"
 description: "Intercepts agent transactions and checks them against 5 security oracles before execution."
 canonical: "https://satohub.ai/resources/cryptoguard-agent-safety"
+canonical_url: "https://satohub.ai/resources/cryptoguard-agent-safety"
 layout: "default"
+page_type: "listing"
+item_name: "CryptoGuard"
+code_repository: "https://github.com/momenbasel/CryptoGuard"
+software_url: "https://github.com/momenbasel/CryptoGuard"
+application_category: "Security Tool"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-04-10"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Security & preflight"
+    url: "https://satohubai.github.io/onchain-agents/categories/security"
+  - name: "CryptoGuard"
+    url: "https://satohubai.github.io/onchain-agents/listings/cryptoguard-agent-safety"
 ---
 
 # CryptoGuard

@@ -2,7 +2,22 @@
 title: "Turnkey — Sato Hub index"
 description: "Secure key management infrastructure with policy controls, commonly used for agent wallets."
 canonical: "https://satohub.ai/resources/turnkey"
+canonical_url: "https://satohub.ai/resources/turnkey"
 layout: "default"
+page_type: "listing"
+item_name: "Turnkey"
+code_repository: "https://github.com/tkhq"
+software_url: "https://turnkey.com"
+application_category: "Wallet Infrastructure"
+operating_system: "Any"
+date_modified: "2026-09-10"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Wallets, keys & permissions"
+    url: "https://satohubai.github.io/onchain-agents/categories/wallets-keys"
+  - name: "Turnkey"
+    url: "https://satohubai.github.io/onchain-agents/listings/turnkey"
 ---
 
 # Turnkey

@@ -2,7 +2,24 @@
 title: "Boar Blockchain MCP — Sato Hub index"
 description: "Blockchain infrastructure MCP from Boar Network, with setup guides and free-tier access paths."
 canonical: "https://satohub.ai/resources/boar-blockchain-mcp"
+canonical_url: "https://satohub.ai/resources/boar-blockchain-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Boar Blockchain MCP"
+code_repository: "https://github.com/boar-network/blockchain-mcp"
+software_url: "https://boar.network"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-04-09"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Boar Blockchain MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/boar-blockchain-mcp"
 ---
 
 # Boar Blockchain MCP

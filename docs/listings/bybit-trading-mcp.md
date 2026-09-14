@@ -2,7 +2,24 @@
 title: "Bybit Trading MCP — Sato Hub index"
 description: "Official Bybit MCP for market data, trading, positions, wallet, and portfolio via REST and WebSocket."
 canonical: "https://satohub.ai/resources/bybit-trading-mcp"
+canonical_url: "https://satohub.ai/resources/bybit-trading-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Bybit Trading MCP"
+code_repository: "https://github.com/bybit-exchange/trading-mcp"
+software_url: "https://www.bybit.com/"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-08"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Bybit Trading MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/bybit-trading-mcp"
 ---
 
 # Bybit Trading MCP

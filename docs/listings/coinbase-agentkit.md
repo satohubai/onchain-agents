@@ -2,7 +2,25 @@
 title: "Coinbase AgentKit — Sato Hub index"
 description: "Coinbase's toolkit for giving AI agents wallets and the ability to take onchain actions."
 canonical: "https://satohub.ai/resources/coinbase-agentkit"
+canonical_url: "https://satohub.ai/resources/coinbase-agentkit"
 layout: "default"
+page_type: "listing"
+item_name: "Coinbase AgentKit"
+code_repository: "https://github.com/coinbase/agentkit"
+software_url: "https://www.coinbase.com/developer-platform/discover/launches/introducing-agentkit"
+application_category: "Developer Tool"
+application_subcategory: "Agent Wallet Tooling"
+operating_system: "Any"
+license_url: "https://www.apache.org/licenses/LICENSE-2.0"
+license_name: "Apache-2.0"
+date_modified: "2026-09-11"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Onchain action kits & SDKs"
+    url: "https://satohubai.github.io/onchain-agents/categories/action-kits"
+  - name: "Coinbase AgentKit"
+    url: "https://satohubai.github.io/onchain-agents/listings/coinbase-agentkit"
 ---
 
 # Coinbase AgentKit

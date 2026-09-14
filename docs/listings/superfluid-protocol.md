@@ -2,7 +2,23 @@
 title: "Superfluid — Sato Hub index"
 description: "Real-time token-streaming protocol enabling per-second payment flows, usable as an agent subscription/payroll primitive."
 canonical: "https://satohub.ai/resources/superfluid-protocol"
+canonical_url: "https://satohub.ai/resources/superfluid-protocol"
 layout: "default"
+page_type: "listing"
+item_name: "Superfluid"
+code_repository: "https://github.com/superfluid-finance"
+software_url: "https://www.superfluid.org"
+application_category: "DeFi Tool"
+operating_system: "Any"
+license_name: "Unknown"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Trading & DeFi venues"
+    url: "https://satohubai.github.io/onchain-agents/categories/trading-venues"
+  - name: "Superfluid"
+    url: "https://satohubai.github.io/onchain-agents/listings/superfluid-protocol"
 ---
 
 # Superfluid

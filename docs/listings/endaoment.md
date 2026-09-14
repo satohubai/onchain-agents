@@ -2,7 +2,20 @@
 title: "Endaoment — Sato Hub index"
 description: "On-chain US 501(c)(3) community foundation enabling donor-advised funds and crypto, stock, and cash donations to nonprofits, with an agent skill for…"
 canonical: "https://satohub.ai/resources/endaoment"
+canonical_url: "https://satohub.ai/resources/endaoment"
 layout: "default"
+page_type: "listing"
+item_name: "Endaoment"
+software_url: "https://endaoment.org/"
+application_category: "Other"
+application_subcategory: "On-chain Charitable Giving / Donor-Advised Funds"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Endaoment"
+    url: "https://satohubai.github.io/onchain-agents/listings/endaoment"
 ---
 
 # Endaoment

@@ -2,7 +2,23 @@
 title: "Fewsats — Sato Hub index"
 description: "L402 payments platform and MCP server letting agents pay for API access with Bitcoin Lightning or stablecoins."
 canonical: "https://satohub.ai/resources/fewsats"
+canonical_url: "https://satohub.ai/resources/fewsats"
 layout: "default"
+page_type: "listing"
+item_name: "Fewsats"
+code_repository: "https://github.com/Fewsats/fewsats-mcp"
+software_url: "https://fewsats.com"
+application_category: "API / SDK"
+operating_system: "Any"
+license_name: "Unknown"
+date_modified: "2025-05-27"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Payments & agent commerce"
+    url: "https://satohubai.github.io/onchain-agents/categories/payments"
+  - name: "Fewsats"
+    url: "https://satohubai.github.io/onchain-agents/listings/fewsats"
 ---
 
 # Fewsats

@@ -2,7 +2,24 @@
 title: "Masumi Network — Sato Hub index"
 description: "Cardano-based payment and identity protocol letting AI agents pay each other via escrow with on-chain audit trails."
 canonical: "https://satohub.ai/resources/masumi-network"
+canonical_url: "https://satohub.ai/resources/masumi-network"
 layout: "default"
+page_type: "listing"
+item_name: "Masumi Network"
+code_repository: "https://github.com/masumi-network"
+software_url: "https://www.masumi.network/"
+application_category: "API / SDK"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Payments & agent commerce"
+    url: "https://satohubai.github.io/onchain-agents/categories/payments"
+  - name: "Masumi Network"
+    url: "https://satohubai.github.io/onchain-agents/listings/masumi-network"
 ---
 
 # Masumi Network

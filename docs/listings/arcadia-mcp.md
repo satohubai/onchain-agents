@@ -2,7 +2,24 @@
 title: "Arcadia MCP — Sato Hub index"
 description: "Official Arcadia Finance MCP for concentrated-liquidity strategies on Uniswap and Aerodrome."
 canonical: "https://satohub.ai/resources/arcadia-mcp"
+canonical_url: "https://satohub.ai/resources/arcadia-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Arcadia MCP"
+code_repository: "https://github.com/arcadia-finance/mcp-server"
+software_url: "https://arcadia.finance"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://www.gnu.org/licenses/agpl-3.0.html"
+license_name: "AGPL-3.0"
+date_modified: "2026-09-01"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Arcadia MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/arcadia-mcp"
 ---
 
 # Arcadia MCP

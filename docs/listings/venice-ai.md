@@ -2,7 +2,22 @@
 title: "Venice AI — Sato Hub index"
 description: "Private, uncensored AI inference platform with an OpenAI-compatible API used by agent builders."
 canonical: "https://satohub.ai/resources/venice-ai"
+canonical_url: "https://satohub.ai/resources/venice-ai"
 layout: "default"
+page_type: "listing"
+item_name: "Venice AI"
+software_url: "https://venice.ai"
+application_category: "API / SDK"
+application_subcategory: "Private AI inference"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Onchain action kits & SDKs"
+    url: "https://satohubai.github.io/onchain-agents/categories/action-kits"
+  - name: "Venice AI"
+    url: "https://satohubai.github.io/onchain-agents/listings/venice-ai"
 ---
 
 # Venice AI

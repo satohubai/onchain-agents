@@ -2,7 +2,25 @@
 title: "Hyperliquid — Sato Hub index"
 description: "Onchain perpetual futures and spot DEX running on its own L1 with an HyperEVM smart-contract layer."
 canonical: "https://satohub.ai/resources/hyperliquid"
+canonical_url: "https://satohub.ai/resources/hyperliquid"
 layout: "default"
+page_type: "listing"
+item_name: "Hyperliquid"
+code_repository: "https://github.com/hyperliquid-dex"
+software_url: "https://app.hyperliquid.xyz/"
+application_category: "Trading Tool"
+application_subcategory: "Perps DEX"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-08"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Hyperliquid"
+    url: "https://satohubai.github.io/onchain-agents/listings/hyperliquid"
 ---
 
 # Hyperliquid
@@ -22,7 +40,7 @@ Sato Score: **⬡ 76** (High) — a measure of how open, active and verifiable t
 - **Creator:** Hyperliquid
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 5 days ago
+- **Activity:** Active — last activity 6 days ago
 - **Deploys as:** API, SDK
 - **Works with:** CCXT, Python SDK, TypeScript SDK
 

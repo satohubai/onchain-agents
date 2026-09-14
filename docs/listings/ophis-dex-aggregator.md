@@ -2,7 +2,24 @@
 title: "Ophis — Sato Hub index"
 description: "Intent-based DEX aggregator for agents — natural-language swap intents settled via batch auction across 11+ EVM chains plus Solana."
 canonical: "https://satohub.ai/resources/ophis-dex-aggregator"
+canonical_url: "https://satohub.ai/resources/ophis-dex-aggregator"
 layout: "default"
+page_type: "listing"
+item_name: "Ophis"
+code_repository: "https://github.com/ophis-fi/ophis"
+software_url: "https://ophis.fi"
+application_category: "DeFi Tool"
+operating_system: "Any"
+license_url: "https://www.gnu.org/licenses/gpl-3.0.html"
+license_name: "GPL-3.0"
+date_modified: "2026-09-05"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Trading & DeFi venues"
+    url: "https://satohubai.github.io/onchain-agents/categories/trading-venues"
+  - name: "Ophis"
+    url: "https://satohubai.github.io/onchain-agents/listings/ophis-dex-aggregator"
 ---
 
 # Ophis

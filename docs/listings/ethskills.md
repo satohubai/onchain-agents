@@ -2,7 +2,19 @@
 title: "ETHSKILLS — Sato Hub index"
 description: "24 modular markdown skill guides teaching AI agents production Ethereum development, from wallets to security."
 canonical: "https://satohub.ai/resources/ethskills"
+canonical_url: "https://satohub.ai/resources/ethskills"
 layout: "default"
+page_type: "listing"
+item_name: "ETHSKILLS"
+software_url: "https://ethskills.com/"
+application_category: "Skill Repo"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "ETHSKILLS"
+    url: "https://satohubai.github.io/onchain-agents/listings/ethskills"
 ---
 
 # ETHSKILLS

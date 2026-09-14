@@ -2,7 +2,22 @@
 title: "solana-dev-skill — Sato Hub index"
 description: "Solana Foundation's official skill package for agentic development on Solana."
 canonical: "https://satohub.ai/resources/solana-dev-skill"
+canonical_url: "https://satohub.ai/resources/solana-dev-skill"
 layout: "default"
+page_type: "listing"
+item_name: "solana-dev-skill"
+code_repository: "https://github.com/solana-foundation/solana-dev-skill"
+software_url: "https://github.com/solana-foundation/solana-dev-skill"
+application_category: "Skill Repo"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-04"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "solana-dev-skill"
+    url: "https://satohubai.github.io/onchain-agents/listings/solana-dev-skill"
 ---
 
 # solana-dev-skill

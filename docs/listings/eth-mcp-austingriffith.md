@@ -2,7 +2,24 @@
 title: "eth-mcp — Sato Hub index"
 description: "MCP server enabling agents to build and deploy Ethereum apps with Scaffold-ETH — clone, fork, deploy, and run local Web3 dev flows."
 canonical: "https://satohub.ai/resources/eth-mcp-austingriffith"
+canonical_url: "https://satohub.ai/resources/eth-mcp-austingriffith"
 layout: "default"
+page_type: "listing"
+item_name: "eth-mcp"
+code_repository: "https://github.com/austintgriffith/eth-mcp"
+software_url: "https://github.com/austintgriffith/eth-mcp"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-01-11"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "eth-mcp"
+    url: "https://satohubai.github.io/onchain-agents/listings/eth-mcp-austingriffith"
 ---
 
 # eth-mcp

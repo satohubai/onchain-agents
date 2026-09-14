@@ -2,7 +2,22 @@
 title: "Oraichain Multichain MCP — Sato Hub index"
 description: "CosmJS-based MCP toolkit for wallet queries, transactions, and contract deployment on Oraichain and Cosmos chains."
 canonical: "https://satohub.ai/resources/oraichain-multichain-mcp"
+canonical_url: "https://satohub.ai/resources/oraichain-multichain-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Oraichain Multichain MCP"
+code_repository: "https://github.com/oraichain/orai-mcp"
+software_url: "https://orai.io"
+application_category: "API / SDK"
+operating_system: "Any"
+license_url: "https://www.gnu.org/licenses/gpl-3.0.html"
+license_name: "GPL-3.0"
+date_modified: "2025-05-07"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Oraichain Multichain MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/oraichain-multichain-mcp"
 ---
 
 # Oraichain Multichain MCP

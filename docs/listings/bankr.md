@@ -2,7 +2,23 @@
 title: "Bankr — Sato Hub index"
 description: "Crypto execution layer and cross-chain wallet that lets agents and users trade, bridge, and manage assets via natural language, plus a skills…"
 canonical: "https://satohub.ai/resources/bankr"
+canonical_url: "https://satohub.ai/resources/bankr"
 layout: "default"
+page_type: "listing"
+item_name: "Bankr"
+code_repository: "https://github.com/BankrBot/skills"
+software_url: "https://bankr.bot/"
+application_category: "Wallet Infrastructure"
+application_subcategory: "Crypto execution layer + cross-chain wallet for agents"
+operating_system: "Any"
+date_modified: "2026-09-13"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Wallets, keys & permissions"
+    url: "https://satohubai.github.io/onchain-agents/categories/wallets-keys"
+  - name: "Bankr"
+    url: "https://satohubai.github.io/onchain-agents/listings/bankr"
 ---
 
 # Bankr

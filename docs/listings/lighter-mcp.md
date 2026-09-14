@@ -2,7 +2,24 @@
 title: "Lighter MCP — Sato Hub index"
 description: "MCP server for trading on Lighter, a zero-fee zk-rollup perpetual DEX — place orders, manage positions, query markets."
 canonical: "https://satohub.ai/resources/lighter-mcp"
+canonical_url: "https://satohub.ai/resources/lighter-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Lighter MCP"
+code_repository: "https://github.com/0xDegenMo/lighter-mcp"
+software_url: "https://lighter.xyz"
+application_category: "Trading Tool"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-05-28"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Trading & DeFi venues"
+    url: "https://satohubai.github.io/onchain-agents/categories/trading-venues"
+  - name: "Lighter MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/lighter-mcp"
 ---
 
 # Lighter MCP

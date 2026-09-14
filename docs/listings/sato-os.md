@@ -2,7 +2,22 @@
 title: "Sato OS — Sato Hub index"
 description: "Self-hosted control plane for onchain agents: sealed local wallet, ERC-7715 session grants with chain-enforced caps, EIP-7702 execution, EAS…"
 canonical: "https://satohub.ai/resources/sato-os"
+canonical_url: "https://satohub.ai/resources/sato-os"
 layout: "default"
+page_type: "listing"
+item_name: "Sato OS"
+software_url: "https://satohub.ai/os"
+application_category: "Developer Tool"
+application_subcategory: "Agent Operations"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Onchain action kits & SDKs"
+    url: "https://satohubai.github.io/onchain-agents/categories/action-kits"
+  - name: "Sato OS"
+    url: "https://satohubai.github.io/onchain-agents/listings/sato-os"
 ---
 
 # Sato OS

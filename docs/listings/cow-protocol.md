@@ -2,7 +2,24 @@
 title: "CoW Protocol — Sato Hub index"
 description: "Intent-based trading protocol with batch-auction solvers, MEV protection, and a developer API and SDK."
 canonical: "https://satohub.ai/resources/cow-protocol"
+canonical_url: "https://satohub.ai/resources/cow-protocol"
 layout: "default"
+page_type: "listing"
+item_name: "CoW Protocol"
+code_repository: "https://github.com/cowprotocol"
+software_url: "https://cow.fi/"
+application_category: "Trading Tool"
+application_subcategory: "Intent-Based DEX"
+operating_system: "Any"
+license_name: "MIT OR Apache-2.0"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Trading & DeFi venues"
+    url: "https://satohubai.github.io/onchain-agents/categories/trading-venues"
+  - name: "CoW Protocol"
+    url: "https://satohubai.github.io/onchain-agents/listings/cow-protocol"
 ---
 
 # CoW Protocol

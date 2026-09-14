@@ -2,7 +2,21 @@
 title: "Mercury x402 MCP — Sato Hub index"
 description: "Pay-per-call MCP server (x402, USDC on Base) offering keyless web-read, structured extraction, and markdown tools with signed provenance receipts."
 canonical: "https://satohub.ai/resources/mercury-x402-mcp"
+canonical_url: "https://satohub.ai/resources/mercury-x402-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Mercury x402 MCP"
+software_url: "https://network.mercury-hq.com"
+application_category: "MCP"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Mercury x402 MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/mercury-x402-mcp"
 ---
 
 # Mercury x402 MCP

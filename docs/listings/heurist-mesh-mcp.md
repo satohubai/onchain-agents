@@ -2,7 +2,24 @@
 title: "Heurist Mesh MCP — Sato Hub index"
 description: "MCP gateway to Heurist Mesh's 30+ hosted Web3 intelligence agents: token data, DEX pools, X analytics, funding rates."
 canonical: "https://satohub.ai/resources/heurist-mesh-mcp"
+canonical_url: "https://satohub.ai/resources/heurist-mesh-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Heurist Mesh MCP"
+code_repository: "https://github.com/heurist-network/heurist-mesh-mcp-server"
+software_url: "https://mesh.heurist.ai"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-02-09"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Heurist Mesh MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/heurist-mesh-mcp"
 ---
 
 # Heurist Mesh MCP

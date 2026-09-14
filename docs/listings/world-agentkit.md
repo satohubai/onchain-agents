@@ -2,7 +2,25 @@
 title: "World AgentKit — Sato Hub index"
 description: "SDK from World (Tools for Humanity) that lets AI agents present a zero-knowledge proof a verified human authorized them, combined with x402 payments."
 canonical: "https://satohub.ai/resources/world-agentkit"
+canonical_url: "https://satohub.ai/resources/world-agentkit"
 layout: "default"
+page_type: "listing"
+item_name: "World AgentKit"
+code_repository: "https://github.com/worldcoin/agentkit"
+software_url: "https://docs.world.org/agents/agent-kit/integrate"
+application_category: "API / SDK"
+application_subcategory: "Proof-of-human identity + payment SDK for agents"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-08-27"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Onchain action kits & SDKs"
+    url: "https://satohubai.github.io/onchain-agents/categories/action-kits"
+  - name: "World AgentKit"
+    url: "https://satohubai.github.io/onchain-agents/listings/world-agentkit"
 ---
 
 # World AgentKit

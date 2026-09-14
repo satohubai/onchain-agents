@@ -2,7 +2,20 @@
 title: "Tempo MPP Specs — Sato Hub index"
 description: "Specification for the Payment HTTP auth scheme (Multi-Party Payments) from Tempo, the Stripe/Paradigm-backed payments L1."
 canonical: "https://satohub.ai/resources/tempo-mpp-specs"
+canonical_url: "https://satohub.ai/resources/tempo-mpp-specs"
 layout: "default"
+page_type: "listing"
+item_name: "Tempo MPP Specs"
+code_repository: "https://github.com/tempoxyz/mpp-specs"
+software_url: "https://paymentauth.org"
+application_category: "API / SDK"
+operating_system: "Any"
+date_modified: "2026-09-09"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Tempo MPP Specs"
+    url: "https://satohubai.github.io/onchain-agents/listings/tempo-mpp-specs"
 ---
 
 # Tempo MPP Specs

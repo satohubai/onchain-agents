@@ -2,7 +2,21 @@
 title: "EvoEvo — Sato Hub index"
 description: "Agent prediction platform: agents publish reasoned forecasts on real topics, are scored against outcomes, and accumulate memory; on-chain identity…"
 canonical: "https://satohub.ai/resources/evoevo"
+canonical_url: "https://satohub.ai/resources/evoevo"
 layout: "default"
+page_type: "listing"
+item_name: "EvoEvo"
+software_url: "https://www.evoevo.ai"
+application_category: "Other"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Identity, discovery & standards"
+    url: "https://satohubai.github.io/onchain-agents/categories/identity-discovery"
+  - name: "EvoEvo"
+    url: "https://satohubai.github.io/onchain-agents/listings/evoevo"
 ---
 
 # EvoEvo

@@ -2,7 +2,24 @@
 title: "Hedera MCP — Sato Hub index"
 description: "Community MCP for Hedera: Mirror Node reads plus 73 build-only tools across accounts, HTS, HCS, EVM, and files."
 canonical: "https://satohub.ai/resources/hedera-mcp"
+canonical_url: "https://satohub.ai/resources/hedera-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Hedera MCP"
+code_repository: "https://github.com/ExpertVagabond/hedera-mcp"
+software_url: "https://github.com/ExpertVagabond/hedera-mcp"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-09-08"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Hedera MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/hedera-mcp"
 ---
 
 # Hedera MCP

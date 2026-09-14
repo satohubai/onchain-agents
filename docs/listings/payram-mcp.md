@@ -2,7 +2,23 @@
 title: "PayRam MCP — Sato Hub index"
 description: "PayRam's MCP server for self-hosted crypto payments: hosted endpoints and agent payment workflows."
 canonical: "https://satohub.ai/resources/payram-mcp"
+canonical_url: "https://satohub.ai/resources/payram-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "PayRam MCP"
+code_repository: "https://github.com/PayRam/payram-mcp"
+software_url: "https://github.com/PayRam/payram-mcp"
+application_category: "MCP"
+operating_system: "Any"
+license_name: "Unknown"
+date_modified: "2026-06-12"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "PayRam MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/payram-mcp"
 ---
 
 # PayRam MCP

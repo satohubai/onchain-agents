@@ -2,7 +2,24 @@
 title: "Circle Agent Stack MCP — Sato Hub index"
 description: "MCP wrapper around Circle's Agent Stack — create USDC wallets, set spend policies, send stablecoin, and pay x402-gated endpoints."
 canonical: "https://satohub.ai/resources/circle-agent-stack-mcp"
+canonical_url: "https://satohub.ai/resources/circle-agent-stack-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Circle Agent Stack MCP"
+code_repository: "https://github.com/kinance/circle-agent-stack-mcp"
+software_url: "https://developers.circle.com/agent-stack"
+application_category: "Wallet Infrastructure"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-06-04"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Wallets, keys & permissions"
+    url: "https://satohubai.github.io/onchain-agents/categories/wallets-keys"
+  - name: "Circle Agent Stack MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/circle-agent-stack-mcp"
 ---
 
 # Circle Agent Stack MCP

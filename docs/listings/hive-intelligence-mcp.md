@@ -2,7 +2,22 @@
 title: "Hive Intelligence Crypto MCP — Sato Hub index"
 description: "Hosted MCP exposing 375+ crypto tools spanning market data, DeFi analytics, security scans, and wallet data."
 canonical: "https://satohub.ai/resources/hive-intelligence-mcp"
+canonical_url: "https://satohub.ai/resources/hive-intelligence-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "Hive Intelligence Crypto MCP"
+software_url: "https://hiveintelligence.xyz/crypto-mcp"
+application_category: "MCP"
+operating_system: "Any"
+license_name: "Unknown"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "Hive Intelligence Crypto MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/hive-intelligence-mcp"
 ---
 
 # Hive Intelligence Crypto MCP

@@ -2,7 +2,24 @@
 title: "RWA Pipe MCP — Sato Hub index"
 description: "MCP server for tokenized real-world asset data: RWA token discovery, TVL/APY, issuer and chain filters, and wallet holdings."
 canonical: "https://satohub.ai/resources/rwa-pipe-mcp"
+canonical_url: "https://satohub.ai/resources/rwa-pipe-mcp"
 layout: "default"
+page_type: "listing"
+item_name: "RWA Pipe MCP"
+code_repository: "https://github.com/rwapipe/mcp"
+software_url: "https://github.com/rwapipe/mcp"
+application_category: "MCP"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-04-30"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "MCP servers"
+    url: "https://satohubai.github.io/onchain-agents/categories/mcp-servers"
+  - name: "RWA Pipe MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/rwa-pipe-mcp"
 ---
 
 # RWA Pipe MCP

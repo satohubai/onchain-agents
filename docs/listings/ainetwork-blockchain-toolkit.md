@@ -2,7 +2,20 @@
 title: "AINetwork Blockchain Toolkit (LangChain) — Sato Hub index"
 description: "Official LangChain toolkit for reading and writing value/app/owner state on the AI Network layer-1 blockchain."
 canonical: "https://satohub.ai/resources/ainetwork-blockchain-toolkit"
+canonical_url: "https://satohub.ai/resources/ainetwork-blockchain-toolkit"
 layout: "default"
+page_type: "listing"
+item_name: "AINetwork Blockchain Toolkit (LangChain)"
+code_repository: "https://github.com/ainblockchain"
+software_url: "https://python.langchain.com/v0.1/docs/integrations/toolkits/ainetwork/"
+application_category: "API / SDK"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "AINetwork Blockchain Toolkit (LangChain)"
+    url: "https://satohubai.github.io/onchain-agents/listings/ainetwork-blockchain-toolkit"
 ---
 
 # AINetwork Blockchain Toolkit (LangChain)

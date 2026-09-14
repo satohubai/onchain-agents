@@ -2,7 +2,24 @@
 title: "Grok CLI — Sato Hub index"
 description: "Open-source terminal coding agent for the xAI Grok API — community-built, not affiliated with xAI."
 canonical: "https://satohub.ai/resources/grok-cli"
+canonical_url: "https://satohub.ai/resources/grok-cli"
 layout: "default"
+page_type: "listing"
+item_name: "Grok CLI"
+code_repository: "https://github.com/superagent-ai/grok-cli"
+software_url: "https://github.com/superagent-ai/grok-cli"
+application_category: "Agent Framework"
+operating_system: "Any"
+license_url: "https://opensource.org/licenses/MIT"
+license_name: "MIT"
+date_modified: "2026-07-06"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Agent runtimes & frameworks"
+    url: "https://satohubai.github.io/onchain-agents/categories/agent-frameworks"
+  - name: "Grok CLI"
+    url: "https://satohubai.github.io/onchain-agents/listings/grok-cli"
 ---
 
 # Grok CLI

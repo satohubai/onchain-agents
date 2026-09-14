@@ -2,7 +2,23 @@
 title: "ZeroDev — Sato Hub index"
 description: "ERC-4337 smart-account SDK (Kernel) with session keys, gas sponsorship, and batched transactions for agent wallets."
 canonical: "https://satohub.ai/resources/zerodev"
+canonical_url: "https://satohub.ai/resources/zerodev"
 layout: "default"
+page_type: "listing"
+item_name: "ZeroDev"
+code_repository: "https://github.com/zerodevapp"
+software_url: "https://zerodev.app"
+application_category: "Wallet Infrastructure"
+operating_system: "Any"
+license_name: "Unknown"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Wallets, keys & permissions"
+    url: "https://satohubai.github.io/onchain-agents/categories/wallets-keys"
+  - name: "ZeroDev"
+    url: "https://satohubai.github.io/onchain-agents/listings/zerodev"
 ---
 
 # ZeroDev

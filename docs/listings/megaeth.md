@@ -2,7 +2,22 @@
 title: "MegaETH — Sato Hub index"
 description: "Real-time Ethereum L2 (~10ms blocks) with a native agent stack: the MOSS embedded wallet lets agents act under scoped, revocable permission policies…"
 canonical: "https://satohub.ai/resources/megaeth"
+canonical_url: "https://satohub.ai/resources/megaeth"
 layout: "default"
+page_type: "listing"
+item_name: "MegaETH"
+code_repository: "https://github.com/megaeth-labs"
+software_url: "https://megaeth.com"
+application_category: "Wallet Infrastructure"
+operating_system: "Any"
+date_modified: "2026-09-14"
+breadcrumb:
+  - name: "Onchain Agents index"
+    url: "https://satohubai.github.io/onchain-agents/"
+  - name: "Wallets, keys & permissions"
+    url: "https://satohubai.github.io/onchain-agents/categories/wallets-keys"
+  - name: "MegaETH"
+    url: "https://satohubai.github.io/onchain-agents/listings/megaeth"
 ---
 
 # MegaETH
