@@ -23,7 +23,7 @@
 // Writes only when content changed, so a weekly job commits movement rather
 // than a re-stamped date.
 
-import { readFileSync, writeFileSync, existsSync } from "node:fs";
+import { readFileSync, writeFileSync, existsSync, readdirSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -141,9 +141,35 @@ function glossaryPage() {
   );
 }
 
+// The prose pages live in wiki/ and are seeded only when MISSING from the wiki
+// clone — an edit made in the wiki UI is never clobbered by this job. The two
+// derived pages are always rewritten, because their source is the index.
+function seedStatic() {
+  let seeded = 0;
+  let names = [];
+  try {
+    names = readdirSync(join(ROOT, "wiki")).filter((f) => f.endsWith(".md") && f !== "README.md");
+  } catch {
+    return 0;
+  }
+  for (const name of names) {
+    const abs = join(WIKI, name);
+    if (existsSync(abs)) continue;
+    if (CHECK) {
+      console.error(`missing ${name}`);
+      seeded++;
+      continue;
+    }
+    writeFileSync(abs, readFileSync(join(ROOT, "wiki", name), "utf8"));
+    console.log(`seeded ${name}`);
+    seeded++;
+  }
+  return seeded;
+}
+
 const pages = { "Standards.md": standardsPage(), "Glossary.md": glossaryPage() };
 
-let stale = 0;
+let stale = seedStatic();
 for (const [name, content] of Object.entries(pages)) {
   if (content == null) {
     console.error(`skip ${name}: no source data`);

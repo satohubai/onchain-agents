@@ -37,7 +37,7 @@ jobs:
         run: |
           git config user.name "Sato"
           git config user.email "304106862+satohubai@users.noreply.github.com"
-          git add Standards.md Glossary.md
+          git add -A
           if git diff --cached --quiet; then
             echo "no changes"
           else
