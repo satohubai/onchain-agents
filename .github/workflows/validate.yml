@@ -38,5 +38,7 @@ jobs:
       - name: Link check (README)
         uses: lycheeverse/lychee-action@v2
         with:
-          args: --no-progress --accept 200..=399,401,403,429 README.md docs/ SATO-OS.md
+          # Per-listing pages (docs/listings, one per entry) are deliberately
+          # excluded: they would turn one link check into thousands of requests.
+          args: --no-progress --accept 200..=399,401,403,429 README.md docs/index.md docs/categories/ docs/*.md SATO-OS.md
           fail: false

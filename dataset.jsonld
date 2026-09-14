@@ -30,9 +30,9 @@
     "web3",
     "dataset"
   ],
-  "dateModified": "2026-09-13",
+  "dateModified": "2026-09-14",
   "temporalCoverage": "2026-06-11/..",
-  "version": "2026-09-13",
+  "version": "2026-09-14",
   "distribution": [
     {
       "@type": "DataDownload",

@@ -1,0 +1,12 @@
+# GitHub Pages config. Source: branch main, path /docs.
+title: Onchain Agents — the scored index of the crypto agent stack
+description: >-
+  What onchain AI agents are built from: frameworks, MCP servers, wallets,
+  payment rails, data tools and trading venues, each with a 0-100 Sato Score
+  of how open, active and verifiable it is. Rendered daily. CC-BY-4.0.
+theme: jekyll-theme-minimal
+url: https://satohubai.github.io
+baseurl: /onchain-agents
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag

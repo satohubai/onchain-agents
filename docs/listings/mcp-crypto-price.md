@@ -1,0 +1,57 @@
+---
+title: "MCP Crypto Price — Sato Hub index"
+description: "MCP server exposing CoinCap-backed crypto pricing, market stats, and technical indicators as agent-callable tools."
+canonical: "https://satohub.ai/resources/mcp-crypto-price"
+layout: "default"
+---
+
+# MCP Crypto Price
+
+MCP server exposing CoinCap-backed crypto pricing, market stats, and technical indicators as agent-callable tools.
+
+Sato Score: **⬡ 67** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+
+## Facts
+
+- **Category:** MCP
+- **Type:** Tool/Service
+- **Chains:** Multichain
+- **Standards:** mcp
+- **Interfaces:** mcp, rest-api
+- **Use cases:** data
+- **Creator:** truss44
+- **Open source:** Yes
+- **Status:** Active
+- **Activity:** Active — last activity 7 days ago
+- **GitHub stars:** 39
+- **Deploys as:** npm, Streamable HTTP (self-hosted)
+- **Works with:** Claude Desktop
+
+## Deploy spec
+
+```sh
+npx -y mcp-crypto-price
+```
+
+- **Entry:** npx -y mcp-crypto-price
+- **Runtime:** node
+- **Requires:** COINCAP_API_KEY (free tier at pro.coincap.io/dashboard) — required since the CoinCap v2 API was retired
+- **License:** MIT
+- **MCP native:** yes
+- **Deploy status:** self_reported
+- **As of:** 2026-07-14
+
+## What we checked
+
+- Live endpoint probed by us: 100% of our checks succeeded over 62 days. That is a success rate of our checks, not the project's uptime.
+- Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
+
+## Links
+
+[Website](https://github.com/truss44/mcp-crypto-price) · [GitHub](https://github.com/truss44/mcp-crypto-price) · [Sato Hub page ↗](https://satohub.ai/resources/mcp-crypto-price?utm_source=github&utm_medium=index&utm_campaign=onchain-agents)
+
+## Cite
+
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `mcp-crypto-price`. https://satohub.ai/resources/mcp-crypto-price — retrieved 2026-09-14.
+
+[← All layers](../index.md)

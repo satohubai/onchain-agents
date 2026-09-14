@@ -10,7 +10,7 @@
 //
 // Tooling: MIT © Prime Signal LLC. Catalog data: CC-BY-4.0, data by satohub.ai.
 
-import { readFileSync, writeFileSync, mkdirSync } from "node:fs";
+import { readFileSync, writeFileSync, mkdirSync, readdirSync, rmSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 import { renderStatBand } from "./render-statband.mjs";
@@ -438,6 +438,495 @@ function renderSupport() {
   return `Donations fund the data infrastructure (daily pipelines, verification harness) — never placement. Placement is not for sale ([NEUTRALITY.md](NEUTRALITY.md)).\n\n${lines.join("\n")}`;
 }
 
+// ---------- answer-first: the stack, layer by layer ----------
+// This section exists because of how the repo is actually read: an LLM asked
+// "what do I build an onchain agent with?" fetches the README and truncates it
+// at 10-50 KB. Everything above the answer is a tax on being quotable, so the
+// answer goes first and stays small. Tables are DERIVED — nothing here is typed
+// by hand, and "highest-scored" is the only claim the data supports.
+
+const lower = (v) => String(v ?? "").toLowerCase();
+const hasAny = (arr, keys) => (arr || []).some((v) => keys.includes(lower(v)));
+
+// Layers are NOT exclusive: an x402 MCP server belongs in both the MCP layer
+// and the payments layer, and a reader looking for either should find it.
+const LAYERS = [
+  {
+    slug: "agent-frameworks",
+    title: "Agent runtimes & frameworks",
+    n: 6,
+    what: "The loop that runs the agent: prompting, memory, tool calls, scheduling. Pick this first — it decides what everything else plugs into.",
+    match: (r) => r.category === "Agent Framework",
+    choose:
+      "Score measures openness and activity, not adoption. A closed-source framework scores low because its code cannot be read, not because it is worse at running agents.",
+  },
+  {
+    slug: "action-kits",
+    title: "Onchain action kits & SDKs",
+    n: 6,
+    what: "Libraries that turn an agent's decision into a signed transaction — swap, transfer, mint, stake — without writing the chain plumbing yourself.",
+    match: (r) =>
+      r.category !== "Agent Framework" &&
+      (r.category === "Developer Tool" ||
+        r.resource_type === "Framework" ||
+        (r.category === "API / SDK" && hasAny(r.use_cases, ["build", "wallets"]))),
+    choose:
+      "Check the Chains column before the score: an action kit that does not cover your chain is the wrong kit at any score.",
+  },
+  {
+    slug: "mcp-servers",
+    title: "MCP servers",
+    n: 8,
+    what: "Tool servers your agent calls over the Model Context Protocol. This is the largest layer in the index and the fastest-moving.",
+    match: (r) => r.category === "MCP" || hasAny(r.standards, ["mcp"]),
+    choose:
+      "An MCP server is a remote process you hand your agent's tool calls to. Read what it asks for — a key, a signer, shell access — before you connect it.",
+  },
+  {
+    slug: "wallets-keys",
+    title: "Wallets, keys & permissions",
+    n: 6,
+    what: "Where the agent's key lives and what it is allowed to do: embedded wallets, MPC, smart accounts, session keys and spend permissions.",
+    match: (r) => r.category === "Wallet Infrastructure",
+    choose:
+      "The score says nothing about custody. Read the open-source status and the project's own docs on who can move funds; this index does not audit key handling.",
+  },
+  {
+    slug: "data-rpc",
+    title: "Data, RPC & indexing",
+    n: 6,
+    what: "What the agent knows before it acts: RPC access, market data, chain indexing, wallet and token analytics.",
+    match: (r) =>
+      r.category === "Data Tool" ||
+      ((r.category === "API / SDK" || r.category === "MCP") &&
+        hasAny(r.tags, ["rpc", "market-data", "indexer", "analytics", "wallet-data", "portfolio"])),
+    choose: null,
+  },
+  {
+    slug: "payments",
+    title: "Payments & agent commerce",
+    n: 6,
+    what: "How agents pay and get paid: x402 (HTTP 402 plus stablecoin), agent commerce protocols, and the stablecoin rails underneath.",
+    match: (r) =>
+      hasAny(r.standards, ["x402"]) ||
+      hasAny(r.tags, [
+        "x402",
+        "payments",
+        "micropayments",
+        "agent-payments",
+        "agent-commerce",
+        "stablecoin",
+        "stablecoins",
+        "usdc",
+      ]),
+    choose:
+      "x402 support in this index means the standard is declared. Whether an endpoint actually answers HTTP 402 is measured separately — see Numbers this week.",
+  },
+  {
+    slug: "identity-discovery",
+    title: "Identity, discovery & standards",
+    n: 6,
+    what: "How an agent is identified and found by other agents: ERC-8004 registration, MCP discovery, A2A agent cards.",
+    match: (r) =>
+      hasAny(r.standards, ["erc-8004", "erc-8183", "a2a"]) ||
+      hasAny(r.tags, ["identity", "erc-8004", "a2a", "standard", "reputation"]),
+    choose:
+      "Registering an identity proves a key controls a record. It is not a claim about the agent behind it, and nothing in this layer verifies behaviour.",
+  },
+  {
+    slug: "security",
+    title: "Security & preflight",
+    n: 6,
+    what: "Checks you run before an agent installs, connects, signs or trades: contract and token screening, endpoint checks, monitoring.",
+    match: (r) => r.category === "Security Tool",
+    choose:
+      "Nothing in this layer makes an agent safe. These tools surface signals; the decision, and the loss, stay yours.",
+  },
+  {
+    slug: "trading-venues",
+    title: "Trading & DeFi venues",
+    n: 6,
+    what: "Where the agent actually trades: DEXs, aggregators, perps, lending and yield venues with programmatic access.",
+    match: (r) => r.category === "Trading Tool" || r.category === "DeFi Tool",
+    choose:
+      "No performance, returns or profitability is measured here, and none is implied by a score.",
+  },
+];
+
+function relDays(iso) {
+  if (!iso) return "—";
+  const ms = Date.now() - new Date(iso).getTime();
+  if (!Number.isFinite(ms)) return "—";
+  const d = Math.floor(ms / 86_400_000);
+  if (d <= 0) return "today";
+  if (d === 1) return "1 day ago";
+  if (d < 31) return `${d} days ago`;
+  const m = Math.floor(d / 30);
+  if (m < 24) return `${m} month${m > 1 ? "s" : ""} ago`;
+  return `${Math.floor(d / 365)} years ago`;
+}
+
+// The Checked column: what WE checked, named by the check. Never a safety mark.
+function checkedCell(r) {
+  if (r.verified_install) return "install reproduced";
+  if (r.observed_success_pct != null && r.observed_days != null) return "live probed";
+  return "";
+}
+
+function layerRows(resources, layer) {
+  return sortRows(resources.filter((r) => r.trust_score != null && layer.match(r))).slice(0, layer.n);
+}
+
+function stackTable(rows) {
+  const head = `| Name | What it is | Chains | ⬡ Score | Last activity | Checked |
+|---|---|---|---|---|---|`;
+  const body = rows
+    .map((r) => {
+      const link = r.github_url || r.website_url || r.docs_url || withUtm(r.detail_url);
+      return `| [${esc(r.name)}](${link}) | ${clip(r.description_short, 80)} | ${chainCell(r.chains_supported)} | ${r.trust_score ?? "—"} | ${relDays(r.last_activity_at)} | ${checkedCell(r)} |`;
+    })
+    .join("\n");
+  return `${head}\n${body}`;
+}
+
+function renderStack(resources, { forDocs = false } = {}) {
+  const parts = [];
+  for (const layer of LAYERS) {
+    const rows = layerRows(resources, layer);
+    if (rows.length === 0) continue;
+    const total = resources.filter(layer.match).length;
+    const href = forDocs ? `categories/${layer.slug}.md` : `docs/categories/${layer.slug}.md`;
+    parts.push(
+      `### ${layer.title}\n\n${layer.what}\n\n${stackTable(rows)}\n\n` +
+        `<sub>Highest-scored in this layer, ${rows.length} of ${total}. [All ${total} →](${href})</sub>` +
+        (layer.choose ? `\n\n**How to choose.** ${layer.choose}` : "")
+    );
+  }
+  return parts.join("\n\n");
+}
+
+// Example stacks, composed only of listings in this index and picked by score
+// within each layer. They are examples of how the layers fit together, not
+// recommendations, and no combination here has been run end to end by us.
+const STARTING_STACKS = [
+  { name: "Trade on Base", goal: "An agent that watches a market and swaps on Base.", layers: ["agent-frameworks", "action-kits", "wallets-keys", "data-rpc", "trading-venues"], chain: "base" },
+  { name: "Trade on Solana", goal: "The same shape, on Solana.", layers: ["agent-frameworks", "action-kits", "wallets-keys", "data-rpc", "trading-venues"], chain: "solana" },
+  { name: "Get paid per call", goal: "An agent that sells a service and settles over x402.", layers: ["agent-frameworks", "mcp-servers", "wallets-keys", "payments", "identity-discovery"] },
+  { name: "Research and report", goal: "A read-only agent: no keys, no signing, chain data in and text out.", layers: ["agent-frameworks", "mcp-servers", "data-rpc", "security"] },
+  { name: "Discoverable by other agents", goal: "An agent other agents can find, verify and call.", layers: ["agent-frameworks", "identity-discovery", "mcp-servers", "payments"] },
+];
+
+const LAYER_SHORT = {
+  "agent-frameworks": "Runtime",
+  "action-kits": "Actions",
+  "mcp-servers": "Tools",
+  "wallets-keys": "Wallet",
+  "data-rpc": "Data",
+  payments: "Payments",
+  "identity-discovery": "Identity",
+  security: "Checks",
+  "trading-venues": "Venue",
+};
+
+function renderStartingStacks(resources) {
+  const byLayer = new Map(LAYERS.map((l) => [l.slug, l]));
+  const out = [];
+  for (const stack of STARTING_STACKS) {
+    const picks = [];
+    const used = new Set();
+    for (const slug of stack.layers) {
+      const layer = byLayer.get(slug);
+      if (!layer) continue;
+      let pool = resources.filter((r) => r.trust_score != null && layer.match(r) && !used.has(r.slug));
+      // A chain-specific stack never falls back to an off-chain pick: a layer
+      // with nothing on that chain is simply absent from the example.
+      if (stack.chain) pool = pool.filter((r) => hasAny(r.chains_supported, [stack.chain, "multichain"]));
+      const pick = sortRows(pool)[0];
+      if (!pick) continue;
+      used.add(pick.slug);
+      picks.push(`**${LAYER_SHORT[slug]}** [${esc(pick.name)}](${withUtm(pick.detail_url)})`);
+    }
+    if (picks.length < 3) continue;
+    out.push(`- **${stack.name}** — ${stack.goal}  \n  ${picks.join(" → ")}`);
+  }
+  if (!out.length) return null;
+  return `Five ways the layers fit together, each built only from listings in this index and picked by the highest Sato Score in each layer. These are **examples, not endorsements** — we have not run these combinations end to end, and a higher score does not mean a better fit for your problem.\n\n${out.join("\n")}`;
+}
+
+// ---------- generated pages (GitHub Pages source: branch main, path /docs) ----------
+
+const WRITTEN = new Set();
+
+function writeIfChanged(relPath, content) {
+  const abs = join(ROOT, relPath);
+  WRITTEN.add(relPath);
+  let prev = null;
+  try {
+    prev = readFileSync(abs, "utf8");
+  } catch {}
+  if (prev === content) return false;
+  mkdirSync(dirname(abs), { recursive: true });
+  writeFileSync(abs, content);
+  return true;
+}
+
+// Only generated directories are pruned; hand-written docs are never touched.
+function pruneGenerated(dir) {
+  let entries = [];
+  try {
+    entries = readdirSync(join(ROOT, dir));
+  } catch {
+    return 0;
+  }
+  let removed = 0;
+  for (const f of entries) {
+    if (!f.endsWith(".md")) continue;
+    const rel = `${dir}/${f}`;
+    if (WRITTEN.has(rel)) continue;
+    rmSync(join(ROOT, rel));
+    removed++;
+  }
+  return removed;
+}
+
+function frontMatter(fields) {
+  const yaml = Object.entries(fields)
+    .map(([k, v]) => `${k}: ${JSON.stringify(String(v))}`)
+    .join("\n");
+  return `---\n${yaml}\n---\n\n`;
+}
+
+function listRow(r) {
+  const link = r.github_url || r.website_url || r.docs_url || withUtm(r.detail_url);
+  return `| [${esc(r.name)}](${link}) | ${clip(r.description_short, 100)} | ${chainCell(r.chains_supported)} | ${r.trust_score ?? "—"} | ${relDays(r.last_activity_at)} | [satohub.ai](${withUtm(r.detail_url)}) · [detail](../listings/${r.slug}.md) |`;
+}
+
+function renderCategoryPage(layer, rows, today) {
+  const sorted = sortRows(rows.slice());
+  const installs = sorted
+    .filter((r) => r.deploy_spec?.install?.length || r.install)
+    .slice(0, 40)
+    .map((r) => `- **${esc(r.name)}** — \`${esc(String((r.deploy_spec?.install || [r.install])[0])).slice(0, 120)}\``)
+    .join("\n");
+  return (
+    frontMatter({
+      title: `${layer.title} — Onchain Agents index`,
+      description: layer.what,
+      canonical: `${SITE}/directory`,
+      layout: "default",
+    }) +
+    `# ${layer.title}\n\n${layer.what}\n\n` +
+    `**${sorted.length} listings**, ordered by Sato Score — a 0–100 measure of how open, active and verifiable a project is, [not a safety or returns grade](../sato-score.md). Rendered ${today} from the public Sato Hub export.\n\n` +
+    `| Name | What it is | Chains | ⬡ Score | Last activity | Links |\n|---|---|---|---|---|---|\n` +
+    sorted.map(listRow).join("\n") +
+    `\n\n## Install lines\n\nWhere a project publishes one, as recorded in its deploy spec:\n\n` +
+    (installs || "*None published in this layer yet.*") +
+    `\n\n[← All layers](../index.md) · [satohub.ai directory ↗](${withUtm(`${SITE}/directory`)})\n`
+  );
+}
+
+function renderListingPage(r, today) {
+  const facts = [];
+  const push = (k, v) => {
+    if (v == null || v === "" || (Array.isArray(v) && v.length === 0)) return;
+    facts.push(`- **${k}:** ${Array.isArray(v) ? v.map(esc).join(", ") : esc(v)}`);
+  };
+  const score =
+    r.trust_score != null
+      ? `**⬡ ${r.trust_score}** (${r.trust_tier || "—"})` +
+        (r.trust_score_delta_7d != null && r.trust_score_delta_7d !== 0
+          ? `, ${r.trust_score_delta_7d > 0 ? "+" : ""}${r.trust_score_delta_7d} over 7 days`
+          : "") +
+        (r.provisional ? " — provisional, thin evidence so far" : "")
+      : "not scored (non-product listing)";
+  push("Category", r.category);
+  push("Type", r.resource_type);
+  push("Chains", (r.chains_supported || []).filter(Boolean));
+  push("Standards", r.standards);
+  push("Interfaces", r.interfaces);
+  push("Use cases", r.use_cases);
+  push("Creator", r.creator_name);
+  push("Open source", r.open_source_status);
+  push("Status", r.status);
+  push("Activity", r.liveness ? `${r.liveness} — last activity ${relDays(r.last_activity_at)}` : null);
+  push("GitHub stars", r.github_stars != null ? fmtStars(r.github_stars) : null);
+  push("Deploys as", r.deployment_options);
+  push("Works with", (r.supported_integrations || []).slice(0, 12));
+
+  const ds = r.deploy_spec;
+  const deploy = ds
+    ? `\n## Deploy spec\n\n` +
+      (ds.install?.length
+        ? "```sh\n" + ds.install.slice(0, 4).map((i) => String(i).slice(0, 200)).join("\n") + "\n```\n\n"
+        : "") +
+      (ds.entry ? `- **Entry:** ${esc(ds.entry)}\n` : "") +
+      (ds.runtime ? `- **Runtime:** ${esc(ds.runtime)}\n` : "") +
+      (ds.requires?.length ? `- **Requires:** ${ds.requires.slice(0, 10).map(esc).join(", ")}\n` : "") +
+      (ds.license ? `- **License:** ${esc(ds.license)}\n` : "") +
+      (ds.mcp_native != null ? `- **MCP native:** ${ds.mcp_native ? "yes" : "no"}\n` : "") +
+      (ds.deploy_status ? `- **Deploy status:** ${esc(ds.deploy_status)}\n` : "") +
+      (ds.as_of ? `- **As of:** ${esc(ds.as_of)}\n` : "")
+    : "";
+
+  const checks = [];
+  if (r.verified_install)
+    checks.push(
+      `Install reproduced in an isolated container${r.install_verified_at ? ` on ${esc(r.install_verified_at)}` : ""}.`
+    );
+  if (r.observed_success_pct != null && r.observed_days != null)
+    checks.push(
+      `Live endpoint probed by us: ${r.observed_success_pct}% of our checks succeeded over ${r.observed_days} days. That is a success rate of our checks, not the project's uptime.`
+    );
+  checks.push(
+    `Verification status: **${esc(r.verification_status || "Unverified")}**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.`
+  );
+
+  const links = [
+    r.website_url ? `[Website](${r.website_url})` : null,
+    r.docs_url ? `[Docs](${r.docs_url})` : null,
+    r.github_url ? `[GitHub](${r.github_url})` : null,
+    r.detail_url ? `[Sato Hub page ↗](${withUtm(r.detail_url)})` : null,
+  ]
+    .filter(Boolean)
+    .join(" · ");
+
+  return (
+    frontMatter({
+      title: `${r.name} — Sato Hub index`,
+      description: clip(r.description_short, 150),
+      canonical: r.detail_url || SITE,
+      layout: "default",
+    }) +
+    `# ${esc(r.name)}\n\n${esc(r.description_short)}\n\n` +
+    `Sato Score: ${score} — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).\n\n` +
+    `## Facts\n\n${facts.join("\n")}\n${deploy}` +
+    `\n## What we checked\n\n${checks.map((c) => `- ${c}`).join("\n")}\n\n` +
+    `## Links\n\n${links}\n\n` +
+    `## Cite\n\n> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry \`${r.slug}\`. ${r.detail_url || SITE} — retrieved ${today}.\n\n` +
+    `[← All layers](../index.md)\n`
+  );
+}
+
+function renderDocsIndex(resources, today) {
+  return (
+    frontMatter({
+      title: "The onchain agent stack, layer by layer",
+      description:
+        "What to build an onchain agent with: frameworks, action kits, MCP servers, wallets, data, payment rails, identity, security and trading venues — scored and updated daily.",
+      canonical: SITE,
+      layout: "default",
+    }) +
+    `# The onchain agent stack, layer by layer\n\n` +
+    `A daily-rendered index of what onchain AI agents are built from — ${resources.length} listings, each with a 0–100 Sato Score of how open, active and verifiable it is. Rendered ${today}. Catalog data CC-BY-4.0, attribution: data by satohub.ai.\n\n` +
+    renderStack(resources, { forDocs: true }) +
+    `\n\n## Every layer in full\n\n` +
+    LAYERS.map((l) => `- [${l.title}](categories/${l.slug}.md)`).join("\n") +
+    `\n\n## Reference\n\n- [Sato Score methodology](sato-score.md)\n- [Taxonomy](taxonomy.md)\n- [Connect over MCP](connect-mcp.md)\n- [Full index on GitHub](https://github.com/satohubai/onchain-agents)\n- [satohub.ai ↗](${withUtm(SITE)})\n`
+  );
+}
+
+const DOCS_CONFIG = `# GitHub Pages config. Source: branch main, path /docs.
+title: Onchain Agents — the scored index of the crypto agent stack
+description: >-
+  What onchain AI agents are built from: frameworks, MCP servers, wallets,
+  payment rails, data tools and trading venues, each with a 0-100 Sato Score
+  of how open, active and verifiable it is. Rendered daily. CC-BY-4.0.
+theme: jekyll-theme-minimal
+url: https://satohubai.github.io
+baseurl: /onchain-agents
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+`;
+
+// ---------- llms.txt ----------
+// Generated, not hand-maintained: the previous hand-written copy claimed
+// "12 read-only tools" long after the server had grown past it.
+const TOOLS_URL = process.env.INDEX_TOOLS_URL || `${SITE}/api/mcp/tools.json`;
+
+async function loadToolMeta() {
+  const localIdx = args.indexOf("--tools-local");
+  if (localIdx >= 0) return JSON.parse(readFileSync(args[localIdx + 1], "utf8"));
+  try {
+    const res = await fetch(TOOLS_URL, {
+      headers: { accept: "application/json", "user-agent": "satohub-index-generator" },
+      signal: AbortSignal.timeout(20_000),
+    });
+    if (!res.ok) return null;
+    const json = await res.json();
+    return typeof json?.count === "number" ? json : null;
+  } catch {
+    return null;
+  }
+}
+
+function renderLlms(resources, tools, today) {
+  const raw = "https://raw.githubusercontent.com/satohubai/onchain-agents/main";
+  const writes = tools?.write_tools?.length || 0;
+  const toolLine = tools?.count
+    ? `${tools.count} tools over Streamable HTTP (${tools.count - writes} read, ${writes} write)`
+    : "the live tool list";
+  const writeLine = writes ? ` — write tools: ${tools.write_tools.join(", ")}` : "";
+  return `# Onchain Agents — the scored, daily-updated index of the crypto agent stack
+
+> ${resources.length} listings of what onchain AI agents are built from: agent frameworks,
+> onchain action kits, MCP servers, wallets and key management, data and RPC,
+> x402 payment rails, identity standards (ERC-8004, A2A), security tooling and
+> trading venues. Rendered daily from satohub.ai. Last render: ${today}.
+> Every product listing carries a Sato Score: 0-100, measuring how OPEN, ACTIVE
+> and VERIFIABLE a project is. It is NOT a safety, quality, security or returns
+> grade, and nothing here is financial advice. Self-reported is not verified.
+> Catalog data CC-BY-4.0, attribution: data by satohub.ai.
+
+## Start here
+
+- [The stack, layer by layer](${raw}/README.md): the answer to "what do I build an onchain agent with" — nine layers, each a table of the highest-scored listings with chains, score, last activity and what we checked. It is the first section of the README.
+- [Pages site](https://satohubai.github.io/onchain-agents/): the same, one page per layer
+- Starting stacks: five example layer combinations built only from listings in this index — examples, not endorsements (README, after the stack section)
+
+## Layers (one page each)
+
+${LAYERS.map((l) => `- [${l.title}](${raw}/docs/categories/${l.slug}.md): ${l.what}`).join("\n")}
+
+## Per-listing pages
+
+- Every listing has a page at ${raw}/docs/listings/<slug>.md — facts, deploy spec, what we checked, links, citation
+- Slugs are the \`slug\` field in data/index.json
+
+## Data (stable, versioned)
+
+- [index.json](${raw}/data/index.json): full index, schema_version field, one object per resource
+- [index.csv](${raw}/data/index.csv): flat CSV of the same
+- [Live export feed](${SITE}/api/export/index.json): the upstream source; also .csv and .ndjson, with ?category= ?chain= ?standard= ?use_case= slices
+- [All datasets](${SITE}/datasets): every published dataset and its license
+- [Schemas](${SITE}/schemas): versioned JSON Schemas for these formats
+- [OpenAPI](${SITE}/api/openapi.json): every public operation
+
+## Query it live over MCP
+
+- [MCP endpoint](${SITE}/api/mcp): ${toolLine}${writeLine}
+- [Tool list as JSON](${SITE}/api/mcp/tools.json): names, descriptions and input schemas
+- [Connection guide](${raw}/docs/connect-mcp.md)
+- Skill: \`npx skills add satohubai/sato-hub-skill\` · Plugin: \`/plugin marketplace add satohubai/sato-plugins\`
+
+## Docs
+
+- [Sato Score methodology](${raw}/docs/sato-score.md): what the 0-100 score measures and what it does not
+- [Taxonomy](${raw}/docs/taxonomy.md): entity classes, resource types, interfaces, standards facets
+- [Neutrality](${raw}/NEUTRALITY.md): placement is not for sale
+- [Reporting a problem with an entry](${raw}/SECURITY.md)
+- [Cite this dataset](${raw}/CITATION.cff) · [dataset record](${SITE}/datasets/onchain-agents-index)
+- [Status of these surfaces](${SITE}/status/sato-hub)
+
+## Related
+
+- [Agent Passports](${SITE}/agents): registered agents with on-chain verification checks and machine-readable manifests
+- [Agent Architect / Builder](${SITE}/build): describe an agent in plain language, get a build plan made of listings from this index
+- [SATO OS](${raw}/SATO-OS.md): self-hosted mission control for running an onchain agent
+- [satohub.ai](${SITE}): the full product
+`;
+}
+
 // ---------- outputs ----------
 
 function toCsv(resources) {
@@ -477,6 +966,8 @@ async function main() {
   const support = renderSupport();
   const spotlight = renderSpotlight(resources);
   const useTheData = renderUseTheData(await loadToolCount());
+  const stack = renderStack(resources);
+  const startingStacks = renderStartingStacks(resources);
 
   // daily-refreshed stat band (dark/light pair)
   for (const variant of ["dark", "light"]) {
@@ -510,6 +1001,8 @@ async function main() {
     : "";
 
   const tocExtras = [
+    `- [The stack, layer by layer](#the-stack-layer-by-layer)`,
+    `- [Starting stacks](#starting-stacks)`,
     `- [Use the data](#use-the-data)`,
     spotlight ? `- [⬡ Top of the index](#-top-of-the-index)` : null,
     movers ? `- [📈 Movers (7d)](#-movers-7d)` : null,
@@ -521,13 +1014,34 @@ async function main() {
     support ? `- [Support the index](#support-the-index)` : null,
   ].filter(Boolean).join("\n");
 
-  const readme = `<div align="center">
-
-${picture("banner", "Onchain Agents — the scored, daily-updated index of the crypto agent stack", 880)}
-
-# Onchain Agents
+  const readme = `# Onchain Agents
 
 **The scored, daily-updated index of the onchain agent stack** — every framework, MCP server, wallet, payment rail, data feed, and live agent, tracked and scored daily.
+
+- **What this is.** ${resources.length} listings of what onchain AI agents are actually built from, across ${agg ? agg.chains : "many"} chains, rendered daily from a public export. Nothing is listed automatically and placement is not for sale.
+- **What a Sato Score is.** A 0–100 measure of how **open, active and verifiable** a project is, computed from evidence only. It is **not** a safety, quality, security or returns grade, and self-reported is never treated as verified.
+- **How current it is.** Re-rendered every day; \`Last activity\` is observed, not claimed. \`unknown\` means we could not measure it, never zero.
+- **License.** Catalog data CC-BY-4.0 (*data by satohub.ai*); tooling MIT. Free JSON, CSV and NDJSON, plus a live MCP endpoint — no key, no account.
+
+<a id="the-stack-layer-by-layer"></a>
+## The stack, layer by layer
+
+Nine layers, from the runtime down to the venue. Each table is the **highest-scored** listings in that layer — highest-scored is not "best", and a score measures openness, activity and verifiability, nothing else. \`Checked\` says what *we* did: reproduced the documented install in an isolated container, or probed the live endpoint.
+
+${stack}
+
+<a id="starting-stacks"></a>
+## Starting stacks
+
+${startingStacks || "*Not enough scored listings to compose example stacks.*"}
+
+Per-layer pages with every listing: [docs/index.md](docs/index.md) · per-listing pages: [docs/listings/](docs/listings/) · the full index is [below](#index).
+
+---
+
+<div align="center">
+
+${picture("banner", "Onchain Agents — the scored, daily-updated index of the crypto agent stack", 880)}
 
 ${picture("statband", statBandAlt, 760)}
 ${coverageLine}
@@ -544,7 +1058,7 @@ ${CONFIG.x_url ? `[<img src="https://img.shields.io/badge/𝕏_Follow_@SatoHub-0
 
 🖥️ [**SATO OS — Onchain Agent Mission Control**](SATO-OS.md) · <sub>run it on any chain, any model, your machine</sub>
 
-**[Index](#index)**${spotlight ? ` | **[⬡ Top](#-top-of-the-index)**` : ""}${movers ? ` | **[📈 Movers](#-movers-7d)**` : ""} | **[Live Agents](#live-agents-passport-registry)** | **[Standards](#standards--protocols)** | **[New this week](#new-this-week)** | **[Contribute](#contributing)** | **[satohub.ai ↗](${withUtm(SITE)})**
+**[The stack](#the-stack-layer-by-layer)** | **[Starting stacks](#starting-stacks)** | **[Index](#index)**${spotlight ? ` | **[⬡ Top](#-top-of-the-index)**` : ""}${movers ? ` | **[📈 Movers](#-movers-7d)**` : ""} | **[Live Agents](#live-agents-passport-registry)** | **[Standards](#standards--protocols)** | **[New this week](#new-this-week)** | **[Contribute](#contributing)** | **[satohub.ai ↗](${withUtm(SITE)})**
 
 </div>
 
@@ -632,6 +1146,25 @@ Weekly tagged releases carry the day's \`index.json\` + \`index.csv\` as assets,
 `;
 
   writeFileSync(join(ROOT, "README.md"), readme);
+
+  // ---- generated pages: GitHub Pages source is branch main, path /docs ----
+  // Pages are written only when their content changed, so a nightly commit
+  // reflects real movement rather than a re-stamped date on 382 files.
+  let pagesChanged = 0;
+  writeIfChanged("docs/_config.yml", DOCS_CONFIG);
+  if (writeIfChanged("docs/index.md", renderDocsIndex(resources, today))) pagesChanged++;
+  for (const layer of LAYERS) {
+    const rows = resources.filter(layer.match);
+    if (rows.length === 0) continue;
+    if (writeIfChanged(`docs/categories/${layer.slug}.md`, renderCategoryPage(layer, rows, today))) pagesChanged++;
+  }
+  for (const r of resources) {
+    if (!r.slug) continue;
+    if (writeIfChanged(`docs/listings/${r.slug}.md`, renderListingPage(r, today))) pagesChanged++;
+  }
+  const pruned = pruneGenerated("docs/categories") + pruneGenerated("docs/listings");
+
+  writeIfChanged("llms.txt", renderLlms(resources, await loadToolMeta(), today));
   // schema.org Dataset record for the repo itself. GitHub strips <script> from
   // READMEs, so JSON-LD cannot live there; this file is the machine-readable
   // twin of CITATION.cff and what a crawler / Zenodo importer can read.
@@ -676,8 +1209,8 @@ Weekly tagged releases carry the day's \`index.json\` + \`index.csv\` as assets,
 
   console.log(
     agg
-      ? `rendered ${resources.length} entries (${agg.scored} scored, ${agg.independently_checked} independently checked, ${agents.length} passports${movers ? ", movers on" : ""}${support ? ", support on" : ""}${CONFIG.discord_url ? ", discord on" : ""})`
-      : `rendered ${resources.length} entries (${scored} scored, ${verified} verified installs, ${agents.length} passports${movers ? ", movers on" : ""}${support ? ", support on" : ""}${CONFIG.discord_url ? ", discord on" : ""})`
+      ? `rendered ${resources.length} entries (${pagesChanged} pages written, ${pruned} pruned, ${agg.scored} scored, ${agg.independently_checked} independently checked, ${agents.length} passports${movers ? ", movers on" : ""}${support ? ", support on" : ""}${CONFIG.discord_url ? ", discord on" : ""})`
+      : `rendered ${resources.length} entries (${pagesChanged} pages written, ${pruned} pruned, ${scored} scored, ${verified} verified installs, ${agents.length} passports${movers ? ", movers on" : ""}${support ? ", support on" : ""}${CONFIG.discord_url ? ", discord on" : ""})`
   );
 }
 

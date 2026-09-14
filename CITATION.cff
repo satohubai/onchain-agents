@@ -6,7 +6,7 @@ authors:
   - name: "Sato Hub"
     website: "https://satohub.ai"
 repository-code: "https://github.com/satohubai/onchain-agents"
-url: "https://satohub.ai"
+url: "https://satohub.ai/datasets/onchain-agents-index"
 license: CC-BY-4.0
 abstract: >-
   A daily-updated, machine-readable index of the onchain agent ecosystem:
@@ -21,3 +21,7 @@ keywords:
   - erc-8004
   - x402
   - dataset
+identifiers:
+  - type: url
+    value: "https://satohub.ai/datasets/onchain-agents-index"
+    description: "Dataset record on satohub.ai"
