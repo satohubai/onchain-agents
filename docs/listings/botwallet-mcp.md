@@ -26,7 +26,7 @@ breadcrumb:
 
 Non-custodial wallet MCP for AI agents to invoice, get paid, and spend on other agents/APIs, with human-set limits.
 
-Sato Score: **⬡ 49** (Medium), +5 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 49** (Medium), +7 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -54,7 +54,7 @@ npm install -g @botwallet/mcp
 
 ## What we checked
 
-- Live endpoint probed by us: 86% of our checks succeeded over 57 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 86.2% of our checks succeeded over 58 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -63,6 +63,6 @@ npm install -g @botwallet/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `botwallet-mcp`. https://satohub.ai/resources/botwallet-mcp — retrieved 2026-09-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `botwallet-mcp`. https://satohub.ai/resources/botwallet-mcp — retrieved 2026-09-15.
 
 [← All layers](../index.md)

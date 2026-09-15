@@ -39,7 +39,7 @@ Sato Score: **⬡ 75** (High) — a measure of how open, active and verifiable t
 - **Creator:** Vudovn
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 14 days ago
+- **Activity:** Active — last activity 15 days ago
 - **GitHub stars:** 8.1k
 - **Deploys as:** CLI, npm
 - **Works with:** Cursor, Windsurf, Antigravity
@@ -59,7 +59,7 @@ npx @vudovn/ag-kit init
 
 ## What we checked
 
-- Live endpoint probed by us: 74.2% of our checks succeeded over 62 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 73% of our checks succeeded over 63 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -68,6 +68,6 @@ npx @vudovn/ag-kit init
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ag-kit`. https://satohub.ai/resources/ag-kit — retrieved 2026-09-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ag-kit`. https://satohub.ai/resources/ag-kit — retrieved 2026-09-15.
 
 [← All layers](../index.md)

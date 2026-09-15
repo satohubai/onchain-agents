@@ -26,7 +26,7 @@ breadcrumb:
 
 CLI and MCP proxy that auto-pays x402/MPP-gated endpoints on Base, Solana, Monad, and Tempo from one mnemonic.
 
-Sato Score: **⬡ 54** (Medium), -10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 53** (Medium), -11 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -54,7 +54,7 @@ npx x402-proxy setup
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 57 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 98.3% of our checks succeeded over 58 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -63,6 +63,6 @@ npx x402-proxy setup
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `x402-proxy-cascade`. https://satohub.ai/resources/x402-proxy-cascade — retrieved 2026-09-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `x402-proxy-cascade`. https://satohub.ai/resources/x402-proxy-cascade — retrieved 2026-09-15.
 
 [← All layers](../index.md)

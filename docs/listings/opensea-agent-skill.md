@@ -40,7 +40,7 @@ Sato Score: **⬡ 81** (High) — a measure of how open, active and verifiable t
 - **Creator:** OpenSea
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 12 days ago
+- **Activity:** Active — last activity 13 days ago
 - **GitHub stars:** 49
 - **Deploys as:** MCP server, API, Self-hosted
 - **Works with:** Seaport, OpenSea API, OpenSea MCP Server, OpenSea CLI, x402, Privy, Turnkey, Fireblocks, Bankr
@@ -62,7 +62,7 @@ npx skills add ProjectOpenSea/opensea-skill
 
 ## What we checked
 
-- Live endpoint probed by us: 98.4% of our checks succeeded over 62 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 98.4% of our checks succeeded over 63 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Verified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -71,6 +71,6 @@ npx skills add ProjectOpenSea/opensea-skill
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `opensea-agent-skill`. https://satohub.ai/resources/opensea-agent-skill — retrieved 2026-09-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `opensea-agent-skill`. https://satohub.ai/resources/opensea-agent-skill — retrieved 2026-09-15.
 
 [← All layers](../index.md)

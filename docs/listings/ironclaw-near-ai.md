@@ -33,7 +33,7 @@ Sato Score: **⬡ 64** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Near
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 6 days ago
+- **Activity:** Active — last activity 7 days ago
 - **GitHub stars:** 12.6k
 
 ## Deploy spec
@@ -54,7 +54,7 @@ ironclaw onboard
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 57 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 58 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -63,6 +63,6 @@ ironclaw onboard
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ironclaw-near-ai`. https://satohub.ai/resources/ironclaw-near-ai — retrieved 2026-09-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ironclaw-near-ai`. https://satohub.ai/resources/ironclaw-near-ai — retrieved 2026-09-15.
 
 [← All layers](../index.md)

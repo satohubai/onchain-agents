@@ -36,7 +36,7 @@ Sato Score: **⬡ 56** (Medium) — a measure of how open, active and verifiable
 - **Use cases:** launch, trading
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 7 days ago
+- **Activity:** Active — last activity 8 days ago
 - **GitHub stars:** 146
 
 ## What we checked
@@ -49,6 +49,6 @@ Sato Score: **⬡ 56** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `pons`. https://satohub.ai/resources/pons — retrieved 2026-09-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `pons`. https://satohub.ai/resources/pons — retrieved 2026-09-15.
 
 [← All layers](../index.md)

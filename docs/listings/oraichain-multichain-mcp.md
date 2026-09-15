@@ -24,16 +24,18 @@ breadcrumb:
 
 CosmJS-based MCP toolkit for wallet queries, transactions, and contract deployment on Oraichain and Cosmos chains.
 
-Sato Score: **⬡ 46** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 51** (Medium), +5 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
 - **Category:** API / SDK
 - **Chains:** Cosmos
+- **Creator:** Oraichain Labs
 - **Open source:** Yes
 - **Status:** Active
 - **Activity:** Dormant — last activity 16 months ago
 - **GitHub stars:** 4
+- **Works with:** Claude Desktop
 
 ## Deploy spec
 
@@ -54,7 +56,7 @@ pnpm build
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 57 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 58 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -63,6 +65,6 @@ pnpm build
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `oraichain-multichain-mcp`. https://satohub.ai/resources/oraichain-multichain-mcp — retrieved 2026-09-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `oraichain-multichain-mcp`. https://satohub.ai/resources/oraichain-multichain-mcp — retrieved 2026-09-15.
 
 [← All layers](../index.md)

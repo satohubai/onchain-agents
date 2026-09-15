@@ -39,7 +39,7 @@ Sato Score: **⬡ 74** (High) — a measure of how open, active and verifiable t
 - **Open source:** Partial
 - **Status:** Active
 - **Activity:** Recent — last activity 1 month ago
-- **GitHub stars:** 73
+- **GitHub stars:** 74
 - **Deploys as:** npm, API
 - **Works with:** Claude Code, Codex, Surf CLI, MCP
 
@@ -55,12 +55,12 @@ npm install -g surf-cli
 - **Requires:** optional Surf API key (30 free credits/day without one)
 - **MCP native:** no
 - **Deploy status:** verified
-- **As of:** 2026-09-14
+- **As of:** 2026-09-07
 
 ## What we checked
 
-- Install reproduced in an isolated container on 2026-09-14.
-- Live endpoint probed by us: 100% of our checks succeeded over 62 days. That is a success rate of our checks, not the project's uptime.
+- Install reproduced in an isolated container on 2026-09-07.
+- Live endpoint probed by us: 100% of our checks succeeded over 63 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -69,6 +69,6 @@ npm install -g surf-cli
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `surf-asksurf`. https://satohub.ai/resources/surf-asksurf — retrieved 2026-09-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `surf-asksurf`. https://satohub.ai/resources/surf-asksurf — retrieved 2026-09-15.
 
 [← All layers](../index.md)

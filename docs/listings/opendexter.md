@@ -11,7 +11,7 @@ software_url: "https://dexter.cash/opendexter"
 application_category: "MCP"
 operating_system: "Any"
 license_name: "Unknown"
-date_modified: "2026-09-14"
+date_modified: "2026-09-15"
 breadcrumb:
   - name: "Onchain Agents index"
     url: "https://satohubai.github.io/onchain-agents/"
@@ -50,7 +50,7 @@ npx @dexterai/opendexter setup
 
 ## What we checked
 
-- Live endpoint probed by us: 77.2% of our checks succeeded over 57 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 75.9% of our checks succeeded over 58 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -59,6 +59,6 @@ npx @dexterai/opendexter setup
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `opendexter`. https://satohub.ai/resources/opendexter — retrieved 2026-09-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `opendexter`. https://satohub.ai/resources/opendexter — retrieved 2026-09-15.
 
 [← All layers](../index.md)

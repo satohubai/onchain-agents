@@ -61,7 +61,7 @@ make build
 
 ## What we checked
 
-- Live endpoint probed by us: 35.5% of our checks succeeded over 62 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 34.9% of our checks succeeded over 63 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -70,6 +70,6 @@ make build
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `go-sui-mcp`. https://satohub.ai/resources/go-sui-mcp — retrieved 2026-09-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `go-sui-mcp`. https://satohub.ai/resources/go-sui-mcp — retrieved 2026-09-15.
 
 [← All layers](../index.md)

@@ -11,7 +11,7 @@ application_category: "MCP"
 application_subcategory: "Brokerage MCP server"
 operating_system: "Any"
 license_name: "Proprietary"
-date_modified: "2026-09-14"
+date_modified: "2026-09-15"
 breadcrumb:
   - name: "Onchain Agents index"
     url: "https://satohubai.github.io/onchain-agents/"
@@ -64,6 +64,6 @@ claude mcp add robinhood-trading --transport http https://agent.robinhood.com/mc
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `robinhood-trading-mcp`. https://satohub.ai/resources/robinhood-trading-mcp — retrieved 2026-09-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `robinhood-trading-mcp`. https://satohub.ai/resources/robinhood-trading-mcp — retrieved 2026-09-15.
 
 [← All layers](../index.md)

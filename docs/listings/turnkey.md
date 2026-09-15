@@ -10,7 +10,7 @@ code_repository: "https://github.com/tkhq"
 software_url: "https://turnkey.com"
 application_category: "Wallet Infrastructure"
 operating_system: "Any"
-date_modified: "2026-09-10"
+date_modified: "2026-09-14"
 breadcrumb:
   - name: "Onchain Agents index"
     url: "https://satohubai.github.io/onchain-agents/"
@@ -36,7 +36,7 @@ Sato Score: **⬡ 83** (High) — a measure of how open, active and verifiable t
 - **Creator:** Turnkey
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 4 days ago
+- **Activity:** Active — last activity 1 day ago
 - **Deploys as:** API, SDK
 - **Works with:** TypeScript SDK, React SDK, React Native SDK, REST API
 
@@ -51,12 +51,12 @@ npm install @turnkey/sdk-server
 - **Requires:** Turnkey API keypair (apiPublicKey / apiPrivateKey), defaultOrganizationId
 - **MCP native:** no
 - **Deploy status:** verified
-- **As of:** 2026-09-14
+- **As of:** 2026-09-07
 
 ## What we checked
 
-- Install reproduced in an isolated container on 2026-09-14.
-- Live endpoint probed by us: 100% of our checks succeeded over 62 days. That is a success rate of our checks, not the project's uptime.
+- Install reproduced in an isolated container on 2026-09-07.
+- Live endpoint probed by us: 100% of our checks succeeded over 63 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -65,6 +65,6 @@ npm install @turnkey/sdk-server
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `turnkey`. https://satohub.ai/resources/turnkey — retrieved 2026-09-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `turnkey`. https://satohub.ai/resources/turnkey — retrieved 2026-09-15.
 
 [← All layers](../index.md)

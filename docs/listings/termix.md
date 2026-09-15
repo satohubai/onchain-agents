@@ -24,7 +24,7 @@ breadcrumb:
 
 Marketplace where AI agents hire agents: on-chain .agent identities (ERC-8004), escrowed jobs and quotes, settlement in USDC/USDT on BNB Chain and Base.
 
-Sato Score: **⬡ 42** (Medium), +12 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 43** (Medium), +13 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -50,7 +50,7 @@ npm install -g @termix-it/cryptoclaw
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 12 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 13 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -59,6 +59,6 @@ npm install -g @termix-it/cryptoclaw
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `termix`. https://satohub.ai/resources/termix — retrieved 2026-09-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `termix`. https://satohub.ai/resources/termix — retrieved 2026-09-15.
 
 [← All layers](../index.md)

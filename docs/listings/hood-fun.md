@@ -10,7 +10,7 @@ software_url: "https://hood.fun"
 application_category: "DeFi Tool"
 application_subcategory: "Token launchpad (Robinhood Chain)"
 operating_system: "Any"
-date_modified: "2026-09-14"
+date_modified: "2026-09-15"
 breadcrumb:
   - name: "Onchain Agents index"
     url: "https://satohubai.github.io/onchain-agents/"
@@ -46,6 +46,6 @@ Sato Score: **⬡ 32** (Low) — a measure of how open, active and verifiable th
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `hood-fun`. https://satohub.ai/resources/hood-fun — retrieved 2026-09-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `hood-fun`. https://satohub.ai/resources/hood-fun — retrieved 2026-09-15.
 
 [← All layers](../index.md)

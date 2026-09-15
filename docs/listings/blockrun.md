@@ -13,7 +13,7 @@ application_subcategory: "Agent payment gateway"
 operating_system: "Any"
 license_url: "https://opensource.org/licenses/MIT"
 license_name: "MIT"
-date_modified: "2026-09-14"
+date_modified: "2026-09-15"
 breadcrumb:
   - name: "Onchain Agents index"
     url: "https://satohubai.github.io/onchain-agents/"
@@ -58,7 +58,7 @@ claude mcp add blockrun -s user -- npx -y @blockrun/mcp@latest
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 62 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 63 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -67,6 +67,6 @@ claude mcp add blockrun -s user -- npx -y @blockrun/mcp@latest
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `blockrun`. https://satohub.ai/resources/blockrun — retrieved 2026-09-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `blockrun`. https://satohub.ai/resources/blockrun — retrieved 2026-09-15.
 
 [← All layers](../index.md)

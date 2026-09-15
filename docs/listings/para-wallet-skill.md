@@ -10,7 +10,7 @@ software_url: "https://getpara.com"
 application_category: "Wallet Infrastructure"
 operating_system: "Any"
 license_name: "Unknown"
-date_modified: "2026-09-14"
+date_modified: "2026-09-15"
 breadcrumb:
   - name: "Onchain Agents index"
     url: "https://satohubai.github.io/onchain-agents/"
@@ -52,7 +52,7 @@ para create my-app
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 57 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 58 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -61,6 +61,6 @@ para create my-app
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `para-wallet-skill`. https://satohub.ai/resources/para-wallet-skill — retrieved 2026-09-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `para-wallet-skill`. https://satohub.ai/resources/para-wallet-skill — retrieved 2026-09-15.
 
 [← All layers](../index.md)

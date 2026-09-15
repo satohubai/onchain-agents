@@ -57,11 +57,11 @@ npm install @lucid-agents/core @lucid-agents/http
 - **License:** MIT
 - **MCP native:** no
 - **Deploy status:** verified
-- **As of:** 2026-09-14
+- **As of:** 2026-09-07
 
 ## What we checked
 
-- Install reproduced in an isolated container on 2026-09-14.
+- Install reproduced in an isolated container on 2026-09-07.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -70,6 +70,6 @@ npm install @lucid-agents/core @lucid-agents/http
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lucid-agents`. https://satohub.ai/resources/lucid-agents — retrieved 2026-09-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lucid-agents`. https://satohub.ai/resources/lucid-agents — retrieved 2026-09-15.
 
 [← All layers](../index.md)

@@ -38,7 +38,7 @@ Sato Score: **⬡ 87** (High) — a measure of how open, active and verifiable t
 - **Creator:** Fetch.ai
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 7 days ago
+- **Activity:** Active — last activity 8 days ago
 - **GitHub stars:** 1.6k
 - **Deploys as:** pip, Self-hosted
 - **Works with:** Agentverse, ASI:One, crewAI, Almanac
@@ -55,12 +55,12 @@ pip install uagents
 - **License:** Apache-2.0
 - **MCP native:** no
 - **Deploy status:** verified
-- **As of:** 2026-09-14
+- **As of:** 2026-09-07
 
 ## What we checked
 
-- Install reproduced in an isolated container on 2026-09-14.
-- Live endpoint probed by us: 100% of our checks succeeded over 62 days. That is a success rate of our checks, not the project's uptime.
+- Install reproduced in an isolated container on 2026-09-07.
+- Live endpoint probed by us: 100% of our checks succeeded over 63 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -69,6 +69,6 @@ pip install uagents
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `fetchai-uagents`. https://satohub.ai/resources/fetchai-uagents — retrieved 2026-09-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `fetchai-uagents`. https://satohub.ai/resources/fetchai-uagents — retrieved 2026-09-15.
 
 [← All layers](../index.md)

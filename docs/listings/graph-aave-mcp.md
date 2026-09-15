@@ -26,7 +26,7 @@ breadcrumb:
 
 MCP server querying Aave V2/V3/V4 lending and governance data across 7 chains via The Graph.
 
-Sato Score: **⬡ 69** (Medium), +10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 69** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -34,7 +34,7 @@ Sato Score: **⬡ 69** (Medium), +10 over 7 days — a measure of how open, acti
 - **Chains:** Ethereum, Base, Arbitrum, Polygon, Optimism, Avalanche
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 11 days ago
+- **Activity:** Active — last activity 12 days ago
 - **GitHub stars:** 2
 
 ## Deploy spec
@@ -57,7 +57,7 @@ cd graph-aave-mcp
 ## What we checked
 
 - Install reproduced in an isolated container on 2026-07-21.
-- Live endpoint probed by us: 100% of our checks succeeded over 57 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 58 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -66,6 +66,6 @@ cd graph-aave-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `graph-aave-mcp`. https://satohub.ai/resources/graph-aave-mcp — retrieved 2026-09-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `graph-aave-mcp`. https://satohub.ai/resources/graph-aave-mcp — retrieved 2026-09-15.
 
 [← All layers](../index.md)

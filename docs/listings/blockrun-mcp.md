@@ -12,7 +12,7 @@ application_category: "MCP"
 operating_system: "Any"
 license_url: "https://opensource.org/licenses/MIT"
 license_name: "MIT"
-date_modified: "2026-09-09"
+date_modified: "2026-09-15"
 breadcrumb:
   - name: "Onchain Agents index"
     url: "https://satohubai.github.io/onchain-agents/"
@@ -39,8 +39,8 @@ Sato Score: **⬡ 89** (High) — a measure of how open, active and verifiable t
 - **Creator:** BlockRun Labs, Inc.
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 5 days ago
-- **GitHub stars:** 393
+- **Activity:** Active — last activity today
+- **GitHub stars:** 394
 - **Deploys as:** npm package, MCP server
 - **Works with:** Claude Code, Claude Desktop, Cursor, Windsurf, ChatGPT Desktop
 
@@ -57,12 +57,12 @@ claude mcp add blockrun -s user -- npx -y @blockrun/mcp@latest
 - **License:** MIT
 - **MCP native:** yes
 - **Deploy status:** verified
-- **As of:** 2026-09-14
+- **As of:** 2026-09-07
 
 ## What we checked
 
-- Install reproduced in an isolated container on 2026-09-14.
-- Live endpoint probed by us: 100% of our checks succeeded over 62 days. That is a success rate of our checks, not the project's uptime.
+- Install reproduced in an isolated container on 2026-09-07.
+- Live endpoint probed by us: 100% of our checks succeeded over 63 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -71,6 +71,6 @@ claude mcp add blockrun -s user -- npx -y @blockrun/mcp@latest
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `blockrun-mcp`. https://satohub.ai/resources/blockrun-mcp — retrieved 2026-09-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `blockrun-mcp`. https://satohub.ai/resources/blockrun-mcp — retrieved 2026-09-15.
 
 [← All layers](../index.md)

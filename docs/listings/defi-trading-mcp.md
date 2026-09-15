@@ -26,7 +26,7 @@ breadcrumb:
 
 MCP server that turns an AI assistant into an autonomous DeFi trading agent.
 
-Sato Score: **⬡ 51** (Medium), -12 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 51** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -57,11 +57,11 @@ npm install -g defi-trading-mcp
 - **License:** MIT
 - **MCP native:** yes
 - **Deploy status:** verified
-- **As of:** 2026-09-14
+- **As of:** 2026-09-07
 
 ## What we checked
 
-- Install reproduced in an isolated container on 2026-09-14.
+- Install reproduced in an isolated container on 2026-09-07.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -70,6 +70,6 @@ npm install -g defi-trading-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `defi-trading-mcp`. https://satohub.ai/resources/defi-trading-mcp — retrieved 2026-09-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `defi-trading-mcp`. https://satohub.ai/resources/defi-trading-mcp — retrieved 2026-09-15.
 
 [← All layers](../index.md)

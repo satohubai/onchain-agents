@@ -7,7 +7,7 @@ layout: "default"
 page_type: "category"
 item_list_name: "Alternatives to Self Protocol"
 item_count: 8
-date_modified: "2026-09-14"
+date_modified: "2026-09-15"
 item_list:
   - name: "Agent Skills Hub"
     url: "https://satohubai.github.io/onchain-agents/listings/agent-skills-hub"
@@ -36,16 +36,16 @@ breadcrumb:
 
 # Alternatives to Self Protocol
 
-Self Protocol sits in the **Security Tool** layer. These are the other scored listings in that layer, ordered by Sato Score — a 0–100 measure of how open, active and verifiable a project is, [not a safety or returns grade](../sato-score.md). Rendered 2026-09-14.
+Self Protocol sits in the **Security Tool** layer. These are the other scored listings in that layer, ordered by Sato Score — a 0–100 measure of how open, active and verifiable a project is, [not a safety or returns grade](../sato-score.md). Rendered 2026-09-15.
 
 | Name | What it is | Chains | ⬡ Score | Last activity | Links |
 |---|---|---|---|---|---|
-| [Agent Skills Hub](https://github.com/agent-skills-hub/agent-skills-hub) | A registry of AI agent skills that applies automated source-code scanning and assigns security… | — | 72 | 20 days ago | [satohub.ai](https://satohub.ai/resources/agent-skills-hub?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/agent-skills-hub.md) |
+| [Agent Skills Hub](https://github.com/agent-skills-hub/agent-skills-hub) | A registry of AI agent skills that applies automated source-code scanning and assigns security… | — | 72 | 21 days ago | [satohub.ai](https://satohub.ai/resources/agent-skills-hub?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/agent-skills-hub.md) |
 | [PRXVT](https://github.com/prxvt) | Open-source privacy SDK that adds unlinkable, zero-knowledge payments on top of the x402 agent… | Ethereum, Base, Polygon | 68 | — | [satohub.ai](https://satohub.ai/resources/prxvt?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/prxvt.md) |
 | [ChainAware](https://github.com/ChainAware/behavioral-prediction-mcp) | Pre-built MCP blockchain capability modules giving agents fraud detection, AML scoring, wallet… | Polygon, Ethereum, BNB Chain +4 | 67 | 1 month ago | [satohub.ai](https://satohub.ai/resources/chainaware?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/chainaware.md) |
-| [COTI](https://github.com/coti-io) | Privacy infrastructure that gives MCP-compatible agents private wallets, encrypted messaging, and… | COTI, Ethereum | 67 | 5 days ago | [satohub.ai](https://satohub.ai/resources/coti?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/coti.md) |
+| [COTI](https://github.com/coti-io) | Privacy infrastructure that gives MCP-compatible agents private wallets, encrypted messaging, and… | COTI, Ethereum | 67 | 1 day ago | [satohub.ai](https://satohub.ai/resources/coti?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/coti.md) |
 | [MistTrack MCP](https://github.com/slowmist/MistTrackMCP) | MCP server from SlowMist exposing MistTrack address risk scoring and fund-flow tracing to AI agents. | Ethereum, Bitcoin, Polygon +2 | 63 | 4 months ago | [satohub.ai](https://satohub.ai/resources/misttrack-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/misttrack-mcp.md) |
-| [Usenami Signer MCP](https://github.com/namixai/signer-mcp) | MCP server that signs CEX/DEX orders inside an attested AWS Nitro Enclave so keys never touch the… | — | 61 | 2 days ago | [satohub.ai](https://satohub.ai/resources/namixai-signer-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/namixai-signer-mcp.md) |
+| [Usenami Signer MCP](https://github.com/namixai/signer-mcp) | MCP server that signs CEX/DEX orders inside an attested AWS Nitro Enclave so keys never touch the… | — | 61 | 3 days ago | [satohub.ai](https://satohub.ai/resources/namixai-signer-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/namixai-signer-mcp.md) |
 | [SIWA (Sign In With Agent)](https://github.com/builders-garden/siwa) | Agent-identity authentication protocol modeled on Sign-In-With-Ethereum, letting services verify an… | Ethereum | 59 | 6 months ago | [satohub.ai](https://satohub.ai/resources/siwa-sign-in-with-agent?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/siwa-sign-in-with-agent.md) |
 | [CryptoGuard](https://github.com/momenbasel/CryptoGuard) | Intercepts agent transactions and checks them against 5 security oracles before execution. | Multichain | 46 | 5 months ago | [satohub.ai](https://satohub.ai/resources/cryptoguard-agent-safety?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/cryptoguard-agent-safety.md) |
 

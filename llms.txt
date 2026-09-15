@@ -3,7 +3,7 @@
 > 382 listings of what onchain AI agents are built from: agent frameworks,
 > onchain action kits, MCP servers, wallets and key management, data and RPC,
 > x402 payment rails, identity standards (ERC-8004, A2A), security tooling and
-> trading venues. Rendered daily from satohub.ai. Last render: 2026-09-14.
+> trading venues. Rendered daily from satohub.ai. Last render: 2026-09-15.
 > Every product listing carries a Sato Score: 0-100, measuring how OPEN, ACTIVE
 > and VERIFIABLE a project is. It is NOT a safety, quality, security or returns
 > grade, and nothing here is financial advice. Self-reported is not verified.
@@ -43,7 +43,7 @@
 
 ## Query it live over MCP
 
-- [MCP endpoint](https://satohub.ai/api/mcp): 30 tools over Streamable HTTP (27 read, 3 write) — write tools: onchain_agent_watch, onchain_agent_submit_project, onchain_agent_register_agent
+- [MCP endpoint](https://satohub.ai/api/mcp): 31 tools over Streamable HTTP (28 read, 3 write) — write tools: onchain_agent_watch, onchain_agent_submit_project, onchain_agent_register_agent
 - [Tool list as JSON](https://satohub.ai/api/mcp/tools.json): names, descriptions and input schemas
 - [Connection guide](https://raw.githubusercontent.com/satohubai/onchain-agents/main/docs/connect-mcp.md)
 - Skill: `npx skills add satohubai/sato-hub-skill` · Plugin: `/plugin marketplace add satohubai/sato-plugins`

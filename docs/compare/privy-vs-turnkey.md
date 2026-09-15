@@ -5,7 +5,7 @@ canonical: "https://satohub.ai/compare/privy-vs-turnkey"
 canonical_url: "https://satohub.ai/compare/privy-vs-turnkey"
 layout: "default"
 page_type: "compare"
-date_modified: "2026-09-14"
+date_modified: "2026-09-15"
 breadcrumb:
   - name: "Onchain Agents index"
     url: "https://satohubai.github.io/onchain-agents/"
@@ -23,7 +23,7 @@ The table compares them on what the directory tracks for both — chains, interf
 
 ## Side by side
 
-Every row is read off the live index, rendered 2026-09-14. No winner is declared.
+Every row is read off the live index, rendered 2026-09-15. No winner is declared.
 
 | | Privy | Turnkey |
 |---|---|---|
@@ -33,7 +33,7 @@ Every row is read off the live index, rendered 2026-09-14. No winner is declared
 | **Standards** | — | — |
 | **Open source** | Partial | Partial |
 | **⬡ Sato Score** | 83 (High) | 83 (High) |
-| **Activity** | Active, last activity 5 days ago | Active, last activity 4 days ago |
+| **Activity** | Active, last activity 1 day ago | Active, last activity 1 day ago |
 | **★ GitHub stars** | — | — |
 | **Install reproduced** | yes | yes |
 | **Verification status** | Unverified | Unverified |

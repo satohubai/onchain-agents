@@ -7,7 +7,7 @@ layout: "default"
 page_type: "category"
 item_list_name: "Alternatives to Hermes Agent"
 item_count: 8
-date_modified: "2026-09-14"
+date_modified: "2026-09-15"
 item_list:
   - name: "TradingAgents"
     url: "https://satohubai.github.io/onchain-agents/listings/tradingagents"
@@ -36,18 +36,18 @@ breadcrumb:
 
 # Alternatives to Hermes Agent
 
-Hermes Agent sits in the **Agent Framework** layer. These are the other scored listings in that layer, ordered by Sato Score — a 0–100 measure of how open, active and verifiable a project is, [not a safety or returns grade](../sato-score.md). Rendered 2026-09-14.
+Hermes Agent sits in the **Agent Framework** layer. These are the other scored listings in that layer, ordered by Sato Score — a 0–100 measure of how open, active and verifiable a project is, [not a safety or returns grade](../sato-score.md). Rendered 2026-09-15.
 
 | Name | What it is | Chains | ⬡ Score | Last activity | Links |
 |---|---|---|---|---|---|
-| [TradingAgents](https://github.com/TauricResearch/TradingAgents) | An open-source multi-agent LLM framework that simulates a trading firm with analyst, trader, and… | — | 88 | 6 days ago | [satohub.ai](https://satohub.ai/resources/tradingagents?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/tradingagents.md) |
+| [TradingAgents](https://github.com/TauricResearch/TradingAgents) | An open-source multi-agent LLM framework that simulates a trading firm with analyst, trader, and… | — | 88 | 7 days ago | [satohub.ai](https://satohub.ai/resources/tradingagents?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/tradingagents.md) |
 | [ElizaOS](https://github.com/elizaOS/eliza) | Open-source TypeScript framework for building crypto-native multi-agent systems. | Solana, Ethereum, Base +1 | 87 | today | [satohub.ai](https://satohub.ai/resources/elizaos?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/elizaos.md) |
-| [Fetch.ai uAgents](https://github.com/fetchai/uAgents) | Python framework for lightweight autonomous agents with built-in crypto-economic features. | Cosmos, Ethereum | 87 | 7 days ago | [satohub.ai](https://satohub.ai/resources/fetchai-uagents?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/fetchai-uagents.md) |
-| [Olas (Autonolas)](https://github.com/valory-xyz) | Network and framework for co-owned autonomous agent services operating onchain. | Ethereum, Gnosis, Base +1 | 87 | 2 days ago | [satohub.ai](https://satohub.ai/resources/olas?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/olas.md) |
-| [OpenClaw](https://github.com/openclaw/openclaw) | Open-source self-hosted personal AI agent framework with a public skill registry (ClawHub) that… | — | 84 | 1 day ago | [satohub.ai](https://satohub.ai/resources/openclaw?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/openclaw.md) |
-| [Almanak](https://github.com/almanak-co/sdk) | An AI-agent framework and non-custodial vault protocol for designing, backtesting, and deploying… | Multichain, Ethereum, Arbitrum +8 | 83 | 3 days ago | [satohub.ai](https://satohub.ai/resources/almanak?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/almanak.md) |
+| [Fetch.ai uAgents](https://github.com/fetchai/uAgents) | Python framework for lightweight autonomous agents with built-in crypto-economic features. | Cosmos, Ethereum | 87 | 8 days ago | [satohub.ai](https://satohub.ai/resources/fetchai-uagents?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/fetchai-uagents.md) |
+| [Olas (Autonolas)](https://github.com/valory-xyz) | Network and framework for co-owned autonomous agent services operating onchain. | Ethereum, Gnosis, Base +1 | 87 | 3 days ago | [satohub.ai](https://satohub.ai/resources/olas?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/olas.md) |
+| [OpenClaw](https://github.com/openclaw/openclaw) | Open-source self-hosted personal AI agent framework with a public skill registry (ClawHub) that… | — | 84 | today | [satohub.ai](https://satohub.ai/resources/openclaw?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/openclaw.md) |
+| [Almanak](https://github.com/almanak-co/sdk) | An AI-agent framework and non-custodial vault protocol for designing, backtesting, and deploying… | Multichain, Ethereum, Arbitrum +8 | 83 | 4 days ago | [satohub.ai](https://satohub.ai/resources/almanak?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/almanak.md) |
 | [OpenAI Codex](https://github.com/openai/codex) | OpenAI's agentic coding tool (CLI, IDE, and cloud) that runs agents and connects to MCP servers and… | — | 80 | today | [satohub.ai](https://satohub.ai/resources/openai-codex?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/openai-codex.md) |
-| [Claude Code](https://github.com/anthropics/claude-code) | Anthropic's agentic command-line coding tool that runs agents and loads Agent Skills, including… | — | 76 | 1 day ago | [satohub.ai](https://satohub.ai/resources/claude-code?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/claude-code.md) |
+| [Claude Code](https://github.com/anthropics/claude-code) | Anthropic's agentic command-line coding tool that runs agents and loads Agent Skills, including… | — | 76 | today | [satohub.ai](https://satohub.ai/resources/claude-code?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/claude-code.md) |
 
 ## What this cannot settle
 
