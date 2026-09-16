@@ -407,6 +407,7 @@ function renderUseTheData(toolCount) {
 | **Preflight** | check a repo, package, MCP endpoint, ERC-8004 agent or ERC-20 token **before** you install, connect, pay or trade — every verdict names the rule that decided it, and \`unknown\` stays unknown | \`GET ${SITE}/api/preflight\` · [the page](${withUtm(`${SITE}/preflight`)}) |
 | **Preflight in CI** | the same check across a whole lockfile on every push, SARIF findings, plus a badge. \`unknown\` can never fail your build | [\`satohubai/preflight-action\`](https://github.com/satohubai/preflight-action) · \`POST ${SITE}/api/preflight/batch\` |
 | **Sato Route** | which venue to swap, hire an agent, launch a token or pay over x402 — the fee disclosed (including at zero) and every reason named. Recommend-only: it signs nothing and holds nothing | \`GET ${SITE}/api/route/{swap,agent,launch,x402,lp}\` · [the page](${withUtm(`${SITE}/route`)}) |
+| **Sato Swap** | a swap that can refuse: both tokens, the venue and the recipient checked against your policy, the route simulated, then an UNSIGNED transaction or the rule that withheld one. \`unknown\` refuses by default | \`POST ${SITE}/api/swap/quote\` · [the method](${withUtm(`${SITE}/docs/sato-swap`)}) |
 | **Sato Bot** | a goal in plain words → a build plan made of real listings from this index | [\`/satobot\`](${withUtm(`${SITE}/satobot`)}) · \`POST ${SITE}/api/satobot/plan\` |
 | **Deploy spec** | the machine-readable install manifest behind the ✓ column — what a project installs as, and what we reproduced | [the standard](${withUtm(`${SITE}/docs/deploy-spec`)}) |
 | **Signed responses** | responses can be signed Ed25519 so a downstream agent can verify a figure came from here unaltered | [JWKS](${SITE}/.well-known/jwks.json) · [key metadata](${SITE}/.well-known/sato-signing.json) |
@@ -414,7 +415,18 @@ function renderUseTheData(toolCount) {
 
 No key, no account, no rate-limit deal to sign. A Sato Score is a measure of how
 open, active and verifiable a project is — [not a safety, quality or returns
-grade](docs/sato-score.md).`;
+grade](docs/sato-score.md).
+
+### Swap through a gate
+
+An agent that can trade is an agent that can be talked into trading. Sato Swap
+is the other answer: **the agent never holds a key, and what it asks for is an
+unsigned transaction.** One call checks four targets — both tokens, the venue
+endpoint and the recipient — applies the owner's policy server-side, simulates
+the route, and returns either an unsigned object or the rule under which one was
+withheld. \`unknown\` refuses by default, and every refusal names the rule, the
+limit and the value it read. Nothing in the path holds a key, signs or
+broadcasts. [The method](docs/swap.md) · [full rules](${withUtm(`${SITE}/docs/sato-swap`)}).`;
 }
 
 function renderCommunity() {
@@ -909,7 +921,7 @@ function renderDocsIndex(resources, today) {
     renderStack(resources, { forDocs: true }) +
     `\n\n## Every layer in full\n\n` +
     LAYERS.map((l) => `- [${l.title}](categories/${l.slug}.md)`).join("\n") +
-    `\n\n## Reference\n\n- [Sato Score methodology](sato-score.md)\n- [Taxonomy](taxonomy.md)\n- [Connect over MCP](connect-mcp.md)\n- [Full index on GitHub](https://github.com/satohubai/onchain-agents)\n- [satohub.ai ↗](${withUtm(SITE)})\n`
+    `\n\n## Reference\n\n- [Sato Score methodology](sato-score.md)\n- [Taxonomy](taxonomy.md)\n- [Connect over MCP](connect-mcp.md)\n- [Swap through a gate](swap.md)\n- [Full index on GitHub](https://github.com/satohubai/onchain-agents)\n- [satohub.ai ↗](${withUtm(SITE)})\n`
   );
 }
 
@@ -1134,6 +1146,7 @@ ${LAYERS.map((l) => `- [${l.title}](${raw}/docs/categories/${l.slug}.md): ${l.wh
 
 - [Sato Score methodology](${raw}/docs/sato-score.md): what the 0-100 score measures and what it does not
 - [Taxonomy](${raw}/docs/taxonomy.md): entity classes, resource types, interfaces, standards facets
+- [Swap through a gate](${raw}/docs/swap.md): how an agent gets a swap it is allowed to make — four dated verdicts, the owner's policy, a simulation, an unsigned transaction
 - [Neutrality](${raw}/NEUTRALITY.md): placement is not for sale
 - [Reporting a problem with an entry](${raw}/SECURITY.md)
 - [Cite this dataset](${raw}/CITATION.cff) · [dataset record](${SITE}/datasets/onchain-agents-index)
