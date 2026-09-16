@@ -7,7 +7,7 @@ layout: "default"
 page_type: "category"
 item_list_name: "Alternatives to Zerion"
 item_count: 8
-date_modified: "2026-09-15"
+date_modified: "2026-09-16"
 item_list:
   - name: "DefiLlama"
     url: "https://satohubai.github.io/onchain-agents/listings/defillama"
@@ -36,14 +36,14 @@ breadcrumb:
 
 # Alternatives to Zerion
 
-Zerion sits in the **Data Tool** layer. These are the other scored listings in that layer, ordered by Sato Score — a 0–100 measure of how open, active and verifiable a project is, [not a safety or returns grade](../sato-score.md). Rendered 2026-09-15.
+Zerion sits in the **Data Tool** layer. These are the other scored listings in that layer, ordered by Sato Score — a 0–100 measure of how open, active and verifiable a project is, [not a safety or returns grade](../sato-score.md). Rendered 2026-09-16.
 
 | Name | What it is | Chains | ⬡ Score | Last activity | Links |
 |---|---|---|---|---|---|
-| [DefiLlama](https://github.com/DefiLlama) | Open DeFi analytics dashboard and free API tracking TVL, fees, revenue, volume, and yields across… | Ethereum, Base, Solana +6 | 75 | 3 days ago | [satohub.ai](https://satohub.ai/resources/defillama?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/defillama.md) |
-| [graph-aave-mcp](https://github.com/PaulieB14/graph-aave-mcp) | MCP server querying Aave V2/V3/V4 lending and governance data across 7 chains via The Graph. | Ethereum, Base, Arbitrum +3 | 69 | 12 days ago | [satohub.ai](https://satohub.ai/resources/graph-aave-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/graph-aave-mcp.md) |
+| [DefiLlama](https://github.com/DefiLlama) | Open DeFi analytics dashboard and free API tracking TVL, fees, revenue, volume, and yields across… | Ethereum, Base, Solana +6 | 75 | today | [satohub.ai](https://satohub.ai/resources/defillama?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/defillama.md) |
+| [graph-aave-mcp](https://github.com/PaulieB14/graph-aave-mcp) | MCP server querying Aave V2/V3/V4 lending and governance data across 7 chains via The Graph. | Ethereum, Base, Arbitrum +3 | 69 | 13 days ago | [satohub.ai](https://satohub.ai/resources/graph-aave-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/graph-aave-mcp.md) |
 | [cryptocurrency.cv](https://github.com/nirholas/cryptocurrency.cv) | Free, key-less crypto news and market-data API aggregating Bitcoin, Ethereum, Solana, and DeFi. | — | 67 | 1 month ago | [satohub.ai](https://satohub.ai/resources/cryptocurrency-cv?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/cryptocurrency-cv.md) |
-| [SQD Portal MCP](https://github.com/subsquid-labs/portal-mcp-server) | Official MCP server from Subsquid (SQD) exposing its Portal API for querying onchain data across… | Multichain, Solana, Bitcoin +1 | 61 | 8 days ago | [satohub.ai](https://satohub.ai/resources/sqd-portal-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/sqd-portal-mcp.md) |
+| [SQD Portal MCP](https://github.com/subsquid-labs/portal-mcp-server) | Official MCP server from Subsquid (SQD) exposing its Portal API for querying onchain data across… | Multichain, Solana, Bitcoin +1 | 61 | 9 days ago | [satohub.ai](https://satohub.ai/resources/sqd-portal-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/sqd-portal-mcp.md) |
 | [Ogena token risk](https://ogenalabs.com) | Ogena token risk is a data service for agents on Solana, Base. | Solana, Base | 59 | — | [satohub.ai](https://satohub.ai/resources/ogena-token-risk?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/ogena-token-risk.md) |
 | [CabalSpy Wallet Tracker](https://github.com/CabalSpy/CabalSpy-MCP-Server) | Multi-chain API tracking 1,600+ labeled KOL, smart-money, and whale wallets, with an MCP server. | Solana, BNB Chain, Base +2 | 56 | 1 month ago | [satohub.ai](https://satohub.ai/resources/cabalspy-wallet-tracker?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/cabalspy-wallet-tracker.md) |
 | [Gloria MCP](https://github.com/cryptobriefing/gloria-mcp) | MCP server for Gloria AI's curated crypto news feed — sentiment-tagged headlines, recaps, and… | Base | 54 | 1 month ago | [satohub.ai](https://satohub.ai/resources/gloria-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/gloria-mcp.md) |

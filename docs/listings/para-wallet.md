@@ -12,7 +12,7 @@ application_category: "Wallet Infrastructure"
 operating_system: "Any"
 license_url: "https://opensource.org/licenses/MIT"
 license_name: "MIT"
-date_modified: "2026-09-15"
+date_modified: "2026-09-16"
 breadcrumb:
   - name: "Onchain Agents index"
     url: "https://satohubai.github.io/onchain-agents/"
@@ -49,12 +49,12 @@ npm run build
 - **Requires:** PARA_API_KEY — required, obtained from developer.getpara.com; server IP must be allowlisted with Para. RISK: the key grants MPC wallet creation/signing authority via the Para API — treat as a credential
 - **License:** MIT
 - **MCP native:** yes
-- **Deploy status:** failed
+- **Deploy status:** unknown
 - **As of:** 2026-09-14
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 58 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 59 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -63,6 +63,6 @@ npm run build
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `para-wallet`. https://satohub.ai/resources/para-wallet — retrieved 2026-09-15.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `para-wallet`. https://satohub.ai/resources/para-wallet — retrieved 2026-09-16.
 
 [← All layers](../index.md)

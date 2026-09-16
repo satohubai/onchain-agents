@@ -12,7 +12,7 @@ application_category: "Skill Repo"
 operating_system: "Any"
 license_url: "https://opensource.org/licenses/MIT"
 license_name: "MIT"
-date_modified: "2026-09-12"
+date_modified: "2026-09-16"
 breadcrumb:
   - name: "Onchain Agents index"
     url: "https://satohubai.github.io/onchain-agents/"
@@ -39,7 +39,7 @@ Sato Score: **⬡ 66** (Medium) — a measure of how open, active and verifiable
 - **Creator:** OKX
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 3 days ago
+- **Activity:** Active — last activity today
 - **GitHub stars:** 331
 - **Deploys as:** Claude Code, Cursor, Codex CLI, OpenCode, MCP server
 - **Works with:** Aave, Lido, PancakeSwap, Kamino, NAVI, Polymarket, Hyperliquid, Morpho, x402, MPP, a2a-pay
@@ -69,6 +69,6 @@ npx skills add okx/onchainos-skills
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `okx-onchainos-skills`. https://satohub.ai/resources/okx-onchainos-skills — retrieved 2026-09-15.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `okx-onchainos-skills`. https://satohub.ai/resources/okx-onchainos-skills — retrieved 2026-09-16.
 
 [← All layers](../index.md)

@@ -52,12 +52,12 @@ cargo install polkadot-mcp
 - **Requires:** POLKADOT_SIGNER_URI (optional mnemonic/derivation path — risk: enables transaction signing, controls funds), SUBSCAN_API_KEY (optional, historical/indexed data)
 - **License:** Apache-2.0 (README header also mentions MIT — inconsistent; body states Apache-2.0)
 - **MCP native:** yes
-- **Deploy status:** failed
+- **Deploy status:** unknown
 - **As of:** 2026-09-14
 
 ## What we checked
 
-- Live endpoint probed by us: 33.3% of our checks succeeded over 63 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 32.8% of our checks succeeded over 64 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -66,6 +66,6 @@ cargo install polkadot-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `polkadot-mcp`. https://satohub.ai/resources/polkadot-mcp — retrieved 2026-09-15.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `polkadot-mcp`. https://satohub.ai/resources/polkadot-mcp — retrieved 2026-09-16.
 
 [← All layers](../index.md)

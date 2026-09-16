@@ -7,7 +7,7 @@ layout: "default"
 page_type: "category"
 item_list_name: "Alternatives to Vybe Solana MCP"
 item_count: 8
-date_modified: "2026-09-15"
+date_modified: "2026-09-16"
 item_list:
   - name: "BlockRun MCP"
     url: "https://satohubai.github.io/onchain-agents/listings/blockrun-mcp"
@@ -36,18 +36,18 @@ breadcrumb:
 
 # Alternatives to Vybe Solana MCP
 
-Vybe Solana MCP sits in the **MCP** layer. These are the other scored listings in that layer, ordered by Sato Score — a 0–100 measure of how open, active and verifiable a project is, [not a safety or returns grade](../sato-score.md). Rendered 2026-09-15.
+Vybe Solana MCP sits in the **MCP** layer. These are the other scored listings in that layer, ordered by Sato Score — a 0–100 measure of how open, active and verifiable a project is, [not a safety or returns grade](../sato-score.md). Rendered 2026-09-16.
 
 | Name | What it is | Chains | ⬡ Score | Last activity | Links |
 |---|---|---|---|---|---|
 | [BlockRun MCP](https://github.com/BlockRunAI/blockrun-mcp) | MCP server giving AI agents live data — markets, crypto, research, X — billed per call via x402… | Base, Solana | 89 | today | [satohub.ai](https://satohub.ai/resources/blockrun-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/blockrun-mcp.md) |
-| [DexPaprika MCP Server](https://github.com/coinpaprika/dexpaprika-mcp) | Zero-config MCP access to DexPaprika's DEX data — tokens, liquidity pools, and OHLCV across 33… | Multichain | 84 | 25 days ago | [satohub.ai](https://satohub.ai/resources/dexpaprika-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/dexpaprika-mcp.md) |
+| [DexPaprika MCP Server](https://github.com/coinpaprika/dexpaprika-mcp) | Zero-config MCP access to DexPaprika's DEX data — tokens, liquidity pools, and OHLCV across 33… | Multichain | 84 | 26 days ago | [satohub.ai](https://satohub.ai/resources/dexpaprika-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/dexpaprika-mcp.md) |
 | [Boar Blockchain MCP](https://github.com/boar-network/blockchain-mcp) | Blockchain infrastructure MCP from Boar Network, with setup guides and free-tier access paths. | Multichain | 84 | 5 months ago | [satohub.ai](https://satohub.ai/resources/boar-blockchain-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/boar-blockchain-mcp.md) |
 | [MERX MCP](https://github.com/Hovsteder/merx-mcp) | TRON infrastructure MCP (hosted SSE + local stdio): energy/bandwidth prices, resource optimization… | Tron | 84 | 5 months ago | [satohub.ai](https://satohub.ai/resources/merx-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/merx-mcp.md) |
 | [Across MCP](https://github.com/across-protocol/mcp-server-across) | Official Across Protocol hosted MCP: docs search, chain data, and live bridge fees at mcp.across.to. | Multichain | 83 | 1 month ago | [satohub.ai](https://satohub.ai/resources/across-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/across-mcp.md) |
-| [Bybit Trading MCP](https://github.com/bybit-exchange/trading-mcp) | Official Bybit MCP for market data, trading, positions, wallet, and portfolio via REST and… | Multichain | 82 | 7 days ago | [satohub.ai](https://satohub.ai/resources/bybit-trading-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/bybit-trading-mcp.md) |
-| [AIBTC MCP Server](https://github.com/aibtcdev/aibtc-mcp-server) | Bitcoin-native MCP server: BTC/STX wallets, L1 reads and transfers, Stacks, sBTC, and x402 payments. | Bitcoin | 82 | 5 days ago | [satohub.ai](https://satohub.ai/resources/aibtc-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/aibtc-mcp.md) |
-| [BNB Chain MCP](https://github.com/nirholas/bnbchain-mcp) | Developer MCP tools for AI crypto agents on BNB Chain: DeFi trading, DEX swaps, and contract… | BNB Chain | 81 | 8 days ago | [satohub.ai](https://satohub.ai/resources/bnbchain-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/bnbchain-mcp.md) |
+| [Bybit Trading MCP](https://github.com/bybit-exchange/trading-mcp) | Official Bybit MCP for market data, trading, positions, wallet, and portfolio via REST and… | Multichain | 82 | 8 days ago | [satohub.ai](https://satohub.ai/resources/bybit-trading-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/bybit-trading-mcp.md) |
+| [AIBTC MCP Server](https://github.com/aibtcdev/aibtc-mcp-server) | Bitcoin-native MCP server: BTC/STX wallets, L1 reads and transfers, Stacks, sBTC, and x402 payments. | Bitcoin | 82 | today | [satohub.ai](https://satohub.ai/resources/aibtc-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/aibtc-mcp.md) |
+| [BNB Chain MCP](https://github.com/nirholas/bnbchain-mcp) | Developer MCP tools for AI crypto agents on BNB Chain: DeFi trading, DEX swaps, and contract… | BNB Chain | 81 | 9 days ago | [satohub.ai](https://satohub.ai/resources/bnbchain-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/bnbchain-mcp.md) |
 
 ## What this cannot settle
 

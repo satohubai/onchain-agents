@@ -12,7 +12,7 @@ application_category: "MCP"
 operating_system: "Any"
 license_url: "https://opensource.org/licenses/MIT"
 license_name: "MIT"
-date_modified: "2026-09-15"
+date_modified: "2026-09-16"
 breadcrumb:
   - name: "Onchain Agents index"
     url: "https://satohubai.github.io/onchain-agents/"
@@ -54,7 +54,7 @@ make wallet
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 58 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 59 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -63,6 +63,6 @@ make wallet
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `monad-agent-kit`. https://satohub.ai/resources/monad-agent-kit — retrieved 2026-09-15.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `monad-agent-kit`. https://satohub.ai/resources/monad-agent-kit — retrieved 2026-09-16.
 
 [← All layers](../index.md)

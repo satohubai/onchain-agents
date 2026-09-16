@@ -5,7 +5,7 @@ canonical: "https://satohub.ai/compare/coinbase-agentkit-vs-solana-agent-kit"
 canonical_url: "https://satohub.ai/compare/coinbase-agentkit-vs-solana-agent-kit"
 layout: "default"
 page_type: "compare"
-date_modified: "2026-09-15"
+date_modified: "2026-09-16"
 breadcrumb:
   - name: "Onchain Agents index"
     url: "https://satohubai.github.io/onchain-agents/"
@@ -23,7 +23,7 @@ Where the comparison does earn its keep is everything else — who maintains it,
 
 ## Side by side
 
-Every row is read off the live index, rendered 2026-09-15. No winner is declared.
+Every row is read off the live index, rendered 2026-09-16. No winner is declared.
 
 | | Coinbase AgentKit | Solana Agent Kit |
 |---|---|---|
@@ -33,7 +33,7 @@ Every row is read off the live index, rendered 2026-09-15. No winner is declared
 | **Standards** | mcp | — |
 | **Open source** | Yes | Yes |
 | **⬡ Sato Score** | 88 (High) | 76 (High) |
-| **Activity** | Active, last activity 4 days ago | Quiet, last activity 4 months ago |
+| **Activity** | Active, last activity 1 day ago | Quiet, last activity 4 months ago |
 | **★ GitHub stars** | 1.3k | 1.7k |
 | **Install reproduced** | yes | yes |
 | **Verification status** | Unverified | Unverified |

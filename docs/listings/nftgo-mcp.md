@@ -34,7 +34,7 @@ Sato Score: **⬡ 47** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Ethereum
 - **Open source:** Partial
 - **Status:** Early
-- **Activity:** Dormant — last activity 16 months ago
+- **Activity:** Dormant — last activity 17 months ago
 - **GitHub stars:** 4
 
 ## Deploy spec
@@ -54,7 +54,7 @@ pnpm build
 
 ## What we checked
 
-- Live endpoint probed by us: 24.1% of our checks succeeded over 58 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 25.4% of our checks succeeded over 59 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -63,6 +63,6 @@ pnpm build
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `nftgo-mcp`. https://satohub.ai/resources/nftgo-mcp — retrieved 2026-09-15.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `nftgo-mcp`. https://satohub.ai/resources/nftgo-mcp — retrieved 2026-09-16.
 
 [← All layers](../index.md)

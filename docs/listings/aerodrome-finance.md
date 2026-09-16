@@ -12,7 +12,7 @@ application_category: "Trading Tool"
 application_subcategory: "Spot DEX"
 operating_system: "Any"
 license_name: "Unknown (README references Apache Foundation licensing guidelines; see LICENSE/NOTICE)"
-date_modified: "2026-09-15"
+date_modified: "2026-09-16"
 breadcrumb:
   - name: "Onchain Agents index"
     url: "https://satohubai.github.io/onchain-agents/"
@@ -56,7 +56,7 @@ forge test
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 63 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 64 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Verified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -65,6 +65,6 @@ forge test
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `aerodrome-finance`. https://satohub.ai/resources/aerodrome-finance — retrieved 2026-09-15.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `aerodrome-finance`. https://satohub.ai/resources/aerodrome-finance — retrieved 2026-09-16.
 
 [← All layers](../index.md)

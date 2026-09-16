@@ -11,7 +11,7 @@ application_category: "Wallet Infrastructure"
 application_subcategory: "Agent wallet infrastructure"
 operating_system: "Any"
 license_name: "Unknown"
-date_modified: "2026-09-15"
+date_modified: "2026-09-16"
 breadcrumb:
   - name: "Onchain Agents index"
     url: "https://satohubai.github.io/onchain-agents/"
@@ -58,7 +58,7 @@ pipx run create-onchain-agent
 
 ## What we checked
 
-- Live endpoint probed by us: 22.2% of our checks succeeded over 63 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 23.4% of our checks succeeded over 64 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -67,6 +67,6 @@ pipx run create-onchain-agent
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `coinbase-agentic-wallets`. https://satohub.ai/resources/coinbase-agentic-wallets — retrieved 2026-09-15.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `coinbase-agentic-wallets`. https://satohub.ai/resources/coinbase-agentic-wallets — retrieved 2026-09-16.
 
 [← All layers](../index.md)

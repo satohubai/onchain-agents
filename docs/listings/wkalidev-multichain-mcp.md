@@ -26,16 +26,18 @@ breadcrumb:
 
 Single MCP server for balance/price reads and unsigned transfer prep across Stacks, Celo, and Base.
 
-Sato Score: **⬡ 51** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 57** (Medium), +6 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
 - **Category:** MCP
 - **Chains:** Base, Multichain
+- **Creator:** wkalidev
 - **Open source:** Yes
 - **Status:** Early
 - **Activity:** Recent — last activity 1 month ago
 - **GitHub stars:** 1
+- **Works with:** Claude Desktop, Cursor, Windsurf
 
 ## Deploy spec
 
@@ -53,7 +55,7 @@ npm install @wkalidev/multichain-mcp
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 58 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 59 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -62,6 +64,6 @@ npm install @wkalidev/multichain-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `wkalidev-multichain-mcp`. https://satohub.ai/resources/wkalidev-multichain-mcp — retrieved 2026-09-15.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `wkalidev-multichain-mcp`. https://satohub.ai/resources/wkalidev-multichain-mcp — retrieved 2026-09-16.
 
 [← All layers](../index.md)

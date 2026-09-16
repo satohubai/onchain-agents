@@ -7,14 +7,12 @@ layout: "default"
 page_type: "category"
 item_list_name: "Onchain action kits & SDKs"
 item_count: 47
-date_modified: "2026-09-15"
+date_modified: "2026-09-16"
 item_list:
   - name: "Coinbase AgentKit"
     url: "https://satohubai.github.io/onchain-agents/listings/coinbase-agentkit"
   - name: "x402"
     url: "https://satohubai.github.io/onchain-agents/listings/x402"
-  - name: "Universal Contract AI Interface (UCAI)"
-    url: "https://satohubai.github.io/onchain-agents/listings/ucai"
   - name: "World AgentKit"
     url: "https://satohubai.github.io/onchain-agents/listings/world-agentkit"
   - name: "Model Context Protocol (MCP)"
@@ -25,6 +23,8 @@ item_list:
     url: "https://satohubai.github.io/onchain-agents/listings/opensea-agent-skill"
   - name: "Hyperliquid Python SDK"
     url: "https://satohubai.github.io/onchain-agents/listings/hyperliquid-python-sdk"
+  - name: "Universal Contract AI Interface (UCAI)"
+    url: "https://satohubai.github.io/onchain-agents/listings/ucai"
   - name: "AG Kit"
     url: "https://satohubai.github.io/onchain-agents/listings/ag-kit"
   - name: "AgentNode"
@@ -114,25 +114,25 @@ breadcrumb:
 
 Libraries that turn an agent's decision into a signed transaction — swap, transfer, mint, stake — without writing the chain plumbing yourself.
 
-**47 listings**, ordered by Sato Score — a 0–100 measure of how open, active and verifiable a project is, [not a safety or returns grade](../sato-score.md). Rendered 2026-09-15 from the public Sato Hub export.
+**47 listings**, ordered by Sato Score — a 0–100 measure of how open, active and verifiable a project is, [not a safety or returns grade](../sato-score.md). Rendered 2026-09-16 from the public Sato Hub export.
 
 | Name | What it is | Chains | ⬡ Score | Last activity | Links |
 |---|---|---|---|---|---|
-| [Coinbase AgentKit](https://github.com/coinbase/agentkit) | Coinbase's toolkit for giving AI agents wallets and the ability to take onchain actions. | Base, Ethereum, Multichain | 88 | 4 days ago | [satohub.ai](https://satohub.ai/resources/coinbase-agentkit?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/coinbase-agentkit.md) |
-| [x402](https://github.com/coinbase/x402) | Open payment protocol enabling agents and apps to pay for APIs over HTTP using stablecoins. | Base, Ethereum, Multichain +1 | 86 | 11 days ago | [satohub.ai](https://satohub.ai/resources/x402?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/x402.md) |
-| [Universal Contract AI Interface (UCAI)](https://github.com/nirholas/UCAI) | ABI-to-MCP generator: turns any smart contract ABI into an MCP server agents can call. | Multichain | 86 | 29 days ago | [satohub.ai](https://satohub.ai/resources/ucai?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/ucai.md) |
-| [World AgentKit](https://github.com/worldcoin/agentkit) | SDK from World (Tools for Humanity) that lets AI agents present a zero-knowledge proof a verified… | Base | 86 | 18 days ago | [satohub.ai](https://satohub.ai/resources/world-agentkit?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/world-agentkit.md) |
-| [Model Context Protocol (MCP)](https://github.com/modelcontextprotocol) | Anthropic's open standard for connecting AI systems to external tools and data sources. | — | 83 | 4 days ago | [satohub.ai](https://satohub.ai/resources/model-context-protocol?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/model-context-protocol.md) |
+| [Coinbase AgentKit](https://github.com/coinbase/agentkit) | Coinbase's toolkit for giving AI agents wallets and the ability to take onchain actions. | Base, Ethereum, Multichain | 88 | 1 day ago | [satohub.ai](https://satohub.ai/resources/coinbase-agentkit?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/coinbase-agentkit.md) |
+| [x402](https://github.com/coinbase/x402) | Open payment protocol enabling agents and apps to pay for APIs over HTTP using stablecoins. | Base, Ethereum, Multichain +1 | 86 | 12 days ago | [satohub.ai](https://satohub.ai/resources/x402?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/x402.md) |
+| [World AgentKit](https://github.com/worldcoin/agentkit) | SDK from World (Tools for Humanity) that lets AI agents present a zero-knowledge proof a verified… | Base | 86 | 19 days ago | [satohub.ai](https://satohub.ai/resources/world-agentkit?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/world-agentkit.md) |
+| [Model Context Protocol (MCP)](https://github.com/modelcontextprotocol) | Anthropic's open standard for connecting AI systems to external tools and data sources. | — | 83 | 5 days ago | [satohub.ai](https://satohub.ai/resources/model-context-protocol?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/model-context-protocol.md) |
 | [Alchemy](https://github.com/alchemyplatform) | A blockchain developer platform providing node infrastructure plus NFT, Token, and Transfers APIs… | Ethereum, Base, Solana +4 | 83 | today | [satohub.ai](https://satohub.ai/resources/alchemy?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/alchemy.md) |
-| [OpenSea Agent Skill](https://github.com/ProjectOpenSea/opensea-skill) | Official OpenSea agent skill and MCP server letting AI agents query NFT/token data and execute… | Ethereum, Base, Solana +3 | 81 | 13 days ago | [satohub.ai](https://satohub.ai/resources/opensea-agent-skill?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/opensea-agent-skill.md) |
+| [OpenSea Agent Skill](https://github.com/ProjectOpenSea/opensea-skill) | Official OpenSea agent skill and MCP server letting AI agents query NFT/token data and execute… | Ethereum, Base, Solana +3 | 81 | 14 days ago | [satohub.ai](https://satohub.ai/resources/opensea-agent-skill?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/opensea-agent-skill.md) |
 | [Hyperliquid Python SDK](https://github.com/hyperliquid-dex/hyperliquid-python-sdk) | The official open-source Python SDK for programmatic trading on the Hyperliquid perpetuals DEX. | Arbitrum, Multichain, Hyperliquid | 76 | 3 months ago | [satohub.ai](https://satohub.ai/resources/hyperliquid-python-sdk?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/hyperliquid-python-sdk.md) |
-| [AG Kit](https://github.com/vudovn/ag-kit) | An AI agent toolkit of markdown-based templates for Skills, Agents, and Workflows, with a… | — | 75 | 15 days ago | [satohub.ai](https://satohub.ai/resources/ag-kit?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/ag-kit.md) |
-| [AgentNode](https://github.com/agentnode-ai/agentnode) | An open package registry where AI agents detect missing capabilities and install trust-scored… | — | 75 | 8 days ago | [satohub.ai](https://satohub.ai/resources/agentnode?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/agentnode.md) |
-| [x402 OpenAI (Python)](https://github.com/qntx/x402-openai-python) | Drop-in OpenAI Python client with transparent x402 micropayment support. | Ethereum, Base, Solana | 74 | 12 days ago | [satohub.ai](https://satohub.ai/resources/x402-openai-python?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/x402-openai-python.md) |
-| [MCP Reference Servers](https://github.com/modelcontextprotocol/servers) | Anthropic's official collection of reference Model Context Protocol server implementations across… | — | 73 | 12 days ago | [satohub.ai](https://satohub.ai/resources/mcp-reference-servers?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/mcp-reference-servers.md) |
+| [Universal Contract AI Interface (UCAI)](https://github.com/nirholas/UCAI) | ABI-to-MCP generator: turns any smart contract ABI into an MCP server agents can call. | Multichain | 76 | 30 days ago | [satohub.ai](https://satohub.ai/resources/ucai?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/ucai.md) |
+| [AG Kit](https://github.com/vudovn/ag-kit) | An AI agent toolkit of markdown-based templates for Skills, Agents, and Workflows, with a… | — | 75 | 16 days ago | [satohub.ai](https://satohub.ai/resources/ag-kit?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/ag-kit.md) |
+| [AgentNode](https://github.com/agentnode-ai/agentnode) | An open package registry where AI agents detect missing capabilities and install trust-scored… | — | 75 | 9 days ago | [satohub.ai](https://satohub.ai/resources/agentnode?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/agentnode.md) |
+| [x402 OpenAI (Python)](https://github.com/qntx/x402-openai-python) | Drop-in OpenAI Python client with transparent x402 micropayment support. | Ethereum, Base, Solana | 74 | 13 days ago | [satohub.ai](https://satohub.ai/resources/x402-openai-python?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/x402-openai-python.md) |
+| [MCP Reference Servers](https://github.com/modelcontextprotocol/servers) | Anthropic's official collection of reference Model Context Protocol server implementations across… | — | 73 | 13 days ago | [satohub.ai](https://satohub.ai/resources/mcp-reference-servers?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/mcp-reference-servers.md) |
 | [Agent Payments Protocol (AP2)](https://github.com/google-agentic-commerce/AP2) | Open protocol from Google for secure agent-led payments across traditional and crypto rails, with a… | Ethereum, Base, Multichain | 72 | 4 months ago | [satohub.ai](https://satohub.ai/resources/agent-payments-protocol-ap2?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/agent-payments-protocol-ap2.md) |
 | [Agentic Commerce Protocol (ACP)](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol) | Open standard maintained by OpenAI and Stripe for connecting buyers, their AI agents, and… | — | 72 | 3 months ago | [satohub.ai](https://satohub.ai/resources/agentic-commerce-protocol-acp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/agentic-commerce-protocol-acp.md) |
-| [TradeMemory Protocol](https://github.com/mnemox-ai/tradememory-protocol) | Decision audit trail and persistent memory for AI trading agents, with tamper-evident recall. | — | 71 | 6 days ago | [satohub.ai](https://satohub.ai/resources/tradememory-protocol?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/tradememory-protocol.md) |
+| [TradeMemory Protocol](https://github.com/mnemox-ai/tradememory-protocol) | Decision audit trail and persistent memory for AI trading agents, with tamper-evident recall. | — | 71 | 7 days ago | [satohub.ai](https://satohub.ai/resources/tradememory-protocol?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/tradememory-protocol.md) |
 | [ERC-8004: Trustless Agents](https://github.com/erc-8004/erc-8004-contracts) | Ethereum standard providing on-chain identity, reputation, and validation registries for AI agents. | Ethereum, Multichain, Base +1 | 71 | 1 month ago | [satohub.ai](https://satohub.ai/resources/erc-8004?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/erc-8004.md) |
 | [Enso](https://github.com/EnsoBuild/sdk-ts) | An intent-based onchain execution engine and API that lets developers and agents bundle multi-step… | Ethereum, Base, Arbitrum +3 | 70 | 2 months ago | [satohub.ai](https://satohub.ai/resources/enso-shortcuts?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/enso-shortcuts.md) |
 | [QuickNode](https://github.com/quiknode-labs) | RPC infrastructure provider offering endpoints, Streams, and indexing tools across many blockchain… | Ethereum, Base, Solana +9 | 70 | 3 months ago | [satohub.ai](https://satohub.ai/resources/quicknode?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/quicknode.md) |
@@ -140,9 +140,9 @@ Libraries that turn an agent's decision into a signed transaction — swap, tran
 | [Neynar](https://github.com/neynarxyz) | Farcaster developer platform providing APIs, SDKs, webhooks, and an agent skill for building and… | Base, Ethereum | 69 | — | [satohub.ai](https://satohub.ai/resources/neynar?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/neynar.md) |
 | [Orderly Network](https://github.com/OrderlyNetwork) | Omnichain orderbook trading infrastructure exposing REST and WebSocket APIs and SDKs for DEX… | Multichain, Ethereum, Arbitrum +2 | 69 | — | [satohub.ai](https://satohub.ai/resources/orderly-network?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/orderly-network.md) |
 | [peaq](https://github.com/peaqnetwork) | DePIN infrastructure providing agents with identity, wallets, and pay-per-request onchain… | Multichain | 68 | — | [satohub.ai](https://satohub.ai/resources/peaq?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/peaq.md) |
-| [Unbrowse](https://github.com/unbrowse-ai/unbrowse) | API-native browser skill/CLI/MCP/SDK that auto-discovers APIs from browser traffic so agents skip… | Solana | 65 | 1 day ago | [satohub.ai](https://satohub.ai/resources/unbrowse?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/unbrowse.md) |
+| [Unbrowse](https://github.com/unbrowse-ai/unbrowse) | API-native browser skill/CLI/MCP/SDK that auto-discovers APIs from browser traffic so agents skip… | Solana | 65 | 2 days ago | [satohub.ai](https://satohub.ai/resources/unbrowse?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/unbrowse.md) |
 | [Kraken CLI](https://github.com/krakenfx/kraken-cli) | Official Kraken CLI with a built-in MCP server for spot, futures, forex, and tokenized stock… | — | 65 | 1 month ago | [satohub.ai](https://satohub.ai/resources/kraken-cli?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/kraken-cli.md) |
-| [PMXT](https://github.com/pmxt-dev/pmxt) | Open-source unified prediction-market API with a hosted MCP: market search, events, order books… | Multichain | 63 | 1 month ago | [satohub.ai](https://satohub.ai/resources/pmxt?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/pmxt.md) |
+| [PMXT](https://github.com/pmxt-dev/pmxt) | Open-source unified prediction-market API with a hosted MCP: market search, events, order books… | Multichain | 63 | 2 months ago | [satohub.ai](https://satohub.ai/resources/pmxt?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/pmxt.md) |
 | [Agently](https://github.com/AgentlyHQ/use-agently) | Routing and settlement layer and CLI for agent-to-agent commerce, supporting EVM wallets, agent… | Base | 62 | 5 months ago | [satohub.ai](https://satohub.ai/resources/agently-agent-commerce?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/agently-agent-commerce.md) |
 | [PayAI Network](https://github.com/PayAINetwork) | Solana-first x402 payment facilitator enabling usage-based, machine-to-machine payments for AI… | Solana, Base, Polygon +2 | 60 | — | [satohub.ai](https://satohub.ai/resources/payai-network?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/payai-network.md) |
 | [Universal Commerce Protocol (UCP)](https://www.shopify.com/ucp) | Open standard co-developed by Google and Shopify for AI agents to discover, negotiate, and transact… | — | 59 | — | [satohub.ai](https://satohub.ai/resources/universal-commerce-protocol-ucp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/universal-commerce-protocol-ucp.md) |
@@ -172,11 +172,11 @@ Where a project publishes one, as recorded in its deploy spec:
 
 - **Coinbase AgentKit** — `npm create onchain-agent@latest`
 - **x402** — `npm install x402-fetch`
-- **Universal Contract AI Interface (UCAI)** — `pip install abi-to-mcp`
 - **World AgentKit** — `npm install @worldcoin/agentkit`
 - **Alchemy** — `npm install @alchemy/wallet-apis viem`
 - **OpenSea Agent Skill** — `npx skills add ProjectOpenSea/opensea-skill`
 - **Hyperliquid Python SDK** — `pip install hyperliquid-python-sdk`
+- **Universal Contract AI Interface (UCAI)** — `pip install abi-to-mcp`
 - **AG Kit** — `npx @vudovn/ag-kit init`
 - **AgentNode** — `pip install agentnode-sdk`
 - **x402 OpenAI (Python)** — `pip install x402-openai[evm]`

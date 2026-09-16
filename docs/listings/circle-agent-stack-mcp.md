@@ -51,12 +51,12 @@ npx circle-agent-stack-mcp
 - **Requires:** CIRCLE_API_KEY (required), CIRCLE_PAYOUT_ADDRESS (required for self-hosted x402 paywall mode)
 - **License:** MIT
 - **MCP native:** yes
-- **Deploy status:** failed
+- **Deploy status:** unknown
 - **As of:** 2026-09-14
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 58 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 59 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -65,6 +65,6 @@ npx circle-agent-stack-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `circle-agent-stack-mcp`. https://satohub.ai/resources/circle-agent-stack-mcp — retrieved 2026-09-15.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `circle-agent-stack-mcp`. https://satohub.ai/resources/circle-agent-stack-mcp — retrieved 2026-09-16.
 
 [← All layers](../index.md)

@@ -10,7 +10,7 @@ software_url: "https://www.maestrobots.com/"
 application_category: "Trading Tool"
 application_subcategory: "Telegram trading bot"
 operating_system: "Any"
-date_modified: "2026-09-15"
+date_modified: "2026-09-16"
 breadcrumb:
   - name: "Onchain Agents index"
     url: "https://satohubai.github.io/onchain-agents/"
@@ -46,6 +46,6 @@ Sato Score: **⬡ 31** (Low) — a measure of how open, active and verifiable th
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `maestro-bot`. https://satohub.ai/resources/maestro-bot — retrieved 2026-09-15.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `maestro-bot`. https://satohub.ai/resources/maestro-bot — retrieved 2026-09-16.
 
 [← All layers](../index.md)

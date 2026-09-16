@@ -9,7 +9,7 @@ item_name: "Ogena token risk"
 software_url: "https://ogenalabs.com"
 application_category: "Data Tool"
 operating_system: "Any"
-date_modified: "2026-09-15"
+date_modified: "2026-09-16"
 breadcrumb:
   - name: "Onchain Agents index"
     url: "https://satohubai.github.io/onchain-agents/"
@@ -45,6 +45,6 @@ Sato Score: **⬡ 59** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ogena-token-risk`. https://satohub.ai/resources/ogena-token-risk — retrieved 2026-09-15.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ogena-token-risk`. https://satohub.ai/resources/ogena-token-risk — retrieved 2026-09-16.
 
 [← All layers](../index.md)

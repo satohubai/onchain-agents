@@ -39,7 +39,7 @@ Sato Score: **⬡ 79** (High) — a measure of how open, active and verifiable t
 - **Creator:** CoinGecko
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 13 days ago
+- **Activity:** Active — last activity 14 days ago
 - **GitHub stars:** 58
 - **Deploys as:** Hosted API (free keyless + Pro key, Streamable HTTP/SSE), npm (local, Pro/Demo key)
 - **Works with:** Claude Web, Claude Desktop, Claude Code, Cursor, VS Code, OpenAI Codex, AWS Kiro, Google Antigravity, OpenClaw, Notion
@@ -59,7 +59,7 @@ claude mcp add --transport http coingecko https://mcp.api.coingecko.com/mcp
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 63 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 64 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -68,6 +68,6 @@ claude mcp add --transport http coingecko https://mcp.api.coingecko.com/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `coingecko-mcp`. https://satohub.ai/resources/coingecko-mcp — retrieved 2026-09-15.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `coingecko-mcp`. https://satohub.ai/resources/coingecko-mcp — retrieved 2026-09-16.
 
 [← All layers](../index.md)

@@ -5,7 +5,7 @@ canonical: "https://satohub.ai/compare/elizaos-vs-almanak"
 canonical_url: "https://satohub.ai/compare/elizaos-vs-almanak"
 layout: "default"
 page_type: "compare"
-date_modified: "2026-09-15"
+date_modified: "2026-09-16"
 breadcrumb:
   - name: "Onchain Agents index"
     url: "https://satohubai.github.io/onchain-agents/"
@@ -23,7 +23,7 @@ The table below is the evidence the directory holds on both: how open each is, w
 
 ## Side by side
 
-Every row is read off the live index, rendered 2026-09-15. No winner is declared.
+Every row is read off the live index, rendered 2026-09-16. No winner is declared.
 
 | | ElizaOS | Almanak |
 |---|---|---|
@@ -33,7 +33,7 @@ Every row is read off the live index, rendered 2026-09-15. No winner is declared
 | **Standards** | — | — |
 | **Open source** | Yes | Partial |
 | **⬡ Sato Score** | 87 (High) | 83 (High) |
-| **Activity** | Active, last activity today | Active, last activity 4 days ago |
+| **Activity** | Active, last activity today | Active, last activity 5 days ago |
 | **★ GitHub stars** | 19.3k | 60 |
 | **Install reproduced** | yes | yes |
 | **Verification status** | Unverified | Self-Reported |

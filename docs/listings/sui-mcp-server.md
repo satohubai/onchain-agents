@@ -38,7 +38,7 @@ Sato Score: **⬡ 66** (Medium), +10 over 7 days — a measure of how open, acti
 - **Use cases:** trading, wallets, data, identity, build
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 6 days ago
+- **Activity:** Active — last activity 7 days ago
 - **GitHub stars:** 1
 - **Deploys as:** npm
 - **Works with:** Claude Desktop
@@ -58,7 +58,7 @@ npm install -g sui-mcp-server
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 63 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 64 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -67,6 +67,6 @@ npm install -g sui-mcp-server
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `sui-mcp-server`. https://satohub.ai/resources/sui-mcp-server — retrieved 2026-09-15.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `sui-mcp-server`. https://satohub.ai/resources/sui-mcp-server — retrieved 2026-09-16.
 
 [← All layers](../index.md)

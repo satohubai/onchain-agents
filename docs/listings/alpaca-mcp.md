@@ -12,7 +12,7 @@ application_category: "MCP"
 operating_system: "Any"
 license_url: "https://opensource.org/licenses/MIT"
 license_name: "MIT"
-date_modified: "2026-08-24"
+date_modified: "2026-09-15"
 breadcrumb:
   - name: "Onchain Agents index"
     url: "https://satohubai.github.io/onchain-agents/"
@@ -39,8 +39,8 @@ Sato Score: **⬡ 69** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Alpaca
 - **Open source:** Unknown
 - **Status:** Active
-- **Activity:** Active — last activity 22 days ago
-- **GitHub stars:** 925
+- **Activity:** Active — last activity 1 day ago
+- **GitHub stars:** 962
 - **Deploys as:** PyPI (uvx/pipx, stdio), Docker
 - **Works with:** Claude Desktop, Claude Code, Cursor, VS Code, PyCharm, Antigravity CLI
 
@@ -55,12 +55,12 @@ uvx alpaca-mcp-server
 - **Requires:** ALPACA_API_KEY, ALPACA_SECRET_KEY (free paper-trading account at app.alpaca.markets)
 - **License:** MIT
 - **MCP native:** yes
-- **Deploy status:** failed
+- **Deploy status:** unknown
 - **As of:** 2026-09-14
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 63 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 64 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -69,6 +69,6 @@ uvx alpaca-mcp-server
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `alpaca-mcp`. https://satohub.ai/resources/alpaca-mcp — retrieved 2026-09-15.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `alpaca-mcp`. https://satohub.ai/resources/alpaca-mcp — retrieved 2026-09-16.
 
 [← All layers](../index.md)

@@ -10,7 +10,7 @@ software_url: "https://robinpad.fun"
 application_category: "DeFi Tool"
 application_subcategory: "Token launchpad (Robinhood Chain)"
 operating_system: "Any"
-date_modified: "2026-09-15"
+date_modified: "2026-09-16"
 breadcrumb:
   - name: "Onchain Agents index"
     url: "https://satohubai.github.io/onchain-agents/"
@@ -46,6 +46,6 @@ Sato Score: **⬡ 25** (Low) — a measure of how open, active and verifiable th
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `robinpad`. https://satohub.ai/resources/robinpad — retrieved 2026-09-15.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `robinpad`. https://satohub.ai/resources/robinpad — retrieved 2026-09-16.
 
 [← All layers](../index.md)

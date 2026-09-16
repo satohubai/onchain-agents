@@ -11,7 +11,7 @@ software_url: "https://www.ponsfamily.com/"
 application_category: "DeFi Tool"
 application_subcategory: "Token launchpad (Robinhood Chain)"
 operating_system: "Any"
-date_modified: "2026-09-06"
+date_modified: "2026-09-15"
 breadcrumb:
   - name: "Onchain Agents index"
     url: "https://satohubai.github.io/onchain-agents/"
@@ -36,8 +36,8 @@ Sato Score: **⬡ 56** (Medium) — a measure of how open, active and verifiable
 - **Use cases:** launch, trading
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 8 days ago
-- **GitHub stars:** 146
+- **Activity:** Active — last activity today
+- **GitHub stars:** 154
 
 ## What we checked
 
@@ -49,6 +49,6 @@ Sato Score: **⬡ 56** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `pons`. https://satohub.ai/resources/pons — retrieved 2026-09-15.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `pons`. https://satohub.ai/resources/pons — retrieved 2026-09-16.
 
 [← All layers](../index.md)

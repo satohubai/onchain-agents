@@ -11,7 +11,7 @@ application_category: "Agent Framework"
 application_subcategory: "General-purpose autonomous agent"
 operating_system: "Any"
 license_name: "Proprietary (hosted)"
-date_modified: "2026-09-15"
+date_modified: "2026-09-16"
 breadcrumb:
   - name: "Onchain Agents index"
     url: "https://satohubai.github.io/onchain-agents/"
@@ -56,7 +56,7 @@ No self-host install — Manus is a hosted product. Sign up at https://manus.im 
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 63 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 64 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Verified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -65,6 +65,6 @@ No self-host install — Manus is a hosted product. Sign up at https://manus.im 
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `manus`. https://satohub.ai/resources/manus — retrieved 2026-09-15.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `manus`. https://satohub.ai/resources/manus — retrieved 2026-09-16.
 
 [← All layers](../index.md)

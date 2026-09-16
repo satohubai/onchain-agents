@@ -12,7 +12,7 @@ application_category: "Skill Repo"
 operating_system: "Any"
 license_url: "https://opensource.org/licenses/MIT"
 license_name: "MIT"
-date_modified: "2026-09-04"
+date_modified: "2026-09-09"
 breadcrumb:
   - name: "Onchain Agents index"
     url: "https://satohubai.github.io/onchain-agents/"
@@ -33,8 +33,8 @@ Sato Score: **⬡ 68** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Solana Foundation
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 11 days ago
-- **GitHub stars:** 559
+- **Activity:** Active — last activity 7 days ago
+- **GitHub stars:** 560
 - **Works with:** Claude Code, OpenAI Codex, GitHub Copilot, Gemini CLI, Cursor, Windsurf, Cline, OpenCode
 
 ## Deploy spec
@@ -55,7 +55,7 @@ git clone https://github.com/solana-foundation/solana-dev-skill
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 58 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 59 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -64,6 +64,6 @@ git clone https://github.com/solana-foundation/solana-dev-skill
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solana-dev-skill`. https://satohub.ai/resources/solana-dev-skill — retrieved 2026-09-15.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solana-dev-skill`. https://satohub.ai/resources/solana-dev-skill — retrieved 2026-09-16.
 
 [← All layers](../index.md)

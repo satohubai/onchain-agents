@@ -9,7 +9,7 @@ item_name: "Squads Grid"
 software_url: "https://squads.xyz/blog/grid"
 application_category: "API / SDK"
 operating_system: "Any"
-date_modified: "2026-09-15"
+date_modified: "2026-09-16"
 breadcrumb:
   - name: "Onchain Agents index"
     url: "https://satohubai.github.io/onchain-agents/"
@@ -23,7 +23,7 @@ breadcrumb:
 
 REST API suite (accounts, cards, yield, trading data) for building stablecoin-native fintech on Solana, from the Squads Labs team.
 
-Sato Score: **⬡ 29** (Low), +2 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 29** (Low) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -35,7 +35,7 @@ Sato Score: **⬡ 29** (Low), +2 over 7 days — a measure of how open, active a
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 58 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 59 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -44,6 +44,6 @@ Sato Score: **⬡ 29** (Low), +2 over 7 days — a measure of how open, active a
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `squads-grid`. https://satohub.ai/resources/squads-grid — retrieved 2026-09-15.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `squads-grid`. https://satohub.ai/resources/squads-grid — retrieved 2026-09-16.
 
 [← All layers](../index.md)

@@ -6,8 +6,8 @@ canonical_url: "https://satohub.ai/directory"
 layout: "default"
 page_type: "category"
 item_list_name: "Trading & DeFi venues"
-item_count: 46
-date_modified: "2026-09-15"
+item_count: 47
+date_modified: "2026-09-16"
 item_list:
   - name: "Raydium"
     url: "https://satohubai.github.io/onchain-agents/listings/raydium"
@@ -33,16 +33,18 @@ item_list:
     url: "https://satohubai.github.io/onchain-agents/listings/ophis-dex-aggregator"
   - name: "CoW Protocol"
     url: "https://satohubai.github.io/onchain-agents/listings/cow-protocol"
+  - name: "AgentSwap"
+    url: "https://satohubai.github.io/onchain-agents/listings/agentswap"
   - name: "Aerodrome"
     url: "https://satohubai.github.io/onchain-agents/listings/aerodrome-finance"
+  - name: "CSPR.trade MCP"
+    url: "https://satohubai.github.io/onchain-agents/listings/cspr-trade-mcp"
   - name: "Pons"
     url: "https://satohubai.github.io/onchain-agents/listings/pons"
   - name: "Lighter MCP"
     url: "https://satohubai.github.io/onchain-agents/listings/lighter-mcp"
   - name: "Paradex"
     url: "https://satohubai.github.io/onchain-agents/listings/paradex"
-  - name: "CSPR.trade MCP"
-    url: "https://satohubai.github.io/onchain-agents/listings/cspr-trade-mcp"
   - name: "Usenami Funding MCP"
     url: "https://satohubai.github.io/onchain-agents/listings/namixai-funding-mcp"
   - name: "Morpho"
@@ -112,27 +114,28 @@ breadcrumb:
 
 Where the agent actually trades: DEXs, aggregators, perps, lending and yield venues with programmatic access.
 
-**46 listings**, ordered by Sato Score — a 0–100 measure of how open, active and verifiable a project is, [not a safety or returns grade](../sato-score.md). Rendered 2026-09-15 from the public Sato Hub export.
+**47 listings**, ordered by Sato Score — a 0–100 measure of how open, active and verifiable a project is, [not a safety or returns grade](../sato-score.md). Rendered 2026-09-16 from the public Sato Hub export.
 
 | Name | What it is | Chains | ⬡ Score | Last activity | Links |
 |---|---|---|---|---|---|
-| [Raydium](https://github.com/raydium-io/raydium-sdk-V2) | Solana AMM and DEX with an open-source TypeScript SDK V2 and public trade/routing API. | Solana | 95 | 7 days ago | [satohub.ai](https://satohub.ai/resources/raydium?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/raydium.md) |
-| [Jupiter](https://github.com/jup-ag) | Solana swap aggregator that routes trades across DEXs via a widely used API and SDKs. | Solana | 84 | today | [satohub.ai](https://satohub.ai/resources/jupiter-aggregator?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/jupiter-aggregator.md) |
-| [Orca](https://github.com/orca-so/whirlpools) | Solana concentrated-liquidity AMM (Whirlpools) with open-source TypeScript and Rust SDKs. | Solana | 83 | 18 days ago | [satohub.ai](https://satohub.ai/resources/orca?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/orca.md) |
-| [dYdX](https://github.com/dydxprotocol/v4-chain) | Perpetual futures DEX running on its own Cosmos SDK app-chain with REST/WebSocket and gRPC APIs. | Cosmos, Ethereum, Base +5 | 83 | today | [satohub.ai](https://satohub.ai/resources/dydx-chain?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/dydx-chain.md) |
+| [Raydium](https://github.com/raydium-io/raydium-sdk-V2) | Solana AMM and DEX with an open-source TypeScript SDK V2 and public trade/routing API. | Solana | 95 | 8 days ago | [satohub.ai](https://satohub.ai/resources/raydium?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/raydium.md) |
+| [Jupiter](https://github.com/jup-ag) | Solana swap aggregator that routes trades across DEXs via a widely used API and SDKs. | Solana | 84 | 1 day ago | [satohub.ai](https://satohub.ai/resources/jupiter-aggregator?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/jupiter-aggregator.md) |
+| [Orca](https://github.com/orca-so/whirlpools) | Solana concentrated-liquidity AMM (Whirlpools) with open-source TypeScript and Rust SDKs. | Solana | 83 | 19 days ago | [satohub.ai](https://satohub.ai/resources/orca?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/orca.md) |
+| [dYdX](https://github.com/dydxprotocol/v4-chain) | Perpetual futures DEX running on its own Cosmos SDK app-chain with REST/WebSocket and gRPC APIs. | Cosmos, Ethereum, Base +5 | 83 | 1 day ago | [satohub.ai](https://satohub.ai/resources/dydx-chain?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/dydx-chain.md) |
 | [Drift Protocol](https://github.com/drift-labs/protocol-v2) | Open-source Solana perpetual futures DEX with TypeScript and Python SDKs and a self-hosted HTTP… | Solana | 81 | 2 months ago | [satohub.ai](https://satohub.ai/resources/drift-protocol?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/drift-protocol.md) |
-| [Uniswap](https://github.com/Uniswap) | Leading multichain spot DEX with v4 hooks, official SDKs, and a hosted Trading API. | Ethereum, Base, Arbitrum +3 | 80 | 1 day ago | [satohub.ai](https://satohub.ai/resources/uniswap?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/uniswap.md) |
-| [Hyperliquid](https://github.com/hyperliquid-dex) | Onchain perpetual futures and spot DEX running on its own L1 with an HyperEVM smart-contract layer. | Multichain, Hyperliquid | 76 | 7 days ago | [satohub.ai](https://satohub.ai/resources/hyperliquid?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/hyperliquid.md) |
-| [CloddsBot](https://github.com/alsk1992/CloddsBot) | Open-source autonomous AI trading agent operating across 1000+ markets including Polymarket… | Solana, Base, Ethereum +4 | 75 | 3 days ago | [satohub.ai](https://satohub.ai/resources/cloddsbot?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/cloddsbot.md) |
+| [Uniswap](https://github.com/Uniswap) | Leading multichain spot DEX with v4 hooks, official SDKs, and a hosted Trading API. | Ethereum, Base, Arbitrum +3 | 80 | 2 days ago | [satohub.ai](https://satohub.ai/resources/uniswap?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/uniswap.md) |
+| [Hyperliquid](https://github.com/hyperliquid-dex) | Onchain perpetual futures and spot DEX running on its own L1 with an HyperEVM smart-contract layer. | Multichain, Hyperliquid | 76 | 8 days ago | [satohub.ai](https://satohub.ai/resources/hyperliquid?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/hyperliquid.md) |
+| [CloddsBot](https://github.com/alsk1992/CloddsBot) | Open-source autonomous AI trading agent operating across 1000+ markets including Polymarket… | Solana, Base, Ethereum +4 | 75 | 4 days ago | [satohub.ai](https://satohub.ai/resources/cloddsbot?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/cloddsbot.md) |
 | [1inch](https://github.com/1inch) | Multichain DEX aggregator with a developer API suite and an official MCP server for AI-agent swap… | Ethereum, Base, Arbitrum +9 | 75 | today | [satohub.ai](https://satohub.ai/resources/1inch?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/1inch.md) |
-| [GMX](https://github.com/gmx-io) | Decentralized spot and perpetual exchange on Arbitrum and Avalanche with an official SDK and REST… | Arbitrum, Avalanche | 69 | 6 days ago | [satohub.ai](https://satohub.ai/resources/gmx?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/gmx.md) |
-| [Ophis](https://github.com/ophis-fi/ophis) | Intent-based DEX aggregator for agents — natural-language swap intents settled via batch auction… | Ethereum, Optimism, BNB Chain +7 | 65 | 9 days ago | [satohub.ai](https://satohub.ai/resources/ophis-dex-aggregator?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/ophis-dex-aggregator.md) |
+| [GMX](https://github.com/gmx-io) | Decentralized spot and perpetual exchange on Arbitrum and Avalanche with an official SDK and REST… | Arbitrum, Avalanche | 69 | 5 days ago | [satohub.ai](https://satohub.ai/resources/gmx?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/gmx.md) |
+| [Ophis](https://github.com/ophis-fi/ophis) | Intent-based DEX aggregator for agents — natural-language swap intents settled via batch auction… | Ethereum, Optimism, BNB Chain +7 | 65 | today | [satohub.ai](https://satohub.ai/resources/ophis-dex-aggregator?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/ophis-dex-aggregator.md) |
 | [CoW Protocol](https://github.com/cowprotocol) | Intent-based trading protocol with batch-auction solvers, MEV protection, and a developer API and… | Ethereum, Base, Arbitrum +1 | 65 | — | [satohub.ai](https://satohub.ai/resources/cow-protocol?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/cow-protocol.md) |
+| [AgentSwap](https://github.com/agentswapco/agentswap-cli) | Non-custodial trade execution for AI agents: the agent signs, trading funds stay in the owner's… | Base, Arbitrum, BNB Chain +1 | 60 | today | [satohub.ai](https://satohub.ai/resources/agentswap?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/agentswap.md) |
 | [Aerodrome](https://github.com/aerodrome-finance) | Spot DEX and liquidity marketplace on Base, with open-source contracts and third-party swap… | Base | 58 | — | [satohub.ai](https://satohub.ai/resources/aerodrome-finance?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/aerodrome-finance.md) |
-| [Pons](https://github.com/ponsdotdev/ponsfamily) | Permissionless fixed-supply token launchpad on Robinhood Chain, with liquidity migrated into a… | Robinhood Chain | 56 | 8 days ago | [satohub.ai](https://satohub.ai/resources/pons?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/pons.md) |
+| [CSPR.trade MCP](https://github.com/make-software/cspr-trade-mcp) | Non-custodial MCP for trading on CSPR.trade, the leading Casper Network DEX, with a public hosted… | — | 57 | 4 months ago | [satohub.ai](https://satohub.ai/resources/cspr-trade-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/cspr-trade-mcp.md) |
+| [Pons](https://github.com/ponsdotdev/ponsfamily) | Permissionless fixed-supply token launchpad on Robinhood Chain, with liquidity migrated into a… | Robinhood Chain | 56 | today | [satohub.ai](https://satohub.ai/resources/pons?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/pons.md) |
 | [Lighter MCP](https://github.com/0xDegenMo/lighter-mcp) | MCP server for trading on Lighter, a zero-fee zk-rollup perpetual DEX — place orders, manage… | Ethereum | 56 | 3 months ago | [satohub.ai](https://satohub.ai/resources/lighter-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/lighter-mcp.md) |
 | [Paradex](https://www.paradex.trade/) | Perpetuals (and options) DEX built as a Starknet appchain with REST/WebSocket APIs and SDK tooling. | Ethereum, Multichain | 55 | — | [satohub.ai](https://satohub.ai/resources/paradex?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/paradex.md) |
-| [CSPR.trade MCP](https://github.com/make-software/cspr-trade-mcp) | Non-custodial MCP for trading on CSPR.trade, the leading Casper Network DEX, with a public hosted… | — | 53 | 4 months ago | [satohub.ai](https://satohub.ai/resources/cspr-trade-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/cspr-trade-mcp.md) |
 | [Usenami Funding MCP](https://github.com/namixai/funding-mcp) | MCP server for perp funding rates and cross-exchange data across 20+ venues, including Hyperliquid… | Base, Hyperliquid | 53 | 3 months ago | [satohub.ai](https://satohub.ai/resources/namixai-funding-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/namixai-funding-mcp.md) |
 | [Morpho](https://github.com/morpho-org/morpho-blue) | Non-custodial lending protocol with isolated markets and curated vaults, shipped as a Base MCP… | Base, Ethereum | 52 | 1 month ago | [satohub.ai](https://satohub.ai/resources/morpho?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/morpho.md) |
 | [OKX Agent Trade Kit](https://github.com/dex-original/okx-agent-trade-kit) | Community OKX toolkit — CLI plus MCP server — for spot, futures, and automated trading agents. | — | 52 | 3 months ago | [satohub.ai](https://satohub.ai/resources/okx-agent-trade-kit?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/okx-agent-trade-kit.md) |
@@ -180,9 +183,9 @@ Where a project publishes one, as recorded in its deploy spec:
 - **Ophis** — `npm install @ophis/sdk`
 - **CoW Protocol** — `pnpm add @cowprotocol/cow-sdk`
 - **Aerodrome** — `forge install`
+- **CSPR.trade MCP** — `npm install @make-software/cspr-trade-mcp`
 - **Lighter MCP** — `pip install 0xdegenmo-lighter-mcp`
 - **Paradex** — `pip install paradex-py`
-- **CSPR.trade MCP** — `npm install @make-software/cspr-trade-mcp`
 - **Usenami Funding MCP** — `npx -y @usenami/funding-mcp`
 - **OKX Agent Trade Kit** — `npm install -g @okx_ai/okx-trade-mcp @okx_ai/okx-trade-cli`
 - **Superfluid** — `npm install ethers@5.7.2`

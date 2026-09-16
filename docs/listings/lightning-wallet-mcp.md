@@ -12,7 +12,7 @@ application_category: "MCP"
 operating_system: "Any"
 license_url: "https://opensource.org/licenses/MIT"
 license_name: "MIT"
-date_modified: "2026-09-11"
+date_modified: "2026-09-15"
 breadcrumb:
   - name: "Onchain Agents index"
     url: "https://satohubai.github.io/onchain-agents/"
@@ -38,7 +38,7 @@ Sato Score: **⬡ 73** (High), +10 over 7 days — a measure of how open, active
 - **Use cases:** payments, wallets
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 4 days ago
+- **Activity:** Active — last activity today
 - **GitHub stars:** 9
 - **Deploys as:** npm
 - **Works with:** Claude Code, OpenClaw, Cursor
@@ -59,7 +59,7 @@ npm install -g lightning-wallet-mcp
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 63 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 64 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -68,6 +68,6 @@ npm install -g lightning-wallet-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lightning-wallet-mcp`. https://satohub.ai/resources/lightning-wallet-mcp — retrieved 2026-09-15.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lightning-wallet-mcp`. https://satohub.ai/resources/lightning-wallet-mcp — retrieved 2026-09-16.
 
 [← All layers](../index.md)

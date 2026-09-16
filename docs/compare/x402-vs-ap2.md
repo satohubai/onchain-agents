@@ -5,7 +5,7 @@ canonical: "https://satohub.ai/compare/x402-vs-ap2"
 canonical_url: "https://satohub.ai/compare/x402-vs-ap2"
 layout: "default"
 page_type: "compare"
-date_modified: "2026-09-15"
+date_modified: "2026-09-16"
 breadcrumb:
   - name: "Onchain Agents index"
     url: "https://satohubai.github.io/onchain-agents/"
@@ -23,7 +23,7 @@ The practical question is not which one wins but which layer you are working at.
 
 ## Side by side
 
-Every row is read off the live index, rendered 2026-09-15. No winner is declared.
+Every row is read off the live index, rendered 2026-09-16. No winner is declared.
 
 | | x402 | Agent Payments Protocol (AP2) |
 |---|---|---|
@@ -33,7 +33,7 @@ Every row is read off the live index, rendered 2026-09-15. No winner is declared
 | **Standards** | x402 | x402, mcp, a2a |
 | **Open source** | Yes | Yes |
 | **⬡ Sato Score** | 86 (High) | 72 (High) |
-| **Activity** | Active, last activity 11 days ago | Quiet, last activity 4 months ago |
+| **Activity** | Active, last activity 12 days ago | Quiet, last activity 4 months ago |
 | **★ GitHub stars** | 154 | 2.9k |
 | **Install reproduced** | yes | not reproduced |
 | **Verification status** | Unverified | Verified |

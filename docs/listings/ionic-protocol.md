@@ -12,7 +12,7 @@ application_category: "DeFi Tool"
 operating_system: "Any"
 license_url: "https://opensource.org/licenses/MIT"
 license_name: "MIT"
-date_modified: "2026-09-15"
+date_modified: "2026-09-16"
 breadcrumb:
   - name: "Onchain Agents index"
     url: "https://satohubai.github.io/onchain-agents/"
@@ -49,12 +49,12 @@ yarn workspace @ionicprotocol/sdk build
 - **Requires:** packages/sdk/.env file — README says it must be requested from the team, so the setup is not fully self-serve, FORK_RPC_URL and FORK_CHAIN_ID for forked-chain testing
 - **License:** MIT
 - **MCP native:** no
-- **Deploy status:** failed
+- **Deploy status:** unknown
 - **As of:** 2026-09-14
 
 ## What we checked
 
-- Live endpoint probed by us: 86.2% of our checks succeeded over 58 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 86.4% of our checks succeeded over 59 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -63,6 +63,6 @@ yarn workspace @ionicprotocol/sdk build
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ionic-protocol`. https://satohub.ai/resources/ionic-protocol — retrieved 2026-09-15.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ionic-protocol`. https://satohub.ai/resources/ionic-protocol — retrieved 2026-09-16.
 
 [← All layers](../index.md)

@@ -7,7 +7,7 @@ layout: "default"
 page_type: "category"
 item_list_name: "Alternatives to 0xGasless AgentKit"
 item_count: 8
-date_modified: "2026-09-15"
+date_modified: "2026-09-16"
 item_list:
   - name: "Bankr"
     url: "https://satohubai.github.io/onchain-agents/listings/bankr"
@@ -36,16 +36,16 @@ breadcrumb:
 
 # Alternatives to 0xGasless AgentKit
 
-0xGasless AgentKit sits in the **Wallet Infrastructure** layer. These are the other scored listings in that layer, ordered by Sato Score — a 0–100 measure of how open, active and verifiable a project is, [not a safety or returns grade](../sato-score.md). Rendered 2026-09-15.
+0xGasless AgentKit sits in the **Wallet Infrastructure** layer. These are the other scored listings in that layer, ordered by Sato Score — a 0–100 measure of how open, active and verifiable a project is, [not a safety or returns grade](../sato-score.md). Rendered 2026-09-16.
 
 | Name | What it is | Chains | ⬡ Score | Last activity | Links |
 |---|---|---|---|---|---|
 | [Bankr](https://github.com/BankrBot/skills) | Crypto execution layer and cross-chain wallet that lets agents and users trade, bridge, and manage… | Base, Ethereum, Polygon +7 | 87 | today | [satohub.ai](https://satohub.ai/resources/bankr?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/bankr.md) |
 | [Trust Wallet Agent Kit (TWAK)](https://github.com/trustwallet/tw-agent-skills) | Non-custodial toolkit from Trust Wallet (MCP server, CLI, and SDK) that lets AI agents read and… | Ethereum, Base, Solana +6 | 87 | today | [satohub.ai](https://satohub.ai/resources/trust-wallet-agent-kit?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/trust-wallet-agent-kit.md) |
-| [Privy](https://github.com/privy-io) | Embedded and server wallet infrastructure used to give agents secure key management. | Ethereum, Base, Solana +1 | 83 | 1 day ago | [satohub.ai](https://satohub.ai/resources/privy?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/privy.md) |
-| [Turnkey](https://github.com/tkhq) | Secure key management infrastructure with policy controls, commonly used for agent wallets. | Ethereum, Base, Solana +1 | 83 | 1 day ago | [satohub.ai](https://satohub.ai/resources/turnkey?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/turnkey.md) |
-| [Q402 (Quack AI)](https://github.com/quackai-org/q402-mcp) | Gasless stablecoin payment relay and managed Agent Wallets across 12 EVM chains (EIP-712 +… | BNB Chain, Ethereum, Avalanche +4 | 76 | 5 days ago | [satohub.ai](https://satohub.ai/resources/q402-quack-ai?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/q402-quack-ai.md) |
-| [Agenti](https://github.com/nirholas/agenti) | Gives any AI agent a crypto wallet to pay x402 APIs, receive USDC, and check balances. | Ethereum, Base, Arbitrum +2 | 66 | today | [satohub.ai](https://satohub.ai/resources/agenti?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/agenti.md) |
+| [Privy](https://github.com/privy-io) | Embedded and server wallet infrastructure used to give agents secure key management. | Ethereum, Base, Solana +1 | 83 | 2 days ago | [satohub.ai](https://satohub.ai/resources/privy?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/privy.md) |
+| [Turnkey](https://github.com/tkhq) | Secure key management infrastructure with policy controls, commonly used for agent wallets. | Ethereum, Base, Solana +1 | 83 | 2 days ago | [satohub.ai](https://satohub.ai/resources/turnkey?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/turnkey.md) |
+| [Q402 (Quack AI)](https://github.com/quackai-org/q402-mcp) | Gasless stablecoin payment relay and managed Agent Wallets across 12 EVM chains (EIP-712 +… | BNB Chain, Ethereum, Avalanche +4 | 77 | 6 days ago | [satohub.ai](https://satohub.ai/resources/q402-quack-ai?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/q402-quack-ai.md) |
+| [Agenti](https://github.com/nirholas/agenti) | Gives any AI agent a crypto wallet to pay x402 APIs, receive USDC, and check balances. | Ethereum, Base, Arbitrum +2 | 66 | 1 day ago | [satohub.ai](https://satohub.ai/resources/agenti?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/agenti.md) |
 | [MetaMask Delegation Framework](https://github.com/MetaMask/delegation-framework) | MetaMask's official smart-account delegation contracts — grant an AI agent scoped, revocable… | Ethereum, Base, Multichain | 60 | 1 month ago | [satohub.ai](https://satohub.ai/resources/metamask-delegation-framework?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/metamask-delegation-framework.md) |
 | [Swapper Toolkit](https://github.com/swapperfinance/swapper-toolkit) | DeFi toolkit that gives AI agents and coding assistants wallets to deposit funds, execute trades… | Ethereum, Base, Arbitrum +5 | 59 | 5 months ago | [satohub.ai](https://satohub.ai/resources/swapper-toolkit?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/swapper-toolkit.md) |
 

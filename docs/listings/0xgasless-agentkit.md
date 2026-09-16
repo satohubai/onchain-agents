@@ -39,7 +39,7 @@ Sato Score: **⬡ 86** (High), +10 over 7 days — a measure of how open, active
 - **Creator:** 0xGasless
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 3 days ago
+- **Activity:** Active — last activity 4 days ago
 - **GitHub stars:** 415
 - **Deploys as:** SDK, Python, Node.js
 - **Works with:** LangChain, ERC-4337, x402, ERC-8004
@@ -69,6 +69,6 @@ npm install @0xgasless/agentkit tslib
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `0xgasless-agentkit`. https://satohub.ai/resources/0xgasless-agentkit — retrieved 2026-09-15.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `0xgasless-agentkit`. https://satohub.ai/resources/0xgasless-agentkit — retrieved 2026-09-16.
 
 [← All layers](../index.md)

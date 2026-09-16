@@ -49,12 +49,12 @@ npx -y @emberai/agent-node@latest
 - **Requires:** AI provider API key (OpenRouter, OpenAI, xAI, or Hyperbolic) — on-chain env vars (wallet keys, RPC URLs) not enumerated in the README
 - **License:** MIT
 - **MCP native:** no
-- **Deploy status:** failed
+- **Deploy status:** unknown
 - **As of:** 2026-09-14
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 58 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 59 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -63,6 +63,6 @@ npx -y @emberai/agent-node@latest
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `arbitrum-vibekit`. https://satohub.ai/resources/arbitrum-vibekit — retrieved 2026-09-15.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `arbitrum-vibekit`. https://satohub.ai/resources/arbitrum-vibekit — retrieved 2026-09-16.
 
 [← All layers](../index.md)

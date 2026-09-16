@@ -5,7 +5,7 @@ canonical: "https://satohub.ai/compare/clanker-vs-pons"
 canonical_url: "https://satohub.ai/compare/clanker-vs-pons"
 layout: "default"
 page_type: "compare"
-date_modified: "2026-09-15"
+date_modified: "2026-09-16"
 breadcrumb:
   - name: "Onchain Agents index"
     url: "https://satohubai.github.io/onchain-agents/"
@@ -23,7 +23,7 @@ So read this page as a disambiguation rather than a shootout. The table shows wh
 
 ## Side by side
 
-Every row is read off the live index, rendered 2026-09-15. No winner is declared.
+Every row is read off the live index, rendered 2026-09-16. No winner is declared.
 
 | | Clanker | Pons |
 |---|---|---|
@@ -33,8 +33,8 @@ Every row is read off the live index, rendered 2026-09-15. No winner is declared
 | **Standards** | — | — |
 | **Open source** | Partial | Partial |
 | **⬡ Sato Score** | 47 (Medium) | 56 (Medium) |
-| **Activity** | — | Active, last activity 8 days ago |
-| **★ GitHub stars** | — | 146 |
+| **Activity** | — | Active, last activity today |
+| **★ GitHub stars** | — | 154 |
 | **Install reproduced** | not reproduced | not reproduced |
 | **Verification status** | Self-Reported | Self-Reported |
 | **Deploys as** | Hosted, Agent skill | — |

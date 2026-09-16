@@ -26,7 +26,7 @@ breadcrumb:
 
 Non-custodial MCP for trading on CSPR.trade, the leading Casper Network DEX, with a public hosted endpoint.
 
-Sato Score: **⬡ 53** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 57** (Medium), +4 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -36,6 +36,8 @@ Sato Score: **⬡ 53** (Medium) — a measure of how open, active and verifiable
 - **Status:** Active
 - **Activity:** Quiet — last activity 4 months ago
 - **GitHub stars:** 1
+- **Deploys as:** hosted endpoint, self-hosted (npm/stdio/http)
+- **Works with:** Claude Desktop, Cursor, OpenClaw, ClawHub
 
 ## Deploy spec
 
@@ -53,7 +55,7 @@ npm install @make-software/cspr-trade-mcp
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 58 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 59 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -62,6 +64,6 @@ npm install @make-software/cspr-trade-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cspr-trade-mcp`. https://satohub.ai/resources/cspr-trade-mcp — retrieved 2026-09-15.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cspr-trade-mcp`. https://satohub.ai/resources/cspr-trade-mcp — retrieved 2026-09-16.
 
 [← All layers](../index.md)

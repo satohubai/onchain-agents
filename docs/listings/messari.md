@@ -10,7 +10,7 @@ software_url: "https://messari.io/"
 application_category: "Research Tool"
 application_subcategory: "Crypto research & fundraising data"
 operating_system: "Any"
-date_modified: "2026-09-15"
+date_modified: "2026-09-16"
 breadcrumb:
   - name: "Onchain Agents index"
     url: "https://satohubai.github.io/onchain-agents/"
@@ -42,7 +42,7 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 
 ## What we checked
 
-- Live endpoint probed by us: 22.2% of our checks succeeded over 63 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 23.4% of our checks succeeded over 64 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -51,6 +51,6 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `messari`. https://satohub.ai/resources/messari — retrieved 2026-09-15.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `messari`. https://satohub.ai/resources/messari — retrieved 2026-09-16.
 
 [← All layers](../index.md)

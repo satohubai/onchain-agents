@@ -5,7 +5,7 @@ canonical: "https://satohub.ai/compare/jupiter-vs-1inch"
 canonical_url: "https://satohub.ai/compare/jupiter-vs-1inch"
 layout: "default"
 page_type: "compare"
-date_modified: "2026-09-15"
+date_modified: "2026-09-16"
 breadcrumb:
   - name: "Onchain Agents index"
     url: "https://satohubai.github.io/onchain-agents/"
@@ -23,7 +23,7 @@ What is worth comparing is everything the chain decision does not settle: how ea
 
 ## Side by side
 
-Every row is read off the live index, rendered 2026-09-15. No winner is declared.
+Every row is read off the live index, rendered 2026-09-16. No winner is declared.
 
 | | Jupiter | 1inch |
 |---|---|---|
@@ -33,7 +33,7 @@ Every row is read off the live index, rendered 2026-09-15. No winner is declared
 | **Standards** | mcp | mcp |
 | **Open source** | Partial | Partial |
 | **⬡ Sato Score** | 84 (High) | 75 (High) |
-| **Activity** | Active, last activity today | Active, last activity today |
+| **Activity** | Active, last activity 1 day ago | Active, last activity today |
 | **★ GitHub stars** | — | — |
 | **Install reproduced** | yes | not reproduced |
 | **Verification status** | Verified | Verified |
