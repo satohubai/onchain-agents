@@ -20,7 +20,7 @@ Sato Score: **⬡ 78** (High) — a measure of how open, active and verifiable t
 - **Use cases:** trading, launch
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 1 day ago
+- **Activity:** Active — last activity 2 days ago
 - **Deploys as:** Hosted
 - **Works with:** Uniswap V2, Agent Commerce Protocol (ACP)
 

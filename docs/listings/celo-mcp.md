@@ -22,7 +22,7 @@ Sato Score: **⬡ 73** (High) — a measure of how open, active and verifiable t
 - **Creator:** cLabs
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 16 days ago
+- **Activity:** Active — last activity 17 days ago
 - **GitHub stars:** 5
 - **Deploys as:** pip install (git clone + pip install -e .)
 - **Works with:** Cursor

@@ -22,7 +22,7 @@ Sato Score: **⬡ 76** (High) — a measure of how open, active and verifiable t
 - **Creator:** Arcadia Finance
 - **Open source:** Yes
 - **Status:** Unknown
-- **Activity:** Active — last activity 15 days ago
+- **Activity:** Active — last activity 16 days ago
 - **GitHub stars:** 5
 - **Deploys as:** npm
 - **Works with:** Claude, Cursor, VS Code

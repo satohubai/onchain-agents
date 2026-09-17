@@ -21,7 +21,7 @@ Sato Score: **⬡ 83** (High) — a measure of how open, active and verifiable t
 - **Creator:** Privy
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 2 days ago
+- **Activity:** Active — last activity 3 days ago
 - **Deploys as:** API, SDK, Hosted
 - **Works with:** REST API, Node.js SDK, React SDK, Swift SDK, Android SDK, Unity SDK, Go SDK, Ruby SDK
 

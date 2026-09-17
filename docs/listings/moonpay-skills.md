@@ -21,7 +21,7 @@ Sato Score: **⬡ 60** (Medium), +15 over 7 days — a measure of how open, acti
 - **Creator:** MoonPay
 - **Open source:** Unknown
 - **Status:** Active
-- **Activity:** Active — last activity 6 days ago
+- **Activity:** Active — last activity 7 days ago
 - **GitHub stars:** 111
 - **Deploys as:** npm, Claude Code plugin, Local MCP server
 - **Works with:** Claude Code, Cursor, Windsurf, Codex

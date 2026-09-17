@@ -22,7 +22,7 @@ Sato Score: **⬡ 69** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Alpaca
 - **Open source:** Unknown
 - **Status:** Active
-- **Activity:** Active — last activity 1 day ago
+- **Activity:** Active — last activity 2 days ago
 - **GitHub stars:** 962
 - **Deploys as:** PyPI (uvx/pipx, stdio), Docker
 - **Works with:** Claude Desktop, Claude Code, Cursor, VS Code, PyCharm, Antigravity CLI

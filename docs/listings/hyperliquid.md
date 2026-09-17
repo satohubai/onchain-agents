@@ -22,7 +22,7 @@ Sato Score: **⬡ 76** (High) — a measure of how open, active and verifiable t
 - **Creator:** Hyperliquid
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 8 days ago
+- **Activity:** Active — last activity 9 days ago
 - **Deploys as:** API, SDK
 - **Works with:** CCXT, Python SDK, TypeScript SDK
 

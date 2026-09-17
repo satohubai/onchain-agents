@@ -22,7 +22,7 @@ Sato Score: **⬡ 84** (High) — a measure of how open, active and verifiable t
 - **Creator:** Jupiter Exchange
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 1 day ago
+- **Activity:** Active — last activity 2 days ago
 - **Deploys as:** API, SDK, npm, MCP server
 - **Works with:** MCP, REST API, CLI
 

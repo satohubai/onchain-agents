@@ -17,7 +17,7 @@ Sato Score: **⬡ 68** (Medium), +4 over 7 days — a measure of how open, activ
 - **Chains:** Near
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 8 days ago
+- **Activity:** Active — last activity 9 days ago
 - **GitHub stars:** 12.6k
 - **Deploys as:** NEAR AI Cloud (TEE), Local (macOS/Linux/Windows/WSL)
 - **Works with:** Gmail, Google Drive, Google Sheets, GitHub, Discord, Web Search, Google Calendar, Google Docs, Google Slides, Telegram, Signal, MCP Servers

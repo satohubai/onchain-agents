@@ -22,7 +22,7 @@ Sato Score: **⬡ 88** (High) — a measure of how open, active and verifiable t
 - **Creator:** Coinbase
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity today
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 1.3k
 - **Deploys as:** npm, pip, Self-hosted
 - **Works with:** LangChain, Vercel AI SDK, MCP, AutoGen, OpenAI Agents SDK, Pydantic AI, Strands Agents, Privy, Viem

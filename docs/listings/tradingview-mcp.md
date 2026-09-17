@@ -21,7 +21,7 @@ Sato Score: **⬡ 69** (Medium) — a measure of how open, active and verifiable
 - **Use cases:** trading, data
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 15 days ago
+- **Activity:** Active — last activity 16 days ago
 - **GitHub stars:** 4.4k
 - **Deploys as:** Hosted, self-hosted
 - **Works with:** Claude, ChatGPT, Cursor, Copilot

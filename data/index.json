@@ -1,7 +1,7 @@
 {
   "schema_version": "1",
   "item_schema": "https://satohub.ai/schemas/export-listing/v1.json",
-  "generated_at": "2026-09-17T14:02:33.407Z",
+  "generated_at": "2026-09-17T17:10:12.393Z",
   "source": "https://satohub.ai",
   "license": "Catalog data CC-BY-4.0 — attribution: data by satohub.ai. Scores/liveness are informational signals, not safety or quality guarantees.",
   "meta": {
@@ -37,7 +37,7 @@
       "daily": "2026-09-18T08:00:00.000Z",
       "weekly": "2026-09-21T09:30:00.000Z"
     },
-    "generated_at": "2026-09-17T14:02:33.407Z"
+    "generated_at": "2026-09-17T17:10:12.393Z"
   },
   "count": 383,
   "aggregates": {

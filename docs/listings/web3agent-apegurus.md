@@ -17,7 +17,7 @@ Sato Score: **⬡ 65** (Medium), +11 over 7 days — a measure of how open, acti
 - **Chains:** Multichain
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 20 days ago
+- **Activity:** Active — last activity 21 days ago
 - **GitHub stars:** 1
 - **Works with:** Claude Code, Cursor, Windsurf, OpenCode, Codex, GOAT SDK, LI.FI, Orbs, Blockscout, Etherscan, DexScreener, DefiLlama
 

@@ -21,7 +21,7 @@ Sato Score: **⬡ 87** (High) — a measure of how open, active and verifiable t
 - **Creator:** Fetch.ai
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 9 days ago
+- **Activity:** Active — last activity 10 days ago
 - **GitHub stars:** 1.6k
 - **Deploys as:** pip, Self-hosted
 - **Works with:** Agentverse, ASI:One, crewAI, Almanac

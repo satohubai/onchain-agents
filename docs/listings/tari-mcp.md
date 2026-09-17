@@ -22,7 +22,7 @@ Sato Score: **⬡ 64** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Tari Project
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 1 day ago
+- **Activity:** Active — last activity 2 days ago
 - **GitHub stars:** 499
 
 ## Deploy spec
