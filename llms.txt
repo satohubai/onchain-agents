@@ -1,0 +1,66 @@
+# Onchain Agents — the scored, daily-updated index of the crypto agent stack
+
+> 383 listings of what onchain AI agents are built from: agent frameworks,
+> onchain action kits, MCP servers, wallets and key management, data and RPC,
+> x402 payment rails, identity standards (ERC-8004, A2A), security tooling and
+> trading venues. Rendered daily from satohub.ai. Last render: 2026-09-17.
+> Every product listing carries a Sato Score: 0-100, measuring how OPEN, ACTIVE
+> and VERIFIABLE a project is. It is NOT a safety, quality, security or returns
+> grade, and nothing here is financial advice. Self-reported is not verified.
+> Catalog data CC-BY-4.0, attribution: data by satohub.ai.
+
+## Start here
+
+- [The stack, layer by layer](https://raw.githubusercontent.com/satohubai/onchain-agents/main/README.md): the answer to "what do I build an onchain agent with" — nine layers, each a table of the highest-scored listings with chains, score, last activity and what we checked. It is the first section of the README.
+- [Pages site](https://satohubai.github.io/onchain-agents/): the same, one page per layer
+- Starting stacks: five example layer combinations built only from listings in this index — examples, not endorsements (README, after the stack section)
+
+## Layers (one page each)
+
+- [Agent runtimes & frameworks](https://raw.githubusercontent.com/satohubai/onchain-agents/main/docs/categories/agent-frameworks.md): The loop that runs the agent: prompting, memory, tool calls, scheduling. Pick this first — it decides what everything else plugs into.
+- [Onchain action kits & SDKs](https://raw.githubusercontent.com/satohubai/onchain-agents/main/docs/categories/action-kits.md): Libraries that turn an agent's decision into a signed transaction — swap, transfer, mint, stake — without writing the chain plumbing yourself.
+- [MCP servers](https://raw.githubusercontent.com/satohubai/onchain-agents/main/docs/categories/mcp-servers.md): Tool servers your agent calls over the Model Context Protocol. This is the largest layer in the index and the fastest-moving.
+- [Wallets, keys & permissions](https://raw.githubusercontent.com/satohubai/onchain-agents/main/docs/categories/wallets-keys.md): Where the agent's key lives and what it is allowed to do: embedded wallets, MPC, smart accounts, session keys and spend permissions.
+- [Data, RPC & indexing](https://raw.githubusercontent.com/satohubai/onchain-agents/main/docs/categories/data-rpc.md): What the agent knows before it acts: RPC access, market data, chain indexing, wallet and token analytics.
+- [Payments & agent commerce](https://raw.githubusercontent.com/satohubai/onchain-agents/main/docs/categories/payments.md): How agents pay and get paid: x402 (HTTP 402 plus stablecoin), agent commerce protocols, and the stablecoin rails underneath.
+- [Identity, discovery & standards](https://raw.githubusercontent.com/satohubai/onchain-agents/main/docs/categories/identity-discovery.md): How an agent is identified and found by other agents: ERC-8004 registration, MCP discovery, A2A agent cards.
+- [Security & preflight](https://raw.githubusercontent.com/satohubai/onchain-agents/main/docs/categories/security.md): Checks you run before an agent installs, connects, signs or trades: contract and token screening, endpoint checks, monitoring.
+- [Trading & DeFi venues](https://raw.githubusercontent.com/satohubai/onchain-agents/main/docs/categories/trading-venues.md): Where the agent actually trades: DEXs, aggregators, perps, lending and yield venues with programmatic access.
+
+## Per-listing pages
+
+- Every listing has a page at https://raw.githubusercontent.com/satohubai/onchain-agents/main/docs/listings/<slug>.md — facts, deploy spec, what we checked, links, citation
+- Slugs are the `slug` field in data/index.json
+
+## Data (stable, versioned)
+
+- [index.json](https://raw.githubusercontent.com/satohubai/onchain-agents/main/data/index.json): full index, schema_version field, one object per resource
+- [index.csv](https://raw.githubusercontent.com/satohubai/onchain-agents/main/data/index.csv): flat CSV of the same
+- [Live export feed](https://satohub.ai/api/export/index.json): the upstream source; also .csv and .ndjson, with ?category= ?chain= ?standard= ?use_case= slices
+- [All datasets](https://satohub.ai/datasets): every published dataset and its license
+- [Schemas](https://satohub.ai/schemas): versioned JSON Schemas for these formats
+- [OpenAPI](https://satohub.ai/api/openapi.json): every public operation
+
+## Query it live over MCP
+
+- [MCP endpoint](https://satohub.ai/api/mcp): 32 tools over Streamable HTTP (28 read, 4 write) — write tools: onchain_agent_watch, onchain_agent_submit_project, onchain_agent_register_agent, onchain_agent_swap
+- [Tool list as JSON](https://satohub.ai/api/mcp/tools.json): names, descriptions and input schemas
+- [Connection guide](https://raw.githubusercontent.com/satohubai/onchain-agents/main/docs/connect-mcp.md)
+- Skill: `npx skills add satohubai/sato-hub-skill` · Plugin: `/plugin marketplace add satohubai/sato-plugins`
+
+## Docs
+
+- [Sato Score methodology](https://raw.githubusercontent.com/satohubai/onchain-agents/main/docs/sato-score.md): what the 0-100 score measures and what it does not
+- [Taxonomy](https://raw.githubusercontent.com/satohubai/onchain-agents/main/docs/taxonomy.md): entity classes, resource types, interfaces, standards facets
+- [Swap through a gate](https://raw.githubusercontent.com/satohubai/onchain-agents/main/docs/swap.md): how an agent gets a swap it is allowed to make — four dated verdicts, the owner's policy, a simulation, an unsigned transaction
+- [Neutrality](https://raw.githubusercontent.com/satohubai/onchain-agents/main/NEUTRALITY.md): placement is not for sale
+- [Reporting a problem with an entry](https://raw.githubusercontent.com/satohubai/onchain-agents/main/SECURITY.md)
+- [Cite this dataset](https://raw.githubusercontent.com/satohubai/onchain-agents/main/CITATION.cff) · [dataset record](https://satohub.ai/datasets/onchain-agents-index)
+- [Status of these surfaces](https://satohub.ai/status/sato-hub)
+
+## Related
+
+- [Agent Passports](https://satohub.ai/agents): registered agents with on-chain verification checks and machine-readable manifests
+- [Agent Architect / Builder](https://satohub.ai/build): describe an agent in plain language, get a build plan made of listings from this index
+- [SATO OS](https://raw.githubusercontent.com/satohubai/onchain-agents/main/SATO-OS.md): self-hosted mission control for running an onchain agent
+- [satohub.ai](https://satohub.ai): the full product
