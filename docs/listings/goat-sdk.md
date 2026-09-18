@@ -43,7 +43,7 @@ npm install @goat-sdk/core  # + per-plugin, e.g. @goat-sdk/plugin-uniswap
 ## What we checked
 
 - Install reproduced in an isolated container on 2026-09-07.
-- Live endpoint probed by us: 100% of our checks succeeded over 65 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 66 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -52,6 +52,6 @@ npm install @goat-sdk/core  # + per-plugin, e.g. @goat-sdk/plugin-uniswap
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `goat-sdk`. https://satohub.ai/resources/goat-sdk — retrieved 2026-09-17.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `goat-sdk`. https://satohub.ai/resources/goat-sdk — retrieved 2026-09-18.
 
 [← All layers](../index.md)

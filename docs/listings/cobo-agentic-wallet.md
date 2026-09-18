@@ -44,7 +44,7 @@ cobo skill install all --scope local
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 65 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 66 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Verified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -53,6 +53,6 @@ cobo skill install all --scope local
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cobo-agentic-wallet`. https://satohub.ai/resources/cobo-agentic-wallet — retrieved 2026-09-17.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cobo-agentic-wallet`. https://satohub.ai/resources/cobo-agentic-wallet — retrieved 2026-09-18.
 
 [← All layers](../index.md)

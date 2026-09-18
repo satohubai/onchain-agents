@@ -36,7 +36,7 @@ cargo add solana-llm-oracle --features cpi
 
 ## What we checked
 
-- Live endpoint probed by us: 98.3% of our checks succeeded over 60 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 98.4% of our checks succeeded over 61 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -45,6 +45,6 @@ cargo add solana-llm-oracle --features cpi
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solana-llm-oracle`. https://satohub.ai/resources/solana-llm-oracle — retrieved 2026-09-17.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solana-llm-oracle`. https://satohub.ai/resources/solana-llm-oracle — retrieved 2026-09-18.
 
 [← All layers](../index.md)

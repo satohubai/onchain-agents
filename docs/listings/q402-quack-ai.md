@@ -9,7 +9,7 @@ layout: "default"
 
 Gasless stablecoin payment relay and managed Agent Wallets across 12 EVM chains (EIP-712 + EIP-7702), with an MCP server and optional ERC-8004 registration on BNB Chain.
 
-Sato Score: **⬡ 77** (High), +15 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 77** (High), +10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -38,7 +38,7 @@ npx -y @quackai/q402-mcp
 ## What we checked
 
 - Install reproduced in an isolated container on 2026-09-14.
-- Live endpoint probed by us: 100% of our checks succeeded over 15 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 16 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -47,6 +47,6 @@ npx -y @quackai/q402-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `q402-quack-ai`. https://satohub.ai/resources/q402-quack-ai — retrieved 2026-09-17.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `q402-quack-ai`. https://satohub.ai/resources/q402-quack-ai — retrieved 2026-09-18.
 
 [← All layers](../index.md)

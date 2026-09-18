@@ -21,7 +21,7 @@ Sato Score: **⬡ 50** (Medium) — a measure of how open, active and verifiable
 - **Creator:** ZetaChain
 - **Open source:** Unknown
 - **Status:** Unknown
-- **Activity:** Quiet — last activity 6 months ago
+- **Activity:** Quiet — last activity 7 months ago
 - **GitHub stars:** 6
 - **Deploys as:** npm install -g / npx
 - **Works with:** Claude Code, Cursor
@@ -41,7 +41,7 @@ npm install -g zetachain@latest
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 65 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 66 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -50,6 +50,6 @@ npm install -g zetachain@latest
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `zetachain-cli`. https://satohub.ai/resources/zetachain-cli — retrieved 2026-09-17.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `zetachain-cli`. https://satohub.ai/resources/zetachain-cli — retrieved 2026-09-18.
 
 [← All layers](../index.md)

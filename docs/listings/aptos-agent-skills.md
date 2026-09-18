@@ -9,16 +9,18 @@ layout: "default"
 
 Official Aptos Labs skill pack giving Claude Code, Cursor, and Copilot deep Aptos/Move expertise.
 
-Sato Score: **⬡ 59** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 63** (Medium), +4 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
 - **Category:** Skill Repo
 - **Chains:** Aptos
+- **Creator:** Aptos Labs
 - **Open source:** Yes
 - **Status:** Active
 - **Activity:** Recent — last activity 2 months ago
 - **GitHub stars:** 20
+- **Works with:** Claude Code, Cursor, GitHub Copilot
 
 ## Deploy spec
 
@@ -35,7 +37,7 @@ npx skills add aptos-labs/aptos-agent-skills
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 60 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 61 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -44,6 +46,6 @@ npx skills add aptos-labs/aptos-agent-skills
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `aptos-agent-skills`. https://satohub.ai/resources/aptos-agent-skills — retrieved 2026-09-17.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `aptos-agent-skills`. https://satohub.ai/resources/aptos-agent-skills — retrieved 2026-09-18.
 
 [← All layers](../index.md)

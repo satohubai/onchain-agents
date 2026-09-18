@@ -47,6 +47,6 @@ npm install -g @vibe-kit/grok-cli   # binary: grok
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `grok-cli`. https://satohub.ai/resources/grok-cli — retrieved 2026-09-17.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `grok-cli`. https://satohub.ai/resources/grok-cli — retrieved 2026-09-18.
 
 [← All layers](../index.md)
