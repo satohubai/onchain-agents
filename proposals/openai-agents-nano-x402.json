@@ -1,0 +1,10 @@
+{
+  "name": "openai-agents-nano-x402",
+  "website_url": "https://github.com/PANDeveloper001/openai-agents-nano-x402",
+  "github_url": "https://github.com/PANDeveloper001/openai-agents-nano-x402",
+  "category": "Payment Rail",
+  "chains": [
+    "Nano"
+  ],
+  "description": "OpenAI Agents SDK adapter for feeless, instant Nano (XNO) payments via the x402 protocol \u2014 AI agents pay per-call without intermediaries"
+}
