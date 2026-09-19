@@ -21,7 +21,7 @@ Sato Score: **⬡ 83** (High) — a measure of how open, active and verifiable t
 - **Creator:** Orca
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity today
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 540
 - **Deploys as:** npm, Rust crate
 - **Works with:** Solana Web3.js, Anchor
@@ -42,7 +42,7 @@ yarn build
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 66 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 67 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Verified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -51,6 +51,6 @@ yarn build
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `orca`. https://satohub.ai/resources/orca — retrieved 2026-09-18.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `orca`. https://satohub.ai/resources/orca — retrieved 2026-09-19.
 
 [← All layers](../index.md)

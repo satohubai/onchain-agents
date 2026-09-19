@@ -38,7 +38,7 @@ npm install -g cryptoiz-mcp
 
 ## What we checked
 
-- Live endpoint probed by us: 98.4% of our checks succeeded over 61 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 98.4% of our checks succeeded over 62 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -47,6 +47,6 @@ npm install -g cryptoiz-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cryptoiz-mcp`. https://satohub.ai/resources/cryptoiz-mcp — retrieved 2026-09-18.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cryptoiz-mcp`. https://satohub.ai/resources/cryptoiz-mcp — retrieved 2026-09-19.
 
 [← All layers](../index.md)

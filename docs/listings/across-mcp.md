@@ -22,7 +22,7 @@ Sato Score: **⬡ 83** (High) — a measure of how open, active and verifiable t
 - **Creator:** Across Protocol
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Recent — last activity 1 month ago
+- **Activity:** Recent — last activity 2 months ago
 - **GitHub stars:** 1
 - **Deploys as:** Hosted API (Streamable HTTP), npm (npx, stdio), Docker
 - **Works with:** Claude Desktop, Claude Code, Cursor, VS Code Copilot, Codex, Windsurf
@@ -42,7 +42,7 @@ claude mcp add --transport http across-docs https://mcp.across.to/mcp
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 66 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 67 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -51,6 +51,6 @@ claude mcp add --transport http across-docs https://mcp.across.to/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `across-mcp`. https://satohub.ai/resources/across-mcp — retrieved 2026-09-18.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `across-mcp`. https://satohub.ai/resources/across-mcp — retrieved 2026-09-19.
 
 [← All layers](../index.md)

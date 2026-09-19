@@ -9,7 +9,7 @@ layout: "default"
 
 Toolkit giving AI agents gasless access to crypto wallets and onchain functionality.
 
-Sato Score: **⬡ 86** (High), +10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 86** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,7 +22,7 @@ Sato Score: **⬡ 86** (High), +10 over 7 days — a measure of how open, active
 - **Creator:** 0xGasless
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 6 days ago
+- **Activity:** Active — last activity 7 days ago
 - **GitHub stars:** 415
 - **Deploys as:** SDK, Python, Node.js
 - **Works with:** LangChain, ERC-4337, x402, ERC-8004
@@ -52,6 +52,6 @@ npm install @0xgasless/agentkit tslib
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `0xgasless-agentkit`. https://satohub.ai/resources/0xgasless-agentkit — retrieved 2026-09-18.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `0xgasless-agentkit`. https://satohub.ai/resources/0xgasless-agentkit — retrieved 2026-09-19.
 
 [← All layers](../index.md)

@@ -17,7 +17,7 @@ Sato Score: **⬡ 54** (Medium), +8 over 7 days — a measure of how open, activ
 - **Chains:** Ethereum, Base, Polygon, Arbitrum
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Dormant — last activity 17 months ago
+- **Activity:** Dormant — last activity 18 months ago
 - **GitHub stars:** 3
 
 ## Deploy spec
@@ -40,7 +40,7 @@ cd safer
 ## What we checked
 
 - Install reproduced in an isolated container on 2026-09-14.
-- Live endpoint probed by us: 100% of our checks succeeded over 61 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 62 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -49,6 +49,6 @@ cd safer
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `safer-safe-wallet-mcp`. https://satohub.ai/resources/safer-safe-wallet-mcp — retrieved 2026-09-18.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `safer-safe-wallet-mcp`. https://satohub.ai/resources/safer-safe-wallet-mcp — retrieved 2026-09-19.
 
 [← All layers](../index.md)
