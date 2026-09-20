@@ -22,7 +22,7 @@ Sato Score: **⬡ 85** (High) — a measure of how open, active and verifiable t
 - **Creator:** Zerion
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 2 days ago
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 59
 - **Deploys as:** npm, MCP server, API
 - **Works with:** 0x, x402, MPP, Open Wallet Standard, Uniswap, Li.Fi, MoonPay
@@ -45,7 +45,7 @@ npx -y zerion-cli init
 ## What we checked
 
 - Install reproduced in an isolated container on 2026-09-07.
-- Live endpoint probed by us: 100% of our checks succeeded over 67 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 68 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -54,6 +54,6 @@ npx -y zerion-cli init
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `zerion`. https://satohub.ai/resources/zerion — retrieved 2026-09-19.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `zerion`. https://satohub.ai/resources/zerion — retrieved 2026-09-20.
 
 [← All layers](../index.md)

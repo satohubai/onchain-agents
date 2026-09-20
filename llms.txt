@@ -3,7 +3,7 @@
 > 383 listings of what onchain AI agents are built from: agent frameworks,
 > onchain action kits, MCP servers, wallets and key management, data and RPC,
 > x402 payment rails, identity standards (ERC-8004, A2A), security tooling and
-> trading venues. Rendered daily from satohub.ai. Last render: 2026-09-19.
+> trading venues. Rendered daily from satohub.ai. Last render: 2026-09-20.
 > Every product listing carries a Sato Score: 0-100, measuring how OPEN, ACTIVE
 > and VERIFIABLE a project is. It is NOT a safety, quality, security or returns
 > grade, and nothing here is financial advice. Self-reported is not verified.

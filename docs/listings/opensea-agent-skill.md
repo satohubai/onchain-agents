@@ -44,7 +44,7 @@ npx skills add ProjectOpenSea/opensea-skill
 
 ## What we checked
 
-- Live endpoint probed by us: 98.5% of our checks succeeded over 67 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 98.5% of our checks succeeded over 68 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Verified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -53,6 +53,6 @@ npx skills add ProjectOpenSea/opensea-skill
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `opensea-agent-skill`. https://satohub.ai/resources/opensea-agent-skill — retrieved 2026-09-19.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `opensea-agent-skill`. https://satohub.ai/resources/opensea-agent-skill — retrieved 2026-09-20.
 
 [← All layers](../index.md)
