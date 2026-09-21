@@ -18,7 +18,7 @@ Sato Score: **⬡ 77** (High), +10 over 7 days — a measure of how open, active
 - **Creator:** Quack AI
 - **Open source:** Partial
 - **Status:** Unknown
-- **Activity:** Active — last activity 1 day ago
+- **Activity:** Active — last activity today
 - **GitHub stars:** 0
 - **Works with:** Claude, Codex CLI, Cursor, Cline, GitHub Copilot, Hermes Agent, Aave, Morpho, Lista, Chainlink CCIP
 
@@ -33,12 +33,12 @@ npx -y @quackai/q402-mcp
 - **Requires:** ~/.q402/mcp.env: Q402_PRIVATE_KEY or Q402_AGENTIC_PRIVATE_KEY plus an API key (sandbox by default; Q402_ENABLE_REAL_PAYMENTS=1 moves funds)
 - **MCP native:** yes
 - **Deploy status:** verified
-- **As of:** 2026-09-14
+- **As of:** 2026-09-21
 
 ## What we checked
 
-- Install reproduced in an isolated container on 2026-09-14.
-- Live endpoint probed by us: 100% of our checks succeeded over 18 days. That is a success rate of our checks, not the project's uptime.
+- Install reproduced in an isolated container on 2026-09-21.
+- Live endpoint probed by us: 100% of our checks succeeded over 19 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -47,6 +47,6 @@ npx -y @quackai/q402-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `q402-quack-ai`. https://satohub.ai/resources/q402-quack-ai — retrieved 2026-09-20.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `q402-quack-ai`. https://satohub.ai/resources/q402-quack-ai — retrieved 2026-09-21.
 
 [← All layers](../index.md)

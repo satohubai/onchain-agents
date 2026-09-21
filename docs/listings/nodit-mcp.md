@@ -9,7 +9,7 @@ layout: "default"
 
 Official Nodit MCP server giving agents normalized multi-chain blockchain data across EVM and non-EVM networks.
 
-Sato Score: **⬡ 69** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 57** (Medium), -12 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,7 +22,7 @@ Sato Score: **⬡ 69** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Nodit (Lambda256)
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Recent — last activity 2 months ago
+- **Activity:** Quiet — last activity 3 months ago
 - **GitHub stars:** 24
 - **Deploys as:** npx (local stdio), Remote MCP (hosted SSE endpoint)
 - **Works with:** Claude Desktop, Claude Code, Cursor, Claude (Web)
@@ -44,7 +44,7 @@ npx @noditlabs/nodit-mcp-server@latest
 ## What we checked
 
 - Install reproduced in an isolated container on 2026-07-21.
-- Live endpoint probed by us: 7.4% of our checks succeeded over 68 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 7.2% of our checks succeeded over 69 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -53,6 +53,6 @@ npx @noditlabs/nodit-mcp-server@latest
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `nodit-mcp`. https://satohub.ai/resources/nodit-mcp — retrieved 2026-09-20.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `nodit-mcp`. https://satohub.ai/resources/nodit-mcp — retrieved 2026-09-21.
 
 [← All layers](../index.md)

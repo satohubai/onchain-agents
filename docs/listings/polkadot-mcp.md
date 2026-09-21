@@ -37,11 +37,11 @@ cargo install polkadot-mcp
 - **License:** Apache-2.0 (README header also mentions MIT — inconsistent; body states Apache-2.0)
 - **MCP native:** yes
 - **Deploy status:** unknown
-- **As of:** 2026-09-14
+- **As of:** 2026-09-21
 
 ## What we checked
 
-- Live endpoint probed by us: 30.9% of our checks succeeded over 68 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 30.4% of our checks succeeded over 69 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -50,6 +50,6 @@ cargo install polkadot-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `polkadot-mcp`. https://satohub.ai/resources/polkadot-mcp — retrieved 2026-09-20.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `polkadot-mcp`. https://satohub.ai/resources/polkadot-mcp — retrieved 2026-09-21.
 
 [← All layers](../index.md)

@@ -17,7 +17,7 @@ Sato Score: **⬡ 61** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Unknown
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 8 days ago
+- **Activity:** Active — last activity 9 days ago
 - **GitHub stars:** 2
 
 ## Deploy spec
@@ -36,7 +36,7 @@ npm install @usenami/signer-mcp
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 63 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 64 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -45,6 +45,6 @@ npm install @usenami/signer-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `namixai-signer-mcp`. https://satohub.ai/resources/namixai-signer-mcp — retrieved 2026-09-20.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `namixai-signer-mcp`. https://satohub.ai/resources/namixai-signer-mcp — retrieved 2026-09-21.
 
 [← All layers](../index.md)

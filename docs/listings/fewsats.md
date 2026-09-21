@@ -32,11 +32,11 @@ uvx fewsats-mcp
 - **License:** Unknown
 - **MCP native:** yes
 - **Deploy status:** unknown
-- **As of:** 2026-09-14
+- **As of:** 2026-09-21
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 63 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 64 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -45,6 +45,6 @@ uvx fewsats-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `fewsats`. https://satohub.ai/resources/fewsats — retrieved 2026-09-20.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `fewsats`. https://satohub.ai/resources/fewsats — retrieved 2026-09-21.
 
 [← All layers](../index.md)

@@ -17,7 +17,7 @@ Sato Score: **⬡ 50** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Base
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Quiet — last activity 3 months ago
+- **Activity:** Quiet — last activity 4 months ago
 - **GitHub stars:** 0
 - **Works with:** 0x, Velora, Claude Code, Cursor, eliza-plugin-trust, AgentKit
 
@@ -36,7 +36,7 @@ claude mcp add --transport http --scope user paladin-swap https://swap.paladinfi
 
 ## What we checked
 
-- Live endpoint probed by us: 85.7% of our checks succeeded over 63 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 85.9% of our checks succeeded over 64 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -45,6 +45,6 @@ claude mcp add --transport http --scope user paladin-swap https://swap.paladinfi
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `paladinfi-swap-mcp`. https://satohub.ai/resources/paladinfi-swap-mcp — retrieved 2026-09-20.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `paladinfi-swap-mcp`. https://satohub.ai/resources/paladinfi-swap-mcp — retrieved 2026-09-21.
 
 [← All layers](../index.md)

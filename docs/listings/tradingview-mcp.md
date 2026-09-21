@@ -21,7 +21,7 @@ Sato Score: **⬡ 69** (Medium) — a measure of how open, active and verifiable
 - **Use cases:** trading, data
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 19 days ago
+- **Activity:** Active — last activity 20 days ago
 - **GitHub stars:** 4.4k
 - **Deploys as:** Hosted, self-hosted
 - **Works with:** Claude, ChatGPT, Cursor, Copilot
@@ -37,12 +37,12 @@ pip install tradingview-mcp-server
 - **Requires:** optional MARKETAUX_API_TOKEN for the financial_news / market_sentiment tools (free tier, 100 req/day) — all other 30+ tools work keyless
 - **License:** MIT
 - **MCP native:** yes
-- **Deploy status:** unknown
-- **As of:** 2026-09-14
+- **Deploy status:** failed
+- **As of:** 2026-09-21
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 68 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 69 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -51,6 +51,6 @@ pip install tradingview-mcp-server
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `tradingview-mcp`. https://satohub.ai/resources/tradingview-mcp — retrieved 2026-09-20.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `tradingview-mcp`. https://satohub.ai/resources/tradingview-mcp — retrieved 2026-09-21.
 
 [← All layers](../index.md)
