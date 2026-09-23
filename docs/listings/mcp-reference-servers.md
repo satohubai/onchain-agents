@@ -22,8 +22,8 @@ Sato Score: **⬡ 72** (High), -1 over 7 days — a measure of how open, active 
 - **Creator:** Anthropic
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 20 days ago
-- **GitHub stars:** 90.4k
+- **Activity:** Active — last activity 1 day ago
+- **GitHub stars:** 90.6k
 
 ## Deploy spec
 
@@ -41,7 +41,7 @@ npx -y @modelcontextprotocol/server-everything
 ## What we checked
 
 - Install reproduced in an isolated container on 2026-07-21.
-- Live endpoint probed by us: 98.6% of our checks succeeded over 70 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 98.6% of our checks succeeded over 71 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links

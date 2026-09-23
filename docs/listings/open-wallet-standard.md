@@ -9,7 +9,7 @@ layout: "default"
 
 Open, local-first standard + CLI/SDK for agent wallets: encrypted keystore, policy checks before signing, scoped tokens instead of keys.
 
-Sato Score: not scored (non-product listing) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 66** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,6 +21,8 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 - **Use cases:** wallets, security
 - **Open source:** Yes
 - **Status:** Active
+- **Activity:** Active — last activity 8 days ago
+- **GitHub stars:** 370
 
 ## What we checked
 

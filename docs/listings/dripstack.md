@@ -9,7 +9,7 @@ layout: "default"
 
 Pay-per-article access to 100+ paywalled financial newsletters and podcasts, plus a structured stock-picks feed, over x402 or MCP.
 
-Sato Score: not scored (non-product listing) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 38** (Low) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 

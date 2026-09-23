@@ -9,7 +9,7 @@ layout: "default"
 
 One gateway for agents to discover, call and pay for 800+ API endpoints from 50+ providers. Pay per call via x402, MPP or Circle Nanopayments.
 
-Sato Score: not scored (non-product listing) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 24** (Low) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 

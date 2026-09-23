@@ -36,7 +36,7 @@ claude mcp add btc-whale-intelligence https://mcp.swisswhaleintelligence.com/mcp
 
 ## What we checked
 
-- Live endpoint probed by us: 90.8% of our checks succeeded over 65 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 90.9% of our checks succeeded over 66 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links

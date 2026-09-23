@@ -9,7 +9,7 @@ layout: "default"
 
 Stablecoin-to-real-world spending for agents: prepaid and gift cards, Venmo/PayPal/ACH payouts. Callable via x402 (USDC on Base/Solana) or MCP.
 
-Sato Score: not scored (non-product listing) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 60** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 

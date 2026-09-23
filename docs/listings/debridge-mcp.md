@@ -9,7 +9,7 @@ layout: "default"
 
 deBridge's official MCP for cross-chain and same-chain token swaps, fee estimation, and trade execution.
 
-Sato Score: **⬡ 66** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 76** (High), +10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -43,7 +43,7 @@ claude mcp add debridge --transport http https://agents.debridge.com/mcp
 
 ## What we checked
 
-- Live endpoint probed by us: 98.6% of our checks succeeded over 70 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 98.6% of our checks succeeded over 71 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links

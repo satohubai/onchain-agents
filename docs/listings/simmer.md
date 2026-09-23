@@ -9,7 +9,7 @@ layout: "default"
 
 Prediction-market harness for agents: one SDK, MCP server and skill catalogue to trade Polymarket and Kalshi, with a virtual $SIM practice venue.
 
-Sato Score: not scored (non-product listing) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 62** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,6 +21,8 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 - **Use cases:** trading
 - **Open source:** Partial
 - **Status:** Active
+- **Activity:** Active — last activity 4 days ago
+- **GitHub stars:** 49
 
 ## What we checked
 

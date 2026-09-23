@@ -9,7 +9,7 @@ layout: "default"
 
 Stripe's merchant-side agent payments: charge agents per call over MPP (cards via SPTs, USDC on Tempo and Solana) or x402 (USDC on Base), settled to your Stripe balance.
 
-Sato Score: not scored (non-product listing) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 62** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,6 +21,8 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 - **Use cases:** payments
 - **Open source:** Partial
 - **Status:** Active
+- **Activity:** Active — last activity 12 days ago
+- **GitHub stars:** 53
 
 ## What we checked
 

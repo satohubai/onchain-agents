@@ -21,7 +21,7 @@ Sato Score: **⬡ 77** (High), +10 over 7 days — a measure of how open, active
 - **Creator:** nirholas
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 7 days ago
+- **Activity:** Active — last activity 8 days ago
 - **GitHub stars:** 310
 - **Deploys as:** API, Docker, MCP server, npm
 - **Works with:** ChatGPT, Claude, LangChain, Python SDK, TypeScript SDK
@@ -43,7 +43,7 @@ docker pull ghcr.io/nirholas/free-crypto-news && docker run -p 3000:3000 ghcr.io
 
 ## What we checked
 
-- Live endpoint probed by us: 91.4% of our checks succeeded over 70 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 91.5% of our checks succeeded over 71 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links

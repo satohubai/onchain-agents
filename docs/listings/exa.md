@@ -9,7 +9,7 @@ layout: "default"
 
 Web search and content-retrieval API built for AI; /search and /contents can be paid per request over x402.
 
-Sato Score: not scored (non-product listing) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 80** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,6 +22,8 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 - **Creator:** Exa Labs
 - **Open source:** Partial
 - **Status:** Active
+- **Activity:** Active — last activity today
+- **GitHub stars:** 5.0k
 - **Deploys as:** Hosted/Remote
 
 ## What we checked

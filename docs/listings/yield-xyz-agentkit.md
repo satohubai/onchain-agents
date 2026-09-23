@@ -9,7 +9,7 @@ layout: "default"
 
 Non-custodial onchain yield API for agents: discover, assess, enter and exit 3,300+ staking/lending/RWA yields over one MCP server, paid per call via x402.
 
-Sato Score: not scored (non-product listing) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 61** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 

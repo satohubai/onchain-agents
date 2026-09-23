@@ -17,7 +17,7 @@ Sato Score: **⬡ 60** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Multichain
 - **Open source:** Partial
 - **Status:** Early
-- **Activity:** Active — last activity 18 days ago
+- **Activity:** Active — last activity 19 days ago
 - **GitHub stars:** 1
 
 ## What we checked

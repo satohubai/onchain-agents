@@ -9,7 +9,7 @@ layout: "default"
 
 Ledger's toolkit for AI agents: headless Ledger Wallet CLI + agent skills. Agents propose, a Ledger device must approve every signature.
 
-Sato Score: not scored (non-product listing) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 61** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -20,6 +20,8 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 - **Use cases:** wallets, security
 - **Open source:** Partial
 - **Status:** Early
+- **Activity:** Active — last activity 15 days ago
+- **GitHub stars:** 6
 
 ## What we checked
 

@@ -21,7 +21,7 @@ Sato Score: **⬡ 83** (High) — a measure of how open, active and verifiable t
 - **Creator:** Almanak
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 1 day ago
+- **Activity:** Active — last activity today
 - **GitHub stars:** 61
 - **Deploys as:** pip, Self-hosted, Hosted
 - **Works with:** Uniswap V3, Uniswap V4, Aave V3, Morpho Blue, GMX V2, Lido, Ethena, Polymarket, Curve, Safe
@@ -44,7 +44,7 @@ pipx install almanak
 ## What we checked
 
 - Install reproduced in an isolated container on 2026-09-21.
-- Live endpoint probed by us: 100% of our checks succeeded over 70 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 71 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links

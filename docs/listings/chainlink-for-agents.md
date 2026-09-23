@@ -9,7 +9,7 @@ layout: "default"
 
 Chainlink's hosted HTTP gateway and skill bundle: pay-per-call Data Streams prices and CRE-run onchain actions with gas covered, paid via x402 in USDC on Base.
 
-Sato Score: not scored (non-product listing) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 50** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,6 +21,8 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 - **Use cases:** data, trading
 - **Open source:** Partial
 - **Status:** Beta
+- **Activity:** Quiet — last activity 3 months ago
+- **GitHub stars:** 5
 
 ## What we checked
 

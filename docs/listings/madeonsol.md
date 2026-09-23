@@ -9,7 +9,7 @@ layout: "default"
 
 Trading-intelligence API for Robinhood Chain and Solana (KOL trades, DEX tape, deployer reputation) with MCP, SDKs, ElizaOS plugin and x402 pay-per-call.
 
-Sato Score: not scored (non-product listing) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 59** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,6 +21,8 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 - **Use cases:** data, trading
 - **Open source:** Partial
 - **Status:** Active
+- **Activity:** Active — last activity today
+- **GitHub stars:** 0
 
 ## What we checked
 

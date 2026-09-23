@@ -9,7 +9,7 @@ layout: "default"
 
 Official remote Streamable HTTP MCP: Chainstack docs search, platform status, live pricing, and node deployment.
 
-Sato Score: **⬡ 63** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 65** (Medium), +2 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -40,7 +40,7 @@ curl -o ~/.claude/skills/chainstack/SKILL.md https://mcp.chainstack.com/skill
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 70 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 71 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links

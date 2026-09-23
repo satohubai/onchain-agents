@@ -9,7 +9,7 @@ layout: "default"
 
 Circle's EVM-compatible L1 with USDC as gas, live on mainnet since Sep 16, 2026. It is positioned for payments and agent activity, with App Kits and the Arc Studio coding agent.
 
-Sato Score: not scored (non-product listing) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 64** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -18,8 +18,11 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 - **Standards:** x402
 - **Interfaces:** contract, sdk
 - **Use cases:** payments, build
+- **Creator:** Circle
 - **Open source:** Partial
 - **Status:** Active
+- **Activity:** Active — last activity 9 days ago
+- **GitHub stars:** 175
 
 ## What we checked
 

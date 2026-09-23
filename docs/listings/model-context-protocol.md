@@ -21,13 +21,13 @@ Sato Score: **⬡ 83** (High) — a measure of how open, active and verifiable t
 - **Use cases:** trading, data
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity today
+- **Activity:** Active — last activity 1 day ago
 - **Deploys as:** Self-hosted, Hosted, MCP server
 - **Works with:** Claude, ChatGPT
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 70 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 71 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links

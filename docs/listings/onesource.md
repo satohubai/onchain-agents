@@ -9,7 +9,7 @@ layout: "default"
 
 Agent-native blockchain data API: single-purpose REST 'Skills', an MCP server (@one-source/mcp) and an M10 natural-language layer, paid per call via x402 or a $20/mo key.
 
-Sato Score: not scored (non-product listing) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 35** (Low) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 

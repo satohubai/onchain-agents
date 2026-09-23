@@ -9,7 +9,7 @@ layout: "default"
 
 Open, non-custodial TON wallet standard for AI agents: user funds a per-agent wallet, sets a budget, can swap the operator key or revoke.
 
-Sato Score: not scored (non-product listing) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 51** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,6 +21,8 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 - **Use cases:** wallets
 - **Open source:** Yes
 - **Status:** Active
+- **Activity:** Quiet — last activity 3 months ago
+- **GitHub stars:** 13
 
 ## What we checked
 

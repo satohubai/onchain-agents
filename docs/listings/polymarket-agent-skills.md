@@ -9,7 +9,7 @@ layout: "default"
 
 Polymarket's official agent skill: CLOB auth, order patterns, Gamma/Data APIs, WebSockets, CTF split/merge/redeem, bridging, gasless relayer.
 
-Sato Score: not scored (non-product listing) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 52** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -20,6 +20,8 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 - **Use cases:** trading
 - **Open source:** Yes
 - **Status:** Active
+- **Activity:** Quiet — last activity 7 months ago
+- **GitHub stars:** 187
 
 ## What we checked
 

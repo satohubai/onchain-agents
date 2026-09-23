@@ -9,7 +9,7 @@ layout: "default"
 
 Non-custodial limit, stop-loss, DCA and trailing-stop order venue on Robinhood Chain with a REST API, TS/Python SDKs and a hosted MCP server.
 
-Sato Score: not scored (non-product listing) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 70** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,6 +21,8 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 - **Use cases:** trading
 - **Open source:** Partial
 - **Status:** Beta
+- **Activity:** Active — last activity 26 days ago
+- **GitHub stars:** 0
 
 ## What we checked
 

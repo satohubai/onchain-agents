@@ -9,7 +9,7 @@ layout: "default"
 
 Local LLM router for agents: routes each request to the cheapest capable model across 78 models, paid with USDC micropayments via x402 on Base or Solana.
 
-Sato Score: not scored (non-product listing) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 81** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,6 +21,8 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 - **Use cases:** payments, build
 - **Open source:** Yes
 - **Status:** Active
+- **Activity:** Active — last activity 2 days ago
+- **GitHub stars:** 6.6k
 
 ## What we checked
 

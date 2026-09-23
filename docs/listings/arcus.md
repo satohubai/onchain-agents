@@ -9,7 +9,7 @@ layout: "default"
 
 Stock-token spot and perpetuals DEX on Robinhood Chain from the dYdX team, with REST/WebSocket trading APIs and a docs MCP server.
 
-Sato Score: not scored (non-product listing) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 32** (Low) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 

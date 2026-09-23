@@ -9,7 +9,7 @@ layout: "default"
 
 Onchain market metrics (MVRV, exchange flows, supply distribution) sold per call over x402, no API key.
 
-Sato Score: not scored (non-product listing) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 38** (Low) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 

@@ -9,7 +9,7 @@ layout: "default"
 
 Base's hosted MCP gateway: Claude/ChatGPT/Cursor propose swaps, transfers and app actions; the user signs in Base Account.
 
-Sato Score: not scored (non-product listing) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 20** (Low) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 

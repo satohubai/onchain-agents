@@ -9,7 +9,7 @@ layout: "default"
 
 MIT-licensed runtime guard for AI coding agents: hook-level action blocking, a 24-rule skill scanner, and a per-skill trust registry.
 
-Sato Score: **⬡ 66** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 68** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -17,8 +17,9 @@ Sato Score: **⬡ 66** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Unknown
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 2 days ago
+- **Activity:** Active — last activity 3 days ago
 - **GitHub stars:** 463
+- **Works with:** Claude Code, Codex, OpenClaw, Hermes, QClaw, DSH
 
 ## What we checked
 

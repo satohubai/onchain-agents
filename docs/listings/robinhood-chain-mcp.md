@@ -9,7 +9,7 @@ layout: "default"
 
 MIT stdio MCP server for Robinhood Chain: 105 read/build tools (RPC, precompiles, Stock Tokens, Uniswap v4, Chainlink, x402 helpers). Never signs.
 
-Sato Score: not scored (non-product listing) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 54** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,6 +22,7 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 - **Creator:** ExpertVagabond
 - **Open source:** Yes
 - **Status:** Early
+- **Activity:** Recent — last activity 2 months ago
 
 ## What we checked
 

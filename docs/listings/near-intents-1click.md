@@ -9,7 +9,7 @@ layout: "default"
 
 Cross-chain swap/settlement API solved by the NEAR Intents solver network; also an MPP payment method so agents pay 402s from any chain.
 
-Sato Score: not scored (non-product listing) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 71** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -20,6 +20,8 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 - **Use cases:** trading, payments
 - **Open source:** Partial
 - **Status:** Active
+- **Activity:** Active — last activity 2 days ago
+- **GitHub stars:** 1
 
 ## What we checked
 

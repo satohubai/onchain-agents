@@ -9,7 +9,7 @@ layout: "default"
 
 Framework for TEE-hosted agents that hold assets and sign on many chains via NEAR chain signatures, with guardrails in an agent contract.
 
-Sato Score: not scored (non-product listing) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 75** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -20,6 +20,8 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 - **Use cases:** build, wallets, security
 - **Open source:** Yes
 - **Status:** Beta
+- **Activity:** Active — last activity 7 days ago
+- **GitHub stars:** 2
 
 ## What we checked
 

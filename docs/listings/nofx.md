@@ -9,7 +9,7 @@ layout: "default"
 
 Open-source AI trading terminal: an LLM drives strategy inside hard-coded risk limits across 9 exchanges. Model usage can be paid via x402 USDC on Base.
 
-Sato Score: not scored (non-product listing) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 68** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,6 +21,8 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 - **Use cases:** trading
 - **Open source:** Yes
 - **Status:** Active
+- **Activity:** Active — last activity 18 days ago
+- **GitHub stars:** 12.9k
 
 ## What we checked
 

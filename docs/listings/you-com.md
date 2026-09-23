@@ -9,7 +9,7 @@ layout: "default"
 
 Web Search and Finance Research APIs that agents can call with no key and pay per request in USDC over x402.
 
-Sato Score: not scored (non-product listing) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 38** (Low) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 

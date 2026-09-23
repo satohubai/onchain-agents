@@ -9,7 +9,7 @@ layout: "default"
 
 Lightning Labs' agent toolkit: 7 skills + MCP server to run an lnd node, pay L402 APIs (lnget), host paid endpoints (aperture), scope keys.
 
-Sato Score: not scored (non-product listing) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 51** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,6 +21,8 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 - **Use cases:** payments, wallets
 - **Open source:** Yes
 - **Status:** Active
+- **Activity:** Quiet — last activity 3 months ago
+- **GitHub stars:** 57
 
 ## What we checked
 

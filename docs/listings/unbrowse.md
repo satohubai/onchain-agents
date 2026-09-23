@@ -17,7 +17,7 @@ Sato Score: **⬡ 65** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Solana
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 8 days ago
+- **Activity:** Active — last activity 9 days ago
 - **GitHub stars:** 759
 - **Works with:** CLI, MCP, Agent Skill, TypeScript SDK
 
@@ -36,7 +36,7 @@ npm i unbrowse
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 65 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 66 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links

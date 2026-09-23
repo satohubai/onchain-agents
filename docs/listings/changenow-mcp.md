@@ -9,7 +9,7 @@ layout: "default"
 
 Official ChangeNOW remote MCP server: quote, create and track cross-chain crypto swaps. Non-custodial, no account.
 
-Sato Score: not scored (non-product listing) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 50** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 

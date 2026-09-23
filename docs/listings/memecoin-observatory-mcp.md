@@ -22,7 +22,7 @@ Sato Score: **⬡ 52** (Medium) — a measure of how open, active and verifiable
 - **Creator:** tony-42069
 - **Open source:** Yes
 - **Status:** Unknown
-- **Activity:** Quiet — last activity 7 months ago
+- **Activity:** Quiet — last activity 8 months ago
 - **GitHub stars:** 24
 - **Deploys as:** Local (self-hosted)
 - **Works with:** Claude Desktop
@@ -46,7 +46,7 @@ cp .env.example .env
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 70 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 71 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links

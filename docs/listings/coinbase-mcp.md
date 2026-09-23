@@ -9,7 +9,7 @@ layout: "default"
 
 Coinbase's remote MCP server: an agent signs in with Coinbase OAuth to trade crypto, US stocks/ETFs and futures, and pay for data over x402.
 
-Sato Score: **⬡ 61** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 25** (Low), -36 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -41,7 +41,7 @@ claude mcp add coinbase --transport http https://agents.coinbase.com/mcp
 
 ## What we checked
 
-- Live endpoint probed by us: 92.9% of our checks succeeded over 70 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 93% of our checks succeeded over 71 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links

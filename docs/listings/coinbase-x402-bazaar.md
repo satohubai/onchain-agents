@@ -9,7 +9,7 @@ layout: "default"
 
 Public, keyless catalog of x402 payment-gated services indexed by the CDP facilitator, searchable by intent via REST, TypeScript SDK or a hosted MCP server.
 
-Sato Score: not scored (non-product listing) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 70** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 

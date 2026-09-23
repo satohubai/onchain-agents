@@ -17,7 +17,7 @@ Sato Score: **⬡ 72** (High) — a measure of how open, active and verifiable t
 - **Chains:** Bitcoin, Ethereum, Solana, Base, Arbitrum, Optimism, Polygon, BNB Chain, Avalanche, Cosmos, Sui, TON, Tron, Hyperliquid, Multichain
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 1 day ago
+- **Activity:** Active — last activity 2 days ago
 - **GitHub stars:** 13
 
 ## What we checked
