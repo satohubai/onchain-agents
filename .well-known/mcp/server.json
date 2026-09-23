@@ -1,0 +1,25 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "ai.satohub/onchain-agents",
+  "title": "Sato Hub: Onchain Agents",
+  "description": "Search scored onchain-agent tooling: frameworks, MCP servers, wallets, x402 rails, deploy specs.",
+  "version": "1.2.0",
+  "websiteUrl": "https://satohub.ai/mcp",
+  "repository": {
+    "url": "https://github.com/satohubai/onchain-agents",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://satohub.ai/icon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": ["any"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://satohub.ai/api/mcp"
+    }
+  ]
+}

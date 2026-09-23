@@ -1,0 +1,23 @@
+{
+  "name": "sato-hub-onchain-agents",
+  "displayName": "Sato Hub: Onchain Agents",
+  "version": "1.1.0",
+  "description": "Search Sato Hub's daily-updated, evidence-scored index of onchain-agent tooling (frameworks, MCP servers, wallets, x402 payment rails, trading venues, live agents) and run a Preflight check on a repo, package, MCP endpoint or token before you use it. Remote MCP over Streamable HTTP, no key.",
+  "author": {
+    "name": "Sato Hub"
+  },
+  "homepage": "https://satohub.ai/mcp",
+  "repository": "https://github.com/satohubai/onchain-agents",
+  "license": "MIT",
+  "keywords": [
+    "onchain-agents",
+    "ai-agents",
+    "crypto",
+    "blockchain",
+    "mcp",
+    "x402",
+    "erc-8004",
+    "agent-discovery"
+  ],
+  "logo": "assets/sato-hub-icon.svg"
+}
