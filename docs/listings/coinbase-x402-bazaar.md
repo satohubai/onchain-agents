@@ -32,6 +32,6 @@ Sato Score: **⬡ 70** (High) — a measure of how open, active and verifiable t
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `coinbase-x402-bazaar`. https://satohub.ai/resources/coinbase-x402-bazaar — retrieved 2026-09-23.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `coinbase-x402-bazaar`. https://satohub.ai/resources/coinbase-x402-bazaar — retrieved 2026-09-24.
 
 [← All layers](../index.md)

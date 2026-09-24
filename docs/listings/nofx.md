@@ -21,7 +21,7 @@ Sato Score: **⬡ 68** (Medium) — a measure of how open, active and verifiable
 - **Use cases:** trading
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 18 days ago
+- **Activity:** Active — last activity 19 days ago
 - **GitHub stars:** 12.9k
 
 ## What we checked
@@ -34,6 +34,6 @@ Sato Score: **⬡ 68** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `nofx`. https://satohub.ai/resources/nofx — retrieved 2026-09-23.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `nofx`. https://satohub.ai/resources/nofx — retrieved 2026-09-24.
 
 [← All layers](../index.md)

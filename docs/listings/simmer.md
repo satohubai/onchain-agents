@@ -21,7 +21,7 @@ Sato Score: **⬡ 62** (Medium) — a measure of how open, active and verifiable
 - **Use cases:** trading
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 4 days ago
+- **Activity:** Active — last activity 5 days ago
 - **GitHub stars:** 49
 
 ## What we checked
@@ -34,6 +34,6 @@ Sato Score: **⬡ 62** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `simmer`. https://satohub.ai/resources/simmer — retrieved 2026-09-23.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `simmer`. https://satohub.ai/resources/simmer — retrieved 2026-09-24.
 
 [← All layers](../index.md)

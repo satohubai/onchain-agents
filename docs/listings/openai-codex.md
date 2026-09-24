@@ -23,7 +23,7 @@ Sato Score: **⬡ 80** (High) — a measure of how open, active and verifiable t
 - **Open source:** Partial
 - **Status:** Active
 - **Activity:** Active — last activity today
-- **GitHub stars:** 124.8k
+- **GitHub stars:** 126.3k
 - **Deploys as:** Self-hosted, Hosted, npm
 - **Works with:** MCP, VS Code, Cursor, Windsurf, ChatGPT
 
@@ -44,7 +44,7 @@ npm install -g @openai/codex
 
 ## What we checked
 
-- Live endpoint probed by us: 31% of our checks succeeded over 71 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 31.9% of our checks succeeded over 72 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Verified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -53,6 +53,6 @@ npm install -g @openai/codex
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `openai-codex`. https://satohub.ai/resources/openai-codex — retrieved 2026-09-23.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `openai-codex`. https://satohub.ai/resources/openai-codex — retrieved 2026-09-24.
 
 [← All layers](../index.md)

@@ -34,6 +34,6 @@ Sato Score: **⬡ 51** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lightning-agent-tools`. https://satohub.ai/resources/lightning-agent-tools — retrieved 2026-09-23.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lightning-agent-tools`. https://satohub.ai/resources/lightning-agent-tools — retrieved 2026-09-24.
 
 [← All layers](../index.md)

@@ -17,7 +17,7 @@ Sato Score: **⬡ 68** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Unknown
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 3 days ago
+- **Activity:** Active — last activity 4 days ago
 - **GitHub stars:** 463
 - **Works with:** Claude Code, Codex, OpenClaw, Hermes, QClaw, DSH
 
@@ -31,6 +31,6 @@ Sato Score: **⬡ 68** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `goplus-agentguard`. https://satohub.ai/resources/goplus-agentguard — retrieved 2026-09-23.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `goplus-agentguard`. https://satohub.ai/resources/goplus-agentguard — retrieved 2026-09-24.
 
 [← All layers](../index.md)
