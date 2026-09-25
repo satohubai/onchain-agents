@@ -53,6 +53,6 @@ pip install .
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `tradingagents`. https://satohub.ai/resources/tradingagents — retrieved 2026-09-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `tradingagents`. https://satohub.ai/resources/tradingagents — retrieved 2026-09-25.
 
 [← All layers](../index.md)

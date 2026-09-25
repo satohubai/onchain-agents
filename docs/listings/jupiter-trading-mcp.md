@@ -24,8 +24,23 @@ Sato Score: **⬡ 72** (High) — a measure of how open, active and verifiable t
 - **Activity:** Quiet — last activity 3 months ago
 - **GitHub stars:** 60
 
+## Deploy spec
+
+```sh
+npm i -g @jup-ag/cli
+```
+
+- **Entry:** jup --help   # every command is non-interactive; add --dry-run to a transacting command to get the unsigned transaction instead of submitting it
+- **Runtime:** Node.js (CLI) — Jupiter's MCP server is hosted at https://mcp.jup.ag
+- **Requires:** A Solana key for transacting commands (`jup keys add <name>` generates or imports one) — reads need none, Pre-v1 (early alpha) per the README: breaking changes may land without warning
+- **License:** GPL-3.0
+- **MCP native:** no
+- **Deploy status:** verified
+- **As of:** 2026-09-25
+
 ## What we checked
 
+- Install reproduced in an isolated container on 2026-09-25.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -34,6 +49,6 @@ Sato Score: **⬡ 72** (High) — a measure of how open, active and verifiable t
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `jupiter-trading-mcp`. https://satohub.ai/resources/jupiter-trading-mcp — retrieved 2026-09-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `jupiter-trading-mcp`. https://satohub.ai/resources/jupiter-trading-mcp — retrieved 2026-09-25.
 
 [← All layers](../index.md)

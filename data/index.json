@@ -1,7 +1,7 @@
 {
   "schema_version": "1",
   "item_schema": "https://satohub.ai/schemas/export-listing/v1.json",
-  "generated_at": "2026-09-24T17:24:22.248Z",
+  "generated_at": "2026-09-25T04:03:27.495Z",
   "source": "https://satohub.ai",
   "license": "Catalog data CC-BY-4.0 — attribution: data by satohub.ai. Scores/liveness are informational signals, not safety or quality guarantees.",
   "meta": {
@@ -39,18 +39,18 @@
       "daily": "2026-09-25T08:00:00.000Z",
       "weekly": "2026-09-28T09:30:00.000Z"
     },
-    "generated_at": "2026-09-24T17:24:22.248Z"
+    "generated_at": "2026-09-25T04:03:27.495Z"
   },
-  "count": 431,
+  "count": 435,
   "aggregates": {
-    "resources": 431,
+    "resources": 435,
     "chains": 29,
     "scored": 428,
-    "independently_checked": 156,
+    "independently_checked": 161,
     "checked_legs": {
       "reviewed": 36,
-      "reproduced": 76,
-      "probed": 43,
+      "reproduced": 86,
+      "probed": 38,
       "registered": 1
     }
   },
@@ -1581,7 +1581,7 @@
       "liveness": "Active",
       "last_activity_at": "2026-09-24T13:00:56.000Z",
       "github_stars": 390227,
-      "verified_install": false,
+      "verified_install": true,
       "verification_status": "Verified",
       "creator_name": "OpenClaw",
       "deployment_options": [
@@ -1604,9 +1604,9 @@
       ],
       "observed_success_pct": 100,
       "observed_days": 72,
-      "install_verified_at": null,
+      "install_verified_at": "2026-09-25",
       "deploy_spec": {
-        "as_of": "2026-09-14",
+        "as_of": "2026-09-25",
         "entry": "openclaw onboard --install-daemon   # onboard + install the service\nopenclaw dashboard                  # open the Control UI",
         "chains": [],
         "install": [
@@ -1619,9 +1619,27 @@
         ],
         "mcp_native": false,
         "source_url": "https://github.com/openclaw/openclaw",
-        "deploy_status": "unknown",
-        "deploy_clarity": "high",
-        "not_attempted_reason": "no falsifiable install+entry probe from deploy_spec"
+        "verification": {
+          "ok": true,
+          "checks": [
+            {
+              "ok": true,
+              "name": "install",
+              "detail": "node:24-bookworm-slim · installed",
+              "command": "npm install -g --no-fund --no-audit openclaw@latest"
+            },
+            {
+              "ok": true,
+              "name": "entry",
+              "detail": "entry loaded",
+              "command": "openclaw --version"
+            }
+          ],
+          "ran_at": "2026-09-25T00:09:58.778Z",
+          "environment": "docker:node:24-bookworm-slim"
+        },
+        "deploy_status": "verified",
+        "deploy_clarity": "high"
       },
       "install": "npm install -g openclaw@latest",
       "date_added": "2026-06-08",
@@ -1743,15 +1761,16 @@
         "payments",
         "build"
       ],
-      "description_short": "Open payment protocol enabling agents and apps to pay for APIs over HTTP using stablecoins.",
+      "description_short": "Open HTTP 402 payment protocol, now at the x402 Foundation: agents pay per request in stablecoins, and by a newly merged spec, in bitcoin over Lightning.",
       "website_url": "https://x402.org",
-      "github_url": "https://github.com/coinbase/x402",
-      "docs_url": "https://docs.cdp.coinbase.com/x402/docs/welcome",
+      "github_url": "https://github.com/x402-foundation/x402",
+      "docs_url": "https://docs.x402.org",
       "chains_supported": [
         "Base",
         "Ethereum",
-        "Multichain",
-        "Solana"
+        "Solana",
+        "Bitcoin",
+        "Multichain"
       ],
       "tags": [
         "payments",
@@ -1760,7 +1779,9 @@
         "machine-payments",
         "agentic-payments",
         "open-standard",
-        "http-402"
+        "http-402",
+        "lightning",
+        "bitcoin"
       ],
       "status": "Early",
       "open_source_status": "Yes",
@@ -2252,7 +2273,7 @@
       "liveness": "Active",
       "last_activity_at": "2026-09-23T19:19:15.000Z",
       "github_stars": 146685,
-      "verified_install": false,
+      "verified_install": true,
       "verification_status": "Verified",
       "creator_name": "Anthropic",
       "deployment_options": [
@@ -2267,9 +2288,9 @@
       ],
       "observed_success_pct": 100,
       "observed_days": 72,
-      "install_verified_at": null,
+      "install_verified_at": "2026-09-25",
       "deploy_spec": {
-        "as_of": "2026-07-11",
+        "as_of": "2026-09-25",
         "entry": "claude   # start the CLI in your project directory",
         "chains": [],
         "install": [
@@ -2283,23 +2304,25 @@
         "mcp_native": false,
         "source_url": "https://github.com/anthropics/claude-code",
         "verification": {
-          "ok": false,
+          "ok": true,
           "checks": [
             {
               "ok": true,
               "name": "install",
-              "detail": "node:22-bookworm-slim · installed"
+              "detail": "node:22-bookworm-slim · installed",
+              "command": "mkdir -p /app || exit 1; cd /app || exit 1; npm install -g @anthropic-ai/claude-code"
             },
             {
-              "ok": false,
+              "ok": true,
               "name": "entry",
-              "detail": "entry probe failed:     at onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:680:36) |     at TracingChannel.tracePromise (node:diagnostics_channel:350:14) |     at ModuleLoader.import (node:internal/modules/esm/loader:679:21) { |   code: 'ERR_MODULE_NOT_FOUND' | } | Node.js v22.23.2"
+              "detail": "entry loaded",
+              "command": "cd /app; d=/app/node_modules/@anthropic-ai/claude-code; [ -d \"$d\" ] || d=\"$(npm root -g)/@anthropic-ai/claude-code\"; node --input-type=module -e \"const fs=await import('node:fs');const dir=process.argv[1];let pj={};try{pj=JSON.parse(fs.readFileSync(dir+'/package.json','utf8'))}catch{}let bin=pj.bin;if(typeof bin==='string')bin={b:bin};const rel=bin&&Object.values(bin)[0];if(rel){const {spawnSync}=await import('node:child_process');const p=dir+'/'+rel;let h='';try{h=fs.readFileSync(p).subarray(0,128).toString('latin1')}catch{}const l1=h.slice(0,Math.max(0,h.indexOf(String.fromCharCode(10))));co"
             }
           ],
-          "ran_at": "2026-09-07T15:26:56.788Z",
+          "ran_at": "2026-09-25T03:10:11.229Z",
           "environment": "docker:node:22-bookworm-slim"
         },
-        "deploy_status": "self_reported",
+        "deploy_status": "verified",
         "deploy_clarity": "high"
       },
       "install": "npm install -g @anthropic-ai/claude-code",
@@ -3185,7 +3208,7 @@
       "liveness": "Active",
       "last_activity_at": "2026-09-24T10:09:38.000Z",
       "github_stars": 247456,
-      "verified_install": false,
+      "verified_install": true,
       "verification_status": "Verified",
       "creator_name": "Nous Research",
       "deployment_options": [
@@ -3204,9 +3227,9 @@
       ],
       "observed_success_pct": 100,
       "observed_days": 72,
-      "install_verified_at": null,
+      "install_verified_at": "2026-09-25",
       "deploy_spec": {
-        "as_of": "2026-09-14",
+        "as_of": "2026-09-25",
         "entry": "hermes setup   # pick a provider: Nous Portal (zero-key OAuth) or bring your own key\nhermes         # start a chat",
         "chains": [],
         "install": [
@@ -3221,9 +3244,27 @@
         ],
         "mcp_native": false,
         "source_url": "https://github.com/NousResearch/hermes-agent",
-        "deploy_status": "unknown",
-        "deploy_clarity": "high",
-        "not_attempted_reason": "no falsifiable install+entry probe from deploy_spec"
+        "verification": {
+          "ok": true,
+          "checks": [
+            {
+              "ok": true,
+              "name": "install",
+              "detail": "python:3.12 · installed",
+              "command": "mkdir -p /app || exit 1; cd /app || exit 1; pip install hermes-agent"
+            },
+            {
+              "ok": true,
+              "name": "entry",
+              "detail": "entry loaded",
+              "command": "python -c \"import importlib,importlib.util as u,importlib.metadata as md,sys;n='hermes-agent';g=n.replace('-','_').replace('.','_').lower();s=u.find_spec(g);m=importlib.import_module(g) if s else None;eps=[] if s else [e for e in md.distribution(n).entry_points if e.group=='console_scripts'];sys.exit(0) if s else (eps[0].load() if eps else sys.exit(3))\""
+            }
+          ],
+          "ran_at": "2026-09-25T03:10:19.490Z",
+          "environment": "docker:python:3.12"
+        },
+        "deploy_status": "verified",
+        "deploy_clarity": "high"
       },
       "install": "pip install hermes-agent   # PyPI (Python 3.11–3.13)",
       "date_added": "2026-06-08",
@@ -3381,7 +3422,7 @@
       "liveness": "Active",
       "last_activity_at": "2026-09-24T09:53:01.000Z",
       "github_stars": 126275,
-      "verified_install": false,
+      "verified_install": true,
       "verification_status": "Verified",
       "creator_name": "OpenAI",
       "deployment_options": [
@@ -3398,9 +3439,9 @@
       ],
       "observed_success_pct": 31.9,
       "observed_days": 72,
-      "install_verified_at": null,
+      "install_verified_at": "2026-09-25",
       "deploy_spec": {
-        "as_of": "2026-09-21",
+        "as_of": "2026-09-25",
         "entry": "codex   # start the Codex CLI",
         "chains": [],
         "install": [
@@ -3414,9 +3455,27 @@
         ],
         "mcp_native": false,
         "source_url": "https://github.com/openai/codex",
-        "deploy_status": "unknown",
-        "deploy_clarity": "high",
-        "not_attempted_reason": "the run did not complete and the log named no cause we could attribute"
+        "verification": {
+          "ok": true,
+          "checks": [
+            {
+              "ok": true,
+              "name": "install",
+              "detail": "node:22-bookworm-slim · installed",
+              "command": "mkdir -p /app || exit 1; cd /app || exit 1; npm install -g @openai/codex"
+            },
+            {
+              "ok": true,
+              "name": "entry",
+              "detail": "entry loaded",
+              "command": "cd /app; d=/app/node_modules/@openai/codex; [ -d \"$d\" ] || d=\"$(npm root -g)/@openai/codex\"; node --input-type=module -e \"const fs=await import('node:fs');const dir=process.argv[1];let pj={};try{pj=JSON.parse(fs.readFileSync(dir+'/package.json','utf8'))}catch{}let bin=pj.bin;if(typeof bin==='string')bin={b:bin};const rel=bin&&Object.values(bin)[0];if(rel){const {spawnSync}=await import('node:child_process');const p=dir+'/'+rel;let h='';try{h=fs.readFileSync(p).subarray(0,128).toString('latin1')}catch{}const l1=h.slice(0,Math.max(0,h.indexOf(String.fromCharCode(10))));const nat=h.charCodeAt(0)="
+            }
+          ],
+          "ran_at": "2026-09-25T03:10:15.257Z",
+          "environment": "docker:node:22-bookworm-slim"
+        },
+        "deploy_status": "verified",
+        "deploy_clarity": "high"
       },
       "install": "npm install -g @openai/codex",
       "date_added": "2026-06-08",
@@ -7517,7 +7576,7 @@
       "liveness": null,
       "last_activity_at": null,
       "github_stars": null,
-      "verified_install": false,
+      "verified_install": true,
       "verification_status": "Self-Reported",
       "creator_name": "Axobotl",
       "deployment_options": [
@@ -7533,9 +7592,47 @@
       ],
       "observed_success_pct": 100,
       "observed_days": 72,
-      "install_verified_at": null,
-      "deploy_spec": null,
-      "install": null,
+      "install_verified_at": "2026-09-25",
+      "deploy_spec": {
+        "as_of": "2026-09-25",
+        "entry": "0xwork init",
+        "chains": [
+          "Base"
+        ],
+        "install": [
+          "npm install -g @0xwork/cli"
+        ],
+        "license": "MIT",
+        "runtime": "Node.js >=18",
+        "requires": [
+          "`0xwork init` creates a wallet and writes its key to .env — treat that file as a hot-wallet secret",
+          "Claiming tasks stakes funds on Base"
+        ],
+        "mcp_native": false,
+        "source_url": "https://www.0xwork.org/",
+        "verification": {
+          "ok": true,
+          "checks": [
+            {
+              "ok": true,
+              "name": "install",
+              "detail": "node:22-bookworm-slim · installed",
+              "command": "npm install -g --no-fund --no-audit @0xwork/cli"
+            },
+            {
+              "ok": true,
+              "name": "entry",
+              "detail": "entry loaded",
+              "command": "0xwork --help >/dev/null"
+            }
+          ],
+          "ran_at": "2026-09-25T00:07:48.441Z",
+          "environment": "docker:node:22-bookworm-slim"
+        },
+        "deploy_status": "verified",
+        "deploy_clarity": "medium"
+      },
+      "install": "npm install -g @0xwork/cli",
       "date_added": "2026-06-08",
       "detail_url": "https://satohub.ai/resources/0xwork",
       "trust_score_delta_7d": 0
@@ -7750,7 +7847,7 @@
       "liveness": "Active",
       "last_activity_at": "2026-09-16T07:08:49.000Z",
       "github_stars": 101,
-      "verified_install": false,
+      "verified_install": true,
       "verification_status": "Self-Reported",
       "creator_name": "legendaryabhi",
       "deployment_options": [
@@ -7769,9 +7866,9 @@
       ],
       "observed_success_pct": 100,
       "observed_days": 72,
-      "install_verified_at": null,
+      "install_verified_at": "2026-09-25",
       "deploy_spec": {
-        "as_of": "2026-09-21",
+        "as_of": "2026-09-25",
         "entry": "npx agent-skills-hub --claude (client flags: --gemini, --cursor, --kiro, --codex, --antigravity, --opencode, --openclaw)",
         "install": [
           "npx agent-skills-hub"
@@ -7780,14 +7877,86 @@
         "runtime": "node",
         "mcp_native": false,
         "source_url": "https://github.com/agent-skills-hub/agent-skills-hub",
-        "deploy_status": "unknown",
-        "deploy_clarity": "high",
-        "not_attempted_reason": "the run did not complete and the log named no cause we could attribute"
+        "verification": {
+          "ok": true,
+          "checks": [
+            {
+              "ok": true,
+              "name": "install",
+              "detail": "node:22-bookworm · installed",
+              "command": "npm install -g --no-fund --no-audit agent-skills-hub"
+            },
+            {
+              "ok": true,
+              "name": "entry",
+              "detail": "entry loaded",
+              "command": "cd /tmp && agent-skills-hub --claude </dev/null && test -d \"$HOME/.claude/skills\""
+            }
+          ],
+          "ran_at": "2026-09-25T03:11:20.545Z",
+          "environment": "docker:node:22-bookworm"
+        },
+        "deploy_status": "verified",
+        "deploy_clarity": "high"
       },
       "install": "npx agent-skills-hub",
       "date_added": "2026-06-08",
       "detail_url": "https://satohub.ai/resources/agent-skills-hub",
       "trust_score_delta_7d": 0
+    },
+    {
+      "slug": "aperture",
+      "name": "Aperture (L402 proxy, Lightning Labs)",
+      "category": "API / SDK",
+      "subcategory": "Agent Payments",
+      "entity_class": "resource",
+      "resource_type": "Tool/Service",
+      "interfaces": [
+        "cli",
+        "api"
+      ],
+      "standards": [],
+      "use_cases": [
+        "payments",
+        "build"
+      ],
+      "description_short": "Lightning Labs reverse proxy that puts any HTTP or gRPC API behind L402: Lightning invoices plus macaroon credentials, answered with HTTP 402.",
+      "website_url": "https://l402.tech",
+      "github_url": "https://github.com/lightninglabs/aperture",
+      "docs_url": "https://github.com/lightninglabs/aperture#readme",
+      "chains_supported": [
+        "Bitcoin"
+      ],
+      "tags": [
+        "l402",
+        "lightning",
+        "bitcoin",
+        "http-402",
+        "reverse-proxy",
+        "macaroons",
+        "machine-payments"
+      ],
+      "status": "Active",
+      "open_source_status": "Yes",
+      "trust_score": null,
+      "trust_tier": null,
+      "provisional": false,
+      "liveness": null,
+      "last_activity_at": null,
+      "github_stars": null,
+      "verified_install": false,
+      "verification_status": "Unverified",
+      "creator_name": "Lightning Labs",
+      "deployment_options": [],
+      "supported_integrations": [],
+      "observed_success_pct": null,
+      "observed_days": null,
+      "install_verified_at": null,
+      "deploy_spec": null,
+      "install": null,
+      "date_added": "2026-09-24",
+      "detail_url": "https://satohub.ai/resources/aperture",
+      "trust_score_delta_7d": null
     },
     {
       "slug": "freysa",
@@ -8985,6 +9154,64 @@
       "trust_score_delta_7d": 12
     },
     {
+      "slug": "8004swap",
+      "name": "8004Swap",
+      "category": "Trading Tool",
+      "subcategory": null,
+      "entity_class": "resource",
+      "resource_type": "Venue",
+      "interfaces": [
+        "sdk",
+        "mcp",
+        "contract"
+      ],
+      "standards": [],
+      "use_cases": [
+        "trading"
+      ],
+      "description_short": "Testnet only (Base Sepolia): an RFQ exchange where autonomous agents trade directly with each other, settled atomically on-chain. Not on mainnet; not audited.",
+      "website_url": "https://github.com/Stakemate369/8004swap",
+      "github_url": "https://github.com/Stakemate369/8004swap",
+      "docs_url": null,
+      "chains_supported": [
+        "Base"
+      ],
+      "tags": [
+        "testnet",
+        "rfq",
+        "erc-8004",
+        "agent-to-agent",
+        "mcp",
+        "eip-712"
+      ],
+      "status": "Early",
+      "open_source_status": "Yes",
+      "trust_score": null,
+      "trust_tier": null,
+      "provisional": false,
+      "liveness": null,
+      "last_activity_at": null,
+      "github_stars": null,
+      "verified_install": false,
+      "verification_status": "Self-Reported",
+      "creator_name": "Stakemate369",
+      "deployment_options": [
+        "npm",
+        "mcp server"
+      ],
+      "supported_integrations": [
+        "mcp"
+      ],
+      "observed_success_pct": null,
+      "observed_days": null,
+      "install_verified_at": null,
+      "deploy_spec": null,
+      "install": null,
+      "date_added": "2026-09-24",
+      "detail_url": "https://satohub.ai/resources/8004swap",
+      "trust_score_delta_7d": null
+    },
+    {
       "slug": "aave-mcp-junct",
       "name": "Aave MCP by Junct",
       "category": "MCP",
@@ -9103,7 +9330,7 @@
       "install": "npm install @virtuals-protocol/acp-node-v2",
       "date_added": "2026-07-19",
       "detail_url": "https://satohub.ai/resources/acp-node-sdk-v2",
-      "trust_score_delta_7d": 11
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "across-mcp",
@@ -10222,7 +10449,7 @@
       "install": "npx skills add aptos-labs/aptos-agent-skills",
       "date_added": "2026-07-19",
       "detail_url": "https://satohub.ai/resources/aptos-agent-skills",
-      "trust_score_delta_7d": 4
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "aptos-mcp",
@@ -11344,7 +11571,7 @@
       "observed_days": 72,
       "install_verified_at": null,
       "deploy_spec": {
-        "as_of": "2026-09-14",
+        "as_of": "2026-09-25",
         "entry": "npm run start (STDIO transport); npm run start:sse (SSE transport)",
         "chains": [],
         "install": [
@@ -11361,10 +11588,28 @@
         ],
         "mcp_native": true,
         "source_url": "https://github.com/nirholas/binance-mcp",
-        "deploy_status": "unknown",
+        "verification": {
+          "ok": false,
+          "checks": [
+            {
+              "ok": false,
+              "name": "install",
+              "detail": "install failed: src/tools/binance-futures-coinm/trade-api/newOrder.ts(83,17): error TS1005: ':' expected. | src/tools/binance-futures-coinm/trade-api/newOrder.ts(83,55): error TS1005: ',' expected. | src/tools/binance-futures-coinm/trade-api/newOrder.ts(83,68): error TS1005: ',' expected. | src/tools/binance-futures-coinm/trade-api/newOrder.ts(84,11): error TS1005: ',' expected. | src/tools/binance-futures-coinm/",
+              "command": "mkdir -p /app || exit 1; cd /app || exit 1; git clone https://github.com/nirholas/binance-mcp.git && cd binance-mcp && npm install && npm run build"
+            },
+            {
+              "ok": false,
+              "name": "entry",
+              "detail": "skipped (install failed)",
+              "command": "d=\"$(ls -d /app/*/ 2>/dev/null | head -1)\"; cd /app/binance-mcp 2>/dev/null || { [ -n \"$d\" ] && cd \"$d\"; } || cd /app || exit 1; if timeout 8 node build/index.js </dev/null >/dev/null 2>&1; then c=0; else c=$?; fi; [ $c -eq 124 ] || [ $c -eq 0 ] || exit 3"
+            }
+          ],
+          "ran_at": "2026-09-25T03:11:00.734Z",
+          "environment": "docker:node:22-bookworm"
+        },
+        "deploy_status": "failed",
         "deploy_clarity": "medium",
-        "mcp_invocation": "node build/index.js (stdio, per Claude Desktop config)",
-        "not_attempted_reason": "no falsifiable install+entry probe from deploy_spec"
+        "mcp_invocation": "node build/index.js (stdio, per Claude Desktop config)"
       },
       "install": "git clone https://github.com/nirholas/binance-mcp.git",
       "date_added": "2026-07-13",
@@ -12058,7 +12303,7 @@
       "install": "npm install -g blockbeats-mcp",
       "date_added": "2026-07-13",
       "detail_url": "https://satohub.ai/resources/blockbeats-mcp",
-      "trust_score_delta_7d": -8
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "blockchain-academics-mcp",
@@ -12139,7 +12384,7 @@
       "install": "npm install @blockchainacademics/mcp",
       "date_added": "2026-07-19",
       "detail_url": "https://satohub.ai/resources/blockchain-academics-mcp",
-      "trust_score_delta_7d": -1
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "blockrun",
@@ -12292,7 +12537,7 @@
       "liveness": "Active",
       "last_activity_at": "2026-09-08T03:19:30.000Z",
       "github_stars": 46,
-      "verified_install": false,
+      "verified_install": true,
       "verification_status": "Self-Reported",
       "creator_name": "Blockscout",
       "deployment_options": [
@@ -12310,31 +12555,50 @@
       ],
       "observed_success_pct": 100,
       "observed_days": 72,
-      "install_verified_at": null,
+      "install_verified_at": "2026-09-25",
       "deploy_spec": {
-        "as_of": "2026-09-14",
+        "as_of": "2026-09-25",
         "entry": "python -m blockscout_mcp_server (stdio) or python -m blockscout_mcp_server --http --http-host 0.0.0.0 --http-port 8000",
         "chains": [
           "Multi-chain via Blockscout PRO API + Chainscout metadata"
         ],
         "install": [
-          "git clone https://github.com/blockscout/mcp-server.git && cd mcp-server && uv pip install -e .",
+          "git clone --recurse-submodules https://github.com/blockscout/mcp-server.git && cd mcp-server && uv pip install -e .",
           "docker pull ghcr.io/blockscout/mcp-server:latest"
         ],
         "license": "Unknown (custom Blockscout Software Licence; see LICENSE file — not a standard SPDX identifier)",
         "runtime": "Python (pip/uv) or Docker; hosted MCP endpoint also available",
         "requires": [
+          "The bundled agent-skills git submodule: the README's local install shows a plain `git clone`, but the package build stops with \"Bundled skill entrypoint not found\" unless the submodule is present — clone with --recurse-submodules (or run `git submodule update --init agent-skills`, as the README's Docker section does)",
           "BLOCKSCOUT_PRO_API_KEY (required for most features; register at dev.blockscout.com, proapi_ prefix)",
           "optional: BLOCKSCOUT_MCP_USER_AGENT, BLOCKSCOUT_DISABLE_COMMUNITY_TELEMETRY"
         ],
         "mcp_native": true,
-        "source_url": "https://raw.githubusercontent.com/blockscout/mcp-server/main/README.md",
-        "deploy_status": "unknown",
-        "deploy_clarity": "high",
-        "mcp_invocation": "python -m blockscout_mcp_server (stdio), or hosted: {\"mcpServers\": {\"blockscout\": {\"url\": \"https://mcp.blockscout.com/mcp\", \"timeout\": 180000, \"headers\": {\"Blockscout-MCP-Pro-Api-Key\": \"proapi_your_key_here\"}}}}",
-        "not_attempted_reason": "no falsifiable install+entry probe from deploy_spec"
+        "source_url": "https://github.com/blockscout/mcp-server#readme",
+        "verification": {
+          "ok": true,
+          "checks": [
+            {
+              "ok": true,
+              "name": "install",
+              "detail": "python:3.12 · installed",
+              "command": "pip install --quiet --disable-pip-version-check uv poetry || exit 1; export UV_SYSTEM_PYTHON=1; mkdir -p /app || exit 1; cd /app || exit 1; git clone --recurse-submodules https://github.com/blockscout/mcp-server.git && cd mcp-server && uv pip install -e ."
+            },
+            {
+              "ok": true,
+              "name": "entry",
+              "detail": "entry loaded",
+              "command": "d=\"$(ls -d /app/*/ 2>/dev/null | head -1)\"; cd /app/mcp-server 2>/dev/null || { [ -n \"$d\" ] && cd \"$d\"; } || cd /app || exit 1; if timeout 8 python -m blockscout_mcp_server </dev/null >/dev/null 2>&1; then c=0; else c=$?; fi; [ $c -eq 124 ] || [ $c -eq 0 ] || exit 3"
+            }
+          ],
+          "ran_at": "2026-09-25T03:10:46.439Z",
+          "environment": "docker:python:3.12"
+        },
+        "deploy_status": "verified",
+        "deploy_clarity": "medium",
+        "mcp_invocation": "python -m blockscout_mcp_server (stdio), or hosted: {\"mcpServers\": {\"blockscout\": {\"url\": \"https://mcp.blockscout.com/mcp\", \"timeout\": 180000, \"headers\": {\"Blockscout-MCP-Pro-Api-Key\": \"proapi_your_key_here\"}}}}"
       },
-      "install": "git clone https://github.com/blockscout/mcp-server.git && cd mcp-server && uv pip install -e .",
+      "install": "git clone --recurse-submodules https://github.com/blockscout/mcp-server.git && cd mcp-server && uv pip install -e .",
       "date_added": "2026-07-12",
       "detail_url": "https://satohub.ai/resources/blockscout-mcp",
       "trust_score_delta_7d": 0
@@ -14106,16 +14370,54 @@
       "liveness": null,
       "last_activity_at": null,
       "github_stars": null,
-      "verified_install": false,
+      "verified_install": true,
       "verification_status": "Self-Reported",
       "creator_name": null,
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": null,
       "observed_days": 1,
-      "install_verified_at": null,
-      "deploy_spec": null,
-      "install": null,
+      "install_verified_at": "2026-09-25",
+      "deploy_spec": {
+        "as_of": "2026-09-25",
+        "entry": "import { searchX402Resources } from '@coinbase/cdp-sdk'",
+        "chains": [
+          "Base",
+          "Solana"
+        ],
+        "install": [
+          "npm install @coinbase/cdp-sdk"
+        ],
+        "license": "MIT (@coinbase/cdp-sdk)",
+        "runtime": "Node.js (TypeScript CDP SDK); also plain REST and a hosted MCP",
+        "requires": [
+          "Nothing to search the public catalog; paying for a discovered service needs a funded x402 buyer wallet"
+        ],
+        "mcp_native": false,
+        "source_url": "https://docs.cdp.coinbase.com/x402/bazaar",
+        "verification": {
+          "ok": true,
+          "checks": [
+            {
+              "ok": true,
+              "name": "install",
+              "detail": "node:22-bookworm-slim · installed",
+              "command": "mkdir -p /app || exit 1; cd /app || exit 1; npm install @coinbase/cdp-sdk"
+            },
+            {
+              "ok": true,
+              "name": "entry",
+              "detail": "entry loaded",
+              "command": "cd /app; d=/app/node_modules/@coinbase/cdp-sdk; [ -d \"$d\" ] || d=\"$(npm root -g)/@coinbase/cdp-sdk\"; node --input-type=module -e \"const fs=await import('node:fs');const dir=process.argv[1];let pj={};try{pj=JSON.parse(fs.readFileSync(dir+'/package.json','utf8'))}catch{}let bin=pj.bin;if(typeof bin==='string')bin={b:bin};const rel=bin&&Object.values(bin)[0];if(rel){const {spawnSync}=await import('node:child_process');const r=spawnSync('timeout',['8','node',dir+'/'+rel],{stdio:'ignore'});process.exit(r.status===124||r.status===0?0:3);}const m=await import('@coinbase/cdp-sdk');if(!m||Object.keys(m"
+            }
+          ],
+          "ran_at": "2026-09-25T00:08:07.873Z",
+          "environment": "docker:node:22-bookworm-slim"
+        },
+        "deploy_status": "verified",
+        "deploy_clarity": "medium"
+      },
+      "install": "npm install @coinbase/cdp-sdk",
       "date_added": "2026-09-23",
       "detail_url": "https://satohub.ai/resources/coinbase-x402-bazaar",
       "trust_score_delta_7d": null
@@ -15194,7 +15496,7 @@
       "install": null,
       "date_added": "2026-07-19",
       "detail_url": "https://satohub.ai/resources/cryptopolitan-mcp",
-      "trust_score_delta_7d": 32
+      "trust_score_delta_7d": 10
     },
     {
       "slug": "cryptoquant-mcp",
@@ -16361,7 +16663,7 @@
       "install": "npx -y eth-mcp@latest",
       "date_added": "2026-07-19",
       "detail_url": "https://satohub.ai/resources/eth-mcp-austingriffith",
-      "trust_score_delta_7d": 0
+      "trust_score_delta_7d": 15
     },
     {
       "slug": "ethskills",
@@ -16944,8 +17246,29 @@
       "observed_success_pct": null,
       "observed_days": 2,
       "install_verified_at": null,
-      "deploy_spec": null,
-      "install": null,
+      "deploy_spec": {
+        "as_of": "2026-09-25",
+        "entry": "First tool call opens a browser for OAuth; reads are scoped to your own account",
+        "chains": [
+          "Ethereum"
+        ],
+        "install": [
+          "claude mcp add --transport http risk-graph https://risk-graph-mcp.forta.network/mcp",
+          "# skills (optional): /plugin marketplace add forta-network/forta-risk-skills then /plugin install forta-risk@forta-risk"
+        ],
+        "license": "MIT (skills repo); the MCP server itself is hosted",
+        "runtime": "Hosted remote MCP (Streamable HTTP, OAuth) + Claude Code plugin",
+        "requires": [
+          "A Forta account (OAuth on first tool call)"
+        ],
+        "mcp_native": true,
+        "source_url": "https://github.com/forta-network/forta-risk-skills#readme",
+        "deploy_status": "unknown",
+        "deploy_clarity": "high",
+        "mcp_invocation": "https://risk-graph-mcp.forta.network/mcp (Streamable HTTP)",
+        "not_attempted_reason": "install step is a client registration (claude/cursor mcp add), not an install"
+      },
+      "install": "claude mcp add --transport http risk-graph https://risk-graph-mcp.forta.network/mcp",
       "date_added": "2026-09-22",
       "detail_url": "https://satohub.ai/resources/forta-risk-graph-mcp",
       "trust_score_delta_7d": null
@@ -17707,7 +18030,7 @@
       "liveness": "Active",
       "last_activity_at": "2026-09-20T06:45:31.000Z",
       "github_stars": 463,
-      "verified_install": false,
+      "verified_install": true,
       "verification_status": "Unverified",
       "creator_name": null,
       "deployment_options": [],
@@ -17721,9 +18044,45 @@
       ],
       "observed_success_pct": null,
       "observed_days": 2,
-      "install_verified_at": null,
-      "deploy_spec": null,
-      "install": null,
+      "install_verified_at": "2026-09-25",
+      "deploy_spec": {
+        "as_of": "2026-09-25",
+        "entry": "agentguard status",
+        "install": [
+          "npm install -g @goplus/agentguard"
+        ],
+        "license": "MIT",
+        "runtime": "Node.js >=18",
+        "requires": [
+          "`agentguard init` to configure hooks for a supported agent host (Claude Code, Codex, OpenClaw, Hermes, DSH)",
+          "AgentGuard Cloud connection is optional; the local runtime guard needs no account or network"
+        ],
+        "mcp_native": true,
+        "source_url": "https://github.com/GoPlusSecurity/agentguard#readme",
+        "verification": {
+          "ok": true,
+          "checks": [
+            {
+              "ok": true,
+              "name": "install",
+              "detail": "node:22-bookworm-slim · installed",
+              "command": "mkdir -p /app || exit 1; cd /app || exit 1; npm install -g @goplus/agentguard"
+            },
+            {
+              "ok": true,
+              "name": "entry",
+              "detail": "entry loaded",
+              "command": "cd /app; d=/app/node_modules/@goplus/agentguard; [ -d \"$d\" ] || d=\"$(npm root -g)/@goplus/agentguard\"; node --input-type=module -e \"const fs=await import('node:fs');const dir=process.argv[1];let pj={};try{pj=JSON.parse(fs.readFileSync(dir+'/package.json','utf8'))}catch{}let bin=pj.bin;if(typeof bin==='string')bin={b:bin};const rel=bin&&Object.values(bin)[0];if(rel){const {spawnSync}=await import('node:child_process');const r=spawnSync('timeout',['8','node',dir+'/'+rel],{stdio:'ignore'});process.exit(r.status===124||r.status===0?0:3);}const m=await import('@goplus/agentguard');if(!m||Object.key"
+            }
+          ],
+          "ran_at": "2026-09-25T00:08:03.406Z",
+          "environment": "docker:node:22-bookworm-slim"
+        },
+        "deploy_status": "verified",
+        "deploy_clarity": "high",
+        "mcp_invocation": "agentguard-mcp (stdio, from the same package)"
+      },
+      "install": "npm install -g @goplus/agentguard",
       "date_added": "2026-09-22",
       "detail_url": "https://satohub.ai/resources/goplus-agentguard",
       "trust_score_delta_7d": null
@@ -18934,7 +19293,7 @@
           "Polygon"
         ],
         "install": [
-          "git clone --recurse-submodules",
+          "git clone --recurse-submodules https://github.com/ionicprotocol/monorepo",
           "yarn",
           "yarn workspace @ionicprotocol/sdk forge install",
           "yarn workspace @ionicprotocol/sdk build"
@@ -18951,7 +19310,7 @@
         "deploy_clarity": "low",
         "not_attempted_reason": "the run did not complete and the log named no cause we could attribute"
       },
-      "install": "git clone --recurse-submodules",
+      "install": "git clone --recurse-submodules https://github.com/ionicprotocol/monorepo",
       "date_added": "2026-07-19",
       "detail_url": "https://satohub.ai/resources/ionic-protocol",
       "trust_score_delta_7d": 0
@@ -19098,16 +19457,55 @@
       "liveness": "Quiet",
       "last_activity_at": "2026-06-02T02:16:43.000Z",
       "github_stars": 60,
-      "verified_install": false,
+      "verified_install": true,
       "verification_status": "Self-Reported",
       "creator_name": null,
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": null,
       "observed_days": 1,
-      "install_verified_at": null,
-      "deploy_spec": null,
-      "install": null,
+      "install_verified_at": "2026-09-25",
+      "deploy_spec": {
+        "as_of": "2026-09-25",
+        "entry": "jup --help   # every command is non-interactive; add --dry-run to a transacting command to get the unsigned transaction instead of submitting it",
+        "chains": [
+          "Solana"
+        ],
+        "install": [
+          "npm i -g @jup-ag/cli"
+        ],
+        "license": "GPL-3.0",
+        "runtime": "Node.js (CLI) — Jupiter's MCP server is hosted at https://mcp.jup.ag",
+        "requires": [
+          "A Solana key for transacting commands (`jup keys add <name>` generates or imports one) — reads need none",
+          "Pre-v1 (early alpha) per the README: breaking changes may land without warning"
+        ],
+        "mcp_native": false,
+        "source_url": "https://github.com/jup-ag/cli#readme",
+        "verification": {
+          "ok": true,
+          "checks": [
+            {
+              "ok": true,
+              "name": "install",
+              "detail": "node:22-bookworm-slim · installed",
+              "command": "mkdir -p /app || exit 1; cd /app || exit 1; npm i -g @jup-ag/cli"
+            },
+            {
+              "ok": true,
+              "name": "entry",
+              "detail": "entry loaded",
+              "command": "cd /app; d=/app/node_modules/@jup-ag/cli; [ -d \"$d\" ] || d=\"$(npm root -g)/@jup-ag/cli\"; node --input-type=module -e \"const fs=await import('node:fs');const dir=process.argv[1];let pj={};try{pj=JSON.parse(fs.readFileSync(dir+'/package.json','utf8'))}catch{}let bin=pj.bin;if(typeof bin==='string')bin={b:bin};const rel=bin&&Object.values(bin)[0];if(rel){const {spawnSync}=await import('node:child_process');const p=dir+'/'+rel;let h='';try{h=fs.readFileSync(p).subarray(0,128).toString('latin1')}catch{}const l1=h.slice(0,Math.max(0,h.indexOf(String.fromCharCode(10))));const nat=h.charCodeAt(0)===12"
+            }
+          ],
+          "ran_at": "2026-09-25T03:10:01.154Z",
+          "environment": "docker:node:22-bookworm-slim"
+        },
+        "deploy_status": "verified",
+        "deploy_clarity": "medium",
+        "mcp_invocation": "https://mcp.jup.ag"
+      },
+      "install": "npm i -g @jup-ag/cli",
       "date_added": "2026-09-23",
       "detail_url": "https://satohub.ai/resources/jupiter-trading-mcp",
       "trust_score_delta_7d": null
@@ -20168,7 +20566,7 @@
       "liveness": "Active",
       "last_activity_at": "2026-09-22T21:34:19.000Z",
       "github_stars": 9,
-      "verified_install": false,
+      "verified_install": true,
       "verification_status": "Unverified",
       "creator_name": null,
       "deployment_options": [
@@ -20181,9 +20579,9 @@
       ],
       "observed_success_pct": 100,
       "observed_days": 72,
-      "install_verified_at": null,
+      "install_verified_at": "2026-09-25",
       "deploy_spec": {
-        "as_of": "2026-07-20",
+        "as_of": "2026-09-25",
         "entry": "npx lightning-wallet-mcp (CLI: lw)",
         "chains": [
           "Bitcoin"
@@ -20202,23 +20600,25 @@
         "mcp_native": true,
         "source_url": "https://github.com/lightningfaucet/lightning-wallet-mcp",
         "verification": {
-          "ok": false,
+          "ok": true,
           "checks": [
             {
               "ok": true,
               "name": "install",
-              "detail": "node:22-bookworm-slim · installed"
+              "detail": "node:22-bookworm-slim · installed",
+              "command": "mkdir -p /app || exit 1; cd /app || exit 1; npm install -g lightning-wallet-mcp"
             },
             {
-              "ok": false,
+              "ok": true,
               "name": "entry",
-              "detail": "entry probe failed:     at onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:680:36) |     at TracingChannel.tracePromise (node:diagnostics_channel:350:14) |     at ModuleLoader.import (node:internal/modules/esm/loader:679:21) { |   code: 'ERR_MODULE_NOT_FOUND' | } | Node.js v22.23.2"
+              "detail": "entry loaded",
+              "command": "cd /app; d=/app/node_modules/lightning-wallet-mcp; [ -d \"$d\" ] || d=\"$(npm root -g)/lightning-wallet-mcp\"; node --input-type=module -e \"const fs=await import('node:fs');const dir=process.argv[1];let pj={};try{pj=JSON.parse(fs.readFileSync(dir+'/package.json','utf8'))}catch{}let bin=pj.bin;if(typeof bin==='string')bin={b:bin};const rel=bin&&Object.values(bin)[0];if(rel){const {spawnSync}=await import('node:child_process');const r=spawnSync('timeout',['8','node',dir+'/'+rel],{stdio:'ignore'});process.exit(r.status===124||r.status===0?0:3);}const m=await import('lightning-wallet-mcp');if(!m||Obje"
             }
           ],
-          "ran_at": "2026-09-07T15:26:56.788Z",
+          "ran_at": "2026-09-25T00:07:59.290Z",
           "environment": "docker:node:22-bookworm-slim"
         },
-        "deploy_status": "self_reported",
+        "deploy_status": "verified",
         "deploy_clarity": "high",
         "mcp_invocation": "npx lightning-wallet-mcp (stdio)"
       },
@@ -21616,7 +22016,7 @@
       "install": "forge build",
       "date_added": "2026-07-19",
       "detail_url": "https://satohub.ai/resources/metamask-delegation-framework",
-      "trust_score_delta_7d": 2
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "metamask-mcp-x402",
@@ -23619,7 +24019,7 @@
       "install": "npm create onchain",
       "date_added": "2026-07-19",
       "detail_url": "https://satohub.ai/resources/onchainkit",
-      "trust_score_delta_7d": 14
+      "trust_score_delta_7d": 29
     },
     {
       "slug": "oneinch-mcp",
@@ -25192,7 +25592,7 @@
       "install": "git clone https://github.com/caiovicentino/polymarket-mcp-server.git",
       "date_added": "2026-07-13",
       "detail_url": "https://satohub.ai/resources/polymarket-mcp",
-      "trust_score_delta_7d": 10
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "pons",
@@ -26489,7 +26889,7 @@
       "install": "git clone https://github.com/rocket-pool/skills",
       "date_added": "2026-07-13",
       "detail_url": "https://satohub.ai/resources/rocket-pool-skills",
-      "trust_score_delta_7d": 11
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "rootstock-mcp",
@@ -27584,16 +27984,54 @@
       "liveness": "Active",
       "last_activity_at": "2026-08-31T06:35:48Z",
       "github_stars": 2,
-      "verified_install": false,
+      "verified_install": true,
       "verification_status": "Self-Reported",
       "creator_name": null,
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": null,
       "observed_days": 1,
-      "install_verified_at": null,
-      "deploy_spec": null,
-      "install": null,
+      "install_verified_at": "2026-09-25",
+      "deploy_spec": {
+        "as_of": "2026-09-25",
+        "entry": "{\"mcpServers\":{\"skim\":{\"command\":\"npx\",\"args\":[\"-y\",\"skim-mcp\"],\"env\":{\"SKIM_API_KEY\":\"sk402_...\"}}}}",
+        "chains": [
+          "Base"
+        ],
+        "install": [
+          "npx -y skim-mcp"
+        ],
+        "license": "MIT",
+        "runtime": "Node.js >=18",
+        "requires": [
+          "SKIM_API_KEY (card-plan key from skim402.com) — OR — SKIM_WALLET_PRIVATE_KEY for x402 pay-per-call in USDC on Base (use a dedicated hot wallet)"
+        ],
+        "mcp_native": true,
+        "source_url": "https://github.com/JessieJanie/skim402#readme",
+        "verification": {
+          "ok": true,
+          "checks": [
+            {
+              "ok": true,
+              "name": "install",
+              "detail": "node:22-bookworm · installed",
+              "command": "mkdir -p /app && cd /app && npm init -y >/dev/null 2>&1 && npm install --no-fund --no-audit skim-mcp"
+            },
+            {
+              "ok": true,
+              "name": "entry",
+              "detail": "entry loaded",
+              "command": "cd /app; if timeout 8 npx --no-install skim-mcp </dev/null; then c=0; else c=$?; fi; [ $c -eq 124 ] || [ $c -eq 0 ] || exit 3"
+            }
+          ],
+          "ran_at": "2026-09-25T00:07:12.040Z",
+          "environment": "docker:node:22-bookworm"
+        },
+        "deploy_status": "verified",
+        "deploy_clarity": "high",
+        "mcp_invocation": "npx -y skim-mcp (stdio)"
+      },
+      "install": "npx -y skim-mcp",
       "date_added": "2026-09-23",
       "detail_url": "https://satohub.ai/resources/skim",
       "trust_score_delta_7d": null
@@ -27714,25 +28152,25 @@
       "liveness": "Recent",
       "last_activity_at": "2026-08-03T12:49:48.000Z",
       "github_stars": 9,
-      "verified_install": false,
+      "verified_install": true,
       "verification_status": "Unverified",
       "creator_name": null,
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 98.5,
       "observed_days": 67,
-      "install_verified_at": null,
+      "install_verified_at": "2026-09-25",
       "deploy_spec": {
-        "as_of": "2026-09-14",
-        "entry": "{\"mcpServers\": {\"sodax-builders\": {\"url\": \"https://builders.sodax.com/mcp\"}}}",
+        "as_of": "2026-09-25",
+        "entry": "pnpm start   # = node --env-file-if-exists=.env dist/index.js; or connect to the hosted server: {\"mcpServers\": {\"sodax-builders\": {\"url\": \"https://builders.sodax.com/mcp\"}}}",
         "chains": [
           "19+ networks for cross-chain swaps (list exposed via the sodax_get_supported_chains tool at runtime, not enumerated in docs)"
         ],
         "install": [
+          "git clone https://github.com/gosodax/builders-sodax-mcp-server",
+          "cd builders-sodax-mcp-server",
           "pnpm install",
-          "pnpm dev",
-          "pnpm build",
-          "pnpm start"
+          "pnpm build"
         ],
         "license": "MIT",
         "runtime": "Node.js >=22.9.0 (TypeScript, pnpm) — hosted remote endpoint also available",
@@ -27745,16 +28183,34 @@
           ".env.example provided as a template"
         ],
         "mcp_native": true,
-        "source_url": "https://github.com/gosodax/builders-sodax-mcp-server",
-        "deploy_status": "unknown",
+        "source_url": "https://github.com/gosodax/builders-sodax-mcp-server#readme",
+        "verification": {
+          "ok": true,
+          "checks": [
+            {
+              "ok": true,
+              "name": "install",
+              "detail": "node:22-bookworm · installed",
+              "command": "export COREPACK_ENABLE_DOWNLOAD_PROMPT=0; corepack enable || exit 1; mkdir -p /app || exit 1; cd /app || exit 1; git clone https://github.com/gosodax/builders-sodax-mcp-server && cd builders-sodax-mcp-server && pnpm install && pnpm build"
+            },
+            {
+              "ok": true,
+              "name": "entry",
+              "detail": "entry loaded",
+              "command": "d=\"$(ls -d /app/*/ 2>/dev/null | head -1)\"; cd /app/builders-sodax-mcp-server 2>/dev/null || { [ -n \"$d\" ] && cd \"$d\"; } || cd /app || exit 1; if timeout 8 node dist/index.js </dev/null >/dev/null 2>&1; then c=0; else c=$?; fi; [ $c -eq 124 ] || [ $c -eq 0 ] || exit 3"
+            }
+          ],
+          "ran_at": "2026-09-25T03:10:32.524Z",
+          "environment": "docker:node:22-bookworm"
+        },
+        "deploy_status": "verified",
         "deploy_clarity": "high",
-        "mcp_invocation": "hosted URL: https://builders.sodax.com/mcp (Streamable HTTP), legacy SSE at https://builders.sodax.com/sse; local: pnpm start",
-        "not_attempted_reason": "no falsifiable install+entry probe from deploy_spec"
+        "mcp_invocation": "node dist/index.js (http, local — what `pnpm start` runs); hosted: https://builders.sodax.com/mcp (Streamable HTTP), legacy SSE at https://builders.sodax.com/sse"
       },
-      "install": "pnpm install",
+      "install": "git clone https://github.com/gosodax/builders-sodax-mcp-server",
       "date_added": "2026-07-19",
       "detail_url": "https://satohub.ai/resources/sodax-builders-mcp",
-      "trust_score_delta_7d": 9
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "solana-ai-kit",
@@ -27785,7 +28241,7 @@
       "trust_score": 51,
       "trust_tier": "Medium",
       "provisional": false,
-      "liveness": "Recent",
+      "liveness": "Quiet",
       "last_activity_at": "2026-06-26T22:40:39.000Z",
       "github_stars": 87,
       "verified_install": false,
@@ -29151,7 +29607,7 @@
       "install": "claude mcp add btc-whale-intelligence https://mcp.swisswhaleintelligence.com/mcp",
       "date_added": "2026-07-19",
       "detail_url": "https://satohub.ai/resources/swiss-whale-intelligence-mcp",
-      "trust_score_delta_7d": 7
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "tari-mcp",
@@ -30851,7 +31307,7 @@
       "install": "npx -y @vechain/mcp-server@latest",
       "date_added": "2026-07-13",
       "detail_url": "https://satohub.ai/resources/vechain-mcp",
-      "trust_score_delta_7d": 0
+      "trust_score_delta_7d": 10
     },
     {
       "slug": "veilnet",
@@ -32943,6 +33399,60 @@
       "trust_score_delta_7d": 0
     },
     {
+      "slug": "alby-x402-facilitator",
+      "name": "Alby x402 Facilitator",
+      "category": "API / SDK",
+      "subcategory": "Agent Payments",
+      "entity_class": "resource",
+      "resource_type": "Tool/Service",
+      "interfaces": [
+        "api"
+      ],
+      "standards": [
+        "x402"
+      ],
+      "use_cases": [
+        "payments"
+      ],
+      "description_short": "Multi-tenant x402 facilitator for Lightning built on Nostr Wallet Connect. Predates the merged lnbtc spec and still advertises bip122.",
+      "website_url": "https://x402.albylabs.com/",
+      "github_url": "https://github.com/getAlby/x402-facilitator",
+      "docs_url": null,
+      "chains_supported": [
+        "Bitcoin"
+      ],
+      "tags": [
+        "x402",
+        "lightning",
+        "bitcoin",
+        "facilitator",
+        "nostr-wallet-connect",
+        "nwc",
+        "http-402"
+      ],
+      "status": "Early",
+      "open_source_status": "Yes",
+      "trust_score": null,
+      "trust_tier": null,
+      "provisional": false,
+      "liveness": null,
+      "last_activity_at": null,
+      "github_stars": null,
+      "verified_install": false,
+      "verification_status": "Unverified",
+      "creator_name": "Alby",
+      "deployment_options": [],
+      "supported_integrations": [],
+      "observed_success_pct": null,
+      "observed_days": null,
+      "install_verified_at": null,
+      "deploy_spec": null,
+      "install": null,
+      "date_added": "2026-09-24",
+      "detail_url": "https://satohub.ai/resources/alby-x402-facilitator",
+      "trust_score_delta_7d": null
+    },
+    {
       "slug": "bitget-wallet-skill",
       "name": "Bitget Wallet Skill",
       "category": "Skill Repo",
@@ -33461,7 +33971,7 @@
       "install": "pip install clawmes",
       "date_added": "2026-06-16",
       "detail_url": "https://satohub.ai/resources/clawmes",
-      "trust_score_delta_7d": 10
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "cloddsbot",
@@ -33506,7 +34016,7 @@
       "liveness": "Active",
       "last_activity_at": "2026-09-12T03:58:43.000Z",
       "github_stars": 2757,
-      "verified_install": false,
+      "verified_install": true,
       "verification_status": "Unverified",
       "creator_name": "alsk1992",
       "deployment_options": [
@@ -33526,9 +34036,9 @@
       ],
       "observed_success_pct": 100,
       "observed_days": 72,
-      "install_verified_at": null,
+      "install_verified_at": "2026-09-25",
       "deploy_spec": {
-        "as_of": "2026-09-14",
+        "as_of": "2026-09-25",
         "entry": "clodds onboard",
         "chains": [
           "Solana",
@@ -33549,10 +34059,28 @@
         ],
         "mcp_native": true,
         "source_url": "https://github.com/alsk1992/CloddsBot",
-        "deploy_status": "unknown",
+        "verification": {
+          "ok": true,
+          "checks": [
+            {
+              "ok": true,
+              "name": "install",
+              "detail": "node:22-bookworm · installed",
+              "command": "npm install -g --no-fund --no-audit clodds --loglevel=error"
+            },
+            {
+              "ok": true,
+              "name": "entry",
+              "detail": "entry loaded",
+              "command": "clodds --version || clodds --help >/dev/null"
+            }
+          ],
+          "ran_at": "2026-09-25T00:10:15.403Z",
+          "environment": "docker:node:22-bookworm"
+        },
+        "deploy_status": "verified",
         "deploy_clarity": "high",
-        "mcp_invocation": "clodds mcp",
-        "not_attempted_reason": "no falsifiable install+entry probe from deploy_spec"
+        "mcp_invocation": "clodds mcp"
       },
       "install": "npm install -g clodds --loglevel=error",
       "date_added": "2026-06-16",
@@ -34188,6 +34716,60 @@
       "date_added": "2026-06-16",
       "detail_url": "https://satohub.ai/resources/intentkit",
       "trust_score_delta_7d": 18
+    },
+    {
+      "slug": "lightning-pi",
+      "name": "Lightning pi",
+      "category": "API / SDK",
+      "subcategory": "Agent Payments",
+      "entity_class": "resource",
+      "resource_type": "Tool/Service",
+      "interfaces": [
+        "api"
+      ],
+      "standards": [
+        "x402"
+      ],
+      "use_cases": [
+        "payments"
+      ],
+      "description_short": "A small mainnet service paid with x402 over Lightning (lnbtc): digits of pi for 100 sats, with an agent SKILL.md and a Rust client.",
+      "website_url": "https://lightning-pi-matbalez.fly.dev/",
+      "github_url": "https://github.com/matbalez/lightning-pi",
+      "docs_url": null,
+      "chains_supported": [
+        "Bitcoin"
+      ],
+      "tags": [
+        "x402",
+        "lightning",
+        "bitcoin",
+        "http-402",
+        "bolt11",
+        "agent-skills",
+        "machine-payments"
+      ],
+      "status": "Early",
+      "open_source_status": "Yes",
+      "trust_score": null,
+      "trust_tier": null,
+      "provisional": false,
+      "liveness": null,
+      "last_activity_at": null,
+      "github_stars": null,
+      "verified_install": false,
+      "verification_status": "Unverified",
+      "creator_name": "Mat Balez",
+      "deployment_options": [],
+      "supported_integrations": [],
+      "observed_success_pct": null,
+      "observed_days": null,
+      "install_verified_at": null,
+      "deploy_spec": null,
+      "install": null,
+      "date_added": "2026-09-24",
+      "detail_url": "https://satohub.ai/resources/lightning-pi",
+      "trust_score_delta_7d": null
     },
     {
       "slug": "lucid-agents",

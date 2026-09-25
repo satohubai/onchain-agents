@@ -9,7 +9,7 @@ layout: "default"
 
 What the agent knows before it acts: RPC access, market data, chain indexing, wallet and token analytics.
 
-**75 listings**, ordered by Sato Score — a 0–100 measure of how open, active and verifiable a project is, [not a safety or returns grade](../sato-score.md). Rendered 2026-09-24 from the public Sato Hub export.
+**75 listings**, ordered by Sato Score — a 0–100 measure of how open, active and verifiable a project is, [not a safety or returns grade](../sato-score.md). Rendered 2026-09-25 from the public Sato Hub export.
 
 | Name | What it is | Chains | ⬡ Score | Last activity | Links |
 |---|---|---|---|---|---|
@@ -25,13 +25,13 @@ What the agent knows before it acts: RPC access, market data, chain indexing, wa
 | [AlgoVault Quant Signal MCP](https://github.com/AlgoVaultLabs/crypto-quant-signal-mcp) | MCP server for crypto-perps research signals, funding-rate arbitrage scans, and market-regime data. | Multichain | 81 | 1 day ago | [satohub.ai](https://satohub.ai/resources/algovault-quant-signal-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/algovault-quant-signal-mcp.md) |
 | [cryptocurrency.cv](https://github.com/nirholas/cryptocurrency.cv) | Free, key-less crypto news and market-data API aggregating Bitcoin, Ethereum, Solana, and DeFi. | — | 77 | 9 days ago | [satohub.ai](https://satohub.ai/resources/cryptocurrency-cv?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/cryptocurrency-cv.md) |
 | [CoinPaprika MCP](https://github.com/coinpaprika/coinpaprika-mcp) | Official CoinPaprika MCP: 30 tools for prices, tickers, OHLCV, and exchange data across 8,000+… | Multichain | 76 | 1 month ago | [satohub.ai](https://satohub.ai/resources/coinpaprika-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/coinpaprika-mcp.md) |
-| [DefiLlama](https://github.com/DefiLlama) | Open DeFi analytics dashboard and free API tracking TVL, fees, revenue, volume, and yields across… | Ethereum, Base, Solana +6 | 75 | 1 day ago | [satohub.ai](https://satohub.ai/resources/defillama?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/defillama.md) |
+| [DefiLlama](https://github.com/DefiLlama) | Open DeFi analytics dashboard and free API tracking TVL, fees, revenue, volume, and yields across… | Ethereum, Base, Solana +6 | 75 | 2 days ago | [satohub.ai](https://satohub.ai/resources/defillama?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/defillama.md) |
 | [Cryptopolitan MCP](https://github.com/4dmrkey/cryptopolitan-mcp) | MCP server serving Cryptopolitan's crypto news, analysis, and price data via SSE and HTTP endpoints. | — | 73 | 5 months ago | [satohub.ai](https://satohub.ai/resources/cryptopolitan-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/cryptopolitan-mcp.md) |
 | [Crypto APIs MCP Servers](https://github.com/CryptoAPIs-io/cryptoapis-mcp-hub) | Official Crypto APIs MCP suite: hosted endpoint plus per-package servers for balances, blocks, txs… | Multichain | 73 | 6 months ago | [satohub.ai](https://satohub.ai/resources/cryptoapis-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/cryptoapis-mcp.md) |
 | [Binance MCP Server (community)](https://github.com/AnalyticAce/binance-mcp-server) | Community-built MCP server for Binance exchange data in trading-agent workflows. Not official… | Multichain | 72 | 2 months ago | [satohub.ai](https://satohub.ai/resources/binance-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/binance-mcp.md) |
 | [TradingView MCP Server](https://github.com/atilaahmettaner/tradingview-mcp) | Community Python MCP for TradingView-style screening: 30+ technical-analysis tools across Binance… | Multichain | 69 | 23 days ago | [satohub.ai](https://satohub.ai/resources/tradingview-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/tradingview-mcp.md) |
 | [Alpaca MCP Server](https://github.com/alpacahq/alpaca-mcp-server) | Official Alpaca MCP for stock, options, and crypto trading, portfolio and order management, and… | — | 69 | 9 days ago | [satohub.ai](https://satohub.ai/resources/alpaca-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/alpaca-mcp.md) |
-| [graph-aave-mcp](https://github.com/PaulieB14/graph-aave-mcp) | MCP server querying Aave V2/V3/V4 lending and governance data across 7 chains via The Graph. | Ethereum, Base, Arbitrum +3 | 69 | 21 days ago | [satohub.ai](https://satohub.ai/resources/graph-aave-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/graph-aave-mcp.md) |
+| [graph-aave-mcp](https://github.com/PaulieB14/graph-aave-mcp) | MCP server querying Aave V2/V3/V4 lending and governance data across 7 chains via The Graph. | Ethereum, Base, Arbitrum +3 | 69 | 22 days ago | [satohub.ai](https://satohub.ai/resources/graph-aave-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/graph-aave-mcp.md) |
 | [OpenSea MCP](https://opensea.io) | Official hosted OpenSea MCP: NFT, token, and wallet data plus swap quotes and mint actions for… | Multichain | 67 | — | [satohub.ai](https://satohub.ai/resources/opensea-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/opensea-mcp.md) |
 | [Zerion MCP](https://developers.zerion.io/mcp) | Zerion's hosted MCP server exposing normalized wallet balances, DeFi positions, NFTs, and PnL… | Multichain | 67 | — | [satohub.ai](https://satohub.ai/resources/zerion-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/zerion-mcp.md) |
 | [MCP Crypto Price](https://github.com/truss44/mcp-crypto-price) | MCP server exposing CoinCap-backed crypto pricing, market stats, and technical indicators as… | Multichain | 66 | 5 days ago | [satohub.ai](https://satohub.ai/resources/mcp-crypto-price?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/mcp-crypto-price.md) |
@@ -96,6 +96,7 @@ Where a project publishes one, as recorded in its deploy spec:
 - **CoinGecko MCP** — `claude mcp add --transport http coingecko https://mcp.api.coingecko.com/mcp`
 - **DexPaprika MCP Server** — `npm install -g dexpaprika-mcp`
 - **Zerion** — `npm install -g zerion-cli`
+- **Skim** — `npx -y skim-mcp`
 - **Gate MCP Server** — `claude mcp add --transport http gate-mcp https://api.gatemcp.ai/mcp`
 - **Boar Blockchain MCP** — `claude mcp add boar-blockchain-mcp-basic --transport http --scope project https://mcp.boar.network/basic`
 - **Alchemy** — `npm install @alchemy/wallet-apis viem`
@@ -132,6 +133,5 @@ Where a project publishes one, as recorded in its deploy spec:
 - **Helius MCP** — `claude mcp add helius npx helius-mcp@latest`
 - **1inch Business MCP** — `claude mcp add --transport http --scope user 1inch-business https://api.1inch.com/mcp/protocol`
 - **Allora Network** — `curl -sSL https://raw.githubusercontent.com/allora-network/allora-chain/dev/install.sh \| bash -s -- v0.12.1`
-- **Everstake** — `export DASHBOARD_URL=https://dashboard-api.everstake.one`
 
 [← All layers](../index.md) · [satohub.ai directory ↗](https://satohub.ai/directory?utm_source=github&utm_medium=index&utm_campaign=onchain-agents)

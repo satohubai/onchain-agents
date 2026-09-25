@@ -50,6 +50,6 @@ claude mcp add --transport http Neynar https://docs.neynar.com/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `neynar-mcp`. https://satohub.ai/resources/neynar-mcp — retrieved 2026-09-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `neynar-mcp`. https://satohub.ai/resources/neynar-mcp — retrieved 2026-09-25.
 
 [← All layers](../index.md)

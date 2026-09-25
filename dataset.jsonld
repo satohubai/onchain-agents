@@ -2,7 +2,7 @@
   "@context": "https://schema.org",
   "@type": "Dataset",
   "name": "Onchain Agents — the scored, daily-updated index of the crypto agent stack",
-  "description": "431 listings of what onchain AI agents are built from — frameworks, MCP servers, wallets, payment rails, data tools, live agents — each with category, chains, standards, a liveness signal and a Sato Score (0-100, how open, active and verifiable; not a safety or returns grade). Rendered daily from the public Sato Hub export.",
+  "description": "435 listings of what onchain AI agents are built from — frameworks, MCP servers, wallets, payment rails, data tools, live agents — each with category, chains, standards, a liveness signal and a Sato Score (0-100, how open, active and verifiable; not a safety or returns grade). Rendered daily from the public Sato Hub export.",
   "url": "https://github.com/satohubai/onchain-agents",
   "sameAs": [
     "https://satohub.ai/data#index",
@@ -30,9 +30,9 @@
     "web3",
     "dataset"
   ],
-  "dateModified": "2026-09-24",
+  "dateModified": "2026-09-25",
   "temporalCoverage": "2026-06-11/..",
-  "version": "2026-09-24",
+  "version": "2026-09-25",
   "identifier": "https://doi.org/10.5281/zenodo.22803661",
   "distribution": [
     {

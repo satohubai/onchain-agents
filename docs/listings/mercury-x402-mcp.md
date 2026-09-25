@@ -29,6 +29,6 @@ Sato Score: **⬡ 35** (Low), +1 over 7 days — a measure of how open, active a
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `mercury-x402-mcp`. https://satohub.ai/resources/mercury-x402-mcp — retrieved 2026-09-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `mercury-x402-mcp`. https://satohub.ai/resources/mercury-x402-mcp — retrieved 2026-09-25.
 
 [← All layers](../index.md)

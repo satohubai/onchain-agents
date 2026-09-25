@@ -34,6 +34,6 @@ Sato Score: **⬡ 42** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `definitive-fi`. https://satohub.ai/resources/definitive-fi — retrieved 2026-09-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `definitive-fi`. https://satohub.ai/resources/definitive-fi — retrieved 2026-09-25.
 
 [← All layers](../index.md)

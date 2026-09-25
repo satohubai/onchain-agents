@@ -22,7 +22,7 @@ Sato Score: **⬡ 80** (High) — a measure of how open, active and verifiable t
 - **Creator:** Exa Labs
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 1 day ago
+- **Activity:** Active — last activity 2 days ago
 - **GitHub stars:** 5.0k
 - **Deploys as:** Hosted/Remote
 
@@ -36,6 +36,6 @@ Sato Score: **⬡ 80** (High) — a measure of how open, active and verifiable t
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `exa`. https://satohub.ai/resources/exa — retrieved 2026-09-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `exa`. https://satohub.ai/resources/exa — retrieved 2026-09-25.
 
 [← All layers](../index.md)

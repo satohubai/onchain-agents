@@ -50,6 +50,6 @@ then add {"url": "https://mcp.allium.so", "headers": {"X-API-KEY": "YOUR_KEY"}} 
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `allium-mcp`. https://satohub.ai/resources/allium-mcp — retrieved 2026-09-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `allium-mcp`. https://satohub.ai/resources/allium-mcp — retrieved 2026-09-25.
 
 [← All layers](../index.md)

@@ -9,7 +9,7 @@ layout: "default"
 
 Official BlockBeats MCP: crypto newsflashes, articles, market metrics, ETF flows, and macro signals.
 
-Sato Score: **⬡ 41** (Medium), -8 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 41** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -52,6 +52,6 @@ npm install -g blockbeats-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `blockbeats-mcp`. https://satohub.ai/resources/blockbeats-mcp — retrieved 2026-09-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `blockbeats-mcp`. https://satohub.ai/resources/blockbeats-mcp — retrieved 2026-09-25.
 
 [← All layers](../index.md)

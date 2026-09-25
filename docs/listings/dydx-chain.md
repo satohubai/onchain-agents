@@ -51,6 +51,6 @@ npm install @dydxprotocol/v4-client-js
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `dydx-chain`. https://satohub.ai/resources/dydx-chain — retrieved 2026-09-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `dydx-chain`. https://satohub.ai/resources/dydx-chain — retrieved 2026-09-25.
 
 [← All layers](../index.md)

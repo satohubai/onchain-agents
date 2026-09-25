@@ -21,7 +21,7 @@ Sato Score: **⬡ 69** (Medium) — a measure of how open, active and verifiable
 - **Use cases:** wallets
 - **Open source:** Yes
 - **Status:** Unknown
-- **Activity:** Active — last activity 17 days ago
+- **Activity:** Active — last activity 18 days ago
 - **GitHub stars:** 22
 - **Deploys as:** Claude Code plugin, hosted, self-hosted
 
@@ -50,6 +50,6 @@ claude mcp add bsv-mcp "bunx bsv-mcp@latest"
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bsv-mcp`. https://satohub.ai/resources/bsv-mcp — retrieved 2026-09-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bsv-mcp`. https://satohub.ai/resources/bsv-mcp — retrieved 2026-09-25.
 
 [← All layers](../index.md)

@@ -52,6 +52,6 @@ npm install @raydium-io/raydium-sdk-v2
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `raydium`. https://satohub.ai/resources/raydium — retrieved 2026-09-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `raydium`. https://satohub.ai/resources/raydium — retrieved 2026-09-25.
 
 [← All layers](../index.md)

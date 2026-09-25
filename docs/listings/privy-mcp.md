@@ -52,6 +52,6 @@ npx @privy-io/mcp-server
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `privy-mcp`. https://satohub.ai/resources/privy-mcp — retrieved 2026-09-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `privy-mcp`. https://satohub.ai/resources/privy-mcp — retrieved 2026-09-25.
 
 [← All layers](../index.md)

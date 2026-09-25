@@ -32,6 +32,6 @@ Sato Score: **⬡ 63** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `tempo-mpp-specs`. https://satohub.ai/resources/tempo-mpp-specs — retrieved 2026-09-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `tempo-mpp-specs`. https://satohub.ai/resources/tempo-mpp-specs — retrieved 2026-09-25.
 
 [← All layers](../index.md)

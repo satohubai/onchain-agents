@@ -51,6 +51,6 @@ npm install @orderly.network/hooks @orderly.network/core @orderly.network/types
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `orderly-network`. https://satohub.ai/resources/orderly-network — retrieved 2026-09-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `orderly-network`. https://satohub.ai/resources/orderly-network — retrieved 2026-09-25.
 
 [← All layers](../index.md)

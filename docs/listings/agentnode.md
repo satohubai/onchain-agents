@@ -22,7 +22,7 @@ Sato Score: **⬡ 75** (High) — a measure of how open, active and verifiable t
 - **Creator:** AgentNode
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 7 days ago
+- **Activity:** Active — last activity 8 days ago
 - **GitHub stars:** 2
 - **Deploys as:** pip, npm, MCP server, Docker, Self-hosted
 - **Works with:** LangChain, CrewAI, MCP, OpenAI Functions, Python
@@ -53,6 +53,6 @@ agentnode install word-counter-pack
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `agentnode`. https://satohub.ai/resources/agentnode — retrieved 2026-09-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `agentnode`. https://satohub.ai/resources/agentnode — retrieved 2026-09-25.
 
 [← All layers](../index.md)

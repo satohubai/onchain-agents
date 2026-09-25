@@ -31,6 +31,6 @@ Sato Score: **⬡ 56** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cabalspy-wallet-tracker`. https://satohub.ai/resources/cabalspy-wallet-tracker — retrieved 2026-09-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cabalspy-wallet-tracker`. https://satohub.ai/resources/cabalspy-wallet-tracker — retrieved 2026-09-25.
 
 [← All layers](../index.md)

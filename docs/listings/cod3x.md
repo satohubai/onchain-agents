@@ -34,6 +34,6 @@ Sato Score: **⬡ 31** (Low), +12 over 7 days — a measure of how open, active 
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cod3x`. https://satohub.ai/resources/cod3x — retrieved 2026-09-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cod3x`. https://satohub.ai/resources/cod3x — retrieved 2026-09-25.
 
 [← All layers](../index.md)

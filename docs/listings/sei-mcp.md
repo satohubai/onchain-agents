@@ -51,6 +51,6 @@ claude mcp add sei-mcp-server npx @sei-js/mcp-server
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `sei-mcp`. https://satohub.ai/resources/sei-mcp — retrieved 2026-09-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `sei-mcp`. https://satohub.ai/resources/sei-mcp — retrieved 2026-09-25.
 
 [← All layers](../index.md)

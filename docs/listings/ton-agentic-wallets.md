@@ -34,6 +34,6 @@ Sato Score: **⬡ 51** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ton-agentic-wallets`. https://satohub.ai/resources/ton-agentic-wallets — retrieved 2026-09-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ton-agentic-wallets`. https://satohub.ai/resources/ton-agentic-wallets — retrieved 2026-09-25.
 
 [← All layers](../index.md)

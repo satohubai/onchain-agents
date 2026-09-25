@@ -52,6 +52,6 @@ Add custom connector in Claude with endpoint https://mcp.getalby.com/mcp?nwc=ENC
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `alby-mcp`. https://satohub.ai/resources/alby-mcp — retrieved 2026-09-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `alby-mcp`. https://satohub.ai/resources/alby-mcp — retrieved 2026-09-25.
 
 [← All layers](../index.md)

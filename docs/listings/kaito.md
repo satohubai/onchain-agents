@@ -32,6 +32,6 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `kaito`. https://satohub.ai/resources/kaito — retrieved 2026-09-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `kaito`. https://satohub.ai/resources/kaito — retrieved 2026-09-25.
 
 [← All layers](../index.md)

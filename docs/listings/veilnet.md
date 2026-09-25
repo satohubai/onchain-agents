@@ -50,6 +50,6 @@ claude mcp add veilnet --scope user -- npx -y @veilnet/mcp-server
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `veilnet`. https://satohub.ai/resources/veilnet — retrieved 2026-09-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `veilnet`. https://satohub.ai/resources/veilnet — retrieved 2026-09-25.
 
 [← All layers](../index.md)

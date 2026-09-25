@@ -21,7 +21,7 @@ Sato Score: **⬡ 39** (Low) — a measure of how open, active and verifiable th
 ## Deploy spec
 
 ```sh
-git clone --recurse-submodules
+git clone --recurse-submodules https://github.com/ionicprotocol/monorepo
 yarn
 yarn workspace @ionicprotocol/sdk forge install
 yarn workspace @ionicprotocol/sdk build
@@ -46,6 +46,6 @@ yarn workspace @ionicprotocol/sdk build
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ionic-protocol`. https://satohub.ai/resources/ionic-protocol — retrieved 2026-09-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ionic-protocol`. https://satohub.ai/resources/ionic-protocol — retrieved 2026-09-25.
 
 [← All layers](../index.md)

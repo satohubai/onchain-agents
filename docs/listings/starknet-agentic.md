@@ -48,6 +48,6 @@ node packages/starknet-mcp-server/dist/index.js
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `starknet-agentic`. https://satohub.ai/resources/starknet-agentic — retrieved 2026-09-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `starknet-agentic`. https://satohub.ai/resources/starknet-agentic — retrieved 2026-09-25.
 
 [← All layers](../index.md)

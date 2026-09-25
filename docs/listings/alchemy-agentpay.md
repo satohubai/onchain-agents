@@ -35,6 +35,6 @@ Sato Score: **⬡ 37** (Low) — a measure of how open, active and verifiable th
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `alchemy-agentpay`. https://satohub.ai/resources/alchemy-agentpay — retrieved 2026-09-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `alchemy-agentpay`. https://satohub.ai/resources/alchemy-agentpay — retrieved 2026-09-25.
 
 [← All layers](../index.md)

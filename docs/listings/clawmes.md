@@ -9,7 +9,7 @@ layout: "default"
 
 Hermes Agent plugin for crypto: wallets, DEX trading, lending, staking, governance, and onchain automation.
 
-Sato Score: **⬡ 65** (Medium), +10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 65** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,7 +21,7 @@ Sato Score: **⬡ 65** (Medium), +10 over 7 days — a measure of how open, acti
 - **Creator:** clawnchdev
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 6 days ago
+- **Activity:** Active — last activity 7 days ago
 - **GitHub stars:** 25
 - **Deploys as:** pip, Hermes plugin
 - **Works with:** WalletConnect, 0x, Aave, Lido, Uniswap, LiFi, CoinGecko, Snapshot, Gnosis Safe
@@ -52,6 +52,6 @@ hermes clawmes init
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `clawmes`. https://satohub.ai/resources/clawmes — retrieved 2026-09-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `clawmes`. https://satohub.ai/resources/clawmes — retrieved 2026-09-25.
 
 [← All layers](../index.md)

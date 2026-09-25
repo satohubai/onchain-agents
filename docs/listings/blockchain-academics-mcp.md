@@ -9,7 +9,7 @@ layout: "default"
 
 MCP server exposing 99 tools for crypto market data, on-chain analytics, news, and entity dossiers.
 
-Sato Score: **⬡ 58** (Medium), -1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 58** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -46,6 +46,6 @@ npm install @blockchainacademics/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `blockchain-academics-mcp`. https://satohub.ai/resources/blockchain-academics-mcp — retrieved 2026-09-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `blockchain-academics-mcp`. https://satohub.ai/resources/blockchain-academics-mcp — retrieved 2026-09-25.
 
 [← All layers](../index.md)

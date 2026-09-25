@@ -21,8 +21,23 @@ Sato Score: **⬡ 68** (Medium) — a measure of how open, active and verifiable
 - **GitHub stars:** 463
 - **Works with:** Claude Code, Codex, OpenClaw, Hermes, QClaw, DSH
 
+## Deploy spec
+
+```sh
+npm install -g @goplus/agentguard
+```
+
+- **Entry:** agentguard status
+- **Runtime:** Node.js >=18
+- **Requires:** `agentguard init` to configure hooks for a supported agent host (Claude Code, Codex, OpenClaw, Hermes, DSH), AgentGuard Cloud connection is optional; the local runtime guard needs no account or network
+- **License:** MIT
+- **MCP native:** yes
+- **Deploy status:** verified
+- **As of:** 2026-09-25
+
 ## What we checked
 
+- Install reproduced in an isolated container on 2026-09-25.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -31,6 +46,6 @@ Sato Score: **⬡ 68** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `goplus-agentguard`. https://satohub.ai/resources/goplus-agentguard — retrieved 2026-09-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `goplus-agentguard`. https://satohub.ai/resources/goplus-agentguard — retrieved 2026-09-25.
 
 [← All layers](../index.md)

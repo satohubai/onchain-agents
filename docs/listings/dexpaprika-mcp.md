@@ -51,6 +51,6 @@ npm install -g dexpaprika-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `dexpaprika-mcp`. https://satohub.ai/resources/dexpaprika-mcp — retrieved 2026-09-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `dexpaprika-mcp`. https://satohub.ai/resources/dexpaprika-mcp — retrieved 2026-09-25.
 
 [← All layers](../index.md)

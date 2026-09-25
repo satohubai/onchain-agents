@@ -39,8 +39,8 @@ npm run build
 - **Requires:** BINANCE_API_KEY (risk: enables live trading with full account access per README), BINANCE_API_SECRET (same risk)
 - **License:** MIT
 - **MCP native:** yes
-- **Deploy status:** unknown
-- **As of:** 2026-09-14
+- **Deploy status:** failed
+- **As of:** 2026-09-25
 
 ## What we checked
 
@@ -53,6 +53,6 @@ npm run build
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `binance-mcp-nirholas`. https://satohub.ai/resources/binance-mcp-nirholas — retrieved 2026-09-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `binance-mcp-nirholas`. https://satohub.ai/resources/binance-mcp-nirholas — retrieved 2026-09-25.
 
 [← All layers](../index.md)

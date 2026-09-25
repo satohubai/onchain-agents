@@ -33,6 +33,6 @@ Sato Score: **⬡ 28** (Low) — a measure of how open, active and verifiable th
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cybercentry`. https://satohub.ai/resources/cybercentry — retrieved 2026-09-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cybercentry`. https://satohub.ai/resources/cybercentry — retrieved 2026-09-25.
 
 [← All layers](../index.md)

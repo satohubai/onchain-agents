@@ -47,6 +47,6 @@ npx skills add gmx-io/gmx-ai
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `gmx`. https://satohub.ai/resources/gmx — retrieved 2026-09-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `gmx`. https://satohub.ai/resources/gmx — retrieved 2026-09-25.
 
 [← All layers](../index.md)

@@ -29,6 +29,6 @@ Sato Score: **⬡ 34** (Low), +9 over 7 days — a measure of how open, active a
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `eruditepay-blockchain-intelligence`. https://satohub.ai/resources/eruditepay-blockchain-intelligence — retrieved 2026-09-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `eruditepay-blockchain-intelligence`. https://satohub.ai/resources/eruditepay-blockchain-intelligence — retrieved 2026-09-25.
 
 [← All layers](../index.md)

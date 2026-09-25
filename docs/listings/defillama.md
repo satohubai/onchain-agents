@@ -20,7 +20,7 @@ Sato Score: **⬡ 75** (High) — a measure of how open, active and verifiable t
 - **Use cases:** trading, payments, data
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 1 day ago
+- **Activity:** Active — last activity 2 days ago
 - **Deploys as:** API
 
 ## Deploy spec
@@ -51,6 +51,6 @@ pip install defillama-sdk
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `defillama`. https://satohub.ai/resources/defillama — retrieved 2026-09-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `defillama`. https://satohub.ai/resources/defillama — retrieved 2026-09-25.
 
 [← All layers](../index.md)

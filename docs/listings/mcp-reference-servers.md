@@ -50,6 +50,6 @@ npx -y @modelcontextprotocol/server-everything
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `mcp-reference-servers`. https://satohub.ai/resources/mcp-reference-servers — retrieved 2026-09-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `mcp-reference-servers`. https://satohub.ai/resources/mcp-reference-servers — retrieved 2026-09-25.
 
 [← All layers](../index.md)

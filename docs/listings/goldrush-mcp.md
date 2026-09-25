@@ -50,6 +50,6 @@ claude mcp add goldrush -e GOLDRUSH_API_KEY=<GOLDRUSH_API_KEY> -- npx @covalenth
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `goldrush-mcp`. https://satohub.ai/resources/goldrush-mcp — retrieved 2026-09-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `goldrush-mcp`. https://satohub.ai/resources/goldrush-mcp — retrieved 2026-09-25.
 
 [← All layers](../index.md)

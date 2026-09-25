@@ -48,6 +48,6 @@ export MISTTRACK_API_KEY=YOUR_MISTTRACK_API_KEY && npx -y misttrack@latest
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `misttrack-mcp`. https://satohub.ai/resources/misttrack-mcp — retrieved 2026-09-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `misttrack-mcp`. https://satohub.ai/resources/misttrack-mcp — retrieved 2026-09-25.
 
 [← All layers](../index.md)

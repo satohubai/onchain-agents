@@ -50,6 +50,6 @@ claude mcp add --transport http chainbase https://api.chainbase.com/v1/mcp --hea
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `chainbase-mcp`. https://satohub.ai/resources/chainbase-mcp — retrieved 2026-09-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `chainbase-mcp`. https://satohub.ai/resources/chainbase-mcp — retrieved 2026-09-25.
 
 [← All layers](../index.md)

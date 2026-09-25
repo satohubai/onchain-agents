@@ -22,7 +22,7 @@ Sato Score: **⬡ 76** (High) — a measure of how open, active and verifiable t
 - **Creator:** Anthropic
 - **Open source:** No
 - **Status:** Active
-- **Activity:** Active — last activity today
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 146.7k
 - **Deploys as:** npm
 - **Works with:** Model Context Protocol, GitHub, VS Code, JetBrains, Slack
@@ -38,11 +38,12 @@ npm install -g @anthropic-ai/claude-code
 - **Requires:** An Anthropic account — a Claude subscription or an API key (ANTHROPIC_API_KEY)
 - **License:** Proprietary (Anthropic — see LICENSE in the package README)
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-07-11
+- **Deploy status:** verified
+- **As of:** 2026-09-25
 
 ## What we checked
 
+- Install reproduced in an isolated container on 2026-09-25.
 - Live endpoint probed by us: 100% of our checks succeeded over 72 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Verified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
@@ -52,6 +53,6 @@ npm install -g @anthropic-ai/claude-code
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `claude-code`. https://satohub.ai/resources/claude-code — retrieved 2026-09-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `claude-code`. https://satohub.ai/resources/claude-code — retrieved 2026-09-25.
 
 [← All layers](../index.md)

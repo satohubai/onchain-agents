@@ -51,6 +51,6 @@ npm install -g nansen-cli
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `nansen`. https://satohub.ai/resources/nansen — retrieved 2026-09-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `nansen`. https://satohub.ai/resources/nansen — retrieved 2026-09-25.
 
 [← All layers](../index.md)

@@ -50,6 +50,6 @@ claude mcp add coinbase --transport http https://agents.coinbase.com/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `coinbase-mcp`. https://satohub.ai/resources/coinbase-mcp — retrieved 2026-09-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `coinbase-mcp`. https://satohub.ai/resources/coinbase-mcp — retrieved 2026-09-25.
 
 [← All layers](../index.md)

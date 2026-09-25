@@ -46,6 +46,6 @@ npx x402-proxy setup
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `x402-proxy-cascade`. https://satohub.ai/resources/x402-proxy-cascade — retrieved 2026-09-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `x402-proxy-cascade`. https://satohub.ai/resources/x402-proxy-cascade — retrieved 2026-09-25.
 
 [← All layers](../index.md)

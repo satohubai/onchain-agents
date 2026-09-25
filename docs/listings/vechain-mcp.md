@@ -9,7 +9,7 @@ layout: "default"
 
 Official VeChain MCP server exposing ecosystem resources and VeChain developer workflows to agents.
 
-Sato Score: **⬡ 81** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 81** (High), +10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -51,6 +51,6 @@ npx -y @vechain/mcp-server@latest
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `vechain-mcp`. https://satohub.ai/resources/vechain-mcp — retrieved 2026-09-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `vechain-mcp`. https://satohub.ai/resources/vechain-mcp — retrieved 2026-09-25.
 
 [← All layers](../index.md)

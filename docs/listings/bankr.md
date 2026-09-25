@@ -52,6 +52,6 @@ npm install -g @bankr/cli
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bankr`. https://satohub.ai/resources/bankr — retrieved 2026-09-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bankr`. https://satohub.ai/resources/bankr — retrieved 2026-09-25.
 
 [← All layers](../index.md)

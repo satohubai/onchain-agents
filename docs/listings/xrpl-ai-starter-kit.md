@@ -36,6 +36,6 @@ Sato Score: **⬡ 43** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `xrpl-ai-starter-kit`. https://satohub.ai/resources/xrpl-ai-starter-kit — retrieved 2026-09-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `xrpl-ai-starter-kit`. https://satohub.ai/resources/xrpl-ai-starter-kit — retrieved 2026-09-25.
 
 [← All layers](../index.md)

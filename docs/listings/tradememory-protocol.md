@@ -21,7 +21,7 @@ Sato Score: **⬡ 71** (High) — a measure of how open, active and verifiable t
 - **Creator:** Mnemox AI
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 15 days ago
+- **Activity:** Active — last activity 16 days ago
 - **GitHub stars:** 1.4k
 - **Deploys as:** pip, MCP server
 - **Works with:** Claude, MT5, Smithery, Claude Code, Cursor, Docker
@@ -50,6 +50,6 @@ pip install tradememory-protocol
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `tradememory-protocol`. https://satohub.ai/resources/tradememory-protocol — retrieved 2026-09-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `tradememory-protocol`. https://satohub.ai/resources/tradememory-protocol — retrieved 2026-09-25.
 
 [← All layers](../index.md)

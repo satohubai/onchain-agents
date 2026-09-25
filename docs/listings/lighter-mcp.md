@@ -48,6 +48,6 @@ pip install --upgrade git+https://github.com/elliottech/lighter-python.git@main
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lighter-mcp`. https://satohub.ai/resources/lighter-mcp — retrieved 2026-09-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lighter-mcp`. https://satohub.ai/resources/lighter-mcp — retrieved 2026-09-25.
 
 [← All layers](../index.md)

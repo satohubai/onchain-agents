@@ -33,6 +33,6 @@ Sato Score: **⬡ 33** (Low) — a measure of how open, active and verifiable th
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `aixbt`. https://satohub.ai/resources/aixbt — retrieved 2026-09-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `aixbt`. https://satohub.ai/resources/aixbt — retrieved 2026-09-25.
 
 [← All layers](../index.md)
