@@ -17,7 +17,7 @@ Sato Score: **⬡ 60** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Starknet
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 10 days ago
+- **Activity:** Active — last activity 2 days ago
 - **GitHub stars:** 80
 
 ## Deploy spec
@@ -39,12 +39,12 @@ node packages/starknet-mcp-server/dist/index.js
 
 ## What we checked
 
-- Live endpoint probed by us: 0% of our checks succeeded over 67 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 0% of our checks succeeded over 68 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
 
-[Website](https://starknet-agentic.com) · [GitHub](https://github.com/keep-starknet-strange/starknet-agentic) · [Sato Hub page ↗](https://satohub.ai/resources/starknet-agentic?utm_source=github&utm_medium=index&utm_campaign=onchain-agents)
+[Website](https://starknet-agentic.vercel.app) · [GitHub](https://github.com/keep-starknet-strange/starknet-agentic) · [Sato Hub page ↗](https://satohub.ai/resources/starknet-agentic?utm_source=github&utm_medium=index&utm_campaign=onchain-agents)
 
 ## Cite
 

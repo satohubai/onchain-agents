@@ -20,7 +20,7 @@ Sato Score: **⬡ 61** (Medium) — a measure of how open, active and verifiable
 - **Use cases:** wallets, security
 - **Open source:** Partial
 - **Status:** Early
-- **Activity:** Active — last activity 16 days ago
+- **Activity:** Active — last activity 17 days ago
 - **GitHub stars:** 6
 
 ## What we checked

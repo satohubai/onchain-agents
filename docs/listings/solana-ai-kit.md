@@ -9,7 +9,7 @@ layout: "default"
 
 Claude Code / Codex configuration bundle for Solana development — CLAUDE.md, agents, commands, hooks, and skills.
 
-Sato Score: **⬡ 51** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 46** (Medium), -5 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -38,7 +38,7 @@ git clone --recurse-submodules https://github.com/solanabr/solana-ai-kit.git
 
 ## What we checked
 
-- Live endpoint probed by us: 98.5% of our checks succeeded over 67 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 98.5% of our checks succeeded over 68 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links

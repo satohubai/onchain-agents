@@ -41,7 +41,7 @@ claude mcp add coinbase --transport http https://agents.coinbase.com/mcp
 
 ## What we checked
 
-- Live endpoint probed by us: 91.7% of our checks succeeded over 72 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 90.4% of our checks succeeded over 73 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links

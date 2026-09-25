@@ -9,7 +9,7 @@ layout: "default"
 
 OpenAI's agentic coding tool (CLI, IDE, and cloud) that runs agents and connects to MCP servers and skills.
 
-Sato Score: **⬡ 80** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 88** (High), +8 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -45,7 +45,7 @@ npm install -g @openai/codex
 ## What we checked
 
 - Install reproduced in an isolated container on 2026-09-25.
-- Live endpoint probed by us: 31.9% of our checks succeeded over 72 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 32.9% of our checks succeeded over 73 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Verified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links

@@ -20,7 +20,7 @@ Sato Score: **⬡ 86** (High), +18 over 7 days — a measure of how open, active
 - **Creator:** Crestal Network
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 8 days ago
+- **Activity:** Active — last activity 9 days ago
 - **GitHub stars:** 6.5k
 - **Deploys as:** self-hosted, Docker, library, API
 - **Works with:** Twitter, Telegram, Web3
@@ -43,7 +43,7 @@ pip install intentkit
 ## What we checked
 
 - Install reproduced in an isolated container on 2026-09-21.
-- Live endpoint probed by us: 100% of our checks succeeded over 72 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 73 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links

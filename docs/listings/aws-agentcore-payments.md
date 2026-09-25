@@ -9,7 +9,7 @@ layout: "default"
 
 Managed AWS service that lets agents pay for APIs, MCP servers and content over x402 and MPP, using Coinbase CDP or Stripe Privy wallets with per-session budgets.
 
-Sato Score: **⬡ 63** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 65** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -19,9 +19,10 @@ Sato Score: **⬡ 63** (Medium) — a measure of how open, active and verifiable
 - **Standards:** x402
 - **Interfaces:** sdk, rest-api
 - **Use cases:** payments, build
+- **Creator:** Amazon Web Services (AWS)
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 8 days ago
+- **Activity:** Active — last activity today
 - **GitHub stars:** 3.4k
 
 ## What we checked

@@ -22,7 +22,7 @@ Sato Score: **⬡ 66** (Medium) — a measure of how open, active and verifiable
 - **Creator:** OKX
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 6 days ago
+- **Activity:** Active — last activity 7 days ago
 - **GitHub stars:** 331
 - **Deploys as:** Claude Code, Cursor, Codex CLI, OpenCode, MCP server
 - **Works with:** Aave, Lido, PancakeSwap, Kamino, NAVI, Polymarket, Hyperliquid, Morpho, x402, MPP, a2a-pay

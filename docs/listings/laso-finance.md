@@ -9,7 +9,7 @@ layout: "default"
 
 Stablecoin-to-real-world spending for agents: prepaid and gift cards, Venmo/PayPal/ACH payouts. Callable via x402 (USDC on Base/Solana) or MCP.
 
-Sato Score: **⬡ 60** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 62** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,6 +21,7 @@ Sato Score: **⬡ 60** (Medium) — a measure of how open, active and verifiable
 - **Use cases:** payments
 - **Open source:** No
 - **Status:** Active
+- **Works with:** Claude Code (MCP), Locus, n8n, LangChain, OpenAI Agents, Palmyr
 
 ## What we checked
 
