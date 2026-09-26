@@ -9,7 +9,7 @@ layout: "default"
 
 Open-source LLM-driven trading agent for Hyperliquid perpetuals and grid strategies, with order execution and risk limits kept in deterministic code.
 
-Sato Score: not scored (non-product listing) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 50** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -17,6 +17,8 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 - **Chains:** Hyperliquid
 - **Open source:** Unknown
 - **Status:** Unknown
+- **Activity:** Active — last activity 8 days ago
+- **GitHub stars:** 39
 
 ## What we checked
 

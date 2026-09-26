@@ -44,12 +44,12 @@ git clone https://github.com/megaeth-labs/moss-skills && cp -r moss-skills/moss-
 
 ## What we checked
 
-- Live endpoint probed by us: 98.6% of our checks succeeded over 73 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 98.6% of our checks succeeded over 74 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
 
-[Website](https://docs.megaeth.com/moss-docs/wallet/agent-skills) · [Docs](https://docs.megaeth.com/moss-docs/wallet/agent-skills) · [GitHub](https://github.com/megaeth-labs/moss-skills) · [Sato Hub page ↗](https://satohub.ai/resources/moss-skills?utm_source=github&utm_medium=index&utm_campaign=onchain-agents)
+[Website](https://docs.megaeth.com/moss-docs/wallet/agent-skills) · [Docs](https://docs.megaeth.com/moss-docs/wallet/agent-skills) · [GitHub](https://github.com/megaeth-labs/skills) · [Sato Hub page ↗](https://satohub.ai/resources/moss-skills?utm_source=github&utm_medium=index&utm_campaign=onchain-agents)
 
 ## Cite
 

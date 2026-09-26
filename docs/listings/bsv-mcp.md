@@ -41,12 +41,12 @@ claude mcp add bsv-mcp "bunx bsv-mcp@latest"
 
 ## What we checked
 
-- Live endpoint probed by us: 6.8% of our checks succeeded over 73 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 6.8% of our checks succeeded over 74 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
 
-[Website](https://github.com/b-open-io/bsv-mcp) · [Docs](https://github.com/b-open-io/bsv-mcp) · [GitHub](https://github.com/b-open-io/bsv-mcp) · [Sato Hub page ↗](https://satohub.ai/resources/bsv-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents)
+[Website](https://github.com/opldotdev/bsv-mcp) · [Docs](https://github.com/opldotdev/bsv-mcp) · [GitHub](https://github.com/opldotdev/bsv-mcp) · [Sato Hub page ↗](https://satohub.ai/resources/bsv-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents)
 
 ## Cite
 

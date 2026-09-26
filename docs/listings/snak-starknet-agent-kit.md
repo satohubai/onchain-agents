@@ -14,11 +14,12 @@ Sato Score: **⬡ 59** (Medium) — a measure of how open, active and verifiable
 ## Facts
 
 - **Category:** Agent Framework
+- **Type:** Framework
 - **Chains:** Starknet
 - **Creator:** KasarLabs
 - **Open source:** Yes
 - **Status:** Unknown
-- **Activity:** Quiet — last activity 10 months ago
+- **Activity:** Quiet — last activity 11 months ago
 - **GitHub stars:** 96
 - **Works with:** OpenAI, Anthropic, Google Gemini, Ollama, DeepSeek
 
@@ -41,7 +42,7 @@ cp .env.example .env
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 68 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 69 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links

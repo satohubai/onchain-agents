@@ -14,6 +14,7 @@ Sato Score: **⬡ 46** (Medium) — a measure of how open, active and verifiable
 ## Facts
 
 - **Category:** Wallet Infrastructure
+- **Type:** Infrastructure
 - **Chains:** Ethereum, Polygon, Solana, Aptos, Multichain
 - **Creator:** CoinDCX
 - **Open source:** Partial

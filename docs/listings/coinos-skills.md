@@ -9,14 +9,17 @@ layout: "default"
 
 Six agent skills wrapping the AiCoin Open API and OKX Web3 DEX API: market data, exchange trading, Freqtrade strategies, Hyperliquid whale analysis, onchain DEX swaps.
 
-Sato Score: not scored (non-product listing) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 50** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
 - **Category:** Skill Repo
+- **Type:** Tool/Service
 - **Chains:** Hyperliquid
 - **Open source:** Unknown
 - **Status:** Unknown
+- **Activity:** Active — last activity 27 days ago
+- **GitHub stars:** 53
 
 ## What we checked
 

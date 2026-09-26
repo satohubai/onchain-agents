@@ -14,6 +14,7 @@ Sato Score: **⬡ 31** (Low) — a measure of how open, active and verifiable th
 ## Facts
 
 - **Category:** Data Tool
+- **Type:** Tool/Service
 - **Chains:** Ethereum, Base, Arbitrum, Optimism, Polygon, Solana, Cosmos, Multichain
 - **Open source:** No
 - **Status:** Active

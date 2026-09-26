@@ -14,10 +14,11 @@ Sato Score: **⬡ 64** (Medium) — a measure of how open, active and verifiable
 ## Facts
 
 - **Category:** MCP
+- **Type:** Tool/Service
 - **Chains:** Multichain, Ethereum
 - **Open source:** Partial
 - **Status:** Early
-- **Activity:** Active — last activity 21 days ago
+- **Activity:** Active — last activity 22 days ago
 - **GitHub stars:** 1
 - **Works with:** Claude, MCP
 

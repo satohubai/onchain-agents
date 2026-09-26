@@ -16,7 +16,7 @@ Sato Score: **⬡ 88** (High) — a measure of how open, active and verifiable t
 - **Category:** Developer Tool
 - **Type:** Framework
 - **Chains:** Base, Ethereum, Multichain
-- **Standards:** mcp
+- **Standards:** mcp, x402
 - **Interfaces:** sdk
 - **Use cases:** trading, wallets, build
 - **Creator:** Coinbase
@@ -44,7 +44,7 @@ npm create onchain-agent@latest
 ## What we checked
 
 - Install reproduced in an isolated container on 2026-09-21.
-- Live endpoint probed by us: 32.9% of our checks succeeded over 73 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 33.8% of our checks succeeded over 74 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links

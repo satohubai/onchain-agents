@@ -14,12 +14,13 @@ Sato Score: **⬡ 86** (High) — a measure of how open, active and verifiable t
 ## Facts
 
 - **Category:** Data Tool
+- **Type:** Tool/Service
 - **Chains:** Base
 - **Standards:** mcp, x402
 - **Interfaces:** mcp, api
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 25 days ago
+- **Activity:** Active — last activity 26 days ago
 - **GitHub stars:** 2
 
 ## Deploy spec

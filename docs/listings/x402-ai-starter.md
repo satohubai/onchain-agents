@@ -18,7 +18,7 @@ Sato Score: **⬡ 55** (Medium) — a measure of how open, active and verifiable
 - **Open source:** Yes
 - **Status:** Unknown
 - **Activity:** Quiet — last activity 9 months ago
-- **GitHub stars:** 71
+- **GitHub stars:** 72
 - **Works with:** AI SDK, Model Context Protocol (MCP), Coinbase Developer Platform (CDP), AI Gateway, Next.js
 
 ## Deploy spec
@@ -40,7 +40,7 @@ pnpm dev
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 68 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 69 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links

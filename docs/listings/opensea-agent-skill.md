@@ -22,7 +22,7 @@ Sato Score: **⬡ 81** (High) — a measure of how open, active and verifiable t
 - **Creator:** OpenSea
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 6 days ago
+- **Activity:** Active — last activity today
 - **GitHub stars:** 51
 - **Deploys as:** MCP server, API, Self-hosted
 - **Works with:** Seaport, OpenSea API, OpenSea MCP Server, OpenSea CLI, x402, Privy, Turnkey, Fireblocks, Bankr
@@ -44,7 +44,7 @@ npx skills add ProjectOpenSea/opensea-skill
 
 ## What we checked
 
-- Live endpoint probed by us: 98.6% of our checks succeeded over 73 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 98.6% of our checks succeeded over 74 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Verified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links

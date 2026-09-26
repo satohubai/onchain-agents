@@ -21,7 +21,7 @@ Sato Score: **⬡ 51** (Medium) — a measure of how open, active and verifiable
 - **Use cases:** payments, wallets
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Quiet — last activity 3 months ago
+- **Activity:** Quiet — last activity 4 months ago
 - **GitHub stars:** 57
 
 ## What we checked

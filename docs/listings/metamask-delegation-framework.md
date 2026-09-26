@@ -9,17 +9,18 @@ layout: "default"
 
 MetaMask's official smart-account delegation contracts — grant an AI agent scoped, revocable permissions instead of a private key.
 
-Sato Score: **⬡ 62** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 72** (High), +10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
 - **Category:** Wallet Infrastructure
+- **Type:** Infrastructure
 - **Chains:** Ethereum, Base, Multichain
 - **Creator:** MetaMask
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Recent — last activity 1 month ago
-- **GitHub stars:** 219
+- **Activity:** Active — last activity 1 day ago
+- **GitHub stars:** 227
 
 ## Deploy spec
 
@@ -38,7 +39,7 @@ forge test
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 68 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 69 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links

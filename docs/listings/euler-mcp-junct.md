@@ -9,11 +9,12 @@ layout: "default"
 
 Hosted MCP server with 16 tools for Euler lending-protocol rates and positions.
 
-Sato Score: **⬡ 43** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 35** (Low), -8 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
 - **Category:** MCP
+- **Type:** Tool/Service
 - **Chains:** Ethereum, Base
 - **Open source:** Yes
 - **Status:** Early
@@ -22,7 +23,7 @@ Sato Score: **⬡ 43** (Medium) — a measure of how open, active and verifiable
 
 ## What we checked
 
-- Live endpoint probed by us: 1.5% of our checks succeeded over 68 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 1.4% of our checks succeeded over 69 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
