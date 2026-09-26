@@ -21,7 +21,7 @@ Sato Score: **⬡ 68** (Medium) — a measure of how open, active and verifiable
 - **Use cases:** trading
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 20 days ago
+- **Activity:** Active — last activity 21 days ago
 - **GitHub stars:** 12.9k
 
 ## What we checked

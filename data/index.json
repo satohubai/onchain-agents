@@ -1,7 +1,7 @@
 {
   "schema_version": "1",
   "item_schema": "https://satohub.ai/schemas/export-listing/v1.json",
-  "generated_at": "2026-09-26T02:16:51.852Z",
+  "generated_at": "2026-09-26T03:41:41.950Z",
   "source": "https://satohub.ai",
   "license": "Catalog data CC-BY-4.0 — attribution: data by satohub.ai. Scores/liveness are informational signals, not safety or quality guarantees.",
   "meta": {
@@ -39,7 +39,7 @@
       "daily": "2026-09-26T08:00:00.000Z",
       "weekly": "2026-09-28T09:30:00.000Z"
     },
-    "generated_at": "2026-09-26T02:16:51.852Z"
+    "generated_at": "2026-09-26T03:41:41.950Z"
   },
   "count": 437,
   "aggregates": {
@@ -1272,10 +1272,10 @@
         "deploy_clarity": "high"
       },
       "install": "npm install solana-agent-kit",
-      "custody_key_access": null,
-      "custody_key_egress": null,
+      "custody_key_access": "declared",
+      "custody_key_egress": "not_observed",
       "custody_fund_action_count": null,
-      "custody_as_of": null,
+      "custody_as_of": "2026-09-26T03:04:24.240Z",
       "date_added": "2026-06-06",
       "detail_url": "https://satohub.ai/resources/solana-agent-kit",
       "trust_score_delta_7d": 0
@@ -1300,9 +1300,9 @@
         "build"
       ],
       "description_short": "Perpetual futures DEX running on its own Cosmos SDK app-chain with REST/WebSocket and gRPC APIs.",
-      "website_url": "https://dydx.exchange/",
+      "website_url": "https://dydx.xyz/",
       "github_url": "https://github.com/dydxprotocol/v4-chain",
-      "docs_url": "https://docs.dydx.exchange/",
+      "docs_url": "https://docs.dydx.xyz/",
       "chains_supported": [
         "Cosmos",
         "Ethereum",
@@ -1382,10 +1382,10 @@
         "deploy_clarity": "medium"
       },
       "install": "npm install @dydxprotocol/v4-client-js",
-      "custody_key_access": null,
-      "custody_key_egress": null,
+      "custody_key_access": "declared",
+      "custody_key_egress": "not_observed",
       "custody_fund_action_count": null,
-      "custody_as_of": null,
+      "custody_as_of": "2026-09-26T03:04:33.503Z",
       "date_added": "2026-06-08",
       "detail_url": "https://satohub.ai/resources/dydx-chain",
       "trust_score_delta_7d": 0
@@ -1694,10 +1694,10 @@
         "deploy_clarity": "high"
       },
       "install": "npm install -g openclaw@latest",
-      "custody_key_access": null,
-      "custody_key_egress": null,
+      "custody_key_access": "unknown",
+      "custody_key_egress": "not_observed",
       "custody_fund_action_count": null,
-      "custody_as_of": null,
+      "custody_as_of": "2026-09-26T03:04:17.169Z",
       "date_added": "2026-06-08",
       "detail_url": "https://satohub.ai/resources/openclaw",
       "trust_score_delta_7d": 8
@@ -1968,10 +1968,10 @@
         ]
       },
       "install": "npm install x402-fetch",
-      "custody_key_access": null,
-      "custody_key_egress": null,
+      "custody_key_access": "declared",
+      "custody_key_egress": "not_observed",
       "custody_fund_action_count": null,
-      "custody_as_of": null,
+      "custody_as_of": "2026-09-26T03:04:36.779Z",
       "date_added": "2026-06-06",
       "detail_url": "https://satohub.ai/resources/x402",
       "trust_score_delta_7d": 0
@@ -2297,10 +2297,10 @@
         "deploy_clarity": "medium"
       },
       "install": "npm install -g @bankr/cli",
-      "custody_key_access": null,
-      "custody_key_egress": null,
+      "custody_key_access": "reads",
+      "custody_key_egress": "not_observed",
       "custody_fund_action_count": null,
-      "custody_as_of": null,
+      "custody_as_of": "2026-09-26T03:04:25.858Z",
       "date_added": "2026-06-08",
       "detail_url": "https://satohub.ai/resources/bankr",
       "trust_score_delta_7d": 0
@@ -2399,10 +2399,10 @@
         "deploy_clarity": "high"
       },
       "install": "npm install -g @anthropic-ai/claude-code",
-      "custody_key_access": null,
-      "custody_key_egress": null,
+      "custody_key_access": "none_found",
+      "custody_key_egress": "not_observed",
       "custody_fund_action_count": null,
-      "custody_as_of": null,
+      "custody_as_of": "2026-09-26T03:04:18.627Z",
       "date_added": "2026-06-08",
       "detail_url": "https://satohub.ai/resources/claude-code",
       "trust_score_delta_7d": 8
@@ -3595,10 +3595,10 @@
         "deploy_clarity": "high"
       },
       "install": "npm install -g @openai/codex",
-      "custody_key_access": null,
-      "custody_key_egress": null,
+      "custody_key_access": "none_found",
+      "custody_key_egress": "not_observed",
       "custody_fund_action_count": null,
-      "custody_as_of": null,
+      "custody_as_of": "2026-09-26T03:04:19.163Z",
       "date_added": "2026-06-08",
       "detail_url": "https://satohub.ai/resources/openai-codex",
       "trust_score_delta_7d": 8
@@ -4252,10 +4252,10 @@
         "deploy_clarity": "high"
       },
       "install": "npm install @drift-labs/sdk",
-      "custody_key_access": null,
-      "custody_key_egress": null,
+      "custody_key_access": "declared",
+      "custody_key_egress": "not_observed",
       "custody_fund_action_count": null,
-      "custody_as_of": null,
+      "custody_as_of": "2026-09-26T03:04:29.742Z",
       "date_added": "2026-06-08",
       "detail_url": "https://satohub.ai/resources/drift-protocol",
       "trust_score_delta_7d": 0
@@ -5415,10 +5415,10 @@
         "deploy_clarity": "high"
       },
       "install": "npm install @openserv-labs/sdk",
-      "custody_key_access": null,
-      "custody_key_egress": null,
+      "custody_key_access": "none_found",
+      "custody_key_egress": "not_observed",
       "custody_fund_action_count": null,
-      "custody_as_of": null,
+      "custody_as_of": "2026-09-26T03:04:37.267Z",
       "date_added": "2026-06-08",
       "detail_url": "https://satohub.ai/resources/openserv",
       "trust_score_delta_7d": 0
@@ -7329,10 +7329,10 @@
         "deploy_clarity": "medium"
       },
       "install": "npm install @raydium-io/raydium-sdk-v2",
-      "custody_key_access": null,
-      "custody_key_egress": null,
+      "custody_key_access": "declared",
+      "custody_key_egress": "not_observed",
       "custody_fund_action_count": null,
-      "custody_as_of": null,
+      "custody_as_of": "2026-09-26T03:04:31.673Z",
       "date_added": "2026-06-08",
       "detail_url": "https://satohub.ai/resources/raydium",
       "trust_score_delta_7d": 0
@@ -7690,10 +7690,10 @@
         "mcp_invocation": "npx @bankless/onchain-mcp (stdio)"
       },
       "install": "npx -y @bankless/onchain-mcp",
-      "custody_key_access": null,
-      "custody_key_egress": null,
+      "custody_key_access": "none_found",
+      "custody_key_egress": "not_observed",
       "custody_fund_action_count": null,
-      "custody_as_of": null,
+      "custody_as_of": "2026-09-26T03:04:40.481Z",
       "date_added": "2026-06-06",
       "detail_url": "https://satohub.ai/resources/bankless-onchain-mcp",
       "trust_score_delta_7d": 0
@@ -8217,10 +8217,10 @@
         "deploy_clarity": "high"
       },
       "install": "npx agent-skills-hub",
-      "custody_key_access": null,
-      "custody_key_egress": null,
+      "custody_key_access": "none_found",
+      "custody_key_egress": "not_observed",
       "custody_fund_action_count": null,
-      "custody_as_of": null,
+      "custody_as_of": "2026-09-26T03:04:38.186Z",
       "date_added": "2026-06-08",
       "detail_url": "https://satohub.ai/resources/agent-skills-hub",
       "trust_score_delta_7d": 8
@@ -8829,10 +8829,10 @@
         "deploy_clarity": "high"
       },
       "install": "npm install -g use-agently",
-      "custody_key_access": null,
-      "custody_key_egress": null,
+      "custody_key_access": "none_found",
+      "custody_key_egress": "not_observed",
       "custody_fund_action_count": null,
-      "custody_as_of": null,
+      "custody_as_of": "2026-09-26T03:04:41.364Z",
       "date_added": "2026-06-08",
       "detail_url": "https://satohub.ai/resources/agently-agent-commerce",
       "trust_score_delta_7d": 0
@@ -9452,10 +9452,10 @@
         "deploy_clarity": "high"
       },
       "install": "npm i -g clawhub",
-      "custody_key_access": null,
-      "custody_key_egress": null,
+      "custody_key_access": "none_found",
+      "custody_key_egress": "not_observed",
       "custody_fund_action_count": null,
-      "custody_as_of": null,
+      "custody_as_of": "2026-09-26T03:04:20.670Z",
       "date_added": "2026-06-08",
       "detail_url": "https://satohub.ai/resources/clawhub",
       "trust_score_delta_7d": 0
@@ -10488,10 +10488,10 @@
         "mcp_invocation": "npx @goplausible/algorand-mcp"
       },
       "install": "npm install -g @goplausible/algorand-mcp",
-      "custody_key_access": null,
-      "custody_key_egress": null,
+      "custody_key_access": "declared",
+      "custody_key_egress": "not_observed",
       "custody_fund_action_count": null,
-      "custody_as_of": null,
+      "custody_as_of": "2026-09-26T03:04:42.038Z",
       "date_added": "2026-07-13",
       "detail_url": "https://satohub.ai/resources/algorand-mcp",
       "trust_score_delta_7d": 0
@@ -10569,10 +10569,10 @@
         "not_attempted_reason": "the run did not complete and the log named no cause we could attribute"
       },
       "install": "npx -y crypto-quant-signal-mcp",
-      "custody_key_access": null,
-      "custody_key_egress": null,
+      "custody_key_access": "reads",
+      "custody_key_egress": "not_observed",
       "custody_fund_action_count": null,
-      "custody_as_of": null,
+      "custody_as_of": "2026-09-26T03:04:12.904Z",
       "date_added": "2026-07-13",
       "detail_url": "https://satohub.ai/resources/algovault-quant-signal-mcp",
       "trust_score_delta_7d": 0
@@ -11220,10 +11220,10 @@
         "mcp_invocation": "npx -y @arcadia-finance/mcp-server"
       },
       "install": "npx -y @arcadia-finance/mcp-server",
-      "custody_key_access": null,
-      "custody_key_egress": null,
-      "custody_fund_action_count": null,
-      "custody_as_of": null,
+      "custody_key_access": "none_found",
+      "custody_key_egress": "not_observed",
+      "custody_fund_action_count": 10,
+      "custody_as_of": "2026-09-26T03:04:13.800Z",
       "date_added": "2026-07-12",
       "detail_url": "https://satohub.ai/resources/arcadia-mcp",
       "trust_score_delta_7d": 2
@@ -12416,10 +12416,10 @@
         "mcp_invocation": "npx -y @bitget-ai/bitget-agent-mcp"
       },
       "install": "npx -y @bitget-ai/bitget-agent-mcp",
-      "custody_key_access": null,
-      "custody_key_egress": null,
+      "custody_key_access": "none_found",
+      "custody_key_egress": "not_observed",
       "custody_fund_action_count": null,
-      "custody_as_of": null,
+      "custody_as_of": "2026-09-26T03:04:35.535Z",
       "date_added": "2026-07-13",
       "detail_url": "https://satohub.ai/resources/bitget-agent-hub",
       "trust_score_delta_7d": -1
@@ -12846,10 +12846,10 @@
         "mcp_invocation": "npx -y blockbeats-mcp"
       },
       "install": "npm install -g blockbeats-mcp",
-      "custody_key_access": null,
-      "custody_key_egress": null,
+      "custody_key_access": "none_found",
+      "custody_key_egress": "not_observed",
       "custody_fund_action_count": null,
-      "custody_as_of": null,
+      "custody_as_of": "2026-09-26T03:04:42.951Z",
       "date_added": "2026-07-13",
       "detail_url": "https://satohub.ai/resources/blockbeats-mcp",
       "trust_score_delta_7d": 0
@@ -13962,10 +13962,10 @@
         "mcp_invocation": "npx @lazydino/ccxt-mcp"
       },
       "install": "npm install -g @lazydino/ccxt-mcp",
-      "custody_key_access": null,
-      "custody_key_egress": null,
+      "custody_key_access": "none_found",
+      "custody_key_egress": "not_observed",
       "custody_fund_action_count": null,
-      "custody_as_of": null,
+      "custody_as_of": "2026-09-26T03:04:39.571Z",
       "date_added": "2026-07-13",
       "detail_url": "https://satohub.ai/resources/ccxt-mcp",
       "trust_score_delta_7d": 0
@@ -15071,10 +15071,10 @@
         "deploy_clarity": "medium"
       },
       "install": "npm install @coinbase/cdp-sdk",
-      "custody_key_access": null,
-      "custody_key_egress": null,
-      "custody_fund_action_count": null,
-      "custody_as_of": null,
+      "custody_key_access": "reads",
+      "custody_key_egress": "not_observed",
+      "custody_fund_action_count": 0,
+      "custody_as_of": "2026-09-26T03:04:15.592Z",
       "date_added": "2026-09-23",
       "detail_url": "https://satohub.ai/resources/coinbase-x402-bazaar",
       "trust_score_delta_7d": null
@@ -16806,10 +16806,10 @@
         "mcp_invocation": "{\"mcpServers\":{\"dexpaprika\":{\"command\":\"npx\",\"args\":[\"dexpaprika-mcp@latest\"]}}}"
       },
       "install": "npm install -g dexpaprika-mcp",
-      "custody_key_access": null,
-      "custody_key_egress": null,
-      "custody_fund_action_count": null,
-      "custody_as_of": null,
+      "custody_key_access": "none_found",
+      "custody_key_egress": "not_observed",
+      "custody_fund_action_count": 0,
+      "custody_as_of": "2026-09-26T03:04:11.546Z",
       "date_added": "2026-07-12",
       "detail_url": "https://satohub.ai/resources/dexpaprika-mcp",
       "trust_score_delta_7d": 2
@@ -17610,7 +17610,7 @@
       "standards": [],
       "use_cases": [],
       "description_short": "Official MCP server from certified staking provider Everstake exposing live APY, uptime, and staking-calculator data.",
-      "website_url": "https://everstake.one",
+      "website_url": "https://everstake.com/",
       "github_url": "https://github.com/everstake/mcp",
       "docs_url": null,
       "chains_supported": [
@@ -17782,10 +17782,10 @@
         "mcp_invocation": "npx @mcpdotdirect/evm-mcp-server"
       },
       "install": "npx @mcpdotdirect/evm-mcp-server",
-      "custody_key_access": null,
-      "custody_key_egress": null,
+      "custody_key_access": "reads",
+      "custody_key_egress": "not_observed",
       "custody_fund_action_count": null,
-      "custody_as_of": null,
+      "custody_as_of": "2026-09-26T03:04:30.847Z",
       "date_added": "2026-07-13",
       "detail_url": "https://satohub.ai/resources/evm-mcp-server",
       "trust_score_delta_7d": -1
@@ -18985,10 +18985,10 @@
         "mcp_invocation": "agentguard-mcp (stdio, from the same package)"
       },
       "install": "npm install -g @goplus/agentguard",
-      "custody_key_access": null,
-      "custody_key_egress": null,
+      "custody_key_access": "none_found",
+      "custody_key_egress": "not_observed",
       "custody_fund_action_count": null,
-      "custody_as_of": null,
+      "custody_as_of": "2026-09-26T03:04:28.769Z",
       "date_added": "2026-09-22",
       "detail_url": "https://satohub.ai/resources/goplus-agentguard",
       "trust_score_delta_7d": null
@@ -20476,10 +20476,10 @@
         "mcp_invocation": "https://mcp.jup.ag"
       },
       "install": "npm i -g @jup-ag/cli",
-      "custody_key_access": null,
-      "custody_key_egress": null,
-      "custody_fund_action_count": null,
-      "custody_as_of": null,
+      "custody_key_access": "none_found",
+      "custody_key_egress": "not_observed",
+      "custody_fund_action_count": 30,
+      "custody_as_of": "2026-09-26T03:04:10.048Z",
       "date_added": "2026-09-23",
       "detail_url": "https://satohub.ai/resources/jupiter-trading-mcp",
       "trust_score_delta_7d": null
@@ -20717,10 +20717,10 @@
         "mcp_invocation": "npx -y @klever/mcp-server (stdio); hosted alternative: claude mcp add -t http klever-vm https://mcp.klever.org/mcp"
       },
       "install": "npx -y @klever/mcp-server",
-      "custody_key_access": null,
-      "custody_key_egress": null,
-      "custody_fund_action_count": null,
-      "custody_as_of": null,
+      "custody_key_access": "none_found",
+      "custody_key_egress": "not_observed",
+      "custody_fund_action_count": 0,
+      "custody_as_of": "2026-09-26T03:04:12.116Z",
       "date_added": "2026-07-19",
       "detail_url": "https://satohub.ai/resources/klever-mcp",
       "trust_score_delta_7d": 0
@@ -22511,10 +22511,10 @@
         "mcp_invocation": "npx -y mcp-crypto-price"
       },
       "install": "npx -y mcp-crypto-price",
-      "custody_key_access": null,
-      "custody_key_egress": null,
+      "custody_key_access": "none_found",
+      "custody_key_egress": "not_observed",
       "custody_fund_action_count": null,
-      "custody_as_of": null,
+      "custody_as_of": "2026-09-26T03:04:43.371Z",
       "date_added": "2026-07-13",
       "detail_url": "https://satohub.ai/resources/mcp-crypto-price",
       "trust_score_delta_7d": -1
@@ -22622,10 +22622,10 @@
         ]
       },
       "install": "npx -y @modelcontextprotocol/server-everything",
-      "custody_key_access": null,
-      "custody_key_egress": null,
+      "custody_key_access": "none_found",
+      "custody_key_egress": "not_observed",
       "custody_fund_action_count": null,
-      "custody_as_of": null,
+      "custody_as_of": "2026-09-26T03:04:19.877Z",
       "date_added": "2026-07-13",
       "detail_url": "https://satohub.ai/resources/mcp-reference-servers",
       "trust_score_delta_7d": -1
@@ -22990,10 +22990,10 @@
         "mcp_invocation": "hosted SSE: https://merx.exchange/mcp/sse (22 read-only tools, no key needed); local: npx merx-mcp"
       },
       "install": "npm install -g merx",
-      "custody_key_access": null,
-      "custody_key_egress": null,
-      "custody_fund_action_count": null,
-      "custody_as_of": null,
+      "custody_key_access": "declared",
+      "custody_key_egress": "not_observed",
+      "custody_fund_action_count": 13,
+      "custody_as_of": "2026-09-26T03:04:14.588Z",
       "date_added": "2026-07-13",
       "detail_url": "https://satohub.ai/resources/merx-mcp",
       "trust_score_delta_7d": 0
@@ -23459,10 +23459,10 @@
         "mcp_invocation": "npx @o1-labs/mina-mcp-server --mode live --network devnet"
       },
       "install": "npx @o1-labs/mina-mcp-server --mode live --network devnet",
-      "custody_key_access": null,
-      "custody_key_egress": null,
-      "custody_fund_action_count": null,
-      "custody_as_of": null,
+      "custody_key_access": "none_found",
+      "custody_key_egress": "not_observed",
+      "custody_fund_action_count": 2,
+      "custody_as_of": "2026-09-26T03:04:16.382Z",
       "date_added": "2026-07-13",
       "detail_url": "https://satohub.ai/resources/mina-mcp",
       "trust_score_delta_7d": 4
@@ -26604,10 +26604,10 @@
         ]
       },
       "install": "npx -y @pmxt/mcp",
-      "custody_key_access": null,
-      "custody_key_egress": null,
+      "custody_key_access": "none_found",
+      "custody_key_egress": "not_observed",
       "custody_fund_action_count": null,
-      "custody_as_of": null,
+      "custody_as_of": "2026-09-26T03:04:23.371Z",
       "date_added": "2026-07-13",
       "detail_url": "https://satohub.ai/resources/pmxt",
       "trust_score_delta_7d": 0
@@ -29088,10 +29088,10 @@
         "deploy_clarity": "medium"
       },
       "install": "npm install @selfxyz/enterprise-sdk",
-      "custody_key_access": null,
-      "custody_key_egress": null,
+      "custody_key_access": "none_found",
+      "custody_key_egress": "not_observed",
       "custody_fund_action_count": null,
-      "custody_as_of": null,
+      "custody_as_of": "2026-09-26T03:04:24.825Z",
       "date_added": "2026-07-19",
       "detail_url": "https://satohub.ai/resources/self-protocol",
       "trust_score_delta_7d": 0
@@ -29516,10 +29516,10 @@
         "mcp_invocation": "npx -y skim-mcp (stdio)"
       },
       "install": "npx -y skim-mcp",
-      "custody_key_access": null,
-      "custody_key_egress": null,
-      "custody_fund_action_count": null,
-      "custody_as_of": null,
+      "custody_key_access": "reads",
+      "custody_key_egress": "not_observed",
+      "custody_fund_action_count": 0,
+      "custody_as_of": "2026-09-26T03:04:15.064Z",
       "date_added": "2026-09-23",
       "detail_url": "https://satohub.ai/resources/skim",
       "trust_score_delta_7d": null
@@ -31677,10 +31677,10 @@
         "not_attempted_reason": "our container does not have `git`, which the documented install needs"
       },
       "install": "npm install -g @termix-it/cryptoclaw",
-      "custody_key_access": null,
-      "custody_key_egress": null,
+      "custody_key_access": "unknown",
+      "custody_key_egress": "not_observed",
       "custody_fund_action_count": null,
-      "custody_as_of": null,
+      "custody_as_of": "2026-09-26T03:04:38.697Z",
       "date_added": "2026-09-02",
       "detail_url": "https://satohub.ai/resources/termix",
       "trust_score_delta_7d": 0
@@ -32651,10 +32651,10 @@
         "mcp_invocation": "npx -y unbrowse mcp (stdio) — mcpServers config: {\"unbrowse\":{\"command\":\"npx\",\"args\":[\"-y\",\"unbrowse\",\"mcp\"]}}"
       },
       "install": "npm i unbrowse",
-      "custody_key_access": null,
-      "custody_key_egress": null,
+      "custody_key_access": "unknown",
+      "custody_key_egress": "not_observed",
       "custody_fund_action_count": null,
-      "custody_as_of": null,
+      "custody_as_of": "2026-09-26T03:04:26.766Z",
       "date_added": "2026-07-19",
       "detail_url": "https://satohub.ai/resources/unbrowse",
       "trust_score_delta_7d": 0
@@ -32727,10 +32727,10 @@
         "not_attempted_reason": "no falsifiable install+entry probe from deploy_spec"
       },
       "install": "npx skills add Uniswap/uniswap-ai",
-      "custody_key_access": null,
-      "custody_key_egress": null,
+      "custody_key_access": "none_found",
+      "custody_key_egress": "not_observed",
       "custody_fund_action_count": null,
-      "custody_as_of": null,
+      "custody_as_of": "2026-09-26T03:04:34.953Z",
       "date_added": "2026-07-13",
       "detail_url": "https://satohub.ai/resources/uniswap-ai",
       "trust_score_delta_7d": 0
@@ -33389,10 +33389,10 @@
         "mcp_invocation": "npx -y web3-research-mcp@latest"
       },
       "install": "npx -y web3-research-mcp@latest",
-      "custody_key_access": null,
-      "custody_key_egress": null,
+      "custody_key_access": "none_found",
+      "custody_key_egress": "not_observed",
       "custody_fund_action_count": null,
-      "custody_as_of": null,
+      "custody_as_of": "2026-09-26T03:04:36.295Z",
       "date_added": "2026-07-13",
       "detail_url": "https://satohub.ai/resources/web3-research-mcp",
       "trust_score_delta_7d": -1
@@ -35054,10 +35054,10 @@
         "not_attempted_reason": "no falsifiable install+entry probe from deploy_spec"
       },
       "install": "npx @vudovn/ag-kit init",
-      "custody_key_access": null,
-      "custody_key_egress": null,
+      "custody_key_access": "none_found",
+      "custody_key_egress": "not_observed",
       "custody_fund_action_count": null,
-      "custody_as_of": null,
+      "custody_as_of": "2026-09-26T03:04:21.205Z",
       "date_added": "2026-06-08",
       "detail_url": "https://satohub.ai/resources/ag-kit",
       "trust_score_delta_7d": 0
@@ -35871,10 +35871,10 @@
         "mcp_invocation": "clodds mcp"
       },
       "install": "npm install -g clodds --loglevel=error",
-      "custody_key_access": null,
-      "custody_key_egress": null,
+      "custody_key_access": "reads",
+      "custody_key_egress": "not_observed",
       "custody_fund_action_count": null,
-      "custody_as_of": null,
+      "custody_as_of": "2026-09-26T03:04:22.156Z",
       "date_added": "2026-06-16",
       "detail_url": "https://satohub.ai/resources/cloddsbot",
       "trust_score_delta_7d": 8
@@ -36423,10 +36423,10 @@
         "deploy_clarity": "high"
       },
       "install": "npm install -g @blockrun/franklin",
-      "custody_key_access": null,
-      "custody_key_egress": null,
+      "custody_key_access": "none_found",
+      "custody_key_egress": "not_observed",
       "custody_fund_action_count": null,
-      "custody_as_of": null,
+      "custody_as_of": "2026-09-26T03:04:27.315Z",
       "date_added": "2026-06-16",
       "detail_url": "https://satohub.ai/resources/franklin-blockrun",
       "trust_score_delta_7d": 0

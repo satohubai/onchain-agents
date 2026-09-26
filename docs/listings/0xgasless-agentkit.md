@@ -22,7 +22,7 @@ Sato Score: **⬡ 86** (High) — a measure of how open, active and verifiable t
 - **Creator:** 0xGasless
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 8 days ago
+- **Activity:** Active — last activity 9 days ago
 - **GitHub stars:** 417
 - **Deploys as:** SDK, Python, Node.js
 - **Works with:** LangChain, ERC-4337, x402, ERC-8004

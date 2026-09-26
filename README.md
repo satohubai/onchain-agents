@@ -95,7 +95,7 @@ Where the agent's key lives and what it is allowed to do: embedded wallets, MPC,
 |---|---|---|---|---|---|
 | [Bankr](https://github.com/BankrBot/skills) | Crypto execution layer and cross-chain wallet that lets agents and users trade… | Base, Ethereum, Polygon +7 | 87 | today | install reproduced |
 | [Trust Wallet Agent Kit (TWAK)](https://github.com/trustwallet/tw-agent-skills) | Non-custodial toolkit from Trust Wallet (MCP server, CLI, and SDK) that lets AI… | Ethereum, Base, Solana +6 | 87 | 1 day ago | install reproduced |
-| [0xGasless AgentKit](https://github.com/0xgasless/agentkit) | Toolkit giving AI agents gasless access to crypto wallets and onchain… | BNB Chain, Avalanche, Base | 86 | 8 days ago | install reproduced |
+| [0xGasless AgentKit](https://github.com/0xgasless/agentkit) | Toolkit giving AI agents gasless access to crypto wallets and onchain… | BNB Chain, Avalanche, Base | 86 | 9 days ago | install reproduced |
 | [Privy](https://github.com/privy-io) | Embedded and server wallet infrastructure used to give agents secure key… | Ethereum, Base, Solana +1 | 83 | 2 days ago | install reproduced |
 | [Turnkey](https://github.com/tkhq) | Secure key management infrastructure with policy controls, commonly used for… | Ethereum, Base, Solana +1 | 83 | 3 days ago | install reproduced |
 | [Q402 (Quack AI)](https://github.com/quackai-org/q402-mcp) | Gasless stablecoin payment relay and managed Agent Wallets across 12 EVM chains… | BNB Chain, Ethereum, Avalanche +4 | 77 | 4 days ago | install reproduced |
@@ -128,7 +128,7 @@ How agents pay and get paid: x402 (HTTP 402 plus stablecoin), agent commerce pro
 | [BlockRun MCP](https://github.com/BlockRunAI/blockrun-mcp) | MCP server giving AI agents live data — markets, crypto, research, X — billed… | Base, Solana | 91 | 4 days ago | install reproduced |
 | [Bankr](https://github.com/BankrBot/skills) | Crypto execution layer and cross-chain wallet that lets agents and users trade… | Base, Ethereum, Polygon +7 | 87 | today | install reproduced |
 | [Trust Wallet Agent Kit (TWAK)](https://github.com/trustwallet/tw-agent-skills) | Non-custodial toolkit from Trust Wallet (MCP server, CLI, and SDK) that lets AI… | Ethereum, Base, Solana +6 | 87 | 1 day ago | install reproduced |
-| [0xGasless AgentKit](https://github.com/0xgasless/agentkit) | Toolkit giving AI agents gasless access to crypto wallets and onchain… | BNB Chain, Avalanche, Base | 86 | 8 days ago | install reproduced |
+| [0xGasless AgentKit](https://github.com/0xgasless/agentkit) | Toolkit giving AI agents gasless access to crypto wallets and onchain… | BNB Chain, Avalanche, Base | 86 | 9 days ago | install reproduced |
 | [x402](https://github.com/coinbase/x402) | Open payment protocol enabling agents and apps to pay for APIs over HTTP using… | Base, Ethereum, Multichain +1 | 86 | 4 days ago | install reproduced |
 | [World AgentKit](https://github.com/worldcoin/agentkit) | SDK from World (Tools for Humanity) that lets AI agents present a… | Base | 86 | 29 days ago | install reproduced |
 
@@ -143,7 +143,7 @@ How an agent is identified and found by other agents: ERC-8004 registration, MCP
 | Name | What it is | Chains | ⬡ Score | Last activity | Checked |
 |---|---|---|---|---|---|
 | [Bankr](https://github.com/BankrBot/skills) | Crypto execution layer and cross-chain wallet that lets agents and users trade… | Base, Ethereum, Polygon +7 | 87 | today | install reproduced |
-| [0xGasless AgentKit](https://github.com/0xgasless/agentkit) | Toolkit giving AI agents gasless access to crypto wallets and onchain… | BNB Chain, Avalanche, Base | 86 | 8 days ago | install reproduced |
+| [0xGasless AgentKit](https://github.com/0xgasless/agentkit) | Toolkit giving AI agents gasless access to crypto wallets and onchain… | BNB Chain, Avalanche, Base | 86 | 9 days ago | install reproduced |
 | [World AgentKit](https://github.com/worldcoin/agentkit) | SDK from World (Tools for Humanity) that lets AI agents present a… | Base | 86 | 29 days ago | install reproduced |
 | [Model Context Protocol (MCP)](https://github.com/modelcontextprotocol) | Anthropic's open standard for connecting AI systems to external tools and data… | — | 83 | 2 days ago | live probed |
 | [Self Protocol](https://github.com/selfxyz/self) | Open-source zero-knowledge identity protocol (passport-based proof of… | Multichain | 80 | 10 days ago | install reproduced |
@@ -260,6 +260,7 @@ curl -s https://satohub.ai/api/export/index.json | jq '.resources[0]'
 | **Skill / plugin** | the same tools plus a guide on when to use them, for Claude Code, Codex, Cursor, Hermes | `npx skills add satohubai/sato-hub-skill` · `/plugin marketplace add satohubai/sato-plugins` |
 | **Preflight** | check a repo, package, MCP endpoint, ERC-8004 agent or ERC-20 token **before** you install, connect, pay or trade — every verdict names the rule that decided it, and `unknown` stays unknown | `GET https://satohub.ai/api/preflight` · [the page](https://satohub.ai/preflight?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) |
 | **Preflight in CI** | the same check across a whole lockfile on every push, SARIF findings, plus a badge. `unknown` can never fail your build | [`satohubai/preflight-action`](https://github.com/satohubai/preflight-action) · `POST https://satohub.ai/api/preflight/batch` |
+| **Sato Check** | before a crypto package, MCP server or skill is installed: does it take your key, does your key leave, can it move funds on its own, what changed — each answer backed by declared / traced / observed evidence (a sandbox with planted, never-funded test keys). It describes; it is never a safety rating | `POST https://satohub.ai/api/check/install` · MCP `onchain_agent_check_install` · [the page](https://satohub.ai/check?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) |
 | **Sato Route** | which venue to swap, hire an agent, launch a token or pay over x402 — the fee disclosed (including at zero) and every reason named. Recommend-only: it signs nothing and holds nothing | `GET https://satohub.ai/api/route/{swap,agent,launch,x402,lp}` · [the page](https://satohub.ai/route?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) |
 | **Sato Swap** | a swap that can refuse: both tokens, the venue and the recipient checked against your policy, the route simulated, then an UNSIGNED transaction or the rule that withheld one. `unknown` refuses by default | `POST https://satohub.ai/api/swap/quote` · [the method](https://satohub.ai/docs/sato-swap?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) |
 | **Sato Bot** | a goal in plain words → a build plan made of real listings from this index | [`/satobot`](https://satohub.ai/satobot?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · `POST https://satohub.ai/api/satobot/plan` |

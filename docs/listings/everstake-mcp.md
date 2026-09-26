@@ -43,7 +43,7 @@ go run ./cmd/mcp_server
 
 ## Links
 
-[Website](https://everstake.one) · [GitHub](https://github.com/everstake/mcp) · [Sato Hub page ↗](https://satohub.ai/resources/everstake-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents)
+[Website](https://everstake.com/) · [GitHub](https://github.com/everstake/mcp) · [Sato Hub page ↗](https://satohub.ai/resources/everstake-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents)
 
 ## Cite
 

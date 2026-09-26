@@ -22,7 +22,7 @@ Sato Score: **⬡ 80** (High) — a measure of how open, active and verifiable t
 - **Creator:** Blockscout
 - **Open source:** Unknown
 - **Status:** Active
-- **Activity:** Active — last activity 17 days ago
+- **Activity:** Active — last activity 18 days ago
 - **GitHub stars:** 46
 - **Deploys as:** Docker, Hosted API (Streamable HTTP at mcp.blockscout.com), MCP Bundle (MCPB)
 - **Works with:** Claude Desktop, Claude Code, Cursor, ChatGPT Apps, Codex, Codex CLI

@@ -70,7 +70,7 @@ Where the agent's key lives and what it is allowed to do: embedded wallets, MPC,
 |---|---|---|---|---|---|
 | [Bankr](https://github.com/BankrBot/skills) | Crypto execution layer and cross-chain wallet that lets agents and users trade… | Base, Ethereum, Polygon +7 | 87 | today | install reproduced |
 | [Trust Wallet Agent Kit (TWAK)](https://github.com/trustwallet/tw-agent-skills) | Non-custodial toolkit from Trust Wallet (MCP server, CLI, and SDK) that lets AI… | Ethereum, Base, Solana +6 | 87 | 1 day ago | install reproduced |
-| [0xGasless AgentKit](https://github.com/0xgasless/agentkit) | Toolkit giving AI agents gasless access to crypto wallets and onchain… | BNB Chain, Avalanche, Base | 86 | 8 days ago | install reproduced |
+| [0xGasless AgentKit](https://github.com/0xgasless/agentkit) | Toolkit giving AI agents gasless access to crypto wallets and onchain… | BNB Chain, Avalanche, Base | 86 | 9 days ago | install reproduced |
 | [Privy](https://github.com/privy-io) | Embedded and server wallet infrastructure used to give agents secure key… | Ethereum, Base, Solana +1 | 83 | 2 days ago | install reproduced |
 | [Turnkey](https://github.com/tkhq) | Secure key management infrastructure with policy controls, commonly used for… | Ethereum, Base, Solana +1 | 83 | 3 days ago | install reproduced |
 | [Q402 (Quack AI)](https://github.com/quackai-org/q402-mcp) | Gasless stablecoin payment relay and managed Agent Wallets across 12 EVM chains… | BNB Chain, Ethereum, Avalanche +4 | 77 | 4 days ago | install reproduced |
@@ -103,7 +103,7 @@ How agents pay and get paid: x402 (HTTP 402 plus stablecoin), agent commerce pro
 | [BlockRun MCP](https://github.com/BlockRunAI/blockrun-mcp) | MCP server giving AI agents live data — markets, crypto, research, X — billed… | Base, Solana | 91 | 4 days ago | install reproduced |
 | [Bankr](https://github.com/BankrBot/skills) | Crypto execution layer and cross-chain wallet that lets agents and users trade… | Base, Ethereum, Polygon +7 | 87 | today | install reproduced |
 | [Trust Wallet Agent Kit (TWAK)](https://github.com/trustwallet/tw-agent-skills) | Non-custodial toolkit from Trust Wallet (MCP server, CLI, and SDK) that lets AI… | Ethereum, Base, Solana +6 | 87 | 1 day ago | install reproduced |
-| [0xGasless AgentKit](https://github.com/0xgasless/agentkit) | Toolkit giving AI agents gasless access to crypto wallets and onchain… | BNB Chain, Avalanche, Base | 86 | 8 days ago | install reproduced |
+| [0xGasless AgentKit](https://github.com/0xgasless/agentkit) | Toolkit giving AI agents gasless access to crypto wallets and onchain… | BNB Chain, Avalanche, Base | 86 | 9 days ago | install reproduced |
 | [x402](https://github.com/coinbase/x402) | Open payment protocol enabling agents and apps to pay for APIs over HTTP using… | Base, Ethereum, Multichain +1 | 86 | 4 days ago | install reproduced |
 | [World AgentKit](https://github.com/worldcoin/agentkit) | SDK from World (Tools for Humanity) that lets AI agents present a… | Base | 86 | 29 days ago | install reproduced |
 
@@ -118,7 +118,7 @@ How an agent is identified and found by other agents: ERC-8004 registration, MCP
 | Name | What it is | Chains | ⬡ Score | Last activity | Checked |
 |---|---|---|---|---|---|
 | [Bankr](https://github.com/BankrBot/skills) | Crypto execution layer and cross-chain wallet that lets agents and users trade… | Base, Ethereum, Polygon +7 | 87 | today | install reproduced |
-| [0xGasless AgentKit](https://github.com/0xgasless/agentkit) | Toolkit giving AI agents gasless access to crypto wallets and onchain… | BNB Chain, Avalanche, Base | 86 | 8 days ago | install reproduced |
+| [0xGasless AgentKit](https://github.com/0xgasless/agentkit) | Toolkit giving AI agents gasless access to crypto wallets and onchain… | BNB Chain, Avalanche, Base | 86 | 9 days ago | install reproduced |
 | [World AgentKit](https://github.com/worldcoin/agentkit) | SDK from World (Tools for Humanity) that lets AI agents present a… | Base | 86 | 29 days ago | install reproduced |
 | [Model Context Protocol (MCP)](https://github.com/modelcontextprotocol) | Anthropic's open standard for connecting AI systems to external tools and data… | — | 83 | 2 days ago | live probed |
 | [Self Protocol](https://github.com/selfxyz/self) | Open-source zero-knowledge identity protocol (passport-based proof of… | Multichain | 80 | 10 days ago | install reproduced |

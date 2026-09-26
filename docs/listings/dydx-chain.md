@@ -47,7 +47,7 @@ npm install @dydxprotocol/v4-client-js
 
 ## Links
 
-[Website](https://dydx.exchange/) · [Docs](https://docs.dydx.exchange/) · [GitHub](https://github.com/dydxprotocol/v4-chain) · [Sato Hub page ↗](https://satohub.ai/resources/dydx-chain?utm_source=github&utm_medium=index&utm_campaign=onchain-agents)
+[Website](https://dydx.xyz/) · [Docs](https://docs.dydx.xyz/) · [GitHub](https://github.com/dydxprotocol/v4-chain) · [Sato Hub page ↗](https://satohub.ai/resources/dydx-chain?utm_source=github&utm_medium=index&utm_campaign=onchain-agents)
 
 ## Cite
 

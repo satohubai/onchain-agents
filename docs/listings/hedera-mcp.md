@@ -21,7 +21,7 @@ Sato Score: **⬡ 78** (High) — a measure of how open, active and verifiable t
 - **Use cases:** data, identity, build
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 17 days ago
+- **Activity:** Active — last activity 18 days ago
 - **GitHub stars:** 0
 - **Deploys as:** npm
 
