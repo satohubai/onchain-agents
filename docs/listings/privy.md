@@ -21,7 +21,7 @@ Sato Score: **⬡ 83** (High) — a measure of how open, active and verifiable t
 - **Creator:** Privy
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 1 day ago
+- **Activity:** Active — last activity 2 days ago
 - **Deploys as:** API, SDK, Hosted
 - **Works with:** REST API, Node.js SDK, React SDK, Swift SDK, Android SDK, Unity SDK, Go SDK, Ruby SDK
 
@@ -50,6 +50,6 @@ npm install @privy-io/node
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `privy`. https://satohub.ai/resources/privy — retrieved 2026-09-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `privy`. https://satohub.ai/resources/privy — retrieved 2026-09-26.
 
 [← All layers](../index.md)

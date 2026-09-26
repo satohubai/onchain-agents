@@ -49,6 +49,6 @@ No self-host install — Manus is a hosted product. Sign up at https://manus.im 
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `manus`. https://satohub.ai/resources/manus — retrieved 2026-09-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `manus`. https://satohub.ai/resources/manus — retrieved 2026-09-26.
 
 [← All layers](../index.md)

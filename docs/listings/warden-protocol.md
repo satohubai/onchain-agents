@@ -49,6 +49,6 @@ npm install @wardenprotocol/agent-kit @langchain/langgraph-sdk
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `warden-protocol`. https://satohub.ai/resources/warden-protocol — retrieved 2026-09-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `warden-protocol`. https://satohub.ai/resources/warden-protocol — retrieved 2026-09-26.
 
 [← All layers](../index.md)

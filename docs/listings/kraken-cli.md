@@ -9,7 +9,7 @@ layout: "default"
 
 Official Kraken CLI with a built-in MCP server for spot, futures, forex, and tokenized stock trading.
 
-Sato Score: **⬡ 64** (Medium), -1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 64** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -52,6 +52,6 @@ curl --proto '=https' --tlsv1.2 -LsSf https://github.com/krakenfx/kraken-cli/rel
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `kraken-cli`. https://satohub.ai/resources/kraken-cli — retrieved 2026-09-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `kraken-cli`. https://satohub.ai/resources/kraken-cli — retrieved 2026-09-26.
 
 [← All layers](../index.md)

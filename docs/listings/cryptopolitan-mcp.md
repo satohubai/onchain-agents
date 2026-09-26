@@ -33,6 +33,6 @@ Sato Score: **⬡ 73** (High), +10 over 7 days — a measure of how open, active
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cryptopolitan-mcp`. https://satohub.ai/resources/cryptopolitan-mcp — retrieved 2026-09-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cryptopolitan-mcp`. https://satohub.ai/resources/cryptopolitan-mcp — retrieved 2026-09-26.
 
 [← All layers](../index.md)

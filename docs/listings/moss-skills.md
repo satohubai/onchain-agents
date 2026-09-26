@@ -53,6 +53,6 @@ git clone https://github.com/megaeth-labs/moss-skills && cp -r moss-skills/moss-
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `moss-skills`. https://satohub.ai/resources/moss-skills — retrieved 2026-09-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `moss-skills`. https://satohub.ai/resources/moss-skills — retrieved 2026-09-26.
 
 [← All layers](../index.md)

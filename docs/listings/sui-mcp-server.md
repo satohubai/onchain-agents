@@ -21,7 +21,7 @@ Sato Score: **⬡ 66** (Medium) — a measure of how open, active and verifiable
 - **Use cases:** trading, wallets, data, identity, build
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 16 days ago
+- **Activity:** Active — last activity 17 days ago
 - **GitHub stars:** 1
 - **Deploys as:** npm
 - **Works with:** Claude Desktop
@@ -50,6 +50,6 @@ npm install -g sui-mcp-server
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `sui-mcp-server`. https://satohub.ai/resources/sui-mcp-server — retrieved 2026-09-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `sui-mcp-server`. https://satohub.ai/resources/sui-mcp-server — retrieved 2026-09-26.
 
 [← All layers](../index.md)

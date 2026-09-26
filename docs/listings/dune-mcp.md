@@ -51,6 +51,6 @@ claude mcp add --scope user --transport http dune https://api.dune.com/mcp/v1 --
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `dune-mcp`. https://satohub.ai/resources/dune-mcp — retrieved 2026-09-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `dune-mcp`. https://satohub.ai/resources/dune-mcp — retrieved 2026-09-26.
 
 [← All layers](../index.md)

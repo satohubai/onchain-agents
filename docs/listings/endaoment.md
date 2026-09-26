@@ -34,6 +34,6 @@ Sato Score: **⬡ 46** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `endaoment`. https://satohub.ai/resources/endaoment — retrieved 2026-09-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `endaoment`. https://satohub.ai/resources/endaoment — retrieved 2026-09-26.
 
 [← All layers](../index.md)

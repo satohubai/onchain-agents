@@ -21,7 +21,7 @@ Sato Score: **⬡ 60** (Medium), -1 over 7 days — a measure of how open, activ
 - **Creator:** Trail of Bits
 - **Open source:** Unknown
 - **Status:** Active
-- **Activity:** Active — last activity 9 days ago
+- **Activity:** Active — last activity 10 days ago
 - **GitHub stars:** 7.1k
 - **Deploys as:** Claude Code plugin
 - **Works with:** Claude Code, Codex
@@ -50,6 +50,6 @@ Sato Score: **⬡ 60** (Medium), -1 over 7 days — a measure of how open, activ
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `trailofbits-skills`. https://satohub.ai/resources/trailofbits-skills — retrieved 2026-09-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `trailofbits-skills`. https://satohub.ai/resources/trailofbits-skills — retrieved 2026-09-26.
 
 [← All layers](../index.md)

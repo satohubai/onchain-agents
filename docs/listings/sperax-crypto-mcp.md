@@ -22,7 +22,7 @@ Sato Score: **⬡ 74** (High), +10 over 7 days — a measure of how open, active
 - **Creator:** Sperax
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 5 days ago
+- **Activity:** Active — last activity 6 days ago
 - **GitHub stars:** 16
 - **Deploys as:** npx (stdio for Claude Desktop, HTTP for other integrations)
 - **Works with:** Claude Desktop, Cursor, VS Code
@@ -55,6 +55,6 @@ pnpm build
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `sperax-crypto-mcp`. https://satohub.ai/resources/sperax-crypto-mcp — retrieved 2026-09-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `sperax-crypto-mcp`. https://satohub.ai/resources/sperax-crypto-mcp — retrieved 2026-09-26.
 
 [← All layers](../index.md)

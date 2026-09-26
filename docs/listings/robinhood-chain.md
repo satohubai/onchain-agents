@@ -35,6 +35,6 @@ Sato Score: **⬡ 49** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `robinhood-chain`. https://satohub.ai/resources/robinhood-chain — retrieved 2026-09-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `robinhood-chain`. https://satohub.ai/resources/robinhood-chain — retrieved 2026-09-26.
 
 [← All layers](../index.md)

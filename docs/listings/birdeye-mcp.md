@@ -50,6 +50,6 @@ npx -y mcp-remote@0.1.38 https://mcp.birdeye.so/mcp --header "x-api-key:<YOUR_AP
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `birdeye-mcp`. https://satohub.ai/resources/birdeye-mcp — retrieved 2026-09-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `birdeye-mcp`. https://satohub.ai/resources/birdeye-mcp — retrieved 2026-09-26.
 
 [← All layers](../index.md)

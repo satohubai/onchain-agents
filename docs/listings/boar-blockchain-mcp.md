@@ -51,6 +51,6 @@ claude mcp add boar-blockchain-mcp-basic --transport http --scope project https:
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `boar-blockchain-mcp`. https://satohub.ai/resources/boar-blockchain-mcp — retrieved 2026-09-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `boar-blockchain-mcp`. https://satohub.ai/resources/boar-blockchain-mcp — retrieved 2026-09-26.
 
 [← All layers](../index.md)

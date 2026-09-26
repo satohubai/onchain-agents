@@ -51,6 +51,6 @@ python3 scripts/setup.py
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `wayfinder-protocol`. https://satohub.ai/resources/wayfinder-protocol — retrieved 2026-09-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `wayfinder-protocol`. https://satohub.ai/resources/wayfinder-protocol — retrieved 2026-09-26.
 
 [← All layers](../index.md)

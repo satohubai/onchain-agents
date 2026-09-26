@@ -22,7 +22,7 @@ Sato Score: **⬡ 80** (High) — a measure of how open, active and verifiable t
 - **Creator:** Uniswap Labs
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 4 days ago
+- **Activity:** Active — last activity 5 days ago
 - **Deploys as:** API, SDK
 - **Works with:** UniswapX, Permit2, Universal Router
 
@@ -51,6 +51,6 @@ npx skills add Uniswap/uniswap-ai
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `uniswap`. https://satohub.ai/resources/uniswap — retrieved 2026-09-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `uniswap`. https://satohub.ai/resources/uniswap — retrieved 2026-09-26.
 
 [← All layers](../index.md)

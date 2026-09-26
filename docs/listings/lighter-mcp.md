@@ -17,7 +17,7 @@ Sato Score: **⬡ 56** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Ethereum
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Quiet — last activity 3 months ago
+- **Activity:** Quiet — last activity 4 months ago
 - **GitHub stars:** 2
 - **Works with:** Claude Desktop, Cursor, Hermes Agent
 
@@ -48,6 +48,6 @@ pip install --upgrade git+https://github.com/elliottech/lighter-python.git@main
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lighter-mcp`. https://satohub.ai/resources/lighter-mcp — retrieved 2026-09-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lighter-mcp`. https://satohub.ai/resources/lighter-mcp — retrieved 2026-09-26.
 
 [← All layers](../index.md)

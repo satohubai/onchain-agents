@@ -51,6 +51,6 @@ claude mcp add --transport http web3auth https://mcp.web3auth.io
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `web3auth-mcp`. https://satohub.ai/resources/web3auth-mcp — retrieved 2026-09-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `web3auth-mcp`. https://satohub.ai/resources/web3auth-mcp — retrieved 2026-09-26.
 
 [← All layers](../index.md)

@@ -35,6 +35,6 @@ Sato Score: **⬡ 44** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `flap`. https://satohub.ai/resources/flap — retrieved 2026-09-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `flap`. https://satohub.ai/resources/flap — retrieved 2026-09-26.
 
 [← All layers](../index.md)

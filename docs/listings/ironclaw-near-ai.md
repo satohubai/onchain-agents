@@ -49,6 +49,6 @@ ironclaw onboard
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ironclaw-near-ai`. https://satohub.ai/resources/ironclaw-near-ai — retrieved 2026-09-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ironclaw-near-ai`. https://satohub.ai/resources/ironclaw-near-ai — retrieved 2026-09-26.
 
 [← All layers](../index.md)

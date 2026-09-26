@@ -21,7 +21,7 @@ Sato Score: **⬡ 75** (High) — a measure of how open, active and verifiable t
 - **Creator:** Vudovn
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 25 days ago
+- **Activity:** Active — last activity 26 days ago
 - **GitHub stars:** 8.1k
 - **Deploys as:** CLI, npm
 - **Works with:** Cursor, Windsurf, Antigravity
@@ -50,6 +50,6 @@ npx @vudovn/ag-kit init
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ag-kit`. https://satohub.ai/resources/ag-kit — retrieved 2026-09-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ag-kit`. https://satohub.ai/resources/ag-kit — retrieved 2026-09-26.
 
 [← All layers](../index.md)

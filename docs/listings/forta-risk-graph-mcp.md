@@ -46,6 +46,6 @@ claude mcp add --transport http risk-graph https://risk-graph-mcp.forta.network/
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `forta-risk-graph-mcp`. https://satohub.ai/resources/forta-risk-graph-mcp — retrieved 2026-09-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `forta-risk-graph-mcp`. https://satohub.ai/resources/forta-risk-graph-mcp — retrieved 2026-09-26.
 
 [← All layers](../index.md)

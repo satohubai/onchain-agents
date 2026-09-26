@@ -51,6 +51,6 @@ claude mcp add -s local aptos-mcp npx -e APTOS_BOT_KEY=<your_bot_api_key> -- -y 
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `aptos-mcp`. https://satohub.ai/resources/aptos-mcp — retrieved 2026-09-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `aptos-mcp`. https://satohub.ai/resources/aptos-mcp — retrieved 2026-09-26.
 
 [← All layers](../index.md)

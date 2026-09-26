@@ -53,6 +53,6 @@ npx -y @arcadia-finance/mcp-server
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `arcadia-mcp`. https://satohub.ai/resources/arcadia-mcp — retrieved 2026-09-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `arcadia-mcp`. https://satohub.ai/resources/arcadia-mcp — retrieved 2026-09-26.
 
 [← All layers](../index.md)

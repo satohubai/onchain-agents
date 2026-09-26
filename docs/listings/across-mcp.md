@@ -51,6 +51,6 @@ claude mcp add --transport http across-docs https://mcp.across.to/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `across-mcp`. https://satohub.ai/resources/across-mcp — retrieved 2026-09-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `across-mcp`. https://satohub.ai/resources/across-mcp — retrieved 2026-09-26.
 
 [← All layers](../index.md)

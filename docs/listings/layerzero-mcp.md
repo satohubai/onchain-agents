@@ -48,6 +48,6 @@ claude mcp add --transport http layerzero-docs https://docs.layerzero.network/mc
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `layerzero-mcp`. https://satohub.ai/resources/layerzero-mcp — retrieved 2026-09-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `layerzero-mcp`. https://satohub.ai/resources/layerzero-mcp — retrieved 2026-09-26.
 
 [← All layers](../index.md)

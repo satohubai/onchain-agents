@@ -21,7 +21,7 @@ Sato Score: **⬡ 62** (Medium) — a measure of how open, active and verifiable
 - **Use cases:** payments, wallets
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 27 days ago
+- **Activity:** Active — last activity 28 days ago
 - **GitHub stars:** 30
 
 ## What we checked
@@ -34,6 +34,6 @@ Sato Score: **⬡ 62** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `circle-agent-stack`. https://satohub.ai/resources/circle-agent-stack — retrieved 2026-09-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `circle-agent-stack`. https://satohub.ai/resources/circle-agent-stack — retrieved 2026-09-26.
 
 [← All layers](../index.md)

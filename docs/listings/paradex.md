@@ -49,6 +49,6 @@ pip install paradex-py
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `paradex`. https://satohub.ai/resources/paradex — retrieved 2026-09-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `paradex`. https://satohub.ai/resources/paradex — retrieved 2026-09-26.
 
 [← All layers](../index.md)

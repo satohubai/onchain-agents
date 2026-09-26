@@ -52,6 +52,6 @@ Point an SSE-capable MCP client at https://mesh.heurist.xyz/mcp/sse with header 
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `heurist-mesh-mcp`. https://satohub.ai/resources/heurist-mesh-mcp — retrieved 2026-09-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `heurist-mesh-mcp`. https://satohub.ai/resources/heurist-mesh-mcp — retrieved 2026-09-26.
 
 [← All layers](../index.md)

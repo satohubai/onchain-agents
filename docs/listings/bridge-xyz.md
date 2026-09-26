@@ -9,7 +9,7 @@ layout: "default"
 
 Stablecoin payments infrastructure (acquired by Stripe) offering an orchestration, issuance, cards, and wallet API for moving money onchain.
 
-Sato Score: **⬡ 40** (Medium), +5 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 40** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -43,6 +43,6 @@ curl --location --request POST 'https://api.bridge.xyz/v0/transfers' --header 'A
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bridge-xyz`. https://satohub.ai/resources/bridge-xyz — retrieved 2026-09-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bridge-xyz`. https://satohub.ai/resources/bridge-xyz — retrieved 2026-09-26.
 
 [← All layers](../index.md)

@@ -48,6 +48,6 @@ claude mcp add --transport http avalanche-builders https://build.avax.network/ap
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `avalanche-mcp`. https://satohub.ai/resources/avalanche-mcp — retrieved 2026-09-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `avalanche-mcp`. https://satohub.ai/resources/avalanche-mcp — retrieved 2026-09-26.
 
 [← All layers](../index.md)

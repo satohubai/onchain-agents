@@ -46,6 +46,6 @@ npx skills add aptos-labs/aptos-agent-skills
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `aptos-agent-skills`. https://satohub.ai/resources/aptos-agent-skills — retrieved 2026-09-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `aptos-agent-skills`. https://satohub.ai/resources/aptos-agent-skills — retrieved 2026-09-26.
 
 [← All layers](../index.md)

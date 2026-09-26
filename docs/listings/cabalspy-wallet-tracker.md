@@ -17,7 +17,7 @@ Sato Score: **⬡ 56** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Solana, BNB Chain, Base, Ethereum, Monad
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Recent — last activity 1 month ago
+- **Activity:** Recent — last activity 2 months ago
 - **GitHub stars:** 0
 
 ## What we checked
@@ -31,6 +31,6 @@ Sato Score: **⬡ 56** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cabalspy-wallet-tracker`. https://satohub.ai/resources/cabalspy-wallet-tracker — retrieved 2026-09-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cabalspy-wallet-tracker`. https://satohub.ai/resources/cabalspy-wallet-tracker — retrieved 2026-09-26.
 
 [← All layers](../index.md)

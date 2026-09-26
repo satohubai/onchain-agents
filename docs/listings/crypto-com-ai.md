@@ -22,7 +22,7 @@ Sato Score: **⬡ 81** (High), +20 over 7 days — a measure of how open, active
 - **Creator:** Crypto.com
 - **Open source:** Yes
 - **Status:** Unknown
-- **Activity:** Recent — last activity 1 month ago
+- **Activity:** Recent — last activity 2 months ago
 - **GitHub stars:** 24
 - **Deploys as:** Install script (curl \| sh) or cargo install
 - **Works with:** Claude Code, Cursor, Claude Desktop, Codex, GitHub Copilot, Gemini CLI
@@ -52,6 +52,6 @@ curl -sSfL https://raw.githubusercontent.com/crypto-com/cdcx-cli/main/install.sh
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `crypto-com-ai`. https://satohub.ai/resources/crypto-com-ai — retrieved 2026-09-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `crypto-com-ai`. https://satohub.ai/resources/crypto-com-ai — retrieved 2026-09-26.
 
 [← All layers](../index.md)

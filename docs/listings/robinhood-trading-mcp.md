@@ -49,6 +49,6 @@ claude mcp add robinhood-trading --transport http https://agent.robinhood.com/mc
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `robinhood-trading-mcp`. https://satohub.ai/resources/robinhood-trading-mcp — retrieved 2026-09-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `robinhood-trading-mcp`. https://satohub.ai/resources/robinhood-trading-mcp — retrieved 2026-09-26.
 
 [← All layers](../index.md)
