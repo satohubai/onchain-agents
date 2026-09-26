@@ -5,6 +5,8 @@ type: dataset
 authors:
   - name: "Sato Hub"
     website: "https://satohub.ai"
+version: "v2026.09.21"
+date-released: "2026-09-21"
 repository-code: "https://github.com/satohubai/onchain-agents"
 url: "https://satohub.ai/datasets/onchain-agents-index"
 license: CC-BY-4.0

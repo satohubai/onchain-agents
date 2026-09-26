@@ -9,6 +9,8 @@
 //   node scripts/generate.mjs --local export.json  # render from a local export file
 //   node scripts/generate.mjs --dry-run            # render, write NOTHING; README to stdout
 //   node scripts/generate.mjs --dry-run --out /tmp/README.md   # ...README to that file instead
+//   node scripts/generate.mjs --citation-only --release v2026.09.28   # stamp CITATION.cff only (weekly release)
+//   --facts-local facts.json   # read the public counts from a local /api/facts.json copy
 //
 // Tooling: MIT © Prime Signal LLC. Catalog data: CC-BY-4.0, data by satohub.ai.
 
@@ -111,6 +113,135 @@ async function loadToolCount() {
     return null;
   }
 }
+
+// ---------- public counts (https://satohub.ai/api/facts.json) ----------
+// The one place satohub.ai computes its public counts (listings, chains,
+// scored, independently checked, MCP tools with the read-only split). The site,
+// its llms.txt and the MCP page read the same object, so the README quoting it
+// cannot disagree with them. Unreachable → null, and every caller falls back to
+// the export's own aggregates (and, for tools, the live tools.json probe).
+const FACTS_URL = process.env.INDEX_FACTS_URL || `${SITE}/api/facts.json`;
+
+export function parseFacts(json) {
+  if (!json || typeof json !== "object") return null;
+  const num = (v) => (typeof v === "number" && Number.isFinite(v) ? v : null);
+  const t = json.mcp_tools || {};
+  const ic = json.independently_checked || {};
+  const facts = {
+    as_of: typeof json.as_of === "string" ? json.as_of : null,
+    listings: num(json.listings),
+    chains: num(json.chains),
+    scored: num(json.scored),
+    independently_checked: {
+      total: num(ic.total),
+      reproduced: num(ic.reproduced),
+      reviewed: num(ic.reviewed),
+      probed: num(ic.probed),
+    },
+    installs_reproduced: num(json.installs_reproduced),
+    mcp_tools: num(t.total) ? { total: t.total, read_only: num(t.read_only), write: num(t.write) } : null,
+  };
+  return facts.listings ? facts : null;
+}
+
+async function loadFacts() {
+  const localIdx = args.indexOf("--facts-local");
+  if (localIdx >= 0) return parseFacts(JSON.parse(readFileSync(args[localIdx + 1], "utf8")));
+  try {
+    const res = await fetch(FACTS_URL, {
+      headers: { accept: "application/json", "user-agent": "satohub-index-generator" },
+      signal: AbortSignal.timeout(20_000),
+    });
+    if (!res.ok) return null;
+    return parseFacts(await res.json());
+  } catch {
+    return null;
+  }
+}
+
+// ---------- the release CITATION.cff describes ----------
+// CITATION.cff carries the version and date of the tagged release it describes.
+// The weekly release workflow passes its tag (`--release vYYYY.MM.DD` or
+// RELEASE_TAG) and commits the stamped file BEFORE tagging, so the tagged tree
+// cites itself. The nightly render reads the newest published release instead;
+// when neither is available the file is left exactly as it is.
+const RELEASES_URL = "https://api.github.com/repos/satohubai/onchain-agents/releases/latest";
+
+/** "v2026.09.21" → { version: "v2026.09.21", date: "2026-09-21" }; null when the tag is not a dated release. */
+export function releaseFromTag(tag, publishedAt = null) {
+  if (typeof tag !== "string" || !tag.trim()) return null;
+  const m = tag.trim().match(/^v?(\d{4})\.(\d{2})\.(\d{2})$/);
+  const date = m ? `${m[1]}-${m[2]}-${m[3]}` : typeof publishedAt === "string" ? publishedAt.slice(0, 10) : null;
+  return date && /^\d{4}-\d{2}-\d{2}$/.test(date) ? { version: tag.trim(), date } : null;
+}
+
+async function resolveRelease() {
+  const idx = args.indexOf("--release");
+  const explicit = idx >= 0 ? args[idx + 1] : process.env.RELEASE_TAG;
+  if (explicit) {
+    const r = releaseFromTag(explicit);
+    if (!r) throw new Error(`--release ${explicit}: expected a tag like v2026.09.28`);
+    return r;
+  }
+  try {
+    const headers = { accept: "application/vnd.github+json", "user-agent": "satohub-index-generator" };
+    if (process.env.GITHUB_TOKEN) headers.authorization = `Bearer ${process.env.GITHUB_TOKEN}`;
+    const res = await fetch(RELEASES_URL, { headers, signal: AbortSignal.timeout(15_000) });
+    if (!res.ok) return null;
+    const j = await res.json();
+    return releaseFromTag(j?.tag_name, j?.published_at);
+  } catch {
+    return null;
+  }
+}
+
+/** The full CITATION.cff. One template, so the file cannot drift from what the release says it is. */
+export function renderCitation({ version, date, doi }) {
+  return `cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Onchain Agents — the scored, daily-updated index of the crypto agent stack"
+type: dataset
+authors:
+  - name: "Sato Hub"
+    website: "https://satohub.ai"
+version: "${version}"
+date-released: "${date}"
+repository-code: "https://github.com/satohubai/onchain-agents"
+url: "https://satohub.ai/datasets/onchain-agents-index"
+license: CC-BY-4.0
+abstract: >-
+  A daily-updated, machine-readable index of the onchain agent ecosystem:
+  frameworks, MCP servers, wallet infrastructure, payment rails, data tools,
+  and registered live agents, each with an evidence-based openness/activity/
+  verifiability score (Sato Score), liveness signal, and verification status.
+keywords:
+  - onchain agents
+  - ai agents
+  - crypto
+  - mcp
+  - erc-8004
+  - x402
+  - dataset
+identifiers:
+  - type: url
+    value: "https://satohub.ai/datasets/onchain-agents-index"
+    description: "Dataset record on satohub.ai"
+${doi ? `  - type: doi
+    value: ${doi}
+    description: "Concept DOI for this repository's tagged releases (Zenodo, resolves to the newest release)"
+` : ""}`;
+}
+
+async function writeCitation() {
+  const release = await resolveRelease();
+  if (!release) return null;
+  writeFileSync(join(ROOT, "CITATION.cff"), renderCitation({ ...release, doi: CONFIG.doi || null }));
+  return release;
+}
+
+// The no-token line, worded exactly as satohub.ai's lib/scope.ts NO_TOKEN_STATEMENT
+// (a separate repo cannot import it; tests/generate-facts.test.mjs pins the wording).
+export const NO_TOKEN_STATEMENT = "Sato Hub has no token. A token using the Sato name is not ours.";
 
 // ---------- rendering helpers ----------
 
@@ -416,10 +547,9 @@ function renderNewThisWeek(resources, now) {
 // data" table lives ~20 KB down, so the endpoint, the one command and the
 // licence must be said here or they are not said at all. The tool count and the
 // read-only split are read from the live server; with no reading, no number.
-function renderQuickStart(toolCount, toolMeta) {
-  const writes = toolMeta?.write_tools?.length ?? null;
-  const tools = toolMeta?.count
-    ? `${toolMeta.count} tools, ${toolMeta.count - (writes || 0)} of them read-only`
+function renderQuickStart(toolCount, toolCounts) {
+  const tools = toolCounts?.count
+    ? `${toolCounts.count} tools, ${toolCounts.read_only} of them read-only`
     : toolCount
       ? `${toolCount} tools`
       : `[tool list](${withUtm(`${SITE}/mcp`)})`;
@@ -961,16 +1091,16 @@ async function loadToolMeta() {
   }
 }
 
-function renderLlms(resources, tools, today) {
+function renderLlms(resources, tools, today, toolCounts = null, listingCount = resources.length) {
   const raw = "https://raw.githubusercontent.com/satohubai/onchain-agents/main";
-  const writes = tools?.write_tools?.length || 0;
-  const toolLine = tools?.count
-    ? `${tools.count} tools over Streamable HTTP (${tools.count - writes} read, ${writes} write)`
+  const toolLine = toolCounts?.count
+    ? `${toolCounts.count} tools over Streamable HTTP (${toolCounts.read_only} read, ${toolCounts.write} write)`
     : "the live tool list";
-  const writeLine = writes ? ` — write tools: ${tools.write_tools.join(", ")}` : "";
+  const names = tools?.write_tools || [];
+  const writeLine = names.length ? ` — write tools: ${names.join(", ")}` : "";
   return `# Onchain Agents — the scored, daily-updated index of the crypto agent stack
 
-> ${resources.length} listings of what onchain AI agents are built from: agent frameworks,
+> ${listingCount} listings of what onchain AI agents are built from: agent frameworks,
 > onchain action kits, MCP servers, wallets and key management, data and RPC,
 > x402 payment rails, identity standards (ERC-8004, A2A), security tooling and
 > trading venues. Rendered daily from satohub.ai. Last render: ${today}.
@@ -1049,6 +1179,12 @@ function toCsv(resources) {
 }
 
 async function main() {
+  if (args.includes("--citation-only")) {
+    const r = await writeCitation();
+    if (!r) throw new Error("--citation-only: no release to cite (pass --release vYYYY.MM.DD)");
+    console.log(`${DRY_RUN ? "[dry-run, nothing written] " : ""}CITATION.cff → ${r.version} (${r.date})`);
+    return;
+  }
   const exp = await loadExport();
   const agents = await loadRegistry();
   const resources = exp.resources;
@@ -1059,7 +1195,26 @@ async function main() {
   // (server-computed, single definition via earnedVerification); otherwise
   // fall back to computing the legacy scored/verified counts locally so the
   // generator still runs unchanged against older feeds.
-  const agg = exp.aggregates || null;
+  const expAgg = exp.aggregates || null;
+  // The public counts: /api/facts.json first (one definition shared with the
+  // site), the export's own aggregates as the fallback, local counts last.
+  const facts = await loadFacts();
+  const agg =
+    facts && facts.chains != null && facts.scored != null && facts.independently_checked.total != null
+      ? {
+          resources: facts.listings,
+          chains: facts.chains,
+          scored: facts.scored,
+          independently_checked: facts.independently_checked.total,
+          installs_reproduced: facts.installs_reproduced,
+          checked_legs: {
+            reproduced: facts.independently_checked.reproduced ?? expAgg?.checked_legs?.reproduced ?? 0,
+            reviewed: facts.independently_checked.reviewed ?? expAgg?.checked_legs?.reviewed ?? 0,
+            probed: facts.independently_checked.probed ?? expAgg?.checked_legs?.probed ?? 0,
+          },
+        }
+      : expAgg;
+  const listingCount = facts?.listings ?? agg?.resources ?? resources.length;
   const scored = agg ? agg.scored : resources.filter((r) => r.trust_score != null).length;
   const verified = resources.filter((r) => r.verified_install).length;
   const { body, toc } = renderSections(resources);
@@ -1069,8 +1224,15 @@ async function main() {
   const spotlight = renderSpotlight(resources);
   const toolCount = await loadToolCount();
   const toolMeta = await loadToolMeta();
-  const useTheData = renderUseTheData(toolCount);
-  const quickStart = renderQuickStart(toolCount, toolMeta);
+  // Tool counts: facts first (the site's own TOOL_NAMES split), then the live tools.json.
+  const metaWrites = toolMeta?.write_tools?.length ?? 0;
+  const toolCounts = facts?.mcp_tools
+    ? { count: facts.mcp_tools.total, read_only: facts.mcp_tools.read_only ?? facts.mcp_tools.total - (facts.mcp_tools.write ?? 0), write: facts.mcp_tools.write ?? facts.mcp_tools.total - (facts.mcp_tools.read_only ?? facts.mcp_tools.total) }
+    : toolMeta?.count
+      ? { count: toolMeta.count, read_only: toolMeta.count - metaWrites, write: metaWrites }
+      : null;
+  const useTheData = renderUseTheData(toolCounts?.count ?? toolCount);
+  const quickStart = renderQuickStart(toolCount, toolCounts);
   const stack = renderStack(resources);
   const packages = renderPackages(await loadPackages());
   const startingStacks = renderStartingStacks(resources);
@@ -1100,7 +1262,7 @@ async function main() {
   // verbatim explainer sentence from the site's directory band (Global
   // Constraints), so the two surfaces never drift apart.
   const coverageLine = agg
-    ? `**${agg.scored} scored** (evidence-only Sato Score, every product) · **${agg.independently_checked} independently checked ✓** (${agg.checked_legs.reproduced} installs reproduced in isolated containers, ${agg.checked_legs.reviewed} evidence-reviewed, ${agg.checked_legs.probed} live endpoints probed) — and growing.
+    ? `**${agg.scored} scored** (evidence-only Sato Score, every product) · **${agg.independently_checked} independently checked ✓** (${agg.installs_reproduced != null ? `${agg.installs_reproduced} with an install reproduced in an isolated container; the rest by evidence review or a live endpoint probe` : `${agg.checked_legs.reproduced} installs reproduced in isolated containers, ${agg.checked_legs.reviewed} evidence-reviewed, ${agg.checked_legs.probed} live endpoints probed`}) — and growing.
 
 <sub>Every product listing carries a Sato Score — a 0–100 measure of how open, active, and verifiable it is. Independently checked means we reproduced its documented install in an isolated container, reviewed its verification evidence, or probed its live endpoint ourselves.</sub>
 `
@@ -1123,11 +1285,12 @@ async function main() {
 
   const readme = `# Onchain Agents
 
-**A scored index of ${resources.length} tools for building onchain AI agents** — frameworks, MCP servers, wallets, payment rails, data feeds and trading venues, with activity and scores refreshed every day.
+**A scored index of ${listingCount} tools for building onchain AI agents** — frameworks, MCP servers, wallets, payment rails, data feeds and trading venues, with activity and scores refreshed every day.
 
 ${quickStart}
 
-- **What this is.** ${resources.length} listings of what onchain AI agents are built from, across ${agg ? agg.chains : "many"} chains, rendered daily from a public export. Discovery never lists anything on its own: a project is listed only after it passes an evidence check. Nothing in this repo can be bought — listing, order and score follow the same rules for every project ([NEUTRALITY.md](NEUTRALITY.md)).
+- **What this is.** ${listingCount} listings of what onchain AI agents are built from, across ${agg ? agg.chains : "many"} chains, rendered daily from a public export. Discovery never lists anything on its own: a project is listed only after it passes an evidence check. Nothing in this repo can be bought — listing, order and score follow the same rules for every project ([NEUTRALITY.md](NEUTRALITY.md)).
+- **Token.** ${NO_TOKEN_STATEMENT}
 - **What a Sato Score is.** A 0–100 measure of how **open, active and verifiable** a project is, computed from evidence only. It is **not** a safety, quality, security or returns grade, and self-reported is never treated as verified.
 - **How current it is.** Re-rendered every day; \`Last activity\` is observed, not claimed. \`unknown\` means we could not measure it, never zero.
 - **License.** Catalog data **CC-BY-4.0**: reuse it anywhere, credit *data by satohub.ai*. Tooling MIT © Prime Signal LLC. JSON, CSV and NDJSON exports plus the MCP endpoint above — no key, no account.
@@ -1278,7 +1441,9 @@ Weekly tagged releases carry the day's \`index.json\` + \`index.csv\` as assets,
   }
   const pruned = pruneGenerated("docs/categories") + pruneGenerated("docs/listings");
 
-  writeIfChanged("llms.txt", renderLlms(resources, toolMeta, today));
+  writeIfChanged("llms.txt", renderLlms(resources, toolMeta, today, toolCounts, listingCount));
+  // CITATION.cff names the newest tagged release (see resolveRelease); unchanged when none is readable.
+  await writeCitation();
   // schema.org Dataset record for the repo itself. GitHub strips <script> from
   // READMEs, so JSON-LD cannot live there; this file is the machine-readable
   // twin of CITATION.cff and what a crawler / Zenodo importer can read.
@@ -1329,7 +1494,17 @@ Weekly tagged releases carry the day's \`index.json\` + \`index.csv\` as assets,
   );
 }
 
-main().catch((e) => {
-  console.error(e);
-  process.exit(1);
-});
+// Run only when invoked as a script, so tests can import the pure helpers.
+const invokedDirectly = (() => {
+  try {
+    return Boolean(process.argv[1]) && fs.realpathSync(process.argv[1]) === fs.realpathSync(fileURLToPath(import.meta.url));
+  } catch {
+    return false;
+  }
+})();
+if (invokedDirectly) {
+  main().catch((e) => {
+    console.error(e);
+    process.exit(1);
+  });
+}

@@ -33,6 +33,20 @@ jobs:
           console.log(`\nIndex: ${idx.count} entries · data by [satohub.ai](https://satohub.ai)`);
           EOF
           echo "tag=v$(date -u +%Y.%m.%d)" >> "$GITHUB_OUTPUT"
+      - name: Stamp CITATION.cff with this release
+        # The tagged tree must cite itself: write version + date-released for
+        # this tag, commit, and tag THAT commit below.
+        run: |
+          node scripts/generate.mjs --citation-only --release "${{ steps.notes.outputs.tag }}"
+          git config user.name "Sato"
+          git config user.email "304106862+satohubai@users.noreply.github.com"
+          git add CITATION.cff
+          if ! git diff --cached --quiet; then
+            git commit -m "citation: ${{ steps.notes.outputs.tag }}"
+            git push
+          fi
+          echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+        id: cite
       - name: Tag + release (with dataset assets)
         env:
           GH_TOKEN: ${{ github.token }}
@@ -40,6 +54,7 @@ jobs:
           cp data/index.json "onchain-agents-index-${{ steps.notes.outputs.tag }}.json"
           cp data/index.csv "onchain-agents-index-${{ steps.notes.outputs.tag }}.csv"
           gh release create "${{ steps.notes.outputs.tag }}" \
+            --target "${{ steps.cite.outputs.sha }}" \
             --title "New this week — $(date -u +%F)" \
             --notes-file notes.md \
             "onchain-agents-index-${{ steps.notes.outputs.tag }}.json" \
