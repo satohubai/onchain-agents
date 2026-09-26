@@ -562,6 +562,10 @@ claude mcp add --transport http satohub ${SITE}/api/mcp
 Any other MCP client: point it at \`${SITE}/api/mcp\` (${tools}; [other clients](docs/connect-mcp.md)). No MCP client: \`curl -s ${SITE}/api/export/index.json\` returns the whole catalog as JSON.`;
 }
 
+// Sato Check — live on satohub.ai since 2026-09-26.
+const SATO_CHECK_ROW = `| **Sato Check** | before a crypto package, MCP server or skill is installed: does it take your key, does your key leave, can it move funds on its own, what changed — each answer backed by declared / traced / observed evidence (a sandbox with planted, never-funded test keys). It describes; it is never a safety rating | \`POST ${SITE}/api/check/install\` · MCP \`onchain_agent_check_install\` · [the page](${withUtm(`${SITE}/check`)}) |
+`;
+
 function renderUseTheData(toolCount) {
   const tools = toolCount ? `**${toolCount} tools**` : `the [tool list](${withUtm(`${SITE}/mcp`)})`;
   return `| Surface | What it does | Call it |
@@ -570,7 +574,7 @@ function renderUseTheData(toolCount) {
 | **Skill / plugin** | the same tools plus a guide on when to use them, for Claude Code, Codex, Cursor, Hermes | \`npx skills add satohubai/sato-hub-skill\` · \`/plugin marketplace add satohubai/sato-plugins\` |
 | **Preflight** | check a repo, package, MCP endpoint, ERC-8004 agent or ERC-20 token **before** you install, connect, pay or trade — every verdict names the rule that decided it, and \`unknown\` stays unknown | \`GET ${SITE}/api/preflight\` · [the page](${withUtm(`${SITE}/preflight`)}) |
 | **Preflight in CI** | the same check across a whole lockfile on every push, SARIF findings, plus a badge. \`unknown\` can never fail your build | [\`satohubai/preflight-action\`](https://github.com/satohubai/preflight-action) · \`POST ${SITE}/api/preflight/batch\` |
-| **Sato Route** | which venue to swap, hire an agent, launch a token or pay over x402 — the fee disclosed (including at zero) and every reason named. Recommend-only: it signs nothing and holds nothing | \`GET ${SITE}/api/route/{swap,agent,launch,x402,lp}\` · [the page](${withUtm(`${SITE}/route`)}) |
+${SATO_CHECK_ROW}| **Sato Route** | which venue to swap, hire an agent, launch a token or pay over x402 — the fee disclosed (including at zero) and every reason named. Recommend-only: it signs nothing and holds nothing | \`GET ${SITE}/api/route/{swap,agent,launch,x402,lp}\` · [the page](${withUtm(`${SITE}/route`)}) |
 | **Sato Swap** | a swap that can refuse: both tokens, the venue and the recipient checked against your policy, the route simulated, then an UNSIGNED transaction or the rule that withheld one. \`unknown\` refuses by default | \`POST ${SITE}/api/swap/quote\` · [the method](${withUtm(`${SITE}/docs/sato-swap`)}) |
 | **Sato Bot** | a goal in plain words → a build plan made of real listings from this index | [\`/satobot\`](${withUtm(`${SITE}/satobot`)}) · \`POST ${SITE}/api/satobot/plan\` |
 | **Deploy spec** | the machine-readable install manifest behind the ✓ column — what a project installs as, and what we reproduced | [the standard](${withUtm(`${SITE}/docs/deploy-spec`)}) |
