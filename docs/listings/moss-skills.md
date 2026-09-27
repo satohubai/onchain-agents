@@ -9,7 +9,7 @@ layout: "default"
 
 Eight install-ready SKILL.md modules that teach coding agents — Claude Code, Codex, Cursor, Gemini — to build MOSS wallet integrations on MegaETH: SDK, permissions, React, server-verify, paymaster, CLI, Privy migration, and pre-launch security review.
 
-Sato Score: **⬡ 58** (Medium), -5 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 64** (Medium), +1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,30 +21,28 @@ Sato Score: **⬡ 58** (Medium), -5 over 7 days — a measure of how open, activ
 - **Creator:** MegaETH Labs
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Quiet — last activity 3 months ago
-- **GitHub stars:** 0
+- **Activity:** Recent — last activity 1 month ago
+- **GitHub stars:** 3
 - **Deploys as:** Claude Code plugin, Self-hosted
 - **Works with:** MOSS Wallet SDK, Claude Code, Cursor, Codex, Gemini, wagmi, Copilot
 
 ## Deploy spec
 
 ```sh
-/plugin marketplace add https://github.com/megaeth-labs/moss-skills.git
-/plugin install moss-wallet@moss-skills
-/reload-plugins
-git clone https://github.com/megaeth-labs/moss-skills && cp -r moss-skills/moss-wallet/skills/* .claude/skills/
+npx skills add megaeth-labs/skills --skill "*"
 ```
 
-- **Entry:** Eight modular skills auto-load when a task is relevant; the moss-wallet-cli skill drives automation via the mega CLI
-- **Runtime:** Claude Code plugin / agent-skills format (no server runtime); optional mega CLI
-- **License:** Unknown
+- **Entry:** Four skills (megaeth-developer-skills, moss-wallet-sdk, moss-wallet-cli, moss-wallet-security-review) load when a task matches; list them with npx skills add megaeth-labs/skills --list
+- **Runtime:** Agent Skills format (no server runtime); installed with the Skills CLI, which needs Node.js 22.20+
+- **Requires:** Node.js 22.20+ (Skills CLI)
+- **License:** MIT
 - **MCP native:** no
 - **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **As of:** 2026-09-26
 
 ## What we checked
 
-- Live endpoint probed by us: 98.6% of our checks succeeded over 74 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 98.7% of our checks succeeded over 75 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -53,6 +51,6 @@ git clone https://github.com/megaeth-labs/moss-skills && cp -r moss-skills/moss-
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `moss-skills`. https://satohub.ai/resources/moss-skills — retrieved 2026-09-26.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `moss-skills`. https://satohub.ai/resources/moss-skills — retrieved 2026-09-27.
 
 [← All layers](../index.md)

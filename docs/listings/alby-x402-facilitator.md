@@ -9,7 +9,7 @@ layout: "default"
 
 Multi-tenant x402 facilitator for Lightning built on Nostr Wallet Connect. Predates the merged lnbtc spec and still advertises bip122.
 
-Sato Score: not scored (non-product listing) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 43** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,6 +22,8 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 - **Creator:** Alby
 - **Open source:** Yes
 - **Status:** Early
+- **Activity:** Quiet — last activity 4 months ago
+- **GitHub stars:** 2
 
 ## What we checked
 
@@ -33,6 +35,6 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `alby-x402-facilitator`. https://satohub.ai/resources/alby-x402-facilitator — retrieved 2026-09-26.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `alby-x402-facilitator`. https://satohub.ai/resources/alby-x402-facilitator — retrieved 2026-09-27.
 
 [← All layers](../index.md)

@@ -9,7 +9,7 @@ layout: "default"
 
 Permissionless fixed-supply token launchpad on Robinhood Chain, with liquidity migrated into a locked Uniswap v3 position.
 
-Sato Score: **⬡ 56** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 57** (Medium), +1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -20,12 +20,12 @@ Sato Score: **⬡ 56** (Medium) — a measure of how open, active and verifiable
 - **Use cases:** launch, trading
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 10 days ago
+- **Activity:** Active — last activity 11 days ago
 - **GitHub stars:** 154
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 13 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 14 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -34,6 +34,6 @@ Sato Score: **⬡ 56** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `pons`. https://satohub.ai/resources/pons — retrieved 2026-09-26.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `pons`. https://satohub.ai/resources/pons — retrieved 2026-09-27.
 
 [← All layers](../index.md)

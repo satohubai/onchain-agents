@@ -9,7 +9,7 @@ layout: "default"
 
 Official Maestro Bitcoin MCP: indexer, mempool, price, and node RPC data via hosted mainnet/testnet endpoints.
 
-Sato Score: **⬡ 47** (Medium), -3 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 47** (Medium), -2 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,7 +22,7 @@ Sato Score: **⬡ 47** (Medium), -3 over 7 days — a measure of how open, activ
 - **Creator:** Maestro
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Quiet — last activity 4 months ago
+- **Activity:** Quiet — last activity 5 months ago
 - **GitHub stars:** 25
 - **Deploys as:** Hosted API (Streamable HTTP, mainnet + testnet), self-host (Bun runtime)
 
@@ -42,7 +42,7 @@ claude mcp add --transport http maestro-btc https://xbt-mainnet.gomaestro-api.or
 
 ## What we checked
 
-- Live endpoint probed by us: 90.5% of our checks succeeded over 74 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 89.3% of our checks succeeded over 75 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -51,6 +51,6 @@ claude mcp add --transport http maestro-btc https://xbt-mainnet.gomaestro-api.or
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `maestro-mcp`. https://satohub.ai/resources/maestro-mcp — retrieved 2026-09-26.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `maestro-mcp`. https://satohub.ai/resources/maestro-mcp — retrieved 2026-09-27.
 
 [← All layers](../index.md)

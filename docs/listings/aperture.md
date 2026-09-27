@@ -9,7 +9,7 @@ layout: "default"
 
 Lightning Labs reverse proxy that puts any HTTP or gRPC API behind L402: Lightning invoices plus macaroon credentials, answered with HTTP 402.
 
-Sato Score: not scored (non-product listing) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 67** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,6 +21,8 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 - **Creator:** Lightning Labs
 - **Open source:** Yes
 - **Status:** Active
+- **Activity:** Active — last activity 9 days ago
+- **GitHub stars:** 268
 
 ## What we checked
 
@@ -32,6 +34,6 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `aperture`. https://satohub.ai/resources/aperture — retrieved 2026-09-26.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `aperture`. https://satohub.ai/resources/aperture — retrieved 2026-09-27.
 
 [← All layers](../index.md)

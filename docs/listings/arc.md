@@ -21,7 +21,7 @@ Sato Score: **⬡ 64** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Circle
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 12 days ago
+- **Activity:** Active — last activity 13 days ago
 - **GitHub stars:** 175
 
 ## What we checked
@@ -34,6 +34,6 @@ Sato Score: **⬡ 64** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `arc`. https://satohub.ai/resources/arc — retrieved 2026-09-26.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `arc`. https://satohub.ai/resources/arc — retrieved 2026-09-27.
 
 [← All layers](../index.md)

@@ -20,7 +20,7 @@ Sato Score: **⬡ 86** (High) — a measure of how open, active and verifiable t
 - **Interfaces:** mcp, api
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 26 days ago
+- **Activity:** Active — last activity 27 days ago
 - **GitHub stars:** 2
 
 ## Deploy spec
@@ -48,6 +48,6 @@ npx -y skim-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `skim`. https://satohub.ai/resources/skim — retrieved 2026-09-26.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `skim`. https://satohub.ai/resources/skim — retrieved 2026-09-27.
 
 [← All layers](../index.md)

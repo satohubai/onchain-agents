@@ -22,7 +22,7 @@ Sato Score: **⬡ 65** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Amazon Web Services (AWS)
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 1 day ago
+- **Activity:** Active — last activity 2 days ago
 - **GitHub stars:** 3.4k
 
 ## What we checked
@@ -35,6 +35,6 @@ Sato Score: **⬡ 65** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `aws-agentcore-payments`. https://satohub.ai/resources/aws-agentcore-payments — retrieved 2026-09-26.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `aws-agentcore-payments`. https://satohub.ai/resources/aws-agentcore-payments — retrieved 2026-09-27.
 
 [← All layers](../index.md)

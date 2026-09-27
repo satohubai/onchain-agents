@@ -14,10 +14,11 @@ Sato Score: **⬡ 50** (Medium) — a measure of how open, active and verifiable
 ## Facts
 
 - **Category:** Trading Tool
+- **Type:** Tool/Service
 - **Chains:** Solana
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Quiet — last activity 4 months ago
+- **Activity:** Quiet — last activity 5 months ago
 - **GitHub stars:** 1
 - **Works with:** Claude Desktop, Cursor, Codex, agentcash
 
@@ -38,7 +39,7 @@ npm install -g cryptoiz-mcp
 
 ## What we checked
 
-- Live endpoint probed by us: 98.6% of our checks succeeded over 69 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 98.6% of our checks succeeded over 70 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -47,6 +48,6 @@ npm install -g cryptoiz-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cryptoiz-mcp`. https://satohub.ai/resources/cryptoiz-mcp — retrieved 2026-09-26.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cryptoiz-mcp`. https://satohub.ai/resources/cryptoiz-mcp — retrieved 2026-09-27.
 
 [← All layers](../index.md)

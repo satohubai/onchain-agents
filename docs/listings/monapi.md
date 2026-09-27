@@ -14,6 +14,7 @@ Sato Score: **⬡ 52** (Medium) — a measure of how open, active and verifiable
 ## Facts
 
 - **Category:** API / SDK
+- **Type:** Tool/Service
 - **Chains:** Base, Arbitrum, Polygon
 - **Open source:** Yes
 - **Status:** Early
@@ -38,7 +39,7 @@ npm install @monapi/sdk @x402/mcp
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 69 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 70 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -47,6 +48,6 @@ npm install @monapi/sdk @x402/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `monapi`. https://satohub.ai/resources/monapi — retrieved 2026-09-26.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `monapi`. https://satohub.ai/resources/monapi — retrieved 2026-09-27.
 
 [← All layers](../index.md)

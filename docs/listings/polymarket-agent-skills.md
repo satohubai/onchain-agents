@@ -21,7 +21,7 @@ Sato Score: **⬡ 52** (Medium) — a measure of how open, active and verifiable
 - **Open source:** Yes
 - **Status:** Active
 - **Activity:** Quiet — last activity 7 months ago
-- **GitHub stars:** 187
+- **GitHub stars:** 189
 
 ## What we checked
 
@@ -33,6 +33,6 @@ Sato Score: **⬡ 52** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `polymarket-agent-skills`. https://satohub.ai/resources/polymarket-agent-skills — retrieved 2026-09-26.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `polymarket-agent-skills`. https://satohub.ai/resources/polymarket-agent-skills — retrieved 2026-09-27.
 
 [← All layers](../index.md)

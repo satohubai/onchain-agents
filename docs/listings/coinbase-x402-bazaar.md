@@ -9,7 +9,7 @@ layout: "default"
 
 Public, keyless catalog of x402 payment-gated services indexed by the CDP facilitator, searchable by intent via REST, TypeScript SDK or a hosted MCP server.
 
-Sato Score: **⬡ 71** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 74** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,6 +21,8 @@ Sato Score: **⬡ 71** (High) — a measure of how open, active and verifiable t
 - **Use cases:** payments, data
 - **Open source:** Partial
 - **Status:** Active
+- **Activity:** Active — last activity 5 days ago
+- **GitHub stars:** 158
 
 ## Deploy spec
 
@@ -47,6 +49,6 @@ npm install @coinbase/cdp-sdk
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `coinbase-x402-bazaar`. https://satohub.ai/resources/coinbase-x402-bazaar — retrieved 2026-09-26.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `coinbase-x402-bazaar`. https://satohub.ai/resources/coinbase-x402-bazaar — retrieved 2026-09-27.
 
 [← All layers](../index.md)

@@ -14,6 +14,7 @@ Sato Score: **⬡ 39** (Low) — a measure of how open, active and verifiable th
 ## Facts
 
 - **Category:** Developer Tool
+- **Type:** Tool/Service
 - **Chains:** Solana, Ethereum, Monad
 - **Open source:** Partial
 - **Status:** Active
@@ -34,7 +35,7 @@ npm install @dialectlabs/react-ui @dialectlabs/react-sdk-blockchain-solana
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 69 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 70 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -43,6 +44,6 @@ npm install @dialectlabs/react-ui @dialectlabs/react-sdk-blockchain-solana
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `dialect`. https://satohub.ai/resources/dialect — retrieved 2026-09-26.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `dialect`. https://satohub.ai/resources/dialect — retrieved 2026-09-27.
 
 [← All layers](../index.md)

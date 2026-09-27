@@ -9,7 +9,7 @@ layout: "default"
 
 A small mainnet service paid with x402 over Lightning (lnbtc): digits of pi for 100 sats, with an agent SKILL.md and a Rust client.
 
-Sato Score: not scored (non-product listing) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 42** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -33,6 +33,6 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lightning-pi`. https://satohub.ai/resources/lightning-pi — retrieved 2026-09-26.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lightning-pi`. https://satohub.ai/resources/lightning-pi — retrieved 2026-09-27.
 
 [← All layers](../index.md)

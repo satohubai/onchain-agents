@@ -33,6 +33,6 @@ Sato Score: **⬡ 37** (Low) — a measure of how open, active and verifiable th
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `onesource`. https://satohub.ai/resources/onesource — retrieved 2026-09-26.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `onesource`. https://satohub.ai/resources/onesource — retrieved 2026-09-27.
 
 [← All layers](../index.md)

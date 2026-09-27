@@ -14,12 +14,14 @@ Sato Score: **⬡ 32** (Low) — a measure of how open, active and verifiable th
 ## Facts
 
 - **Category:** Trading Tool
+- **Type:** Venue
 - **Chains:** Multichain
 - **Open source:** Unknown
 - **Status:** Active
 
 ## What we checked
 
+- Live endpoint probed by us: 100% of our checks succeeded over 5 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -28,6 +30,6 @@ Sato Score: **⬡ 32** (Low) — a measure of how open, active and verifiable th
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `woo-x`. https://satohub.ai/resources/woo-x — retrieved 2026-09-26.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `woo-x`. https://satohub.ai/resources/woo-x — retrieved 2026-09-27.
 
 [← All layers](../index.md)

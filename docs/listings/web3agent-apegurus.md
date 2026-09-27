@@ -9,15 +9,16 @@ layout: "default"
 
 MCP package giving agents 190+ EVM DeFi tools — swaps, bridges, limit orders, exchange trading — with confirmation gating.
 
-Sato Score: **⬡ 65** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 55** (Medium), -10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
 - **Category:** API / SDK
+- **Type:** Tool/Service
 - **Chains:** Multichain
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Recent — last activity 30 days ago
+- **Activity:** Recent — last activity 1 month ago
 - **GitHub stars:** 1
 - **Works with:** Claude Code, Cursor, Windsurf, OpenCode, Codex, GOAT SDK, LI.FI, Orbs, Blockscout, Etherscan, DexScreener, DefiLlama
 
@@ -37,7 +38,7 @@ npx web3agent init
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 69 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 70 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -46,6 +47,6 @@ npx web3agent init
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `web3agent-apegurus`. https://satohub.ai/resources/web3agent-apegurus — retrieved 2026-09-26.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `web3agent-apegurus`. https://satohub.ai/resources/web3agent-apegurus — retrieved 2026-09-27.
 
 [← All layers](../index.md)
