@@ -9,7 +9,7 @@ layout: "default"
 
 API and MCP server for trading 275+ perpetual futures (crypto, stocks, commodities, forex) on Hyperliquid.
 
-Sato Score: **⬡ 34** (Low) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 37** (Low), +3 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -20,6 +20,7 @@ Sato Score: **⬡ 34** (Low) — a measure of how open, active and verifiable th
 - **Status:** Early
 - **Activity:** Quiet — last activity 6 months ago
 - **GitHub stars:** 0
+- **Deploys as:** hosted API, self-hosted
 
 ## Deploy spec
 
@@ -40,7 +41,7 @@ npm run dev
 
 ## What we checked
 
-- Live endpoint probed by us: 48.6% of our checks succeeded over 70 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 47.9% of our checks succeeded over 71 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -49,6 +50,6 @@ npm run dev
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `purple-flea-trading`. https://satohub.ai/resources/purple-flea-trading — retrieved 2026-09-27.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `purple-flea-trading`. https://satohub.ai/resources/purple-flea-trading — retrieved 2026-09-28.
 
 [← All layers](../index.md)

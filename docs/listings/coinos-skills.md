@@ -18,7 +18,7 @@ Sato Score: **⬡ 50** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Hyperliquid
 - **Open source:** Unknown
 - **Status:** Unknown
-- **Activity:** Active — last activity 28 days ago
+- **Activity:** Recent — last activity 30 days ago
 - **GitHub stars:** 53
 
 ## What we checked
@@ -31,6 +31,6 @@ Sato Score: **⬡ 50** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `coinos-skills`. https://satohub.ai/resources/coinos-skills — retrieved 2026-09-27.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `coinos-skills`. https://satohub.ai/resources/coinos-skills — retrieved 2026-09-28.
 
 [← All layers](../index.md)
