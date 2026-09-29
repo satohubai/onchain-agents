@@ -25,7 +25,7 @@ Sato Score: **⬡ 86** (High) — a measure of how open, active and verifiable t
 
 ## What we checked
 
-- Live endpoint probed by us: 92.9% of our checks succeeded over 14 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 93.3% of our checks succeeded over 15 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -34,6 +34,6 @@ Sato Score: **⬡ 86** (High) — a measure of how open, active and verifiable t
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `minia2a`. https://satohub.ai/resources/minia2a — retrieved 2026-09-28.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `minia2a`. https://satohub.ai/resources/minia2a — retrieved 2026-09-29.
 
 [← All layers](../index.md)

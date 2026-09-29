@@ -33,6 +33,6 @@ Sato Score: **⬡ 42** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lightning-pi`. https://satohub.ai/resources/lightning-pi — retrieved 2026-09-28.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lightning-pi`. https://satohub.ai/resources/lightning-pi — retrieved 2026-09-29.
 
 [← All layers](../index.md)

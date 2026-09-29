@@ -9,7 +9,7 @@ layout: "default"
 
 Non-custodial limit, stop-loss, DCA and trailing-stop order venue on Robinhood Chain with a REST API, TS/Python SDKs and a hosted MCP server.
 
-Sato Score: **⬡ 70** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 73** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -23,10 +23,11 @@ Sato Score: **⬡ 70** (High) — a measure of how open, active and verifiable t
 - **Status:** Beta
 - **Activity:** Recent — last activity 1 month ago
 - **GitHub stars:** 0
+- **Works with:** Cursor, Claude Code, ChatGPT, Codex, Cline, LangChain, Vercel AI SDK, Telegram
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 5 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 6 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -35,6 +36,6 @@ Sato Score: **⬡ 70** (High) — a measure of how open, active and verifiable t
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `epsilon`. https://satohub.ai/resources/epsilon — retrieved 2026-09-28.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `epsilon`. https://satohub.ai/resources/epsilon — retrieved 2026-09-29.
 
 [← All layers](../index.md)

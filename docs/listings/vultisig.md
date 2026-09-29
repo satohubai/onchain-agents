@@ -9,7 +9,7 @@ layout: "default"
 
 Seedless MPC wallet whose vaults are programmable by agents through a TypeScript SDK, a CLI and an MCP server, across 36+ chains.
 
-Sato Score: **⬡ 72** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 75** (High), +3 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -20,10 +20,11 @@ Sato Score: **⬡ 72** (High) — a measure of how open, active and verifiable t
 - **Status:** Active
 - **Activity:** Active — last activity today
 - **GitHub stars:** 13
+- **Works with:** THORChain, 1inch, KyberSwap, LiFi, Blockaid, CoinGecko, Banxa, Claude Code, Cursor
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 6 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 7 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -32,6 +33,6 @@ Sato Score: **⬡ 72** (High) — a measure of how open, active and verifiable t
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `vultisig`. https://satohub.ai/resources/vultisig — retrieved 2026-09-28.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `vultisig`. https://satohub.ai/resources/vultisig — retrieved 2026-09-29.
 
 [← All layers](../index.md)

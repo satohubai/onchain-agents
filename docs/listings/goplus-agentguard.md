@@ -9,7 +9,7 @@ layout: "default"
 
 MIT-licensed runtime guard for AI coding agents: hook-level action blocking, a 24-rule skill scanner, and a per-skill trust registry.
 
-Sato Score: **⬡ 77** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 77** (High), +11 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -39,7 +39,7 @@ npm install -g @goplus/agentguard
 ## What we checked
 
 - Install reproduced in an isolated container on 2026-09-25.
-- Live endpoint probed by us: 100% of our checks succeeded over 6 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 7 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -48,6 +48,6 @@ npm install -g @goplus/agentguard
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `goplus-agentguard`. https://satohub.ai/resources/goplus-agentguard — retrieved 2026-09-28.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `goplus-agentguard`. https://satohub.ai/resources/goplus-agentguard — retrieved 2026-09-29.
 
 [← All layers](../index.md)

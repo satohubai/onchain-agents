@@ -9,7 +9,7 @@ layout: "default"
 
 Six agent skills wrapping the AiCoin Open API and OKX Web3 DEX API: market data, exchange trading, Freqtrade strategies, Hyperliquid whale analysis, onchain DEX swaps.
 
-Sato Score: **⬡ 50** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 40** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -18,7 +18,7 @@ Sato Score: **⬡ 50** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Hyperliquid
 - **Open source:** Unknown
 - **Status:** Unknown
-- **Activity:** Recent — last activity 30 days ago
+- **Activity:** Recent — last activity 1 month ago
 - **GitHub stars:** 53
 
 ## What we checked
@@ -31,6 +31,6 @@ Sato Score: **⬡ 50** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `coinos-skills`. https://satohub.ai/resources/coinos-skills — retrieved 2026-09-28.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `coinos-skills`. https://satohub.ai/resources/coinos-skills — retrieved 2026-09-29.
 
 [← All layers](../index.md)
