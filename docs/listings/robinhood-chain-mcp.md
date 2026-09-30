@@ -9,7 +9,7 @@ layout: "default"
 
 MIT stdio MCP server for Robinhood Chain: 105 read/build tools (RPC, precompiles, Stock Tokens, Uniswap v4, Chainlink, x402 helpers). Never signs.
 
-Sato Score: **⬡ 54** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 57** (Medium), +3 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -23,10 +23,11 @@ Sato Score: **⬡ 54** (Medium) — a measure of how open, active and verifiable
 - **Open source:** Yes
 - **Status:** Early
 - **Activity:** Recent — last activity 2 months ago
+- **Works with:** Uniswap v4, Chainlink, Blockscout, x402, EIP-3009, EIP-2612, Multicall3
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 6 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 7 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -35,6 +36,6 @@ Sato Score: **⬡ 54** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `robinhood-chain-mcp`. https://satohub.ai/resources/robinhood-chain-mcp — retrieved 2026-09-29.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `robinhood-chain-mcp`. https://satohub.ai/resources/robinhood-chain-mcp — retrieved 2026-09-30.
 
 [← All layers](../index.md)
