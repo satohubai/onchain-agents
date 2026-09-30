@@ -1,0 +1,52 @@
+name: label add-project
+
+# The issue form applies `add-project` itself, but an issue opened through the
+# API (or with the form's markdown pasted into a blank issue) arrives without
+# it, and the daily intake only reads labelled issues. Issue #13 sat unseen that
+# way on 2026-09-27. This adds the label when the title and body match the form.
+#
+# The body is untrusted input: it is only read inside the script, never
+# interpolated into a shell or an expression.
+
+on:
+  issues:
+    types: [opened, edited]
+
+permissions: {}
+
+jobs:
+  label:
+    if: github.event.issue.state == 'open'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      issues: write
+    steps:
+      - uses: actions/github-script@3a2844b7e9c422d3c10d287c895573f7108da1b3 # v9.0.0
+        with:
+          script: |
+            const LABEL = 'add-project';
+            const issue = context.payload.issue;
+            if (issue.pull_request) return;
+            if ((issue.labels || []).some((l) => l.name === LABEL)) {
+              core.info(`#${issue.number} already has ${LABEL}`);
+              return;
+            }
+            const title = (issue.title || '').trim();
+            const body = (issue.body || '').replace(/\r\n/g, '\n');
+            const heading = (name) => new RegExp(`^###[ \\t]+${name}[ \\t]*$`, 'mi').test(body);
+            const isForm =
+              /^\[add\]/i.test(title) &&
+              heading('Project name') &&
+              (heading('Website URL') || heading('GitHub URL'));
+            if (!isForm) {
+              core.info(`#${issue.number} does not match the add-project form; left alone`);
+              return;
+            }
+            await github.rest.issues.addLabels({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: issue.number,
+              labels: [LABEL],
+            });
+            core.info(`#${issue.number}: added ${LABEL}`);
