@@ -21,7 +21,7 @@ Sato Score: **⬡ 76** (High) — a measure of how open, active and verifiable t
 - **Creator:** OKX
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 7 days ago
+- **Activity:** Active — last activity 8 days ago
 - **GitHub stars:** 396
 - **Deploys as:** npm
 - **Works with:** Claude, Cursor
@@ -42,7 +42,7 @@ npm install -g @okx_ai/okx-trade-mcp @okx_ai/okx-trade-cli
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 78 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 80 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -51,6 +51,6 @@ npm install -g @okx_ai/okx-trade-mcp @okx_ai/okx-trade-cli
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `okx-agent-trade-kit`. https://satohub.ai/resources/okx-agent-trade-kit — retrieved 2026-09-30.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `okx-agent-trade-kit`. https://satohub.ai/resources/okx-agent-trade-kit — retrieved 2026-10-01.
 
 [← All layers](../index.md)

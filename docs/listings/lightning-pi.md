@@ -25,6 +25,7 @@ Sato Score: **⬡ 42** (Medium) — a measure of how open, active and verifiable
 
 ## What we checked
 
+- Live endpoint probed by us: 100% of our checks succeeded over 5 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -33,6 +34,6 @@ Sato Score: **⬡ 42** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lightning-pi`. https://satohub.ai/resources/lightning-pi — retrieved 2026-09-30.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lightning-pi`. https://satohub.ai/resources/lightning-pi — retrieved 2026-10-01.
 
 [← All layers](../index.md)

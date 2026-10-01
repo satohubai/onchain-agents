@@ -9,7 +9,7 @@ layout: "default"
 
 Chainlink's hosted HTTP gateway and skill bundle: pay-per-call Data Streams prices and CRE-run onchain actions with gas covered, paid via x402 in USDC on Base.
 
-Sato Score: **⬡ 50** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 55** (Medium), +5 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -19,14 +19,16 @@ Sato Score: **⬡ 50** (Medium) — a measure of how open, active and verifiable
 - **Standards:** x402
 - **Interfaces:** rest-api
 - **Use cases:** data, trading
+- **Creator:** Chainlink
 - **Open source:** Partial
 - **Status:** Beta
-- **Activity:** Quiet — last activity 3 months ago
+- **Activity:** Quiet — last activity 4 months ago
 - **GitHub stars:** 9
+- **Works with:** OpenClaw, Hermes, Cursor, Claude Code, Codex, Agent Skills, x402, Aave
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 7 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 9 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -35,6 +37,6 @@ Sato Score: **⬡ 50** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `chainlink-for-agents`. https://satohub.ai/resources/chainlink-for-agents — retrieved 2026-09-30.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `chainlink-for-agents`. https://satohub.ai/resources/chainlink-for-agents — retrieved 2026-10-01.
 
 [← All layers](../index.md)
