@@ -18,7 +18,7 @@ Sato Score: **⬡ 78** (High) — a measure of how open, active and verifiable t
 - **Chains:** Multichain
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 6 days ago
+- **Activity:** Active — last activity 7 days ago
 - **GitHub stars:** 10
 - **Works with:** Cursor, Claude Code, Claude Desktop, Codex
 
@@ -48,6 +48,6 @@ npx -y @blindpay/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `blindpay`. https://satohub.ai/resources/blindpay — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `blindpay`. https://satohub.ai/resources/blindpay — retrieved 2026-10-02.
 
 [← All layers](../index.md)

@@ -9,7 +9,7 @@ layout: "default"
 
 Self-hosted control plane for onchain agents: sealed local wallet, ERC-7715 session grants with chain-enforced caps, EIP-7702 execution, EAS attestation ledger, human kill switch.
 
-Sato Score: **⬡ 42** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 46** (Medium), +4 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -36,6 +36,6 @@ Sato Score: **⬡ 42** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `sato-os`. https://satohub.ai/resources/sato-os — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `sato-os`. https://satohub.ai/resources/sato-os — retrieved 2026-10-02.
 
 [← All layers](../index.md)

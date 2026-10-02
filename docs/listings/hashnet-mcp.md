@@ -22,7 +22,7 @@ Sato Score: **⬡ 64** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Hashgraph Online
 - **Open source:** Unknown
 - **Status:** Active
-- **Activity:** Active — last activity 24 days ago
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 13
 - **Deploys as:** npx / pnpm (stdio or HTTP modes)
 
@@ -51,6 +51,6 @@ npx @hol-org/hashnet-mcp --stdio
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `hashnet-mcp`. https://satohub.ai/resources/hashnet-mcp — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `hashnet-mcp`. https://satohub.ai/resources/hashnet-mcp — retrieved 2026-10-02.
 
 [← All layers](../index.md)

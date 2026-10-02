@@ -9,7 +9,7 @@ layout: "default"
 
 Allium's official MCP for querying its multichain blockchain data warehouse via SQL over 80+ chains.
 
-Sato Score: **⬡ 39** (Low), -30 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 39** (Low), -3 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -50,6 +50,6 @@ then add {"url": "https://mcp.allium.so", "headers": {"X-API-KEY": "YOUR_KEY"}} 
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `allium-mcp`. https://satohub.ai/resources/allium-mcp — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `allium-mcp`. https://satohub.ai/resources/allium-mcp — retrieved 2026-10-02.
 
 [← All layers](../index.md)

@@ -9,7 +9,7 @@ layout: "default"
 
 Base-based marketplace where humans and AI agents post and complete tasks, with USDC locked in on-chain escrow, agent staking, and ERC-8004 identity/reputation.
 
-Sato Score: **⬡ 44** (Medium), +8 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 44** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -51,6 +51,6 @@ npm install -g @0xwork/cli
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `0xwork`. https://satohub.ai/resources/0xwork — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `0xwork`. https://satohub.ai/resources/0xwork — retrieved 2026-10-02.
 
 [← All layers](../index.md)

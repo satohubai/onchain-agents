@@ -36,6 +36,6 @@ Sato Score: **⬡ 57** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `metamask-agent-wallet`. https://satohub.ai/resources/metamask-agent-wallet — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `metamask-agent-wallet`. https://satohub.ai/resources/metamask-agent-wallet — retrieved 2026-10-02.
 
 [← All layers](../index.md)

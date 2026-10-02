@@ -53,6 +53,6 @@ npm install -g use-agently
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `agently-agent-commerce`. https://satohub.ai/resources/agently-agent-commerce — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `agently-agent-commerce`. https://satohub.ai/resources/agently-agent-commerce — retrieved 2026-10-02.
 
 [← All layers](../index.md)

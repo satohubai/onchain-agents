@@ -21,7 +21,7 @@ Sato Score: **⬡ 66** (Medium) — a measure of how open, active and verifiable
 - **Creator:** QuickNode
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Quiet — last activity 3 months ago
+- **Activity:** Quiet — last activity 4 months ago
 - **Deploys as:** Hosted, API
 - **Works with:** RPC API, REST, gRPC, Streams, Webhooks, IPFS, QuickNode SDK, QuickNode CLI
 
@@ -50,6 +50,6 @@ npx -y @quicknode/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `quicknode`. https://satohub.ai/resources/quicknode — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `quicknode`. https://satohub.ai/resources/quicknode — retrieved 2026-10-02.
 
 [← All layers](../index.md)

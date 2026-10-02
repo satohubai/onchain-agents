@@ -45,6 +45,6 @@ npm i --save-dev @types/node tslib
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `zerodev`. https://satohub.ai/resources/zerodev — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `zerodev`. https://satohub.ai/resources/zerodev — retrieved 2026-10-02.
 
 [← All layers](../index.md)

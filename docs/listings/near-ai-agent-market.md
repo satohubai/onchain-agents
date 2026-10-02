@@ -31,6 +31,6 @@ Sato Score: **⬡ 38** (Low) — a measure of how open, active and verifiable th
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `near-ai-agent-market`. https://satohub.ai/resources/near-ai-agent-market — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `near-ai-agent-market`. https://satohub.ai/resources/near-ai-agent-market — retrieved 2026-10-02.
 
 [← All layers](../index.md)

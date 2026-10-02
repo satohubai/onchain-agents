@@ -9,7 +9,7 @@ layout: "default"
 
 Small Robinhood Chain launchpad that opens a Uniswap v3 pool at launch instead of migrating one later.
 
-Sato Score: **⬡ 26** (Low), +1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 28** (Low), +3 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -20,6 +20,7 @@ Sato Score: **⬡ 26** (Low), +1 over 7 days — a measure of how open, active a
 - **Use cases:** launch, trading
 - **Open source:** Unknown
 - **Status:** Early
+- **Works with:** Uniswap v3
 
 ## What we checked
 
@@ -32,6 +33,6 @@ Sato Score: **⬡ 26** (Low), +1 over 7 days — a measure of how open, active a
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `robinpad`. https://satohub.ai/resources/robinpad — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `robinpad`. https://satohub.ai/resources/robinpad — retrieved 2026-10-02.
 
 [← All layers](../index.md)

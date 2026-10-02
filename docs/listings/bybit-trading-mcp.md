@@ -22,8 +22,8 @@ Sato Score: **⬡ 82** (High) — a measure of how open, active and verifiable t
 - **Creator:** Bybit
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 9 days ago
-- **GitHub stars:** 34
+- **Activity:** Active — last activity today
+- **GitHub stars:** 37
 - **Deploys as:** npx (zero-install stdio)
 - **Works with:** Claude Desktop, Cursor, VS Code
 
@@ -53,6 +53,6 @@ npx bybit-official-trading-server@latest
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bybit-trading-mcp`. https://satohub.ai/resources/bybit-trading-mcp — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bybit-trading-mcp`. https://satohub.ai/resources/bybit-trading-mcp — retrieved 2026-10-02.
 
 [← All layers](../index.md)

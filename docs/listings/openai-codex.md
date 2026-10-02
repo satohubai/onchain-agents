@@ -9,7 +9,7 @@ layout: "default"
 
 OpenAI's agentic coding tool (CLI, IDE, and cloud) that runs agents and connects to MCP servers and skills.
 
-Sato Score: **⬡ 88** (High), +8 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 88** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -54,6 +54,6 @@ npm install -g @openai/codex
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `openai-codex`. https://satohub.ai/resources/openai-codex — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `openai-codex`. https://satohub.ai/resources/openai-codex — retrieved 2026-10-02.
 
 [← All layers](../index.md)

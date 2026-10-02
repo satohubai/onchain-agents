@@ -50,6 +50,6 @@ bun add @gizatech/agent-sdk
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `giza-arma`. https://satohub.ai/resources/giza-arma — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `giza-arma`. https://satohub.ai/resources/giza-arma — retrieved 2026-10-02.
 
 [← All layers](../index.md)

@@ -9,7 +9,7 @@ layout: "default"
 
 Non-custodial lending protocol with isolated markets and curated vaults, shipped as a Base MCP skill plugin.
 
-Sato Score: **⬡ 62** (Medium), +10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 62** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -18,7 +18,7 @@ Sato Score: **⬡ 62** (Medium), +10 over 7 days — a measure of how open, acti
 - **Chains:** Base, Ethereum
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 7 days ago
+- **Activity:** Active — last activity 8 days ago
 - **GitHub stars:** 361
 
 ## What we checked
@@ -32,6 +32,6 @@ Sato Score: **⬡ 62** (Medium), +10 over 7 days — a measure of how open, acti
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `morpho`. https://satohub.ai/resources/morpho — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `morpho`. https://satohub.ai/resources/morpho — retrieved 2026-10-02.
 
 [← All layers](../index.md)

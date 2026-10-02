@@ -9,7 +9,7 @@ layout: "default"
 
 Official remote Streamable HTTP MCP: Chainstack docs search, platform status, live pricing, and node deployment.
 
-Sato Score: **⬡ 65** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 38** (Low), -27 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -49,6 +49,6 @@ curl -o ~/.claude/skills/chainstack/SKILL.md https://mcp.chainstack.com/skill
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `chainstack-mcp`. https://satohub.ai/resources/chainstack-mcp — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `chainstack-mcp`. https://satohub.ai/resources/chainstack-mcp — retrieved 2026-10-02.
 
 [← All layers](../index.md)

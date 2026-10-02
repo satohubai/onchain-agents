@@ -51,6 +51,6 @@ claude mcp add --transport http "thirdweb-api" "https://api.thirdweb.com/mcp?sec
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `thirdweb-ai`. https://satohub.ai/resources/thirdweb-ai — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `thirdweb-ai`. https://satohub.ai/resources/thirdweb-ai — retrieved 2026-10-02.
 
 [← All layers](../index.md)

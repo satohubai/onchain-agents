@@ -51,6 +51,6 @@ claude mcp add --transport http maestro-btc https://xbt-mainnet.gomaestro-api.or
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `maestro-mcp`. https://satohub.ai/resources/maestro-mcp — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `maestro-mcp`. https://satohub.ai/resources/maestro-mcp — retrieved 2026-10-02.
 
 [← All layers](../index.md)

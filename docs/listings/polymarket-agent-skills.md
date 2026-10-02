@@ -36,6 +36,6 @@ Sato Score: **⬡ 58** (Medium), +6 over 7 days — a measure of how open, activ
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `polymarket-agent-skills`. https://satohub.ai/resources/polymarket-agent-skills — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `polymarket-agent-skills`. https://satohub.ai/resources/polymarket-agent-skills — retrieved 2026-10-02.
 
 [← All layers](../index.md)

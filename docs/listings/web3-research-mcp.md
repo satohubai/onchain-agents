@@ -22,8 +22,8 @@ Sato Score: **⬡ 73** (High) — a measure of how open, active and verifiable t
 - **Creator:** aaronjmars
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 14 days ago
-- **GitHub stars:** 162
+- **Activity:** Active — last activity 1 day ago
+- **GitHub stars:** 163
 - **Deploys as:** Local (stdio)
 
 ## Deploy spec
@@ -51,6 +51,6 @@ npx -y web3-research-mcp@latest
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `web3-research-mcp`. https://satohub.ai/resources/web3-research-mcp — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `web3-research-mcp`. https://satohub.ai/resources/web3-research-mcp — retrieved 2026-10-02.
 
 [← All layers](../index.md)

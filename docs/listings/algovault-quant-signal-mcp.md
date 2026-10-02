@@ -21,7 +21,7 @@ Sato Score: **⬡ 81** (High) — a measure of how open, active and verifiable t
 - **Use cases:** trading, data, identity, security
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 5 days ago
+- **Activity:** Active — last activity 6 days ago
 - **GitHub stars:** 8
 - **Deploys as:** npm
 
@@ -50,6 +50,6 @@ npx -y crypto-quant-signal-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `algovault-quant-signal-mcp`. https://satohub.ai/resources/algovault-quant-signal-mcp — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `algovault-quant-signal-mcp`. https://satohub.ai/resources/algovault-quant-signal-mcp — retrieved 2026-10-02.
 
 [← All layers](../index.md)

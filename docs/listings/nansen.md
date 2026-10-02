@@ -22,7 +22,7 @@ Sato Score: **⬡ 47** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Nansen
 - **Open source:** No
 - **Status:** Active
-- **Activity:** Quiet — last activity 3 months ago
+- **Activity:** Quiet — last activity 4 months ago
 - **Deploys as:** API, MCP server, npm
 - **Works with:** MCP, REST API, CLI, x402
 
@@ -51,6 +51,6 @@ npm install -g nansen-cli
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `nansen`. https://satohub.ai/resources/nansen — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `nansen`. https://satohub.ai/resources/nansen — retrieved 2026-10-02.
 
 [← All layers](../index.md)

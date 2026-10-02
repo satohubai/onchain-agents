@@ -51,6 +51,6 @@ claude mcp add --transport http gate-for-ai https://api.gatemcp.ai/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `gate-for-ai`. https://satohub.ai/resources/gate-for-ai — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `gate-for-ai`. https://satohub.ai/resources/gate-for-ai — retrieved 2026-10-02.
 
 [← All layers](../index.md)

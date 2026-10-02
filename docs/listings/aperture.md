@@ -21,8 +21,8 @@ Sato Score: **⬡ 67** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Lightning Labs
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 13 days ago
-- **GitHub stars:** 268
+- **Activity:** Active — last activity today
+- **GitHub stars:** 271
 
 ## What we checked
 
@@ -35,6 +35,6 @@ Sato Score: **⬡ 67** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `aperture`. https://satohub.ai/resources/aperture — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `aperture`. https://satohub.ai/resources/aperture — retrieved 2026-10-02.
 
 [← All layers](../index.md)

@@ -9,7 +9,7 @@ layout: "default"
 
 Skim is a data service for agents on Base.
 
-Sato Score: **⬡ 86** (High), +1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 86** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -49,6 +49,6 @@ npx -y skim-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `skim`. https://satohub.ai/resources/skim — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `skim`. https://satohub.ai/resources/skim — retrieved 2026-10-02.
 
 [← All layers](../index.md)

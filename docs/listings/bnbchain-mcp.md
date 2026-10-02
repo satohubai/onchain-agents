@@ -22,7 +22,7 @@ Sato Score: **⬡ 81** (High) — a measure of how open, active and verifiable t
 - **Creator:** nirholas
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 16 days ago
+- **Activity:** Active — last activity 17 days ago
 - **GitHub stars:** 34
 - **Deploys as:** MCP server, npx (stdio), HTTP mode, SSE mode
 - **Works with:** Claude Desktop, Cursor, VS Code, ChatGPT
@@ -53,6 +53,6 @@ npx -y @nirholas/bnbchain-mcp@latest
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bnbchain-mcp`. https://satohub.ai/resources/bnbchain-mcp — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bnbchain-mcp`. https://satohub.ai/resources/bnbchain-mcp — retrieved 2026-10-02.
 
 [← All layers](../index.md)

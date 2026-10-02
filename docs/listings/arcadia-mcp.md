@@ -22,7 +22,7 @@ Sato Score: **⬡ 78** (High) — a measure of how open, active and verifiable t
 - **Creator:** Arcadia Finance
 - **Open source:** Yes
 - **Status:** Unknown
-- **Activity:** Recent — last activity 30 days ago
+- **Activity:** Recent — last activity 1 month ago
 - **GitHub stars:** 5
 - **Deploys as:** npm
 - **Works with:** Claude, Cursor, VS Code
@@ -33,9 +33,9 @@ Sato Score: **⬡ 78** (High) — a measure of how open, active and verifiable t
 npx -y @arcadia-finance/mcp-server
 ```
 
-- **Entry:** npx -y @arcadia-finance/mcp-server (stdio) — write tools return unsigned transactions only
+- **Entry:** npx -y @arcadia-finance/mcp-server (stdio) — write tools return unsigned transactions; the built-in dev_send tool signs and broadcasts with a local PK (dev only)
 - **Runtime:** node
-- **Requires:** a wallet-signing MCP or your own signer to execute the unsigned transactions this server returns (e.g. Coinbase AgentKit, Privy MCP, Safe MCP — this server never signs or broadcasts)
+- **Requires:** a wallet-signing MCP or your own signer to execute the unsigned transactions the write tools return (e.g. Coinbase AgentKit, Privy MCP, Safe MCP), PK (dev only): a private key (hex) the built-in dev_send tool reads from the environment to sign and broadcast a transaction; optional — dev_send returns an error until it is set
 - **License:** AGPL-3.0
 - **MCP native:** yes
 - **Deploy status:** verified
@@ -53,6 +53,6 @@ npx -y @arcadia-finance/mcp-server
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `arcadia-mcp`. https://satohub.ai/resources/arcadia-mcp — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `arcadia-mcp`. https://satohub.ai/resources/arcadia-mcp — retrieved 2026-10-02.
 
 [← All layers](../index.md)

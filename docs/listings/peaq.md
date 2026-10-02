@@ -50,6 +50,6 @@ pip install peaq-os-sdk python-dotenv
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `peaq`. https://satohub.ai/resources/peaq — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `peaq`. https://satohub.ai/resources/peaq — retrieved 2026-10-02.
 
 [← All layers](../index.md)

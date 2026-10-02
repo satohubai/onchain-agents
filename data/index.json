@@ -1,7 +1,7 @@
 {
   "schema_version": "1",
   "item_schema": "https://satohub.ai/schemas/export-listing/v1.json",
-  "generated_at": "2026-10-01T18:29:31.761Z",
+  "generated_at": "2026-10-02T17:56:32.604Z",
   "source": "https://satohub.ai",
   "license": "Catalog data CC-BY-4.0 — attribution: data by satohub.ai. Scores/liveness are informational signals, not safety or quality guarantees.",
   "meta": {
@@ -20,10 +20,12 @@
     ],
     "coverage": {
       "daily": {
-        "run_id": "gh-36882808088-1",
-        "finished_at": "2026-10-01T15:57:34.671+00:00",
-        "steps_ok": 43,
-        "steps_failed": []
+        "run_id": "gh-37020861411-1",
+        "finished_at": "2026-10-02T15:10:42.815+00:00",
+        "steps_ok": 45,
+        "steps_failed": [
+          "scan-base"
+        ]
       },
       "weekly": {
         "run_id": "gh-36460311285-1",
@@ -34,21 +36,21 @@
       "note": "coverage = what the last scheduled runs reported to the job ledger. A step in steps_failed wrote nothing usable; its numbers are stale or unknown, never zero."
     },
     "next_update": {
-      "daily": "2026-10-02T08:00:00.000Z",
+      "daily": "2026-10-03T08:00:00.000Z",
       "weekly": "2026-10-05T09:30:00.000Z"
     },
-    "generated_at": "2026-10-01T18:29:31.761Z"
+    "generated_at": "2026-10-02T17:56:32.604Z"
   },
   "count": 436,
   "aggregates": {
     "resources": 436,
     "chains": 28,
     "scored": 433,
-    "independently_checked": 161,
+    "independently_checked": 160,
     "checked_legs": {
       "reviewed": 36,
       "reproduced": 86,
-      "probed": 38,
+      "probed": 37,
       "registered": 1
     }
   },
@@ -99,7 +101,7 @@
       "trust_tier": "High",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-09-29T13:47:05.000Z",
+      "last_activity_at": "2026-09-30T22:28:51.000Z",
       "github_stars": 1321,
       "verified_install": true,
       "verification_status": "Unverified",
@@ -449,10 +451,10 @@
         "deploy_clarity": "high"
       },
       "install": "bun add -g elizaos@beta",
-      "custody_key_access": "unknown",
+      "custody_key_access": "none_found",
       "custody_key_egress": "unknown",
       "custody_fund_action_count": null,
-      "custody_as_of": "2026-10-01T00:21:31.518Z",
+      "custody_as_of": "2026-10-02T14:42:20.732Z",
       "date_added": "2026-06-06",
       "detail_url": "https://satohub.ai/resources/elizaos",
       "trust_score_delta_7d": 0
@@ -830,7 +832,7 @@
       "provisional": false,
       "liveness": "Active",
       "last_activity_at": "2026-09-30T16:42:40.000Z",
-      "github_stars": 1009,
+      "github_stars": 1008,
       "verified_install": true,
       "verification_status": "Unverified",
       "creator_name": "GOAT SDK",
@@ -1159,10 +1161,10 @@
         "not_attempted_reason": "no falsifiable install+entry probe from deploy_spec"
       },
       "install": "npm install",
-      "custody_key_access": "declared",
-      "custody_key_egress": "unknown",
+      "custody_key_access": null,
+      "custody_key_egress": null,
       "custody_fund_action_count": null,
-      "custody_as_of": "2026-10-01T15:24:40.697Z",
+      "custody_as_of": null,
       "date_added": "2026-06-08",
       "detail_url": "https://satohub.ai/resources/erc-8004",
       "trust_score_delta_7d": 0
@@ -1326,7 +1328,7 @@
       "trust_tier": "High",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-09-21T16:22:37.000Z",
+      "last_activity_at": "2026-10-01T18:58:31.000Z",
       "github_stars": 345,
       "verified_install": false,
       "verification_status": "Verified",
@@ -1630,7 +1632,7 @@
       "trust_tier": "High",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-09-30T23:44:26.000Z",
+      "last_activity_at": "2026-10-02T14:06:34.000Z",
       "github_stars": 390745,
       "verified_install": true,
       "verification_status": "Verified",
@@ -1696,10 +1698,10 @@
       "custody_key_access": "unknown",
       "custody_key_egress": "not_observed",
       "custody_fund_action_count": null,
-      "custody_as_of": "2026-10-01T00:21:32.051Z",
+      "custody_as_of": "2026-10-02T03:57:53.319Z",
       "date_added": "2026-06-08",
       "detail_url": "https://satohub.ai/resources/openclaw",
-      "trust_score_delta_7d": 8
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "uniswap",
@@ -2032,7 +2034,7 @@
       "trust_tier": "High",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-09-30T13:13:23.000Z",
+      "last_activity_at": "2026-10-01T13:00:00.000Z",
       "github_stars": 59,
       "verified_install": true,
       "verification_status": "Self-Reported",
@@ -2231,8 +2233,8 @@
       "trust_tier": "High",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-10-01T15:15:46.000Z",
-      "github_stars": 1201,
+      "last_activity_at": "2026-10-02T14:34:55.000Z",
+      "github_stars": 1203,
       "verified_install": true,
       "verification_status": "Self-Reported",
       "creator_name": "Bankr",
@@ -2300,9 +2302,9 @@
       },
       "install": "npm install -g @bankr/cli",
       "custody_key_access": "reads",
-      "custody_key_egress": "not_observed",
+      "custody_key_egress": "unknown",
       "custody_fund_action_count": null,
-      "custody_as_of": "2026-09-30T22:43:50.629Z",
+      "custody_as_of": "2026-10-02T03:57:56.444Z",
       "date_added": "2026-06-08",
       "detail_url": "https://satohub.ai/resources/bankr",
       "trust_score_delta_7d": 0
@@ -2346,7 +2348,7 @@
       "trust_tier": "High",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-09-30T19:10:13.000Z",
+      "last_activity_at": "2026-10-01T18:43:19.000Z",
       "github_stars": 148316,
       "verified_install": true,
       "verification_status": "Verified",
@@ -2404,10 +2406,10 @@
       "custody_key_access": "none_found",
       "custody_key_egress": "unknown",
       "custody_fund_action_count": null,
-      "custody_as_of": "2026-09-30T22:43:53.858Z",
+      "custody_as_of": "2026-10-02T14:42:24.627Z",
       "date_added": "2026-06-08",
       "detail_url": "https://satohub.ai/resources/claude-code",
-      "trust_score_delta_7d": 8
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "defillama",
@@ -2825,7 +2827,7 @@
       "trust_tier": "High",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-09-30T16:38:41.000Z",
+      "last_activity_at": "2026-10-01T22:11:23.000Z",
       "github_stars": 101,
       "verified_install": true,
       "verification_status": "Verified",
@@ -3014,7 +3016,7 @@
       "trust_tier": "High",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-09-30T15:41:00.000Z",
+      "last_activity_at": "2026-10-01T17:19:48.000Z",
       "github_stars": null,
       "verified_install": true,
       "verification_status": "Self-Reported",
@@ -3317,7 +3319,7 @@
       "trust_tier": "High",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-10-01T14:47:40.000Z",
+      "last_activity_at": "2026-10-02T07:01:13.000Z",
       "github_stars": 249488,
       "verified_install": true,
       "verification_status": "Verified",
@@ -3384,7 +3386,7 @@
       "custody_as_of": "2026-09-29T02:29:29.185Z",
       "date_added": "2026-06-08",
       "detail_url": "https://satohub.ai/resources/hermes-agent",
-      "trust_score_delta_7d": 8
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "nansen",
@@ -3539,7 +3541,7 @@
       "trust_tier": "High",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-10-01T14:54:43.000Z",
+      "last_activity_at": "2026-10-02T14:08:29.000Z",
       "github_stars": 127484,
       "verified_install": true,
       "verification_status": "Verified",
@@ -3600,10 +3602,10 @@
       "custody_key_access": "none_found",
       "custody_key_egress": "unknown",
       "custody_fund_action_count": null,
-      "custody_as_of": "2026-10-01T00:21:33.174Z",
+      "custody_as_of": "2026-10-02T14:42:25.147Z",
       "date_added": "2026-06-08",
       "detail_url": "https://satohub.ai/resources/openai-codex",
-      "trust_score_delta_7d": 8
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "turnkey",
@@ -4645,10 +4647,10 @@
         "deploy_clarity": "high"
       },
       "install": "pipx install almanak",
-      "custody_key_access": "unknown",
+      "custody_key_access": "reads",
       "custody_key_egress": "unknown",
       "custody_fund_action_count": null,
-      "custody_as_of": "2026-10-01T00:21:35.853Z",
+      "custody_as_of": "2026-10-02T14:42:28.776Z",
       "date_added": "2026-06-08",
       "detail_url": "https://satohub.ai/resources/almanak",
       "trust_score_delta_7d": 0
@@ -4730,7 +4732,7 @@
       "custody_key_access": "declared",
       "custody_key_egress": "unknown",
       "custody_fund_action_count": null,
-      "custody_as_of": "2026-10-01T00:21:31.804Z",
+      "custody_as_of": "2026-10-02T14:42:22.087Z",
       "date_added": "2026-06-06",
       "detail_url": "https://satohub.ai/resources/clanker",
       "trust_score_delta_7d": 0
@@ -4929,7 +4931,7 @@
       "custody_key_access": "none_found",
       "custody_key_egress": "unknown",
       "custody_fund_action_count": null,
-      "custody_as_of": "2026-09-29T14:51:00.854Z",
+      "custody_as_of": "2026-10-02T14:42:26.551Z",
       "date_added": "2026-06-08",
       "detail_url": "https://satohub.ai/resources/cow-protocol",
       "trust_score_delta_7d": 0
@@ -5692,7 +5694,7 @@
       "custody_as_of": "2026-09-26T12:58:44.053Z",
       "date_added": "2026-06-08",
       "detail_url": "https://satohub.ai/resources/enso-shortcuts",
-      "trust_score_delta_7d": 10
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "manus",
@@ -6128,8 +6130,8 @@
       "trust_tier": "High",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-09-25T14:43:54.000Z",
-      "github_stars": 1636,
+      "last_activity_at": "2026-10-02T08:51:55.000Z",
+      "github_stars": 1638,
       "verified_install": true,
       "verification_status": "Unverified",
       "creator_name": "Fetch.ai",
@@ -6189,7 +6191,7 @@
       "custody_key_access": "declared",
       "custody_key_egress": "unknown",
       "custody_fund_action_count": null,
-      "custody_as_of": "2026-09-29T02:29:28.583Z",
+      "custody_as_of": "2026-10-02T14:42:22.634Z",
       "date_added": "2026-06-06",
       "detail_url": "https://satohub.ai/resources/fetchai-uagents",
       "trust_score_delta_7d": 0
@@ -7334,7 +7336,7 @@
       "custody_key_access": "declared",
       "custody_key_egress": "not_observed",
       "custody_fund_action_count": null,
-      "custody_as_of": "2026-10-01T00:21:34.439Z",
+      "custody_as_of": "2026-10-02T14:42:27.370Z",
       "date_added": "2026-06-08",
       "detail_url": "https://satohub.ai/resources/raydium",
       "trust_score_delta_7d": 0
@@ -7946,7 +7948,7 @@
       "custody_as_of": "2026-09-26T12:58:32.436Z",
       "date_added": "2026-06-08",
       "detail_url": "https://satohub.ai/resources/0xwork",
-      "trust_score_delta_7d": 8
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "a0x",
@@ -8225,7 +8227,7 @@
       "custody_as_of": "2026-09-26T03:04:38.186Z",
       "date_added": "2026-06-08",
       "detail_url": "https://satohub.ai/resources/agent-skills-hub",
-      "trust_score_delta_7d": 8
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "aperture",
@@ -8265,8 +8267,8 @@
       "trust_tier": "Medium",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-09-17T22:38:46.000Z",
-      "github_stars": 268,
+      "last_activity_at": "2026-10-01T18:17:12.000Z",
+      "github_stars": 271,
       "verified_install": false,
       "verification_status": "Unverified",
       "creator_name": "Lightning Labs",
@@ -9356,10 +9358,10 @@
         "mcp_invocation": "pip install mcp-paradex, then uvx mcp-paradex (stdio). Claude Desktop config: {\"mcpServers\": {\"paradex\": {\"command\": \"uvx\", \"args\": [\"mcp-paradex\"], \"env\": {\"PARADEX_ENVIRONMENT\": \"testnet\", \"PARADEX_ACCOUNT_PRIVATE_KEY\": \"your_private_key\"}}}} — PARADEX_ACCOUNT_PRIVATE_KEY is a private key (custody risk); source: https://raw.githubusercontent.com/tradeparadex/mcp-paradex-py/main/README.md"
       },
       "install": "pip install paradex-py",
-      "custody_key_access": "reads",
+      "custody_key_access": "declared",
       "custody_key_egress": "unknown",
       "custody_fund_action_count": null,
-      "custody_as_of": "2026-09-29T14:51:00.216Z",
+      "custody_as_of": "2026-10-02T14:42:25.940Z",
       "date_added": "2026-06-08",
       "detail_url": "https://satohub.ai/resources/paradex",
       "trust_score_delta_7d": 0
@@ -9402,7 +9404,7 @@
       "trust_tier": "High",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-10-01T00:09:45.000Z",
+      "last_activity_at": "2026-10-02T00:54:54.000Z",
       "github_stars": 9467,
       "verified_install": false,
       "verification_status": "Self-Reported",
@@ -9457,7 +9459,7 @@
       "custody_key_access": "none_found",
       "custody_key_egress": "not_observed",
       "custody_fund_action_count": null,
-      "custody_as_of": "2026-09-26T03:04:20.670Z",
+      "custody_as_of": "2026-10-02T03:57:55.048Z",
       "date_added": "2026-06-08",
       "detail_url": "https://satohub.ai/resources/clawhub",
       "trust_score_delta_7d": -1
@@ -9596,7 +9598,7 @@
       "custody_as_of": null,
       "date_added": "2026-09-24",
       "detail_url": "https://satohub.ai/resources/8004swap",
-      "trust_score_delta_7d": null
+      "trust_score_delta_7d": -10
     },
     {
       "slug": "aave-mcp-junct",
@@ -9978,7 +9980,7 @@
       "trust_tier": "High",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-10-01T05:15:12.000Z",
+      "last_activity_at": "2026-10-02T04:57:54.000Z",
       "github_stars": 10,
       "verified_install": true,
       "verification_status": "Self-Reported",
@@ -10038,7 +10040,7 @@
       "custody_key_access": "reads",
       "custody_key_egress": "unknown",
       "custody_fund_action_count": null,
-      "custody_as_of": "2026-10-01T15:24:45.789Z",
+      "custody_as_of": "2026-10-02T14:42:38.860Z",
       "date_added": "2026-07-13",
       "detail_url": "https://satohub.ai/resources/aibtc-mcp",
       "trust_score_delta_7d": 0
@@ -10129,11 +10131,11 @@
       ],
       "status": "Active",
       "open_source_status": "Yes",
-      "trust_score": 54,
+      "trust_score": 64,
       "trust_tier": "Medium",
       "provisional": false,
-      "liveness": "Recent",
-      "last_activity_at": "2026-08-25T21:21:04.000Z",
+      "liveness": "Active",
+      "last_activity_at": "2026-10-02T10:16:16.000Z",
       "github_stars": 66,
       "verified_install": false,
       "verification_status": "Self-Reported",
@@ -10195,10 +10197,10 @@
       "custody_key_access": "none_found",
       "custody_key_egress": "unknown",
       "custody_fund_action_count": null,
-      "custody_as_of": "2026-09-27T13:49:57.092Z",
+      "custody_as_of": "2026-10-02T14:42:37.121Z",
       "date_added": "2026-07-13",
       "detail_url": "https://satohub.ai/resources/alby-mcp",
-      "trust_score_delta_7d": 0
+      "trust_score_delta_7d": 10
     },
     {
       "slug": "alchemy-agentpay",
@@ -10572,9 +10574,9 @@
       },
       "install": "npx -y crypto-quant-signal-mcp",
       "custody_key_access": "reads",
-      "custody_key_egress": "unknown",
-      "custody_fund_action_count": 1,
-      "custody_as_of": "2026-09-28T16:44:28.613Z",
+      "custody_key_egress": "not_observed",
+      "custody_fund_action_count": 0,
+      "custody_as_of": "2026-10-02T03:57:49.492Z",
       "date_added": "2026-07-13",
       "detail_url": "https://satohub.ai/resources/algovault-quant-signal-mcp",
       "trust_score_delta_7d": 0
@@ -10672,7 +10674,7 @@
       "custody_as_of": null,
       "date_added": "2026-07-13",
       "detail_url": "https://satohub.ai/resources/allium-mcp",
-      "trust_score_delta_7d": -30
+      "trust_score_delta_7d": -3
     },
     {
       "slug": "allora-network",
@@ -11187,7 +11189,7 @@
       "install_verified_at": "2026-07-21",
       "deploy_spec": {
         "as_of": "2026-07-21",
-        "entry": "npx -y @arcadia-finance/mcp-server (stdio) — write tools return unsigned transactions only",
+        "entry": "npx -y @arcadia-finance/mcp-server (stdio) — write tools return unsigned transactions; the built-in dev_send tool signs and broadcasts with a local PK (dev only)",
         "chains": [
           "Base",
           "Optimism"
@@ -11198,7 +11200,8 @@
         "license": "AGPL-3.0",
         "runtime": "node",
         "requires": [
-          "a wallet-signing MCP or your own signer to execute the unsigned transactions this server returns (e.g. Coinbase AgentKit, Privy MCP, Safe MCP — this server never signs or broadcasts)"
+          "a wallet-signing MCP or your own signer to execute the unsigned transactions the write tools return (e.g. Coinbase AgentKit, Privy MCP, Safe MCP)",
+          "PK (dev only): a private key (hex) the built-in dev_send tool reads from the environment to sign and broadcast a transaction; optional — dev_send returns an error until it is set"
         ],
         "mcp_native": true,
         "source_url": "https://github.com/arcadia-finance/mcp-server",
@@ -11224,10 +11227,10 @@
         "mcp_invocation": "npx -y @arcadia-finance/mcp-server"
       },
       "install": "npx -y @arcadia-finance/mcp-server",
-      "custody_key_access": "none_found",
+      "custody_key_access": "declared",
       "custody_key_egress": "not_observed",
-      "custody_fund_action_count": 10,
-      "custody_as_of": "2026-09-28T17:53:41.743Z",
+      "custody_fund_action_count": 1,
+      "custody_as_of": "2026-10-02T03:57:50.467Z",
       "date_added": "2026-07-12",
       "detail_url": "https://satohub.ai/resources/arcadia-mcp",
       "trust_score_delta_7d": 0
@@ -11551,8 +11554,8 @@
       "trust_tier": "Medium",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-09-25T09:39:40.000Z",
-      "github_stars": 420,
+      "last_activity_at": "2026-09-26T07:08:32.000Z",
+      "github_stars": 427,
       "verified_install": false,
       "verification_status": "Unverified",
       "creator_name": null,
@@ -11612,8 +11615,8 @@
       "trust_tier": "Medium",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-09-24T23:16:33.000Z",
-      "github_stars": 3400,
+      "last_activity_at": "2026-10-02T11:48:01.000Z",
+      "github_stars": 3425,
       "verified_install": false,
       "verification_status": "Self-Reported",
       "creator_name": "Amazon Web Services (AWS)",
@@ -11630,7 +11633,7 @@
       "custody_as_of": null,
       "date_added": "2026-09-23",
       "detail_url": "https://satohub.ai/resources/aws-agentcore-payments",
-      "trust_score_delta_7d": 2
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "balancer",
@@ -12596,10 +12599,10 @@
         "not_attempted_reason": "no falsifiable install+entry probe from deploy_spec"
       },
       "install": "claude mcp add bitquery -- npx -y mcp-remote https://mcp.bitquery.io/mcp",
-      "custody_key_access": "none_found",
-      "custody_key_egress": "unknown",
+      "custody_key_access": null,
+      "custody_key_egress": null,
       "custody_fund_action_count": null,
-      "custody_as_of": "2026-09-27T13:49:48.160Z",
+      "custody_as_of": null,
       "date_added": "2026-07-12",
       "detail_url": "https://satohub.ai/resources/bitquery-mcp",
       "trust_score_delta_7d": 0
@@ -13668,8 +13671,8 @@
       "trust_tier": "High",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-09-22T09:47:48.000Z",
-      "github_stars": 34,
+      "last_activity_at": "2026-10-02T03:37:06.000Z",
+      "github_stars": 37,
       "verified_install": true,
       "verification_status": "Self-Reported",
       "creator_name": "Bybit",
@@ -13759,11 +13762,11 @@
       ],
       "status": "Early",
       "open_source_status": "Yes",
-      "trust_score": 56,
+      "trust_score": 66,
       "trust_tier": "Medium",
       "provisional": false,
-      "liveness": "Recent",
-      "last_activity_at": "2026-07-27T20:40:04.000Z",
+      "liveness": "Active",
+      "last_activity_at": "2026-10-02T10:33:00.000Z",
       "github_stars": 0,
       "verified_install": false,
       "verification_status": "Unverified",
@@ -13781,7 +13784,7 @@
       "custody_as_of": null,
       "date_added": "2026-07-19",
       "detail_url": "https://satohub.ai/resources/cabalspy-wallet-tracker",
-      "trust_score_delta_7d": 0
+      "trust_score_delta_7d": 10
     },
     {
       "slug": "cardano-mcp-indigo",
@@ -14304,8 +14307,8 @@
       ],
       "status": "Active",
       "open_source_status": "No",
-      "trust_score": 65,
-      "trust_tier": "Medium",
+      "trust_score": 38,
+      "trust_tier": "Low",
       "provisional": false,
       "liveness": null,
       "last_activity_at": null,
@@ -14355,7 +14358,7 @@
       "custody_as_of": null,
       "date_added": "2026-07-12",
       "detail_url": "https://satohub.ai/resources/chainstack-mcp",
-      "trust_score_delta_7d": 0
+      "trust_score_delta_7d": -27
     },
     {
       "slug": "changenow-mcp",
@@ -15053,8 +15056,8 @@
       "trust_tier": "High",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-09-21T18:04:24.000Z",
-      "github_stars": 158,
+      "last_activity_at": "2026-10-02T00:06:09.000Z",
+      "github_stars": 163,
       "verified_install": true,
       "verification_status": "Self-Reported",
       "creator_name": "Coinbase",
@@ -15113,7 +15116,7 @@
       "custody_as_of": "2026-09-30T22:43:59.144Z",
       "date_added": "2026-09-23",
       "detail_url": "https://satohub.ai/resources/coinbase-x402-bazaar",
-      "trust_score_delta_7d": 8
+      "trust_score_delta_7d": 7
     },
     {
       "slug": "coingecko-mcp",
@@ -15154,7 +15157,7 @@
       "trust_tier": "High",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-09-28T07:05:42.000Z",
+      "last_activity_at": "2026-10-02T06:44:53.000Z",
       "github_stars": 58,
       "verified_install": false,
       "verification_status": "Self-Reported",
@@ -16332,11 +16335,11 @@
       ],
       "status": "Unknown",
       "open_source_status": "Yes",
-      "trust_score": 57,
-      "trust_tier": "Medium",
+      "trust_score": 72,
+      "trust_tier": "High",
       "provisional": false,
-      "liveness": "Quiet",
-      "last_activity_at": "2026-02-03T08:13:32.000Z",
+      "liveness": "Active",
+      "last_activity_at": "2026-10-02T07:53:25.000Z",
       "github_stars": 6,
       "verified_install": true,
       "verification_status": "Self-Reported",
@@ -16393,10 +16396,10 @@
       "custody_key_access": "none_found",
       "custody_key_egress": "unknown",
       "custody_fund_action_count": null,
-      "custody_as_of": "2026-09-27T13:49:55.587Z",
+      "custody_as_of": "2026-10-02T14:42:36.640Z",
       "date_added": "2026-07-13",
       "detail_url": "https://satohub.ai/resources/cryptoquant-mcp",
-      "trust_score_delta_7d": 0
+      "trust_score_delta_7d": 15
     },
     {
       "slug": "cspr-trade-mcp",
@@ -16792,7 +16795,7 @@
       "trust_tier": "High",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-09-29T12:38:16.000Z",
+      "last_activity_at": "2026-10-02T12:28:10.000Z",
       "github_stars": 42,
       "verified_install": false,
       "verification_status": "Self-Reported",
@@ -16845,7 +16848,7 @@
       "custody_key_access": "none_found",
       "custody_key_egress": "unknown",
       "custody_fund_action_count": 0,
-      "custody_as_of": "2026-09-29T14:51:07.886Z",
+      "custody_as_of": "2026-10-02T14:42:35.971Z",
       "date_added": "2026-07-12",
       "detail_url": "https://satohub.ai/resources/dexpaprika-mcp",
       "trust_score_delta_7d": 0
@@ -17929,8 +17932,8 @@
       "trust_tier": "High",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-09-22T23:28:55.000Z",
-      "github_stars": 5039,
+      "last_activity_at": "2026-09-30T21:19:18.000Z",
+      "github_stars": 5071,
       "verified_install": false,
       "verification_status": "Self-Reported",
       "creator_name": "Exa Labs",
@@ -18182,7 +18185,7 @@
       "custody_as_of": null,
       "date_added": "2026-09-22",
       "detail_url": "https://satohub.ai/resources/forta-risk-graph-mcp",
-      "trust_score_delta_7d": 1
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "galxe-quest-api",
@@ -18950,12 +18953,12 @@
       },
       "install": "npm install -g @goplus/agentguard",
       "custody_key_access": "none_found",
-      "custody_key_egress": "not_observed",
+      "custody_key_egress": "unknown",
       "custody_fund_action_count": null,
-      "custody_as_of": "2026-09-30T14:53:29.749Z",
+      "custody_as_of": "2026-10-02T03:57:59.035Z",
       "date_added": "2026-09-22",
       "detail_url": "https://satohub.ai/resources/goplus-agentguard",
-      "trust_score_delta_7d": 9
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "goplus-security",
@@ -19331,7 +19334,7 @@
       "trust_tier": "Medium",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-09-06T18:55:54.000Z",
+      "last_activity_at": "2026-10-01T14:44:17.000Z",
       "github_stars": 13,
       "verified_install": false,
       "verification_status": "Self-Reported",
@@ -19635,8 +19638,8 @@
       "trust_tier": "High",
       "provisional": false,
       "liveness": "Quiet",
-      "last_activity_at": "2026-02-09T15:52:59.000Z",
-      "github_stars": 63,
+      "last_activity_at": "2026-03-25T17:30:33.000Z",
+      "github_stars": 67,
       "verified_install": false,
       "verification_status": "Self-Reported",
       "creator_name": "Heurist Network",
@@ -20450,11 +20453,11 @@
       "install": "npm i -g @jup-ag/cli",
       "custody_key_access": "none_found",
       "custody_key_egress": "not_observed",
-      "custody_fund_action_count": 30,
-      "custody_as_of": "2026-09-26T03:04:10.048Z",
+      "custody_fund_action_count": 27,
+      "custody_as_of": "2026-10-02T03:57:46.763Z",
       "date_added": "2026-09-23",
       "detail_url": "https://satohub.ai/resources/jupiter-trading-mcp",
-      "trust_score_delta_7d": 6
+      "trust_score_delta_7d": 5
     },
     {
       "slug": "justaname-ens-mcp",
@@ -20692,7 +20695,7 @@
       "custody_key_access": "none_found",
       "custody_key_egress": "not_observed",
       "custody_fund_action_count": 0,
-      "custody_as_of": "2026-09-26T03:04:12.116Z",
+      "custody_as_of": "2026-10-02T03:57:48.478Z",
       "date_added": "2026-07-19",
       "detail_url": "https://satohub.ai/resources/klever-mcp",
       "trust_score_delta_7d": 0
@@ -21071,7 +21074,7 @@
       "custody_as_of": null,
       "date_added": "2026-09-23",
       "detail_url": "https://satohub.ai/resources/laso-finance",
-      "trust_score_delta_7d": -25
+      "trust_score_delta_7d": -27
     },
     {
       "slug": "layerzero-mcp",
@@ -21184,7 +21187,7 @@
       ],
       "status": "Early",
       "open_source_status": "Partial",
-      "trust_score": 61,
+      "trust_score": 65,
       "trust_tier": "Medium",
       "provisional": false,
       "liveness": "Active",
@@ -21192,9 +21195,17 @@
       "github_stars": 6,
       "verified_install": false,
       "verification_status": "Self-Reported",
-      "creator_name": null,
+      "creator_name": "Ledger",
       "deployment_options": [],
-      "supported_integrations": [],
+      "supported_integrations": [
+        "Claude Code",
+        "Cursor",
+        "Codex",
+        "Cline",
+        "GitHub Copilot",
+        "Windsurf",
+        "Claude Desktop"
+      ],
       "observed_success_pct": 100,
       "observed_days": 9,
       "install_verified_at": null,
@@ -21206,7 +21217,7 @@
       "custody_as_of": null,
       "date_added": "2026-09-23",
       "detail_url": "https://satohub.ai/resources/ledger-agent-stack",
-      "trust_score_delta_7d": 0
+      "trust_score_delta_7d": 4
     },
     {
       "slug": "lido-mcp-ghost-clio",
@@ -21658,7 +21669,7 @@
       "custody_as_of": "2026-09-28T16:44:35.574Z",
       "date_added": "2026-07-13",
       "detail_url": "https://satohub.ai/resources/lightning-wallet-mcp",
-      "trust_score_delta_7d": 8
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "linea-mcp",
@@ -21879,7 +21890,7 @@
       "provisional": false,
       "liveness": "Quiet",
       "last_activity_at": "2026-03-24T16:38:01.000Z",
-      "github_stars": 4,
+      "github_stars": 7,
       "verified_install": false,
       "verification_status": "Self-Reported",
       "creator_name": "LNbits",
@@ -22322,7 +22333,7 @@
       "provisional": false,
       "liveness": "Quiet",
       "last_activity_at": "2026-06-11T16:25:26.000Z",
-      "github_stars": 389,
+      "github_stars": 395,
       "verified_install": false,
       "verification_status": "Self-Reported",
       "creator_name": "Massive",
@@ -22632,7 +22643,7 @@
       "custody_key_access": "none_found",
       "custody_key_egress": "not_observed",
       "custody_fund_action_count": null,
-      "custody_as_of": "2026-09-26T03:04:19.877Z",
+      "custody_as_of": "2026-10-02T03:57:54.510Z",
       "date_added": "2026-07-13",
       "detail_url": "https://satohub.ai/resources/mcp-reference-servers",
       "trust_score_delta_7d": 0
@@ -23000,7 +23011,7 @@
       "custody_key_access": "declared",
       "custody_key_egress": "not_observed",
       "custody_fund_action_count": 13,
-      "custody_as_of": "2026-09-28T16:44:36.033Z",
+      "custody_as_of": "2026-10-02T03:57:51.375Z",
       "date_added": "2026-07-13",
       "detail_url": "https://satohub.ai/resources/merx-mcp",
       "trust_score_delta_7d": 0
@@ -23467,9 +23478,9 @@
       },
       "install": "npx @o1-labs/mina-mcp-server --mode live --network devnet",
       "custody_key_access": "none_found",
-      "custody_key_egress": "unknown",
+      "custody_key_egress": "not_observed",
       "custody_fund_action_count": 2,
-      "custody_as_of": "2026-09-28T16:44:36.339Z",
+      "custody_as_of": "2026-10-02T03:57:52.394Z",
       "date_added": "2026-07-13",
       "detail_url": "https://satohub.ai/resources/mina-mcp",
       "trust_score_delta_7d": 2
@@ -24008,7 +24019,7 @@
       "custody_as_of": null,
       "date_added": "2026-07-19",
       "detail_url": "https://satohub.ai/resources/morpho",
-      "trust_score_delta_7d": 10
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "moss-skills",
@@ -25025,7 +25036,7 @@
       "custody_as_of": "2026-09-27T13:49:46.796Z",
       "date_added": "2026-07-12",
       "detail_url": "https://satohub.ai/resources/octav-api-mcp",
-      "trust_score_delta_7d": -5
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "ogena-token-risk",
@@ -25839,7 +25850,7 @@
       "trust_tier": "Medium",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-09-29T10:30:05.000Z",
+      "last_activity_at": "2026-10-01T16:03:21.000Z",
       "github_stars": 4,
       "verified_install": true,
       "verification_status": "Unverified",
@@ -26280,7 +26291,7 @@
       "custody_key_access": "none_found",
       "custody_key_egress": "unknown",
       "custody_fund_action_count": null,
-      "custody_as_of": "2026-09-29T02:31:17.816Z",
+      "custody_as_of": "2026-10-02T14:42:40.597Z",
       "date_added": "2026-07-19",
       "detail_url": "https://satohub.ai/resources/para-wallet-skill",
       "trust_score_delta_7d": 0
@@ -26860,8 +26871,8 @@
       "trust_tier": "Medium",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-09-18T02:28:34.000Z",
-      "github_stars": 675,
+      "last_activity_at": "2026-09-20T16:04:03.000Z",
+      "github_stars": 691,
       "verified_install": false,
       "verification_status": "Unverified",
       "creator_name": "Caio Vicentino",
@@ -28815,7 +28826,7 @@
       ],
       "status": "Active",
       "open_source_status": "No",
-      "trust_score": 42,
+      "trust_score": 46,
       "trust_tier": "Medium",
       "provisional": false,
       "liveness": null,
@@ -28847,7 +28858,7 @@
       "custody_as_of": null,
       "date_added": "2026-07-14",
       "detail_url": "https://satohub.ai/resources/sato-os",
-      "trust_score_delta_7d": 0
+      "trust_score_delta_7d": 4
     },
     {
       "slug": "sei-agent-kit",
@@ -29556,10 +29567,10 @@
       "custody_key_access": "reads",
       "custody_key_egress": "not_observed",
       "custody_fund_action_count": 0,
-      "custody_as_of": "2026-09-28T17:53:43.362Z",
+      "custody_as_of": "2026-10-02T03:57:51.876Z",
       "date_added": "2026-09-23",
       "detail_url": "https://satohub.ai/resources/skim",
-      "trust_score_delta_7d": 1
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "snak-starknet-agent-kit",
@@ -29678,8 +29689,8 @@
       "trust_score": 78,
       "trust_tier": "High",
       "provisional": false,
-      "liveness": "Recent",
-      "last_activity_at": "2026-08-03T12:49:48.000Z",
+      "liveness": "Active",
+      "last_activity_at": "2026-10-01T13:20:00.000Z",
       "github_stars": 9,
       "verified_install": true,
       "verification_status": "Unverified",
@@ -29815,7 +29826,7 @@
       "custody_as_of": null,
       "date_added": "2026-07-19",
       "detail_url": "https://satohub.ai/resources/solana-ai-kit",
-      "trust_score_delta_7d": 11
+      "trust_score_delta_7d": 16
     },
     {
       "slug": "solana-dev-skill",
@@ -30851,7 +30862,7 @@
       "trust_tier": "High",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-09-15T13:14:51.000Z",
+      "last_activity_at": "2026-09-24T13:49:57.000Z",
       "github_stars": 115,
       "verified_install": false,
       "verification_status": "Self-Reported",
@@ -31150,10 +31161,10 @@
         "not_attempted_reason": "no falsifiable install+entry probe from deploy_spec"
       },
       "install": "npm install ethers@5.7.2",
-      "custody_key_access": "none_found",
-      "custody_key_egress": "unknown",
+      "custody_key_access": null,
+      "custody_key_egress": null,
       "custody_fund_action_count": null,
-      "custody_as_of": "2026-09-30T22:43:57.361Z",
+      "custody_as_of": null,
       "date_added": "2026-07-19",
       "detail_url": "https://satohub.ai/resources/superfluid-protocol",
       "trust_score_delta_7d": 0
@@ -31733,7 +31744,7 @@
       "custody_key_access": "unknown",
       "custody_key_egress": "not_observed",
       "custody_fund_action_count": null,
-      "custody_as_of": "2026-10-01T00:21:36.365Z",
+      "custody_as_of": "2026-10-02T14:42:41.643Z",
       "date_added": "2026-09-02",
       "detail_url": "https://satohub.ai/resources/termix",
       "trust_score_delta_7d": 2
@@ -32155,7 +32166,7 @@
       "custody_key_access": "declared",
       "custody_key_egress": "unknown",
       "custody_fund_action_count": null,
-      "custody_as_of": "2026-10-01T00:21:35.985Z",
+      "custody_as_of": "2026-10-02T14:42:37.870Z",
       "date_added": "2026-07-13",
       "detail_url": "https://satohub.ai/resources/ton-agentkit-mcp",
       "trust_score_delta_7d": 0
@@ -32404,8 +32415,8 @@
       "trust_tier": "Medium",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-09-15T22:20:24.000Z",
-      "github_stars": 7110,
+      "last_activity_at": "2026-09-28T18:06:38.000Z",
+      "github_stars": 7331,
       "verified_install": false,
       "verification_status": "Self-Reported",
       "creator_name": "Trail of Bits",
@@ -32651,8 +32662,8 @@
       "trust_tier": "Medium",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-09-28T01:15:18.000Z",
-      "github_stars": 763,
+      "last_activity_at": "2026-10-02T02:25:19.000Z",
+      "github_stars": 770,
       "verified_install": false,
       "verification_status": "Unverified",
       "creator_name": null,
@@ -32705,7 +32716,7 @@
       "custody_key_access": "none_found",
       "custody_key_egress": "unknown",
       "custody_fund_action_count": null,
-      "custody_as_of": "2026-09-29T14:51:14.136Z",
+      "custody_as_of": "2026-10-02T14:42:40.088Z",
       "date_added": "2026-07-19",
       "detail_url": "https://satohub.ai/resources/unbrowse",
       "trust_score_delta_7d": 0
@@ -33406,8 +33417,8 @@
       "trust_tier": "High",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-09-17T13:36:19.000Z",
-      "github_stars": 162,
+      "last_activity_at": "2026-10-01T13:44:48.000Z",
+      "github_stars": 163,
       "verified_install": true,
       "verification_status": "Unverified",
       "creator_name": "aaronjmars",
@@ -35159,7 +35170,7 @@
       "custody_key_access": "none_found",
       "custody_key_egress": "not_observed",
       "custody_fund_action_count": null,
-      "custody_as_of": "2026-09-26T03:04:21.205Z",
+      "custody_as_of": "2026-10-02T03:57:55.544Z",
       "date_added": "2026-06-08",
       "detail_url": "https://satohub.ai/resources/ag-kit",
       "trust_score_delta_7d": 0
@@ -35979,7 +35990,7 @@
       "custody_as_of": "2026-09-26T03:04:22.156Z",
       "date_added": "2026-06-16",
       "detail_url": "https://satohub.ai/resources/cloddsbot",
-      "trust_score_delta_7d": 8
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "cryptocurrency-cv",
@@ -36178,7 +36189,7 @@
       "custody_as_of": "2026-09-30T22:43:56.145Z",
       "date_added": "2026-06-16",
       "detail_url": "https://satohub.ai/resources/daydreams",
-      "trust_score_delta_7d": 15
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "defi-trading-mcp",
@@ -36526,9 +36537,9 @@
       },
       "install": "npm install -g @blockrun/franklin",
       "custody_key_access": "none_found",
-      "custody_key_egress": "not_observed",
+      "custody_key_egress": "unknown",
       "custody_fund_action_count": null,
-      "custody_as_of": "2026-09-30T14:53:20.697Z",
+      "custody_as_of": "2026-10-02T03:57:57.696Z",
       "date_added": "2026-06-16",
       "detail_url": "https://satohub.ai/resources/franklin-blockrun",
       "trust_score_delta_7d": 0
@@ -37082,8 +37093,8 @@
       "trust_tier": "High",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-09-08T20:54:01.000Z",
-      "github_stars": 1412,
+      "last_activity_at": "2026-10-02T10:51:08.000Z",
+      "github_stars": 1425,
       "verified_install": false,
       "verification_status": "Unverified",
       "creator_name": "Mnemox AI",
@@ -37139,7 +37150,7 @@
       "custody_key_access": "none_found",
       "custody_key_egress": "unknown",
       "custody_fund_action_count": null,
-      "custody_as_of": "2026-09-29T14:51:06.734Z",
+      "custody_as_of": "2026-10-02T14:42:35.121Z",
       "date_added": "2026-06-16",
       "detail_url": "https://satohub.ai/resources/tradememory-protocol",
       "trust_score_delta_7d": 0
@@ -37403,7 +37414,7 @@
       ],
       "status": "Early",
       "open_source_status": "Unknown",
-      "trust_score": 26,
+      "trust_score": 28,
       "trust_tier": "Low",
       "provisional": false,
       "liveness": null,
@@ -37413,7 +37424,9 @@
       "verification_status": "Self-Reported",
       "creator_name": null,
       "deployment_options": [],
-      "supported_integrations": [],
+      "supported_integrations": [
+        "Uniswap v3"
+      ],
       "observed_success_pct": 100,
       "observed_days": 19,
       "install_verified_at": null,
@@ -37425,7 +37438,7 @@
       "custody_as_of": null,
       "date_added": "2026-09-12",
       "detail_url": "https://satohub.ai/resources/robinpad",
-      "trust_score_delta_7d": 1
+      "trust_score_delta_7d": 3
     }
   ],
   "agents": [

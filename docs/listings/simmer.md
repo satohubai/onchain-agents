@@ -21,7 +21,7 @@ Sato Score: **⬡ 65** (Medium), +3 over 7 days — a measure of how open, activ
 - **Use cases:** trading
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 2 days ago
+- **Activity:** Active — last activity 3 days ago
 - **GitHub stars:** 49
 - **Works with:** OpenClaw, ClawHub, MCP, Polymarket, Kalshi, Hyperliquid, PyPI, npm
 
@@ -36,6 +36,6 @@ Sato Score: **⬡ 65** (Medium), +3 over 7 days — a measure of how open, activ
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `simmer`. https://satohub.ai/resources/simmer — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `simmer`. https://satohub.ai/resources/simmer — retrieved 2026-10-02.
 
 [← All layers](../index.md)

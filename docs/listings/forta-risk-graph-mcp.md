@@ -9,7 +9,7 @@ layout: "default"
 
 OAuth-gated MCP over a live graph of positions, governance, oracles, custody and backing, answering control-closure and blast-radius questions.
 
-Sato Score: **⬡ 64** (Medium), +1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 64** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -18,7 +18,7 @@ Sato Score: **⬡ 64** (Medium), +1 over 7 days — a measure of how open, activ
 - **Chains:** Multichain, Ethereum
 - **Open source:** Partial
 - **Status:** Early
-- **Activity:** Active — last activity 3 days ago
+- **Activity:** Active — last activity 4 days ago
 - **GitHub stars:** 1
 - **Works with:** Claude, MCP
 
@@ -48,6 +48,6 @@ claude mcp add --transport http risk-graph https://risk-graph-mcp.forta.network/
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `forta-risk-graph-mcp`. https://satohub.ai/resources/forta-risk-graph-mcp — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `forta-risk-graph-mcp`. https://satohub.ai/resources/forta-risk-graph-mcp — retrieved 2026-10-02.
 
 [← All layers](../index.md)

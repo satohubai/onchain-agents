@@ -33,6 +33,6 @@ Sato Score: **⬡ 34** (Low), +1 over 7 days — a measure of how open, active a
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `pools-trade`. https://satohub.ai/resources/pools-trade — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `pools-trade`. https://satohub.ai/resources/pools-trade — retrieved 2026-10-02.
 
 [← All layers](../index.md)

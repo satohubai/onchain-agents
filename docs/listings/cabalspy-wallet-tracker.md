@@ -9,7 +9,7 @@ layout: "default"
 
 Multi-chain API tracking 1,600+ labeled KOL, smart-money, and whale wallets, with an MCP server.
 
-Sato Score: **⬡ 56** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 66** (Medium), +10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -18,7 +18,7 @@ Sato Score: **⬡ 56** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Solana, BNB Chain, Base, Ethereum, Monad
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Recent — last activity 2 months ago
+- **Activity:** Active — last activity today
 - **GitHub stars:** 0
 
 ## What we checked
@@ -32,6 +32,6 @@ Sato Score: **⬡ 56** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cabalspy-wallet-tracker`. https://satohub.ai/resources/cabalspy-wallet-tracker — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cabalspy-wallet-tracker`. https://satohub.ai/resources/cabalspy-wallet-tracker — retrieved 2026-10-02.
 
 [← All layers](../index.md)

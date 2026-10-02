@@ -21,7 +21,7 @@ Sato Score: **⬡ 69** (Medium), +3 over 7 days — a measure of how open, activ
 - **Use cases:** wallets, security
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 2 days ago
+- **Activity:** Active — last activity 3 days ago
 - **GitHub stars:** 371
 - **Deploys as:** CLI, SDK, MCP, REST API, Local/self-hosted
 
@@ -36,6 +36,6 @@ Sato Score: **⬡ 69** (Medium), +3 over 7 days — a measure of how open, activ
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `open-wallet-standard`. https://satohub.ai/resources/open-wallet-standard — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `open-wallet-standard`. https://satohub.ai/resources/open-wallet-standard — retrieved 2026-10-02.
 
 [← All layers](../index.md)

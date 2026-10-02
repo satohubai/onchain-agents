@@ -49,6 +49,6 @@ curl -fsSL https://marketplace.agenc.tech/install.sh | sh
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `agenc`. https://satohub.ai/resources/agenc — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `agenc`. https://satohub.ai/resources/agenc — retrieved 2026-10-02.
 
 [← All layers](../index.md)

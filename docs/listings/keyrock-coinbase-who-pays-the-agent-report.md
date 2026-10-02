@@ -32,6 +32,6 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `keyrock-coinbase-who-pays-the-agent-report`. https://satohub.ai/resources/keyrock-coinbase-who-pays-the-agent-report — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `keyrock-coinbase-who-pays-the-agent-report`. https://satohub.ai/resources/keyrock-coinbase-who-pays-the-agent-report — retrieved 2026-10-02.
 
 [← All layers](../index.md)

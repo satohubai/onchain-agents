@@ -9,7 +9,7 @@ layout: "default"
 
 Ledger's toolkit for AI agents: headless Ledger Wallet CLI + agent skills. Agents propose, a Ledger device must approve every signature.
 
-Sato Score: **⬡ 61** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 65** (Medium), +4 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -18,10 +18,12 @@ Sato Score: **⬡ 61** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Multichain
 - **Interfaces:** cli, plugin
 - **Use cases:** wallets, security
+- **Creator:** Ledger
 - **Open source:** Partial
 - **Status:** Early
-- **Activity:** Active — last activity 23 days ago
+- **Activity:** Active — last activity 24 days ago
 - **GitHub stars:** 6
+- **Works with:** Claude Code, Cursor, Codex, Cline, GitHub Copilot, Windsurf, Claude Desktop
 
 ## What we checked
 
@@ -34,6 +36,6 @@ Sato Score: **⬡ 61** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ledger-agent-stack`. https://satohub.ai/resources/ledger-agent-stack — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ledger-agent-stack`. https://satohub.ai/resources/ledger-agent-stack — retrieved 2026-10-02.
 
 [← All layers](../index.md)

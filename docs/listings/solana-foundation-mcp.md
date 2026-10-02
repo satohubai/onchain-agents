@@ -50,6 +50,6 @@ claude mcp add --transport http solana-mcp https://mcp.solana.com/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solana-foundation-mcp`. https://satohub.ai/resources/solana-foundation-mcp — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solana-foundation-mcp`. https://satohub.ai/resources/solana-foundation-mcp — retrieved 2026-10-02.
 
 [← All layers](../index.md)

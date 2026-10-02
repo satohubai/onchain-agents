@@ -49,6 +49,6 @@ npx -y payai-mcp-server@latest https://mcp.payai.network
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `payai-network`. https://satohub.ai/resources/payai-network — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `payai-network`. https://satohub.ai/resources/payai-network — retrieved 2026-10-02.
 
 [← All layers](../index.md)

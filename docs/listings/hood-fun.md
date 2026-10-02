@@ -32,6 +32,6 @@ Sato Score: **⬡ 33** (Low), +1 over 7 days — a measure of how open, active a
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `hood-fun`. https://satohub.ai/resources/hood-fun — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `hood-fun`. https://satohub.ai/resources/hood-fun — retrieved 2026-10-02.
 
 [← All layers](../index.md)

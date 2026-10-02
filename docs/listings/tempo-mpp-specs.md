@@ -19,7 +19,7 @@ Sato Score: **⬡ 63** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Tempo Labs, Stripe
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity today
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 93
 
 ## What we checked
@@ -33,6 +33,6 @@ Sato Score: **⬡ 63** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `tempo-mpp-specs`. https://satohub.ai/resources/tempo-mpp-specs — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `tempo-mpp-specs`. https://satohub.ai/resources/tempo-mpp-specs — retrieved 2026-10-02.
 
 [← All layers](../index.md)

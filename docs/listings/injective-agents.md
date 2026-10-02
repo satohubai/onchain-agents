@@ -54,6 +54,6 @@ pip install -r requirements.txt
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `injective-agents`. https://satohub.ai/resources/injective-agents — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `injective-agents`. https://satohub.ai/resources/injective-agents — retrieved 2026-10-02.
 
 [← All layers](../index.md)

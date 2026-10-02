@@ -47,6 +47,6 @@ npx web3agent init
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `web3agent-apegurus`. https://satohub.ai/resources/web3agent-apegurus — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `web3agent-apegurus`. https://satohub.ai/resources/web3agent-apegurus — retrieved 2026-10-02.
 
 [← All layers](../index.md)

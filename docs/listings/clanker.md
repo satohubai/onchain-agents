@@ -47,6 +47,6 @@ npm install clanker-sdk viem
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `clanker`. https://satohub.ai/resources/clanker — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `clanker`. https://satohub.ai/resources/clanker — retrieved 2026-10-02.
 
 [← All layers](../index.md)

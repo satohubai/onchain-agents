@@ -23,7 +23,7 @@ Sato Score: **⬡ 58** (Medium) — a measure of how open, active and verifiable
 - **Open source:** Yes
 - **Status:** Active
 - **Activity:** Quiet — last activity 6 months ago
-- **GitHub stars:** 4
+- **GitHub stars:** 7
 - **Deploys as:** pip install (git clone + pip install -e .)
 - **Works with:** Claude Desktop
 
@@ -54,6 +54,6 @@ pip install -e .
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lnbits-mcp`. https://satohub.ai/resources/lnbits-mcp — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lnbits-mcp`. https://satohub.ai/resources/lnbits-mcp — retrieved 2026-10-02.
 
 [← All layers](../index.md)

@@ -52,6 +52,6 @@ curl -sSfL https://raw.githubusercontent.com/crypto-com/cdcx-cli/main/install.sh
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `crypto-com-ai`. https://satohub.ai/resources/crypto-com-ai — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `crypto-com-ai`. https://satohub.ai/resources/crypto-com-ai — retrieved 2026-10-02.
 
 [← All layers](../index.md)

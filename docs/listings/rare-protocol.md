@@ -46,6 +46,6 @@ npm install -g @rareprotocol/rare-cli
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `rare-protocol`. https://satohub.ai/resources/rare-protocol — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `rare-protocol`. https://satohub.ai/resources/rare-protocol — retrieved 2026-10-02.
 
 [← All layers](../index.md)

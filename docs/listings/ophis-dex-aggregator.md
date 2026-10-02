@@ -18,7 +18,7 @@ Sato Score: **⬡ 65** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Ethereum, Optimism, BNB Chain, Gnosis, Polygon, Base, Arbitrum, Avalanche, Solana, Multichain
 - **Open source:** Partial
 - **Status:** Early
-- **Activity:** Active — last activity 2 days ago
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 4
 
 ## Deploy spec
@@ -46,6 +46,6 @@ npm install @ophis/sdk
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ophis-dex-aggregator`. https://satohub.ai/resources/ophis-dex-aggregator — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ophis-dex-aggregator`. https://satohub.ai/resources/ophis-dex-aggregator — retrieved 2026-10-02.
 
 [← All layers](../index.md)

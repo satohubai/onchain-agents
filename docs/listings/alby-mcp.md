@@ -9,7 +9,7 @@ layout: "default"
 
 Official Alby MCP connecting Bitcoin Lightning wallets to agents via Nostr Wallet Connect.
 
-Sato Score: **⬡ 54** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 64** (Medium), +10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,7 +22,7 @@ Sato Score: **⬡ 54** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Alby
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Recent — last activity 1 month ago
+- **Activity:** Active — last activity today
 - **GitHub stars:** 66
 - **Deploys as:** Hosted API, npm
 - **Works with:** Claude Web, Claude Desktop, Goose Desktop
@@ -52,6 +52,6 @@ Add custom connector in Claude with endpoint https://mcp.getalby.com/mcp?nwc=ENC
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `alby-mcp`. https://satohub.ai/resources/alby-mcp — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `alby-mcp`. https://satohub.ai/resources/alby-mcp — retrieved 2026-10-02.
 
 [← All layers](../index.md)

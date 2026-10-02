@@ -9,7 +9,7 @@ layout: "default"
 
 Anthropic's agentic command-line coding tool that runs agents and loads Agent Skills, including onchain skills.
 
-Sato Score: **⬡ 84** (High), +8 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 84** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -53,6 +53,6 @@ npm install -g @anthropic-ai/claude-code
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `claude-code`. https://satohub.ai/resources/claude-code — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `claude-code`. https://satohub.ai/resources/claude-code — retrieved 2026-10-02.
 
 [← All layers](../index.md)

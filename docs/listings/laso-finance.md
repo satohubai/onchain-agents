@@ -9,7 +9,7 @@ layout: "default"
 
 Stablecoin-to-real-world spending for agents: prepaid and gift cards, Venmo/PayPal/ACH payouts. Callable via x402 (USDC on Base/Solana) or MCP.
 
-Sato Score: **⬡ 35** (Low), -25 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 35** (Low), -27 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -34,6 +34,6 @@ Sato Score: **⬡ 35** (Low), -25 over 7 days — a measure of how open, active 
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `laso-finance`. https://satohub.ai/resources/laso-finance — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `laso-finance`. https://satohub.ai/resources/laso-finance — retrieved 2026-10-02.
 
 [← All layers](../index.md)

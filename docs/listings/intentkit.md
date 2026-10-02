@@ -20,7 +20,7 @@ Sato Score: **⬡ 86** (High) — a measure of how open, active and verifiable t
 - **Creator:** Crestal Network
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 15 days ago
+- **Activity:** Active — last activity 16 days ago
 - **GitHub stars:** 6.5k
 - **Deploys as:** self-hosted, Docker, library, API
 - **Works with:** Twitter, Telegram, Web3
@@ -52,6 +52,6 @@ pip install intentkit
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `intentkit`. https://satohub.ai/resources/intentkit — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `intentkit`. https://satohub.ai/resources/intentkit — retrieved 2026-10-02.
 
 [← All layers](../index.md)

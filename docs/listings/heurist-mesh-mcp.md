@@ -22,8 +22,8 @@ Sato Score: **⬡ 81** (High), +40 over 7 days — a measure of how open, active
 - **Creator:** Heurist Network
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Quiet — last activity 7 months ago
-- **GitHub stars:** 63
+- **Activity:** Quiet — last activity 6 months ago
+- **GitHub stars:** 67
 - **Deploys as:** Self-host (pip/uv/Docker) or hosted SSE endpoint (mesh.heurist.xyz)
 - **Works with:** Claude, Cursor, Claude Desktop
 
@@ -52,6 +52,6 @@ Point an SSE-capable MCP client at https://mesh.heurist.xyz/mcp/sse with header 
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `heurist-mesh-mcp`. https://satohub.ai/resources/heurist-mesh-mcp — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `heurist-mesh-mcp`. https://satohub.ai/resources/heurist-mesh-mcp — retrieved 2026-10-02.
 
 [← All layers](../index.md)

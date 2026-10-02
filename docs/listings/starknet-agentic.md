@@ -18,7 +18,7 @@ Sato Score: **⬡ 60** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Starknet
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 8 days ago
+- **Activity:** Active — last activity 9 days ago
 - **GitHub stars:** 80
 
 ## Deploy spec
@@ -49,6 +49,6 @@ node packages/starknet-mcp-server/dist/index.js
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `starknet-agentic`. https://satohub.ai/resources/starknet-agentic — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `starknet-agentic`. https://satohub.ai/resources/starknet-agentic — retrieved 2026-10-02.
 
 [← All layers](../index.md)

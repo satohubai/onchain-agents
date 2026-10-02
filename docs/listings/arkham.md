@@ -35,6 +35,6 @@ Sato Score: **⬡ 38** (Low), +4 over 7 days — a measure of how open, active a
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `arkham`. https://satohub.ai/resources/arkham — retrieved 2026-10-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `arkham`. https://satohub.ai/resources/arkham — retrieved 2026-10-02.
 
 [← All layers](../index.md)
