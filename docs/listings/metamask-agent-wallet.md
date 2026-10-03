@@ -21,7 +21,7 @@ Sato Score: **⬡ 57** (Medium) — a measure of how open, active and verifiable
 - **Creator:** MetaMask
 - **Open source:** Unknown
 - **Status:** Early
-- **Activity:** Quiet — last activity 3 months ago
+- **Activity:** Quiet — last activity 4 months ago
 - **Deploys as:** CLI
 - **Works with:** OpenClaw, Claude Code, Codex, Hermes, OpenCode, Cursor, Blockaid
 

@@ -20,7 +20,7 @@ Sato Score: **⬡ 83** (High) — a measure of how open, active and verifiable t
 - **Creator:** alsk1992
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 14 days ago
+- **Activity:** Active — last activity 15 days ago
 - **GitHub stars:** 2.8k
 - **Deploys as:** npm, Self-hosted
 - **Works with:** Polymarket, Kalshi, Binance, Hyperliquid, Jupiter, Raydium, Uniswap, 1inch, Bittensor

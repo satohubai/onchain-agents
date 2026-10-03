@@ -18,7 +18,7 @@ Sato Score: **⬡ 62** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Solana
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity today
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 103
 
 ## Deploy spec

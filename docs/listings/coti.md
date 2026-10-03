@@ -22,7 +22,7 @@ Sato Score: **⬡ 67** (Medium) — a measure of how open, active and verifiable
 - **Creator:** COTI
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 8 days ago
+- **Activity:** Active — last activity 9 days ago
 
 ## Deploy spec
 

@@ -22,7 +22,7 @@ Sato Score: **⬡ 80** (High) — a measure of how open, active and verifiable t
 - **Creator:** Exa Labs
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 2 days ago
+- **Activity:** Active — last activity 3 days ago
 - **GitHub stars:** 5.1k
 - **Deploys as:** Hosted/Remote
 

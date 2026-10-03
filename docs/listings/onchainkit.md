@@ -19,7 +19,7 @@ Sato Score: **⬡ 76** (High) — a measure of how open, active and verifiable t
 - **Creator:** Coinbase
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 10 days ago
+- **Activity:** Active — last activity 11 days ago
 - **GitHub stars:** 1.0k
 
 ## Deploy spec

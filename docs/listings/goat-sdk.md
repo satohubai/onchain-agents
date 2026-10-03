@@ -21,7 +21,7 @@ Sato Score: **⬡ 87** (High) — a measure of how open, active and verifiable t
 - **Creator:** GOAT SDK
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 2 days ago
+- **Activity:** Active — last activity 3 days ago
 - **GitHub stars:** 1.0k
 - **Deploys as:** npm, pip, MCP server
 - **Works with:** Vercel AI, LangChain, LlamaIndex, Model Context Protocol, CrewAI, ElevenLabs, Crossmint, Safe, 1inch, CoinGecko, 0x

@@ -21,7 +21,7 @@ Sato Score: **⬡ 66** (Medium) — a measure of how open, active and verifiable
 - **Use cases:** trading, wallets, data, identity, build
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 24 days ago
+- **Activity:** Active — last activity 25 days ago
 - **GitHub stars:** 1
 - **Deploys as:** npm
 - **Works with:** Claude Desktop

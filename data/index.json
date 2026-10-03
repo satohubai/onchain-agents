@@ -1,7 +1,7 @@
 {
   "schema_version": "1",
   "item_schema": "https://satohub.ai/schemas/export-listing/v1.json",
-  "generated_at": "2026-10-03T16:33:29.313Z",
+  "generated_at": "2026-10-03T23:15:06.072Z",
   "source": "https://satohub.ai",
   "license": "Catalog data CC-BY-4.0 — attribution: data by satohub.ai. Scores/liveness are informational signals, not safety or quality guarantees.",
   "meta": {
@@ -36,14 +36,14 @@
       "note": "coverage = what the last scheduled runs reported to the job ledger. A step in steps_failed wrote nothing usable; its numbers are stale or unknown, never zero."
     },
     "next_update": {
-      "daily": "2026-10-04T08:00:00.000Z",
+      "daily": "2026-10-04T05:23:00.000Z",
       "weekly": "2026-10-05T09:30:00.000Z"
     },
-    "generated_at": "2026-10-03T16:33:29.313Z"
+    "generated_at": "2026-10-03T23:15:06.071Z"
   },
-  "count": 436,
+  "count": 437,
   "aggregates": {
-    "resources": 436,
+    "resources": 437,
     "chains": 28,
     "scored": 433,
     "independently_checked": 161,
@@ -27236,6 +27236,57 @@
       "date_added": "2026-07-13",
       "detail_url": "https://satohub.ai/resources/privy-mcp",
       "trust_score_delta_7d": 0
+    },
+    {
+      "slug": "pulsefeed",
+      "name": "PulseFeed",
+      "category": "Security Tool",
+      "subcategory": null,
+      "entity_class": null,
+      "resource_type": null,
+      "interfaces": [],
+      "standards": [
+        "x402"
+      ],
+      "use_cases": [],
+      "description_short": "PulseFeed checks an x402 endpoint before an agent pays it (liveness, a 0-100 score, receiver and price flags) and tracks changes to MCP servers and npm packages. Ships a guard SDK, an MCP server, and Vercel AI SDK and LangChain tools.",
+      "website_url": "https://pulsefeed.dev",
+      "github_url": "https://github.com/Nikolife2016/pulsefeed-x402",
+      "docs_url": "https://pulsefeed.dev/methodology",
+      "chains_supported": [
+        "Base"
+      ],
+      "tags": [
+        "x402",
+        "mcp",
+        "agent-payments",
+        "endpoint-check"
+      ],
+      "status": "Early",
+      "open_source_status": "Yes",
+      "trust_score": null,
+      "trust_tier": null,
+      "provisional": false,
+      "liveness": null,
+      "last_activity_at": null,
+      "github_stars": null,
+      "verified_install": false,
+      "verification_status": "Self-Reported",
+      "creator_name": null,
+      "deployment_options": [],
+      "supported_integrations": [],
+      "observed_success_pct": null,
+      "observed_days": null,
+      "install_verified_at": null,
+      "deploy_spec": null,
+      "install": null,
+      "custody_key_access": null,
+      "custody_key_egress": null,
+      "custody_fund_action_count": null,
+      "custody_as_of": null,
+      "date_added": "2026-10-03",
+      "detail_url": "https://satohub.ai/resources/pulsefeed",
+      "trust_score_delta_7d": null
     },
     {
       "slug": "purple-flea-trading",

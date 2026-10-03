@@ -22,7 +22,7 @@ Sato Score: **⬡ 81** (High) — a measure of how open, active and verifiable t
 - **Creator:** OpenSea
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 2 days ago
+- **Activity:** Active — last activity 3 days ago
 - **GitHub stars:** 51
 - **Deploys as:** MCP server, API, Self-hosted
 - **Works with:** Seaport, OpenSea API, OpenSea MCP Server, OpenSea CLI, x402, Privy, Turnkey, Fireblocks, Bankr

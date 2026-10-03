@@ -21,7 +21,7 @@ Sato Score: **⬡ 75** (High) — a measure of how open, active and verifiable t
 - **Creator:** Vudovn
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 6 days ago
+- **Activity:** Active — last activity 7 days ago
 - **GitHub stars:** 8.2k
 - **Deploys as:** CLI, npm
 - **Works with:** Cursor, Windsurf, Antigravity

@@ -21,7 +21,7 @@ Sato Score: **⬡ 67** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Lightning Labs
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity today
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 271
 
 ## What we checked

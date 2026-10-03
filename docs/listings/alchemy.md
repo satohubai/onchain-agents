@@ -21,7 +21,7 @@ Sato Score: **⬡ 83** (High) — a measure of how open, active and verifiable t
 - **Creator:** Alchemy Insights, Inc.
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity today
+- **Activity:** Active — last activity 1 day ago
 - **Deploys as:** API, MCP server
 - **Works with:** Claude Code, ChatGPT, Google Gemini, Perplexity, Microsoft Copilot, Grok
 

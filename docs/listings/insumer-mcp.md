@@ -21,7 +21,7 @@ Sato Score: **⬡ 81** (High) — a measure of how open, active and verifiable t
 - **Use cases:** wallets, data, privacy, security
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 11 days ago
+- **Activity:** Active — last activity 12 days ago
 - **GitHub stars:** 1
 - **Deploys as:** npm
 - **Works with:** Claude Desktop, Cursor, Windsurf, LangChain, ElizaOS, OpenAI GPT
