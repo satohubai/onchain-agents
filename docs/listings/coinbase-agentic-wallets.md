@@ -42,7 +42,7 @@ pipx run create-onchain-agent
 
 ## What we checked
 
-- Live endpoint probed by us: 38.8% of our checks succeeded over 80 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 39.5% of our checks succeeded over 81 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -51,6 +51,6 @@ pipx run create-onchain-agent
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `coinbase-agentic-wallets`. https://satohub.ai/resources/coinbase-agentic-wallets — retrieved 2026-10-02.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `coinbase-agentic-wallets`. https://satohub.ai/resources/coinbase-agentic-wallets — retrieved 2026-10-03.
 
 [← All layers](../index.md)

@@ -22,7 +22,7 @@ Sato Score: **⬡ 46** (Medium) — a measure of how open, active and verifiable
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 75 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 76 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -31,6 +31,6 @@ Sato Score: **⬡ 46** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `chainlink-mcp-server`. https://satohub.ai/resources/chainlink-mcp-server — retrieved 2026-10-02.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `chainlink-mcp-server`. https://satohub.ai/resources/chainlink-mcp-server — retrieved 2026-10-03.
 
 [← All layers](../index.md)

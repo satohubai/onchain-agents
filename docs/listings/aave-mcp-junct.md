@@ -9,7 +9,7 @@ layout: "default"
 
 Hosted MCP server exposing tools mapped 1:1 to Aave's analytics API, no auth required.
 
-Sato Score: **⬡ 39** (Low), -8 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 39** (Low) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -25,7 +25,7 @@ Sato Score: **⬡ 39** (Low), -8 over 7 days — a measure of how open, active a
 
 ## What we checked
 
-- Live endpoint probed by us: 1.3% of our checks succeeded over 75 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 1.3% of our checks succeeded over 76 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -34,6 +34,6 @@ Sato Score: **⬡ 39** (Low), -8 over 7 days — a measure of how open, active a
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `aave-mcp-junct`. https://satohub.ai/resources/aave-mcp-junct — retrieved 2026-10-02.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `aave-mcp-junct`. https://satohub.ai/resources/aave-mcp-junct — retrieved 2026-10-03.
 
 [← All layers](../index.md)

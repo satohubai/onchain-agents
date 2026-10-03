@@ -25,7 +25,7 @@ Sato Score: **⬡ 73** (High) — a measure of how open, active and verifiable t
 
 ## What we checked
 
-- Live endpoint probed by us: 97.3% of our checks succeeded over 75 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 97.4% of our checks succeeded over 76 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -34,6 +34,6 @@ Sato Score: **⬡ 73** (High) — a measure of how open, active and verifiable t
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cryptopolitan-mcp`. https://satohub.ai/resources/cryptopolitan-mcp — retrieved 2026-10-02.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cryptopolitan-mcp`. https://satohub.ai/resources/cryptopolitan-mcp — retrieved 2026-10-03.
 
 [← All layers](../index.md)
