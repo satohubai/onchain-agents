@@ -20,7 +20,7 @@ Sato Score: **⬡ 57** (Medium), +1 over 7 days — a measure of how open, activ
 - **Use cases:** launch, trading
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 17 days ago
+- **Activity:** Active — last activity 18 days ago
 - **GitHub stars:** 154
 
 ## What we checked

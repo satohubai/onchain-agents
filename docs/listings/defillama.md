@@ -20,7 +20,7 @@ Sato Score: **⬡ 75** (High) — a measure of how open, active and verifiable t
 - **Use cases:** trading, payments, data
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 2 days ago
+- **Activity:** Active — last activity 3 days ago
 - **Deploys as:** API
 
 ## Deploy spec

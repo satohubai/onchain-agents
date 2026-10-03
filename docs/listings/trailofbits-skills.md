@@ -21,7 +21,7 @@ Sato Score: **⬡ 60** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Trail of Bits
 - **Open source:** Unknown
 - **Status:** Active
-- **Activity:** Active — last activity 4 days ago
+- **Activity:** Active — last activity 5 days ago
 - **GitHub stars:** 7.3k
 - **Deploys as:** Claude Code plugin
 - **Works with:** Claude Code, Codex

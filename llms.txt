@@ -1,6 +1,6 @@
 # Onchain Agents — the scored, daily-updated index of the crypto agent stack
 
-> 436 listings of what onchain AI agents are built from: agent frameworks,
+> 437 listings of what onchain AI agents are built from: agent frameworks,
 > onchain action kits, MCP servers, wallets and key management, data and RPC,
 > x402 payment rails, identity standards (ERC-8004, A2A), security tooling and
 > trading venues. Rendered daily from satohub.ai. Last render: 2026-10-03.
@@ -38,6 +38,7 @@
 - [index.csv](https://raw.githubusercontent.com/satohubai/onchain-agents/main/data/index.csv): flat CSV of the same
 - [Live export feed](https://satohub.ai/api/export/index.json): the upstream source; also .csv and .ndjson, with ?category= ?chain= ?standard= ?use_case= slices
 - [All datasets](https://satohub.ai/datasets): every published dataset and its license
+- On Hugging Face: [Onchain Agent Builder Bench](https://huggingface.co/datasets/SatoHub/onchain-agent-builder-bench) (eval) · [Sato MCP Tool-Calling](https://huggingface.co/datasets/SatoHub/sato-mcp-tool-calling) (training data)
 - [Schemas](https://satohub.ai/schemas): versioned JSON Schemas for these formats
 - [OpenAPI](https://satohub.ai/api/openapi.json): every public operation
 

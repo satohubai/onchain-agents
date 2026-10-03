@@ -22,7 +22,7 @@ Sato Score: **⬡ 75** (High) — a measure of how open, active and verifiable t
 - **Creator:** AgentNode
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 8 days ago
+- **Activity:** Active — last activity 9 days ago
 - **GitHub stars:** 3
 - **Deploys as:** pip, npm, MCP server, Docker, Self-hosted
 - **Works with:** LangChain, CrewAI, MCP, OpenAI Functions, Python

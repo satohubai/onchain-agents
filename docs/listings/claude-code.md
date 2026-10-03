@@ -22,7 +22,7 @@ Sato Score: **⬡ 84** (High) — a measure of how open, active and verifiable t
 - **Creator:** Anthropic
 - **Open source:** No
 - **Status:** Active
-- **Activity:** Active — last activity today
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 148.3k
 - **Deploys as:** npm
 - **Works with:** Model Context Protocol, GitHub, VS Code, JetBrains, Slack

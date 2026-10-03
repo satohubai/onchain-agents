@@ -19,7 +19,7 @@ Sato Score: **⬡ 57** (Medium) — a measure of how open, active and verifiable
 - **Creator:** wkalidev
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Recent — last activity 1 month ago
+- **Activity:** Recent — last activity 2 months ago
 - **GitHub stars:** 1
 - **Works with:** Claude Desktop, Cursor, Windsurf
 

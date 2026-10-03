@@ -21,7 +21,7 @@ Sato Score: **⬡ 69** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Solana Foundation
 - **Open source:** Unknown
 - **Status:** Active
-- **Activity:** Active — last activity 3 days ago
+- **Activity:** Active — last activity 4 days ago
 - **GitHub stars:** 79
 - **Deploys as:** Hosted API
 - **Works with:** Claude Code, Cursor, Windsurf, VS Code, Codex

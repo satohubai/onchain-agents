@@ -21,7 +21,7 @@ Sato Score: **⬡ 81** (High) — a measure of how open, active and verifiable t
 - **Use cases:** payments, wallets
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 10 days ago
+- **Activity:** Active — last activity 11 days ago
 - **GitHub stars:** 9
 - **Deploys as:** npm
 - **Works with:** Claude Code, OpenClaw, Cursor

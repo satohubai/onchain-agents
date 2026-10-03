@@ -21,7 +21,7 @@ Sato Score: **⬡ 83** (High) — a measure of how open, active and verifiable t
 - **Creator:** dYdX Trading Inc.
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 1 day ago
+- **Activity:** Active — last activity 2 days ago
 - **GitHub stars:** 345
 - **Deploys as:** npm, pip, API, Self-hosted
 - **Works with:** Cosmos SDK, CometBFT

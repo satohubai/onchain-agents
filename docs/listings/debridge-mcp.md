@@ -22,7 +22,7 @@ Sato Score: **⬡ 76** (High) — a measure of how open, active and verifiable t
 - **Creator:** deBridge
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 23 days ago
+- **Activity:** Active — last activity 24 days ago
 - **GitHub stars:** 32
 - **Deploys as:** Hosted API, npm
 - **Works with:** Claude Code, Claude Web, Claude Desktop

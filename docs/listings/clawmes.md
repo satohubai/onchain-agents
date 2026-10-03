@@ -21,7 +21,7 @@ Sato Score: **⬡ 65** (Medium) — a measure of how open, active and verifiable
 - **Creator:** clawnchdev
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 15 days ago
+- **Activity:** Active — last activity 16 days ago
 - **GitHub stars:** 25
 - **Deploys as:** pip, Hermes plugin
 - **Works with:** WalletConnect, 0x, Aave, Lido, Uniswap, LiFi, CoinGecko, Snapshot, Gnosis Safe

@@ -24,6 +24,10 @@ import { sanitizeRegistryResponse } from "./public-agent-boundary.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const SITE = "https://satohub.ai";
+// Dated, versioned Hugging Face releases (v1.0, 2026-10-03): an eval and a tool-calling set.
+// Neither carries scores, history, install specs or Sato Check evidence.
+const HF_BENCH = "https://huggingface.co/datasets/SatoHub/onchain-agent-builder-bench";
+const HF_TOOL_CALLING = "https://huggingface.co/datasets/SatoHub/sato-mcp-tool-calling";
 const EXPORT_URL = process.env.INDEX_EXPORT_URL || `${SITE}/api/export/index.json`;
 const REGISTRY_URL = `${SITE}/api/registry/search`;
 
@@ -580,6 +584,7 @@ ${SATO_CHECK_ROW}| **Sato Route** | which venue to swap, hire an agent, launch a
 | **Deploy spec** | the machine-readable install manifest behind the ✓ column — what a project installs as, and what we reproduced | [the standard](${withUtm(`${SITE}/docs/deploy-spec`)}) |
 | **Signed responses** | responses can be signed Ed25519 so a downstream agent can verify a figure came from here unaltered | [JWKS](${SITE}/.well-known/jwks.json) · [key metadata](${SITE}/.well-known/sato-signing.json) |
 | **Bulk export** | the whole catalog, JSON · CSV · NDJSON, CC-BY-4.0 | \`${SITE}/api/export/index.json\` · [all datasets](${withUtm(`${SITE}/data`)}) · [OpenAPI](${SITE}/api/openapi.json) |
+| **On Hugging Face** | a benchmark for evaluating models on building onchain agents (with a held-out test split), and a tool-calling set in OpenAI, Hermes and xlam formats. Dated releases, CC-BY-4.0 | [Onchain Agent Builder Bench](${HF_BENCH}) · [Sato MCP Tool-Calling](${HF_TOOL_CALLING}) |
 
 No key, no account, no rate-limit deal to sign. A Sato Score is a measure of how
 open, active and verifiable a project is — [not a safety, quality or returns
@@ -1134,6 +1139,7 @@ ${LAYERS.map((l) => `- [${l.title}](${raw}/docs/categories/${l.slug}.md): ${l.wh
 - [index.csv](${raw}/data/index.csv): flat CSV of the same
 - [Live export feed](${SITE}/api/export/index.json): the upstream source; also .csv and .ndjson, with ?category= ?chain= ?standard= ?use_case= slices
 - [All datasets](${SITE}/datasets): every published dataset and its license
+- On Hugging Face: [Onchain Agent Builder Bench](${HF_BENCH}) (eval) · [Sato MCP Tool-Calling](${HF_TOOL_CALLING}) (training data)
 - [Schemas](${SITE}/schemas): versioned JSON Schemas for these formats
 - [OpenAPI](${SITE}/api/openapi.json): every public operation
 
