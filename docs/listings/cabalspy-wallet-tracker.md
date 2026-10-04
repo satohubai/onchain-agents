@@ -18,12 +18,12 @@ Sato Score: **⬡ 66** (Medium), +10 over 7 days — a measure of how open, acti
 - **Chains:** Solana, BNB Chain, Base, Ethereum, Monad
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 1 day ago
+- **Activity:** Active — last activity 2 days ago
 - **GitHub stars:** 0
 
 ## What we checked
 
-- Live endpoint probed by us: 82.9% of our checks succeeded over 76 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 83.1% of our checks succeeded over 77 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -32,6 +32,6 @@ Sato Score: **⬡ 66** (Medium), +10 over 7 days — a measure of how open, acti
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cabalspy-wallet-tracker`. https://satohub.ai/resources/cabalspy-wallet-tracker — retrieved 2026-10-03.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cabalspy-wallet-tracker`. https://satohub.ai/resources/cabalspy-wallet-tracker — retrieved 2026-10-04.
 
 [← All layers](../index.md)

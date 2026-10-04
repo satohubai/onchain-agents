@@ -39,7 +39,7 @@ git clone --recurse-submodules https://github.com/solanabr/solana-ai-kit.git
 
 ## What we checked
 
-- Live endpoint probed by us: 98.7% of our checks succeeded over 76 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 98.7% of our checks succeeded over 77 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -48,6 +48,6 @@ git clone --recurse-submodules https://github.com/solanabr/solana-ai-kit.git
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solana-ai-kit`. https://satohub.ai/resources/solana-ai-kit — retrieved 2026-10-03.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solana-ai-kit`. https://satohub.ai/resources/solana-ai-kit — retrieved 2026-10-04.
 
 [← All layers](../index.md)

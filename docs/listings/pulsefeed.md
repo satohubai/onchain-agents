@@ -9,7 +9,7 @@ layout: "default"
 
 PulseFeed checks an x402 endpoint before an agent pays it (liveness, a 0-100 score, receiver and price flags) and tracks changes to MCP servers and npm packages. Ships a guard SDK, an MCP server, and Vercel AI SDK and LangChain tools.
 
-Sato Score: not scored (non-product listing) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 83** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -18,6 +18,10 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 - **Standards:** x402
 - **Open source:** Yes
 - **Status:** Early
+- **Activity:** Active — last activity 7 days ago
+- **GitHub stars:** 0
+- **Deploys as:** hosted, self-hosted, npm package
+- **Works with:** MCP, Vercel AI SDK, LangChain, Claude Desktop, Cursor, Cline, GitHub Actions
 
 ## What we checked
 
@@ -29,6 +33,6 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `pulsefeed`. https://satohub.ai/resources/pulsefeed — retrieved 2026-10-03.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `pulsefeed`. https://satohub.ai/resources/pulsefeed — retrieved 2026-10-04.
 
 [← All layers](../index.md)

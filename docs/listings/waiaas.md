@@ -9,7 +9,7 @@ layout: "default"
 
 Wallet-as-a-Service infrastructure for AI agents.
 
-Sato Score: **⬡ 54** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 52** (Medium), -2 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -23,7 +23,7 @@ Sato Score: **⬡ 54** (Medium) — a measure of how open, active and verifiable
 - **Open source:** Yes
 - **Status:** Early
 - **Activity:** Quiet — last activity 5 months ago
-- **GitHub stars:** 26
+- **GitHub stars:** 0
 - **Deploys as:** self-hosted, Docker, npm
 - **Works with:** MCP, Claude Desktop, Claude Code, OpenClaw, Jupiter, 0x, LI.FI, Lido, Jito, Aave V3, Kamino, Pendle
 
@@ -46,7 +46,7 @@ waiaas quickset --mode mainnet
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 81 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 82 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -55,6 +55,6 @@ waiaas quickset --mode mainnet
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `waiaas`. https://satohub.ai/resources/waiaas — retrieved 2026-10-03.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `waiaas`. https://satohub.ai/resources/waiaas — retrieved 2026-10-04.
 
 [← All layers](../index.md)

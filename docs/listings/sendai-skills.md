@@ -20,7 +20,7 @@ Sato Score: **⬡ 55** (Medium) — a measure of how open, active and verifiable
 - **Open source:** Yes
 - **Status:** Active
 - **Activity:** Recent — last activity 2 months ago
-- **GitHub stars:** 129
+- **GitHub stars:** 130
 
 ## Deploy spec
 
@@ -39,7 +39,7 @@ npx skills add sendaifun/skills
 
 ## What we checked
 
-- Live endpoint probed by us: 98.7% of our checks succeeded over 76 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 98.7% of our checks succeeded over 77 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -48,6 +48,6 @@ npx skills add sendaifun/skills
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `sendai-skills`. https://satohub.ai/resources/sendai-skills — retrieved 2026-10-03.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `sendai-skills`. https://satohub.ai/resources/sendai-skills — retrieved 2026-10-04.
 
 [← All layers](../index.md)

@@ -23,13 +23,13 @@ Sato Score: **⬡ 77** (High) — a measure of how open, active and verifiable t
 - **Open source:** Yes
 - **Status:** Beta
 - **Activity:** Recent — last activity 2 months ago
-- **GitHub stars:** 1.5k
+- **GitHub stars:** 1.6k
 - **Deploys as:** API, MCP server
 - **Works with:** MCP, Stripe, OpenAI ChatGPT
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 81 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 82 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Verified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -38,6 +38,6 @@ Sato Score: **⬡ 77** (High) — a measure of how open, active and verifiable t
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `agentic-commerce-protocol-acp`. https://satohub.ai/resources/agentic-commerce-protocol-acp — retrieved 2026-10-03.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `agentic-commerce-protocol-acp`. https://satohub.ai/resources/agentic-commerce-protocol-acp — retrieved 2026-10-04.
 
 [← All layers](../index.md)

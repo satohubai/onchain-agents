@@ -41,7 +41,7 @@ npm install @virtuals-protocol/game
 ## What we checked
 
 - Install reproduced in an isolated container on 2026-09-21.
-- Live endpoint probed by us: 100% of our checks succeeded over 81 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 82 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -50,6 +50,6 @@ npm install @virtuals-protocol/game
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `virtuals-protocol`. https://satohub.ai/resources/virtuals-protocol — retrieved 2026-10-03.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `virtuals-protocol`. https://satohub.ai/resources/virtuals-protocol — retrieved 2026-10-04.
 
 [← All layers](../index.md)

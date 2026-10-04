@@ -18,7 +18,7 @@ Sato Score: **⬡ 59** (Medium), -10 over 7 days — a measure of how open, acti
 - **Chains:** Ethereum, Base, Arbitrum, Polygon, Optimism, Avalanche
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Recent — last activity 30 days ago
+- **Activity:** Recent — last activity 1 month ago
 - **GitHub stars:** 2
 
 ## Deploy spec
@@ -41,7 +41,7 @@ cd graph-aave-mcp
 ## What we checked
 
 - Install reproduced in an isolated container on 2026-07-21.
-- Live endpoint probed by us: 100% of our checks succeeded over 76 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 77 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -50,6 +50,6 @@ cd graph-aave-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `graph-aave-mcp`. https://satohub.ai/resources/graph-aave-mcp — retrieved 2026-10-03.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `graph-aave-mcp`. https://satohub.ai/resources/graph-aave-mcp — retrieved 2026-10-04.
 
 [← All layers](../index.md)

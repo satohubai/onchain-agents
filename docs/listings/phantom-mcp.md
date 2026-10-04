@@ -25,7 +25,7 @@ Sato Score: **⬡ 43** (Medium) — a measure of how open, active and verifiable
 
 ## What we checked
 
-- Live endpoint probed by us: 54.3% of our checks succeeded over 81 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 54.9% of our checks succeeded over 82 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Verified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -34,6 +34,6 @@ Sato Score: **⬡ 43** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `phantom-mcp`. https://satohub.ai/resources/phantom-mcp — retrieved 2026-10-03.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `phantom-mcp`. https://satohub.ai/resources/phantom-mcp — retrieved 2026-10-04.
 
 [← All layers](../index.md)
