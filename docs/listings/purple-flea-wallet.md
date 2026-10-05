@@ -38,7 +38,7 @@ npx -y @purpleflea/wallet-mcp
 ## What we checked
 
 - Install reproduced in an isolated container on 2026-09-14.
-- Live endpoint probed by us: 44.2% of our checks succeeded over 77 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 43% of our checks succeeded over 79 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -47,6 +47,6 @@ npx -y @purpleflea/wallet-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `purple-flea-wallet`. https://satohub.ai/resources/purple-flea-wallet — retrieved 2026-10-04.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `purple-flea-wallet`. https://satohub.ai/resources/purple-flea-wallet — retrieved 2026-10-05.
 
 [← All layers](../index.md)

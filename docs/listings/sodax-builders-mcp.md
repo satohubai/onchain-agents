@@ -18,7 +18,7 @@ Sato Score: **⬡ 78** (High) — a measure of how open, active and verifiable t
 - **Chains:** Ethereum, Base, Arbitrum, Optimism, Polygon
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 3 days ago
+- **Activity:** Active — last activity 4 days ago
 - **GitHub stars:** 9
 
 ## Deploy spec
@@ -41,7 +41,7 @@ pnpm build
 ## What we checked
 
 - Install reproduced in an isolated container on 2026-09-25.
-- Live endpoint probed by us: 98.7% of our checks succeeded over 77 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 97.5% of our checks succeeded over 79 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -50,6 +50,6 @@ pnpm build
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `sodax-builders-mcp`. https://satohub.ai/resources/sodax-builders-mcp — retrieved 2026-10-04.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `sodax-builders-mcp`. https://satohub.ai/resources/sodax-builders-mcp — retrieved 2026-10-05.
 
 [← All layers](../index.md)

@@ -41,7 +41,7 @@ pnpm dev
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 77 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 79 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -50,6 +50,6 @@ pnpm dev
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `x402-ai-starter`. https://satohub.ai/resources/x402-ai-starter — retrieved 2026-10-04.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `x402-ai-starter`. https://satohub.ai/resources/x402-ai-starter — retrieved 2026-10-05.
 
 [← All layers](../index.md)

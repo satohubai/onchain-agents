@@ -9,7 +9,7 @@ layout: "default"
 
 Hosted MCP server for on-chain whale tracking and forensics across BTC, ETH, SOL, USDT, and tokenized gold.
 
-Sato Score: **⬡ 48** (Medium), +3 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 48** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -38,7 +38,7 @@ claude mcp add btc-whale-intelligence https://mcp.swisswhaleintelligence.com/mcp
 
 ## What we checked
 
-- Live endpoint probed by us: 92.2% of our checks succeeded over 77 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 92.4% of our checks succeeded over 79 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -47,6 +47,6 @@ claude mcp add btc-whale-intelligence https://mcp.swisswhaleintelligence.com/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `swiss-whale-intelligence-mcp`. https://satohub.ai/resources/swiss-whale-intelligence-mcp — retrieved 2026-10-04.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `swiss-whale-intelligence-mcp`. https://satohub.ai/resources/swiss-whale-intelligence-mcp — retrieved 2026-10-05.
 
 [← All layers](../index.md)

@@ -9,7 +9,7 @@ layout: "default"
 
 Open-source terminal coding agent for the xAI Grok API — community-built, not affiliated with xAI.
 
-Sato Score: **⬡ 62** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 50** (Medium), -12 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -47,6 +47,6 @@ npm install -g @vibe-kit/grok-cli   # binary: grok
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `grok-cli`. https://satohub.ai/resources/grok-cli — retrieved 2026-10-04.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `grok-cli`. https://satohub.ai/resources/grok-cli — retrieved 2026-10-05.
 
 [← All layers](../index.md)
