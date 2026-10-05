@@ -1,0 +1,8 @@
+{
+  "name": "bilbop x402",
+  "website_url": "https://api.bilbop.org",
+  "category": "API / SDK",
+  "chains": ["Solana"],
+  "description": "Pay-per-call HTTP APIs for agents: text summarize, Solana mint info, token brief, Piper TTS, and human brand feedback. Settles USDC on Solana via x402 exact / PayAI. Discovery at /.well-known/x402.",
+  "relationship": "maintainer"
+}
