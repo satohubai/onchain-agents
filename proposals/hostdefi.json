@@ -1,0 +1,17 @@
+{
+  "name": "HostDeFi",
+  "website_url": "https://hostdefi.com",
+  "category": "DeFi Tool",
+  "chains": [
+    "Solana",
+    "Ethereum",
+    "BSC",
+    "Base",
+    "Arbitrum",
+    "Optimism",
+    "Polygon",
+    "Avalanche"
+  ],
+  "description": "Free token safety scanner grading any token on-chain, a Solana DEX with Jupiter-routed swaps, and machine-payable x402 endpoints (per-call JSON-RPC plus token-risk data) for agents.",
+  "relationship": "maintainer"
+}
