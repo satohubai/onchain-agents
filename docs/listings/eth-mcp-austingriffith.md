@@ -48,6 +48,6 @@ npx -y eth-mcp@latest
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `eth-mcp-austingriffith`. https://satohub.ai/resources/eth-mcp-austingriffith — retrieved 2026-10-05.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `eth-mcp-austingriffith`. https://satohub.ai/resources/eth-mcp-austingriffith — retrieved 2026-10-06.
 
 [← All layers](../index.md)

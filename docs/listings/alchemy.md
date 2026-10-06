@@ -21,7 +21,7 @@ Sato Score: **⬡ 83** (High) — a measure of how open, active and verifiable t
 - **Creator:** Alchemy Insights, Inc.
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 2 days ago
+- **Activity:** Active — last activity 1 day ago
 - **Deploys as:** API, MCP server
 - **Works with:** Claude Code, ChatGPT, Google Gemini, Perplexity, Microsoft Copilot, Grok
 
@@ -51,6 +51,6 @@ npm install @alchemy/wallet-apis viem
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `alchemy`. https://satohub.ai/resources/alchemy — retrieved 2026-10-05.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `alchemy`. https://satohub.ai/resources/alchemy — retrieved 2026-10-06.
 
 [← All layers](../index.md)

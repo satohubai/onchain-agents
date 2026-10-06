@@ -49,6 +49,6 @@ claude mcp add OpenZeppelinContracts -- npx -y @openzeppelin/contracts-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `openzeppelin-mcp`. https://satohub.ai/resources/openzeppelin-mcp — retrieved 2026-10-05.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `openzeppelin-mcp`. https://satohub.ai/resources/openzeppelin-mcp — retrieved 2026-10-06.
 
 [← All layers](../index.md)

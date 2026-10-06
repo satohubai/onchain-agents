@@ -22,7 +22,7 @@ Sato Score: **⬡ 75** (High), +10 over 7 days — a measure of how open, active
 - **Creator:** CoinStats
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 5 days ago
+- **Activity:** Active — last activity 6 days ago
 - **GitHub stars:** 16
 - **Deploys as:** Hosted API (OAuth-protected Streamable HTTP), npm (stdio self-host), Docker
 - **Works with:** Claude Desktop, Claude Code, Cursor, Codex
@@ -52,6 +52,6 @@ claude mcp add coinstats --transport http https://mcp.coinstats.app/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `coinstats-mcp`. https://satohub.ai/resources/coinstats-mcp — retrieved 2026-10-05.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `coinstats-mcp`. https://satohub.ai/resources/coinstats-mcp — retrieved 2026-10-06.
 
 [← All layers](../index.md)

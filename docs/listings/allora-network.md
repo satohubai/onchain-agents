@@ -45,6 +45,6 @@ allorad version
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `allora-network`. https://satohub.ai/resources/allora-network — retrieved 2026-10-05.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `allora-network`. https://satohub.ai/resources/allora-network — retrieved 2026-10-06.
 
 [← All layers](../index.md)

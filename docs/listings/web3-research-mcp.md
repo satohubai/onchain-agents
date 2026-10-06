@@ -22,7 +22,7 @@ Sato Score: **⬡ 77** (High), +4 over 7 days — a measure of how open, active 
 - **Creator:** aaronjmars
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 4 days ago
+- **Activity:** Active — last activity 5 days ago
 - **GitHub stars:** 163
 - **Deploys as:** Local (stdio)
 - **Works with:** Claude Desktop, Cursor, Smithery, CoinGecko, CoinMarketCap, DeFiLlama
@@ -52,6 +52,6 @@ npx -y web3-research-mcp@latest
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `web3-research-mcp`. https://satohub.ai/resources/web3-research-mcp — retrieved 2026-10-05.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `web3-research-mcp`. https://satohub.ai/resources/web3-research-mcp — retrieved 2026-10-06.
 
 [← All layers](../index.md)

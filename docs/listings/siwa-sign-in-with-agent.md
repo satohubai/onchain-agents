@@ -48,6 +48,6 @@ npm install @buildersgarden/siwa
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `siwa-sign-in-with-agent`. https://satohub.ai/resources/siwa-sign-in-with-agent — retrieved 2026-10-05.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `siwa-sign-in-with-agent`. https://satohub.ai/resources/siwa-sign-in-with-agent — retrieved 2026-10-06.
 
 [← All layers](../index.md)

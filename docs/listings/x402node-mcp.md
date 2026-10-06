@@ -54,6 +54,6 @@ cp .env.example .env
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `x402node-mcp`. https://satohub.ai/resources/x402node-mcp — retrieved 2026-10-05.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `x402node-mcp`. https://satohub.ai/resources/x402node-mcp — retrieved 2026-10-06.
 
 [← All layers](../index.md)

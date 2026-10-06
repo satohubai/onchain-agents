@@ -47,6 +47,6 @@ pip install game_sdk
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `game-sdk-virtuals`. https://satohub.ai/resources/game-sdk-virtuals — retrieved 2026-10-05.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `game-sdk-virtuals`. https://satohub.ai/resources/game-sdk-virtuals — retrieved 2026-10-06.
 
 [← All layers](../index.md)

@@ -9,7 +9,7 @@ layout: "default"
 
 Bonding-curve token launchpad on Robinhood Chain; a filled curve migrates into a Uniswap v3 position held by an ownerless locker.
 
-Sato Score: **⬡ 33** (Low) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 35** (Low), +2 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -20,6 +20,7 @@ Sato Score: **⬡ 33** (Low) — a measure of how open, active and verifiable th
 - **Use cases:** launch, trading
 - **Open source:** Unknown
 - **Status:** Active
+- **Works with:** Relay, Uniswap v3
 
 ## What we checked
 
@@ -32,6 +33,6 @@ Sato Score: **⬡ 33** (Low) — a measure of how open, active and verifiable th
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `hood-fun`. https://satohub.ai/resources/hood-fun — retrieved 2026-10-05.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `hood-fun`. https://satohub.ai/resources/hood-fun — retrieved 2026-10-06.
 
 [← All layers](../index.md)

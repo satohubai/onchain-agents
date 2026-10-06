@@ -9,7 +9,7 @@ layout: "default"
 
 Adversarial AI agent experiment where users try to convince an agent to release onchain funds.
 
-Sato Score: **⬡ 31** (Low), -1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 31** (Low), +11 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -31,6 +31,6 @@ Sato Score: **⬡ 31** (Low), -1 over 7 days — a measure of how open, active a
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `freysa`. https://satohub.ai/resources/freysa — retrieved 2026-10-05.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `freysa`. https://satohub.ai/resources/freysa — retrieved 2026-10-06.
 
 [← All layers](../index.md)

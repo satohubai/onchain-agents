@@ -50,6 +50,6 @@ claude mcp add santiment --transport http https://api.santiment.net/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `santiment-mcp`. https://satohub.ai/resources/santiment-mcp — retrieved 2026-10-05.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `santiment-mcp`. https://satohub.ai/resources/santiment-mcp — retrieved 2026-10-06.
 
 [← All layers](../index.md)

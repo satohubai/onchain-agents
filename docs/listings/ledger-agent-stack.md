@@ -21,7 +21,7 @@ Sato Score: **⬡ 65** (Medium), +4 over 7 days — a measure of how open, activ
 - **Creator:** Ledger
 - **Open source:** Partial
 - **Status:** Early
-- **Activity:** Active — last activity 27 days ago
+- **Activity:** Active — last activity 28 days ago
 - **GitHub stars:** 6
 - **Works with:** Claude Code, Cursor, Codex, Cline, GitHub Copilot, Windsurf, Claude Desktop
 
@@ -36,6 +36,6 @@ Sato Score: **⬡ 65** (Medium), +4 over 7 days — a measure of how open, activ
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ledger-agent-stack`. https://satohub.ai/resources/ledger-agent-stack — retrieved 2026-10-05.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ledger-agent-stack`. https://satohub.ai/resources/ledger-agent-stack — retrieved 2026-10-06.
 
 [← All layers](../index.md)

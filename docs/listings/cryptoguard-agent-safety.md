@@ -9,7 +9,7 @@ layout: "default"
 
 Intercepts agent transactions and checks them against 5 security oracles before execution.
 
-Sato Score: **⬡ 52** (Medium), -1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 52** (Medium), +6 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -50,6 +50,6 @@ cryptoguard install-hook
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cryptoguard-agent-safety`. https://satohub.ai/resources/cryptoguard-agent-safety — retrieved 2026-10-05.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cryptoguard-agent-safety`. https://satohub.ai/resources/cryptoguard-agent-safety — retrieved 2026-10-06.
 
 [← All layers](../index.md)

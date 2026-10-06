@@ -21,7 +21,7 @@ Sato Score: **⬡ 81** (High) — a measure of how open, active and verifiable t
 - **Use cases:** payments, wallets
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 12 days ago
+- **Activity:** Active — last activity 13 days ago
 - **GitHub stars:** 9
 - **Deploys as:** npm
 - **Works with:** Claude Code, OpenClaw, Cursor
@@ -52,6 +52,6 @@ npm install -g lightning-wallet-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lightning-wallet-mcp`. https://satohub.ai/resources/lightning-wallet-mcp — retrieved 2026-10-05.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lightning-wallet-mcp`. https://satohub.ai/resources/lightning-wallet-mcp — retrieved 2026-10-06.
 
 [← All layers](../index.md)

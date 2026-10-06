@@ -53,6 +53,6 @@ agentnode install word-counter-pack
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `agentnode`. https://satohub.ai/resources/agentnode — retrieved 2026-10-05.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `agentnode`. https://satohub.ai/resources/agentnode — retrieved 2026-10-06.
 
 [← All layers](../index.md)

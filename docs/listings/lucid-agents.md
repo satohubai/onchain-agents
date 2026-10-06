@@ -23,7 +23,7 @@ Sato Score: **⬡ 71** (High) — a measure of how open, active and verifiable t
 - **Open source:** Yes
 - **Status:** Early
 - **Activity:** Recent — last activity 2 months ago
-- **GitHub stars:** 198
+- **GitHub stars:** 200
 - **Deploys as:** self-hosted, library, npm
 - **Works with:** Hono, Express, Next.js, TanStack, x402, A2A, ERC-8004, MCP
 
@@ -53,6 +53,6 @@ npm install @lucid-agents/core @lucid-agents/http
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lucid-agents`. https://satohub.ai/resources/lucid-agents — retrieved 2026-10-05.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lucid-agents`. https://satohub.ai/resources/lucid-agents — retrieved 2026-10-06.
 
 [← All layers](../index.md)

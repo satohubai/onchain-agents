@@ -50,6 +50,6 @@ npm run dev
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `purple-flea-trading`. https://satohub.ai/resources/purple-flea-trading — retrieved 2026-10-05.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `purple-flea-trading`. https://satohub.ai/resources/purple-flea-trading — retrieved 2026-10-06.
 
 [← All layers](../index.md)

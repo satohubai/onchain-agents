@@ -30,6 +30,6 @@ Sato Score: **⬡ 32** (Low), +1 over 7 days — a measure of how open, active a
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `honeypot-is`. https://satohub.ai/resources/honeypot-is — retrieved 2026-10-05.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `honeypot-is`. https://satohub.ai/resources/honeypot-is — retrieved 2026-10-06.
 
 [← All layers](../index.md)

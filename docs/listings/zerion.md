@@ -23,7 +23,7 @@ Sato Score: **⬡ 85** (High) — a measure of how open, active and verifiable t
 - **Open source:** Partial
 - **Status:** Active
 - **Activity:** Active — last activity today
-- **GitHub stars:** 59
+- **GitHub stars:** 63
 - **Deploys as:** npm, MCP server, API
 - **Works with:** 0x, x402, MPP, Open Wallet Standard, Uniswap, Li.Fi, MoonPay
 
@@ -54,6 +54,6 @@ npx -y zerion-cli init
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `zerion`. https://satohub.ai/resources/zerion — retrieved 2026-10-05.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `zerion`. https://satohub.ai/resources/zerion — retrieved 2026-10-06.
 
 [← All layers](../index.md)

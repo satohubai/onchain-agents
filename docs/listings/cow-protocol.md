@@ -49,6 +49,6 @@ pnpm add @cowprotocol/cow-sdk
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cow-protocol`. https://satohub.ai/resources/cow-protocol — retrieved 2026-10-05.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cow-protocol`. https://satohub.ai/resources/cow-protocol — retrieved 2026-10-06.
 
 [← All layers](../index.md)

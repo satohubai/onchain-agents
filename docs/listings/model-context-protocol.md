@@ -36,6 +36,6 @@ Sato Score: **⬡ 83** (High) — a measure of how open, active and verifiable t
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `model-context-protocol`. https://satohub.ai/resources/model-context-protocol — retrieved 2026-10-05.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `model-context-protocol`. https://satohub.ai/resources/model-context-protocol — retrieved 2026-10-06.
 
 [← All layers](../index.md)

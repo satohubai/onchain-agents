@@ -34,6 +34,6 @@ Sato Score: **⬡ 39** (Low) — a measure of how open, active and verifiable th
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `aave-mcp-junct`. https://satohub.ai/resources/aave-mcp-junct — retrieved 2026-10-05.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `aave-mcp-junct`. https://satohub.ai/resources/aave-mcp-junct — retrieved 2026-10-06.
 
 [← All layers](../index.md)

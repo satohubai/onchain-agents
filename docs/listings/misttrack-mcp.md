@@ -9,17 +9,20 @@ layout: "default"
 
 MCP server from SlowMist exposing MistTrack address risk scoring and fund-flow tracing to AI agents.
 
-Sato Score: **⬡ 63** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 70** (High), +7 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
 - **Category:** Security Tool
 - **Type:** Tool/Service
 - **Chains:** Ethereum, Bitcoin, Polygon, Solana, Multichain
+- **Creator:** SlowMist
 - **Open source:** Yes
 - **Status:** Active
 - **Activity:** Quiet — last activity 5 months ago
 - **GitHub stars:** 39
+- **Deploys as:** npx, npm global install, local development
+- **Works with:** Claude Desktop, MistTrack OpenAPI
 
 ## Deploy spec
 
@@ -49,6 +52,6 @@ export MISTTRACK_API_KEY=YOUR_MISTTRACK_API_KEY && npx -y misttrack@latest
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `misttrack-mcp`. https://satohub.ai/resources/misttrack-mcp — retrieved 2026-10-05.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `misttrack-mcp`. https://satohub.ai/resources/misttrack-mcp — retrieved 2026-10-06.
 
 [← All layers](../index.md)

@@ -51,6 +51,6 @@ npm install -g sui-mcp-server
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `sui-mcp-server`. https://satohub.ai/resources/sui-mcp-server — retrieved 2026-10-05.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `sui-mcp-server`. https://satohub.ai/resources/sui-mcp-server — retrieved 2026-10-06.
 
 [← All layers](../index.md)

@@ -22,7 +22,7 @@ Sato Score: **⬡ 66** (Medium) — a measure of how open, active and verifiable
 - **Creator:** nirholas
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 20 days ago
+- **Activity:** Active — last activity 21 days ago
 - **GitHub stars:** 79
 - **Deploys as:** npm, MCP server
 - **Works with:** Claude, LangChain, AutoGen, CrewAI, MCP, x402
@@ -54,6 +54,6 @@ git clone https://github.com/nirholas/agenti && cd agenti && pnpm install
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `agenti`. https://satohub.ai/resources/agenti — retrieved 2026-10-05.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `agenti`. https://satohub.ai/resources/agenti — retrieved 2026-10-06.
 
 [← All layers](../index.md)

@@ -22,7 +22,7 @@ Sato Score: **⬡ 66** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Tari Project
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity today
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 499
 - **Deploys as:** self-hosted, local, docker, binary
 
@@ -53,6 +53,6 @@ cargo build --release -p minotari_mcp_wallet
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `tari-mcp`. https://satohub.ai/resources/tari-mcp — retrieved 2026-10-05.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `tari-mcp`. https://satohub.ai/resources/tari-mcp — retrieved 2026-10-06.
 
 [← All layers](../index.md)

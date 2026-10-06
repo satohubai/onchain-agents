@@ -18,7 +18,7 @@ Sato Score: **⬡ 68** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Near
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 5 days ago
+- **Activity:** Active — last activity 6 days ago
 - **GitHub stars:** 12.6k
 - **Deploys as:** NEAR AI Cloud (TEE), Local (macOS/Linux/Windows/WSL)
 - **Works with:** Gmail, Google Drive, Google Sheets, GitHub, Discord, Web Search, Google Calendar, Google Docs, Google Slides, Telegram, Signal, MCP Servers
@@ -50,6 +50,6 @@ ironclaw onboard
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ironclaw-near-ai`. https://satohub.ai/resources/ironclaw-near-ai — retrieved 2026-10-05.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ironclaw-near-ai`. https://satohub.ai/resources/ironclaw-near-ai — retrieved 2026-10-06.
 
 [← All layers](../index.md)

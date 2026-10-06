@@ -21,7 +21,7 @@ Sato Score: **⬡ 59** (Medium) — a measure of how open, active and verifiable
 - **Creator:** MoonPay
 - **Open source:** Unknown
 - **Status:** Active
-- **Activity:** Active — last activity 25 days ago
+- **Activity:** Active — last activity 26 days ago
 - **GitHub stars:** 111
 - **Deploys as:** npm, Claude Code plugin, Local MCP server
 - **Works with:** Claude Code, Cursor, Windsurf, Codex
@@ -51,6 +51,6 @@ npx skills add moonpay/skills
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `moonpay-skills`. https://satohub.ai/resources/moonpay-skills — retrieved 2026-10-05.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `moonpay-skills`. https://satohub.ai/resources/moonpay-skills — retrieved 2026-10-06.
 
 [← All layers](../index.md)

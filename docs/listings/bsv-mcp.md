@@ -21,7 +21,7 @@ Sato Score: **⬡ 71** (High), +2 over 7 days — a measure of how open, active 
 - **Use cases:** wallets
 - **Open source:** Yes
 - **Status:** Unknown
-- **Activity:** Active — last activity 22 days ago
+- **Activity:** Active — last activity 23 days ago
 - **GitHub stars:** 22
 - **Deploys as:** Claude Code plugin, hosted, self-hosted, local stdio, npm package, Codex plugin, Grok plugin
 - **Works with:** Claude Code, Codex, Grok Build, Cursor, Claude Desktop, BRC-100 wallets, 1Sat API, BAP, BSocial
@@ -51,6 +51,6 @@ claude mcp add bsv-mcp "bunx bsv-mcp@latest"
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bsv-mcp`. https://satohub.ai/resources/bsv-mcp — retrieved 2026-10-05.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bsv-mcp`. https://satohub.ai/resources/bsv-mcp — retrieved 2026-10-06.
 
 [← All layers](../index.md)

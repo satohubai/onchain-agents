@@ -49,6 +49,6 @@ claude mcp add --transport http pyth https://mcp.pyth.network/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `pyth-mcp`. https://satohub.ai/resources/pyth-mcp — retrieved 2026-10-05.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `pyth-mcp`. https://satohub.ai/resources/pyth-mcp — retrieved 2026-10-06.
 
 [← All layers](../index.md)

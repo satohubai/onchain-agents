@@ -17,7 +17,7 @@ Sato Score: **⬡ 50** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Hyperliquid
 - **Open source:** Unknown
 - **Status:** Unknown
-- **Activity:** Active — last activity 17 days ago
+- **Activity:** Active — last activity 18 days ago
 - **GitHub stars:** 39
 
 ## What we checked
@@ -31,6 +31,6 @@ Sato Score: **⬡ 50** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `quant-flow`. https://satohub.ai/resources/quant-flow — retrieved 2026-10-05.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `quant-flow`. https://satohub.ai/resources/quant-flow — retrieved 2026-10-06.
 
 [← All layers](../index.md)

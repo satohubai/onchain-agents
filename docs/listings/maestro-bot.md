@@ -9,7 +9,7 @@ layout: "default"
 
 Telegram trading and sniper bot with custodial in-chat wallets; its own site lists Robinhood Chain among supported networks.
 
-Sato Score: **⬡ 37** (Low), +5 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 37** (Low) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -34,6 +34,6 @@ Sato Score: **⬡ 37** (Low), +5 over 7 days — a measure of how open, active a
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `maestro-bot`. https://satohub.ai/resources/maestro-bot — retrieved 2026-10-05.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `maestro-bot`. https://satohub.ai/resources/maestro-bot — retrieved 2026-10-06.
 
 [← All layers](../index.md)

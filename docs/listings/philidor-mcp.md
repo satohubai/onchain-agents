@@ -51,6 +51,6 @@ claude mcp add philidor --transport http https://mcp.philidor.io/api/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `philidor-mcp`. https://satohub.ai/resources/philidor-mcp — retrieved 2026-10-05.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `philidor-mcp`. https://satohub.ai/resources/philidor-mcp — retrieved 2026-10-06.
 
 [← All layers](../index.md)

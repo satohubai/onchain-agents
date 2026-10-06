@@ -22,7 +22,7 @@ Sato Score: **⬡ 78** (High), +4 over 7 days — a measure of how open, active 
 - **Creator:** Coinbase
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 3 days ago
+- **Activity:** Active — last activity 4 days ago
 - **GitHub stars:** 163
 - **Works with:** CDP SDK (TypeScript), REST API, MCP
 
@@ -52,6 +52,6 @@ npm install @coinbase/cdp-sdk
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `coinbase-x402-bazaar`. https://satohub.ai/resources/coinbase-x402-bazaar — retrieved 2026-10-05.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `coinbase-x402-bazaar`. https://satohub.ai/resources/coinbase-x402-bazaar — retrieved 2026-10-06.
 
 [← All layers](../index.md)

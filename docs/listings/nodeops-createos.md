@@ -50,6 +50,6 @@ npx skills add https://github.com/NodeOps-app/skills --skill createos
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `nodeops-createos`. https://satohub.ai/resources/nodeops-createos — retrieved 2026-10-05.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `nodeops-createos`. https://satohub.ai/resources/nodeops-createos — retrieved 2026-10-06.
 
 [← All layers](../index.md)

@@ -31,6 +31,6 @@ Sato Score: **⬡ 29** (Low) — a measure of how open, active and verifiable th
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `squads-grid`. https://satohub.ai/resources/squads-grid — retrieved 2026-10-05.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `squads-grid`. https://satohub.ai/resources/squads-grid — retrieved 2026-10-06.
 
 [← All layers](../index.md)

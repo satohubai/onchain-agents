@@ -35,6 +35,6 @@ Sato Score: **⬡ 34** (Low), +10 over 7 days — a measure of how open, active 
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `orthogonal`. https://satohub.ai/resources/orthogonal — retrieved 2026-10-05.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `orthogonal`. https://satohub.ai/resources/orthogonal — retrieved 2026-10-06.
 
 [← All layers](../index.md)

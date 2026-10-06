@@ -18,7 +18,7 @@ Sato Score: **⬡ 80** (High) — a measure of how open, active and verifiable t
 - **Chains:** Multichain
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 20 days ago
+- **Activity:** Active — last activity 21 days ago
 - **GitHub stars:** 1.3k
 
 ## Deploy spec
@@ -47,6 +47,6 @@ npm install @selfxyz/enterprise-sdk
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `self-protocol`. https://satohub.ai/resources/self-protocol — retrieved 2026-10-05.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `self-protocol`. https://satohub.ai/resources/self-protocol — retrieved 2026-10-06.
 
 [← All layers](../index.md)
