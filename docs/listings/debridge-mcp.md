@@ -22,8 +22,8 @@ Sato Score: **⬡ 76** (High) — a measure of how open, active and verifiable t
 - **Creator:** deBridge
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 26 days ago
-- **GitHub stars:** 32
+- **Activity:** Active — last activity 5 days ago
+- **GitHub stars:** 31
 - **Deploys as:** Hosted API, npm
 - **Works with:** Claude Code, Claude Web, Claude Desktop
 
@@ -43,7 +43,7 @@ claude mcp add debridge --transport http https://agents.debridge.com/mcp
 
 ## What we checked
 
-- Live endpoint probed by us: 98.8% of our checks succeeded over 84 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 98.8% of our checks succeeded over 85 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -52,6 +52,6 @@ claude mcp add debridge --transport http https://agents.debridge.com/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `debridge-mcp`. https://satohub.ai/resources/debridge-mcp — retrieved 2026-10-06.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `debridge-mcp`. https://satohub.ai/resources/debridge-mcp — retrieved 2026-10-07.
 
 [← All layers](../index.md)

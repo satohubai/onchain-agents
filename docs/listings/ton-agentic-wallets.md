@@ -9,7 +9,7 @@ layout: "default"
 
 Open, non-custodial TON wallet standard for AI agents: user funds a per-agent wallet, sets a budget, can swap the operator key or revoke.
 
-Sato Score: **⬡ 51** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 52** (Medium), +1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -26,7 +26,7 @@ Sato Score: **⬡ 51** (Medium) — a measure of how open, active and verifiable
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 13 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 14 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -35,6 +35,6 @@ Sato Score: **⬡ 51** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ton-agentic-wallets`. https://satohub.ai/resources/ton-agentic-wallets — retrieved 2026-10-06.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ton-agentic-wallets`. https://satohub.ai/resources/ton-agentic-wallets — retrieved 2026-10-07.
 
 [← All layers](../index.md)

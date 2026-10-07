@@ -9,7 +9,7 @@ layout: "default"
 
 Thirdweb's MCP toolkit bundling Nebula, Insight, Engine, and Storage for onchain agent building.
 
-Sato Score: **⬡ 34** (Low), -2 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 34** (Low) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -42,7 +42,7 @@ claude mcp add --transport http "thirdweb-api" "https://api.thirdweb.com/mcp?sec
 
 ## What we checked
 
-- Live endpoint probed by us: 89.3% of our checks succeeded over 84 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 88.2% of our checks succeeded over 85 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -51,6 +51,6 @@ claude mcp add --transport http "thirdweb-api" "https://api.thirdweb.com/mcp?sec
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `thirdweb-ai`. https://satohub.ai/resources/thirdweb-ai — retrieved 2026-10-06.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `thirdweb-ai`. https://satohub.ai/resources/thirdweb-ai — retrieved 2026-10-07.
 
 [← All layers](../index.md)

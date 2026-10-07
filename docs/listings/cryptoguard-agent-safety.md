@@ -9,7 +9,7 @@ layout: "default"
 
 Intercepts agent transactions and checks them against 5 security oracles before execution.
 
-Sato Score: **⬡ 52** (Medium), +6 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 52** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -19,7 +19,7 @@ Sato Score: **⬡ 52** (Medium), +6 over 7 days — a measure of how open, activ
 - **Creator:** momenbasel
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Quiet — last activity 5 months ago
+- **Activity:** Quiet — last activity 6 months ago
 - **GitHub stars:** 8
 - **Deploys as:** CLI tool, Python library, MCP server, pip package
 - **Works with:** Claude Code, OpenAI Codex, Cursor, GoPlus Security, Honeypot.is, TokenSniffer, De.Fi Scanner, QuickIntel
@@ -41,7 +41,7 @@ cryptoguard install-hook
 
 ## What we checked
 
-- Live endpoint probed by us: 98.7% of our checks succeeded over 79 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 98.8% of our checks succeeded over 80 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -50,6 +50,6 @@ cryptoguard install-hook
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cryptoguard-agent-safety`. https://satohub.ai/resources/cryptoguard-agent-safety — retrieved 2026-10-06.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cryptoguard-agent-safety`. https://satohub.ai/resources/cryptoguard-agent-safety — retrieved 2026-10-07.
 
 [← All layers](../index.md)

@@ -18,7 +18,7 @@ Sato Score: **⬡ 83** (High) — a measure of how open, active and verifiable t
 - **Standards:** x402
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity today
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 0
 - **Deploys as:** hosted, self-hosted, npm package
 - **Works with:** MCP, Vercel AI SDK, LangChain, Claude Desktop, Cursor, Cline, GitHub Actions
@@ -33,6 +33,6 @@ Sato Score: **⬡ 83** (High) — a measure of how open, active and verifiable t
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `pulsefeed`. https://satohub.ai/resources/pulsefeed — retrieved 2026-10-06.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `pulsefeed`. https://satohub.ai/resources/pulsefeed — retrieved 2026-10-07.
 
 [← All layers](../index.md)

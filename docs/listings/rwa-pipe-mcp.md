@@ -9,7 +9,7 @@ layout: "default"
 
 MCP server for tokenized real-world asset data: RWA token discovery, TVL/APY, issuer and chain filters, and wallet holdings.
 
-Sato Score: **⬡ 50** (Medium), -14 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 72** (High), +8 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -42,7 +42,7 @@ npx rwapipe-mcp
 
 ## What we checked
 
-- Live endpoint probed by us: 16.7% of our checks succeeded over 84 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 16.5% of our checks succeeded over 85 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -51,6 +51,6 @@ npx rwapipe-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `rwa-pipe-mcp`. https://satohub.ai/resources/rwa-pipe-mcp — retrieved 2026-10-06.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `rwa-pipe-mcp`. https://satohub.ai/resources/rwa-pipe-mcp — retrieved 2026-10-07.
 
 [← All layers](../index.md)
