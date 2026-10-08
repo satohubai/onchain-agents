@@ -23,7 +23,7 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 
 ## What we checked
 
-- Live endpoint probed by us: 42.4% of our checks succeeded over 85 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 43% of our checks succeeded over 86 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -32,6 +32,6 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `kaito`. https://satohub.ai/resources/kaito — retrieved 2026-10-07.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `kaito`. https://satohub.ai/resources/kaito — retrieved 2026-10-08.
 
 [← All layers](../index.md)

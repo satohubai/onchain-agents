@@ -36,7 +36,7 @@ brickken --version
 
 ## What we checked
 
-- Live endpoint probed by us: 45% of our checks succeeded over 80 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 45.7% of our checks succeeded over 81 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -45,6 +45,6 @@ brickken --version
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `brickken`. https://satohub.ai/resources/brickken — retrieved 2026-10-07.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `brickken`. https://satohub.ai/resources/brickken — retrieved 2026-10-08.
 
 [← All layers](../index.md)

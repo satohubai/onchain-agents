@@ -22,7 +22,7 @@ Sato Score: **⬡ 35** (Low) — a measure of how open, active and verifiable th
 - **Creator:** kukapay
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Dormant — last activity 15 months ago
+- **Activity:** Dormant — last activity 16 months ago
 - **GitHub stars:** 29
 - **Deploys as:** Self-hosted, MCP server
 - **Works with:** Jupiter Ultra API, Solana RPC, MCP clients
@@ -51,6 +51,6 @@ git clone https://github.com/kukapay/jupiter-mcp && cd jupiter-mcp && npm instal
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `jupiter-mcp`. https://satohub.ai/resources/jupiter-mcp — retrieved 2026-10-07.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `jupiter-mcp`. https://satohub.ai/resources/jupiter-mcp — retrieved 2026-10-08.
 
 [← All layers](../index.md)

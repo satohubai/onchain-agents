@@ -9,7 +9,7 @@ layout: "default"
 
 A blockchain developer platform providing node infrastructure plus NFT, Token, and Transfers APIs and SDKs across many chains.
 
-Sato Score: **⬡ 83** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 68** (Medium), -15 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,7 +21,6 @@ Sato Score: **⬡ 83** (High) — a measure of how open, active and verifiable t
 - **Creator:** Alchemy Insights, Inc.
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 2 days ago
 - **Deploys as:** API, MCP server
 - **Works with:** Claude Code, ChatGPT, Google Gemini, Perplexity, Microsoft Copilot, Grok
 
@@ -42,7 +41,7 @@ npm install @alchemy/wallet-apis viem
 ## What we checked
 
 - Install reproduced in an isolated container on 2026-09-21.
-- Live endpoint probed by us: 100% of our checks succeeded over 85 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 86 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -51,6 +50,6 @@ npm install @alchemy/wallet-apis viem
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `alchemy`. https://satohub.ai/resources/alchemy — retrieved 2026-10-07.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `alchemy`. https://satohub.ai/resources/alchemy — retrieved 2026-10-08.
 
 [← All layers](../index.md)

@@ -9,7 +9,7 @@ layout: "default"
 
 Onchain perpetual futures and spot DEX running on its own L1 with an HyperEVM smart-contract layer.
 
-Sato Score: **⬡ 76** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 69** (Medium), -7 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,7 +22,8 @@ Sato Score: **⬡ 76** (High) — a measure of how open, active and verifiable t
 - **Creator:** Hyperliquid
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 7 days ago
+- **Activity:** Recent — last activity 8 days ago
+- **GitHub stars:** 507
 - **Deploys as:** API, SDK
 - **Works with:** CCXT, Python SDK, TypeScript SDK
 
@@ -42,15 +43,15 @@ pip install hyperliquid-python-sdk
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 85 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 86 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Verified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
 
-[Website](https://app.hyperliquid.xyz/) · [Docs](https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/api) · [GitHub](https://github.com/hyperliquid-dex) · [Sato Hub page ↗](https://satohub.ai/resources/hyperliquid?utm_source=github&utm_medium=index&utm_campaign=onchain-agents)
+[Website](https://app.hyperliquid.xyz/) · [Docs](https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/api) · [GitHub](https://github.com/hyperliquid-dex/node) · [Sato Hub page ↗](https://satohub.ai/resources/hyperliquid?utm_source=github&utm_medium=index&utm_campaign=onchain-agents)
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `hyperliquid`. https://satohub.ai/resources/hyperliquid — retrieved 2026-10-07.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `hyperliquid`. https://satohub.ai/resources/hyperliquid — retrieved 2026-10-08.
 
 [← All layers](../index.md)

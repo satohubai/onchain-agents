@@ -9,7 +9,7 @@ layout: "default"
 
 Network and framework for co-owned autonomous agent services operating onchain.
 
-Sato Score: **⬡ 87** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 90** (High), +3 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,7 +21,8 @@ Sato Score: **⬡ 87** (High) — a measure of how open, active and verifiable t
 - **Creator:** Olas DAO
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 2 days ago
+- **Activity:** Active — last activity 3 days ago
+- **GitHub stars:** 128
 - **Deploys as:** Self-hosted, Docker, Kubernetes
 - **Works with:** Safe, Polymarket, Tenderly
 
@@ -43,15 +44,15 @@ pip install open-aea-ledger-ethereum
 ## What we checked
 
 - Install reproduced in an isolated container on 2026-09-21.
-- Live endpoint probed by us: 100% of our checks succeeded over 85 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 86 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
 
-[Website](https://olas.network) · [Docs](https://docs.autonolas.network) · [GitHub](https://github.com/valory-xyz) · [Sato Hub page ↗](https://satohub.ai/resources/olas?utm_source=github&utm_medium=index&utm_campaign=onchain-agents)
+[Website](https://olas.network) · [Docs](https://docs.autonolas.network) · [GitHub](https://github.com/valory-xyz/open-autonomy) · [Sato Hub page ↗](https://satohub.ai/resources/olas?utm_source=github&utm_medium=index&utm_campaign=onchain-agents)
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `olas`. https://satohub.ai/resources/olas — retrieved 2026-10-07.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `olas`. https://satohub.ai/resources/olas — retrieved 2026-10-08.
 
 [← All layers](../index.md)
