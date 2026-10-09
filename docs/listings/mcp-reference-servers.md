@@ -22,8 +22,8 @@ Sato Score: **⬡ 72** (High) — a measure of how open, active and verifiable t
 - **Creator:** Anthropic
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 9 days ago
-- **GitHub stars:** 90.7k
+- **Activity:** Active — last activity 1 day ago
+- **GitHub stars:** 91.1k
 
 ## Deploy spec
 
@@ -41,7 +41,7 @@ npx -y @modelcontextprotocol/server-everything
 ## What we checked
 
 - Install reproduced in an isolated container on 2026-07-21.
-- Live endpoint probed by us: 98.8% of our checks succeeded over 86 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 98.9% of our checks succeeded over 87 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -50,6 +50,6 @@ npx -y @modelcontextprotocol/server-everything
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `mcp-reference-servers`. https://satohub.ai/resources/mcp-reference-servers — retrieved 2026-10-08.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `mcp-reference-servers`. https://satohub.ai/resources/mcp-reference-servers — retrieved 2026-10-09.
 
 [← All layers](../index.md)

@@ -13,7 +13,7 @@ Sato Score: **⬡ 66** (Medium), +1 over 7 days — a measure of how open, activ
 
 ## Facts
 
-- **Category:** API / SDK
+- **Category:** Payment Rail
 - **Type:** Tool/Service
 - **Chains:** Base, Solana
 - **Standards:** x402
@@ -22,12 +22,12 @@ Sato Score: **⬡ 66** (Medium), +1 over 7 days — a measure of how open, activ
 - **Creator:** Amazon Web Services (AWS)
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 5 days ago
+- **Activity:** Active — last activity 6 days ago
 - **GitHub stars:** 3.4k
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 15 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 16 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -36,6 +36,6 @@ Sato Score: **⬡ 66** (Medium), +1 over 7 days — a measure of how open, activ
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `aws-agentcore-payments`. https://satohub.ai/resources/aws-agentcore-payments — retrieved 2026-10-08.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `aws-agentcore-payments`. https://satohub.ai/resources/aws-agentcore-payments — retrieved 2026-10-09.
 
 [← All layers](../index.md)

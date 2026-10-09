@@ -9,7 +9,7 @@ layout: "default"
 
 Neuronto is an MCP server.
 
-Sato Score: **⬡ 57** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 59** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -30,6 +30,6 @@ Sato Score: **⬡ 57** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `neuronto`. https://satohub.ai/resources/neuronto — retrieved 2026-10-08.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `neuronto`. https://satohub.ai/resources/neuronto — retrieved 2026-10-09.
 
 [← All layers](../index.md)

@@ -53,6 +53,6 @@ pip install x402-openai[evm]
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `x402-openai-python`. https://satohub.ai/resources/x402-openai-python — retrieved 2026-10-08.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `x402-openai-python`. https://satohub.ai/resources/x402-openai-python — retrieved 2026-10-09.
 
 [← All layers](../index.md)

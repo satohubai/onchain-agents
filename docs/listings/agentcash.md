@@ -13,7 +13,7 @@ Sato Score: **⬡ 29** (Low) — a measure of how open, active and verifiable th
 
 ## Facts
 
-- **Category:** API / SDK
+- **Category:** Payment Rail
 - **Type:** Tool/Service
 - **Interfaces:** api
 - **Use cases:** payments
@@ -36,7 +36,7 @@ npx agentcash@latest onboard
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 86 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 87 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -45,6 +45,6 @@ npx agentcash@latest onboard
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `agentcash`. https://satohub.ai/resources/agentcash — retrieved 2026-10-08.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `agentcash`. https://satohub.ai/resources/agentcash — retrieved 2026-10-09.
 
 [← All layers](../index.md)

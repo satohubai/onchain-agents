@@ -9,11 +9,11 @@ layout: "default"
 
 PayRam's MCP server for self-hosted crypto payments: hosted endpoints and agent payment workflows.
 
-Sato Score: **⬡ 52** (Medium), -22 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 73** (High), -1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
-- **Category:** MCP
+- **Category:** Payment Rail
 - **Type:** Tool/Service
 - **Chains:** Multichain
 - **Standards:** mcp
@@ -22,8 +22,8 @@ Sato Score: **⬡ 52** (Medium), -22 over 7 days — a measure of how open, acti
 - **Creator:** PayRam
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Quiet — last activity 3 months ago
-- **GitHub stars:** 156
+- **Activity:** Active — last activity 1 day ago
+- **GitHub stars:** 158
 - **Deploys as:** Hosted API, Self-hosted (Docker/VPS)
 - **Works with:** OpenClaw, Hermes, Claude, Cursor, GitHub Copilot
 
@@ -43,7 +43,7 @@ yarn install
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 86 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 98.9% of our checks succeeded over 87 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -52,6 +52,6 @@ yarn install
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `payram-mcp`. https://satohub.ai/resources/payram-mcp — retrieved 2026-10-08.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `payram-mcp`. https://satohub.ai/resources/payram-mcp — retrieved 2026-10-09.
 
 [← All layers](../index.md)

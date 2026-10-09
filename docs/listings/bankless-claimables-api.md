@@ -16,12 +16,13 @@ Sato Score: **⬡ 32** (Low), +1 over 7 days — a measure of how open, active a
 - **Category:** Data Tool
 - **Type:** Tool/Service
 - **Chains:** Ethereum, Base, Arbitrum, Optimism, Polygon, Solana, Cosmos, Multichain
+- **Use cases:** data, airdrops
 - **Open source:** No
 - **Status:** Active
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 16 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 17 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -30,6 +31,6 @@ Sato Score: **⬡ 32** (Low), +1 over 7 days — a measure of how open, active a
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bankless-claimables-api`. https://satohub.ai/resources/bankless-claimables-api — retrieved 2026-10-08.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bankless-claimables-api`. https://satohub.ai/resources/bankless-claimables-api — retrieved 2026-10-09.
 
 [← All layers](../index.md)

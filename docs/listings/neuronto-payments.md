@@ -13,7 +13,7 @@ Sato Score: **⬡ 63** (Medium) — a measure of how open, active and verifiable
 
 ## Facts
 
-- **Category:** API / SDK
+- **Category:** Payment Rail
 - **Chains:** Base
 - **Standards:** mcp, x402
 - **Interfaces:** mcp, api
@@ -33,6 +33,6 @@ Sato Score: **⬡ 63** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `neuronto-payments`. https://satohub.ai/resources/neuronto-payments — retrieved 2026-10-08.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `neuronto-payments`. https://satohub.ai/resources/neuronto-payments — retrieved 2026-10-09.
 
 [← All layers](../index.md)

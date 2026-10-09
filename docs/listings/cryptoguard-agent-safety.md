@@ -20,7 +20,7 @@ Sato Score: **⬡ 52** (Medium) — a measure of how open, active and verifiable
 - **Open source:** Yes
 - **Status:** Early
 - **Activity:** Quiet — last activity 6 months ago
-- **GitHub stars:** 8
+- **GitHub stars:** 9
 - **Deploys as:** CLI tool, Python library, MCP server, pip package
 - **Works with:** Claude Code, OpenAI Codex, Cursor, GoPlus Security, Honeypot.is, TokenSniffer, De.Fi Scanner, QuickIntel
 
@@ -41,7 +41,7 @@ cryptoguard install-hook
 
 ## What we checked
 
-- Live endpoint probed by us: 98.8% of our checks succeeded over 81 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 98.8% of our checks succeeded over 82 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -50,6 +50,6 @@ cryptoguard install-hook
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cryptoguard-agent-safety`. https://satohub.ai/resources/cryptoguard-agent-safety — retrieved 2026-10-08.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cryptoguard-agent-safety`. https://satohub.ai/resources/cryptoguard-agent-safety — retrieved 2026-10-09.
 
 [← All layers](../index.md)

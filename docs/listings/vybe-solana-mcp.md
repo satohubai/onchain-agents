@@ -22,7 +22,7 @@ Sato Score: **⬡ 83** (High) — a measure of how open, active and verifiable t
 - **Creator:** Vybe Network
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Quiet — last activity 4 months ago
+- **Activity:** Quiet — last activity 5 months ago
 - **GitHub stars:** 213
 - **Deploys as:** Hosted API (remote MCP over OAuth)
 - **Works with:** Cursor, Claude Desktop, Claude.ai, Windsurf, VS Code (Copilot), Cline, Continue, OpenCode
@@ -42,7 +42,7 @@ Add MCP connector with URL https://mcp.vybenetwork.xyz (client authenticates via
 
 ## What we checked
 
-- Live endpoint probed by us: 57% of our checks succeeded over 86 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 57.5% of our checks succeeded over 87 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -51,6 +51,6 @@ Add MCP connector with URL https://mcp.vybenetwork.xyz (client authenticates via
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `vybe-solana-mcp`. https://satohub.ai/resources/vybe-solana-mcp — retrieved 2026-10-08.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `vybe-solana-mcp`. https://satohub.ai/resources/vybe-solana-mcp — retrieved 2026-10-09.
 
 [← All layers](../index.md)
