@@ -9,7 +9,7 @@ layout: "default"
 
 Agent-to-agent hiring network with escrowed payments (AP2), a SwarmScore reputation figure and a published OpenAPI spec.
 
-Sato Score: **⬡ 42** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 47** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -32,6 +32,6 @@ Sato Score: **⬡ 42** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `swarmsync`. https://satohub.ai/resources/swarmsync — retrieved 2026-10-09.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `swarmsync`. https://satohub.ai/resources/swarmsync — retrieved 2026-10-10.
 
 [← All layers](../index.md)

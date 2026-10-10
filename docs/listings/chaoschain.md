@@ -22,7 +22,7 @@ Sato Score: **⬡ 52** (Medium) — a measure of how open, active and verifiable
 - **Creator:** ChaosChain
 - **Open source:** Yes
 - **Status:** Unknown
-- **Activity:** Quiet — last activity 5 months ago
+- **Activity:** Quiet — last activity 6 months ago
 - **GitHub stars:** 25
 - **Deploys as:** npm, pip
 
@@ -36,6 +36,6 @@ Sato Score: **⬡ 52** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `chaoschain`. https://satohub.ai/resources/chaoschain — retrieved 2026-10-09.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `chaoschain`. https://satohub.ai/resources/chaoschain — retrieved 2026-10-10.
 
 [← All layers](../index.md)

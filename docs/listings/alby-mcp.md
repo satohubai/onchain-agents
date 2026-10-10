@@ -22,7 +22,7 @@ Sato Score: **⬡ 64** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Alby
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 7 days ago
+- **Activity:** Active — last activity 8 days ago
 - **GitHub stars:** 66
 - **Deploys as:** Hosted API, npm
 - **Works with:** Claude Web, Claude Desktop, Goose Desktop
@@ -43,7 +43,7 @@ Add custom connector in Claude with endpoint https://mcp.getalby.com/mcp?nwc=ENC
 
 ## What we checked
 
-- Live endpoint probed by us: 5.7% of our checks succeeded over 87 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 0% of our checks succeeded over 40 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -52,6 +52,6 @@ Add custom connector in Claude with endpoint https://mcp.getalby.com/mcp?nwc=ENC
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `alby-mcp`. https://satohub.ai/resources/alby-mcp — retrieved 2026-10-09.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `alby-mcp`. https://satohub.ai/resources/alby-mcp — retrieved 2026-10-10.
 
 [← All layers](../index.md)

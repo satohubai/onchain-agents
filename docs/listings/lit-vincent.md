@@ -9,7 +9,7 @@ layout: "default"
 
 Framework for delegated agents: user-owned agent wallets on Lit key management, with Abilities and policies that bound what an app can sign.
 
-Sato Score: **⬡ 45** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 61** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -25,6 +25,7 @@ Sato Score: **⬡ 45** (Medium) — a measure of how open, active and verifiable
 - **Activity:** Quiet — last activity 8 months ago
 - **GitHub stars:** 29
 - **Deploys as:** npm
+- **Works with:** Lit Protocol, Lit Actions, Programmable Key Pairs (PKPs)
 
 ## What we checked
 
@@ -32,10 +33,10 @@ Sato Score: **⬡ 45** (Medium) — a measure of how open, active and verifiable
 
 ## Links
 
-[Website](https://heyvincent.ai) · [GitHub](https://github.com/LIT-Protocol/Vincent) · [Sato Hub page ↗](https://satohub.ai/resources/lit-vincent?utm_source=github&utm_medium=index&utm_campaign=onchain-agents)
+[Website](https://heyvincent.ai) · [Docs](https://docs.heyvincent.ai/) · [GitHub](https://github.com/LIT-Protocol/Vincent) · [Sato Hub page ↗](https://satohub.ai/resources/lit-vincent?utm_source=github&utm_medium=index&utm_campaign=onchain-agents)
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lit-vincent`. https://satohub.ai/resources/lit-vincent — retrieved 2026-10-09.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lit-vincent`. https://satohub.ai/resources/lit-vincent — retrieved 2026-10-10.
 
 [← All layers](../index.md)

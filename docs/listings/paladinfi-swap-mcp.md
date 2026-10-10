@@ -9,7 +9,7 @@ layout: "default"
 
 MCP-native swap router on Base querying 0x and Velora in parallel, with a built-in risk-screen tool.
 
-Sato Score: **⬡ 50** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 52** (Medium), +2 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -37,7 +37,7 @@ claude mcp add --transport http --scope user paladin-swap https://swap.paladinfi
 
 ## What we checked
 
-- Live endpoint probed by us: 89% of our checks succeeded over 82 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 95% of our checks succeeded over 40 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -46,6 +46,6 @@ claude mcp add --transport http --scope user paladin-swap https://swap.paladinfi
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `paladinfi-swap-mcp`. https://satohub.ai/resources/paladinfi-swap-mcp — retrieved 2026-10-09.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `paladinfi-swap-mcp`. https://satohub.ai/resources/paladinfi-swap-mcp — retrieved 2026-10-10.
 
 [← All layers](../index.md)

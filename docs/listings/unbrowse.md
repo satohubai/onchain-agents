@@ -18,8 +18,8 @@ Sato Score: **⬡ 65** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Solana
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 3 days ago
-- **GitHub stars:** 770
+- **Activity:** Active — last activity today
+- **GitHub stars:** 782
 - **Works with:** CLI, MCP, Agent Skill, TypeScript SDK
 
 ## Deploy spec
@@ -37,7 +37,7 @@ npm i unbrowse
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 82 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 84 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -46,6 +46,6 @@ npm i unbrowse
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `unbrowse`. https://satohub.ai/resources/unbrowse — retrieved 2026-10-09.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `unbrowse`. https://satohub.ai/resources/unbrowse — retrieved 2026-10-10.
 
 [← All layers](../index.md)

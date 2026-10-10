@@ -9,7 +9,7 @@ layout: "default"
 
 npx CLI that scaffolds an ERC-8004 agent project with A2A and MCP servers and optional x402 payments, for EVM chains and Solana.
 
-Sato Score: **⬡ 45** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 47** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -25,6 +25,7 @@ Sato Score: **⬡ 45** (Medium) — a measure of how open, active and verifiable
 - **Activity:** Quiet — last activity 7 months ago
 - **GitHub stars:** 51
 - **Deploys as:** npm, cli
+- **Works with:** A2A, MCP, x402, PayAI, 4mica, OpenAI, Pinata, IPFS, agent0-sdk, Metaplex
 
 ## What we checked
 
@@ -36,6 +37,6 @@ Sato Score: **⬡ 45** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `create-8004-agent`. https://satohub.ai/resources/create-8004-agent — retrieved 2026-10-09.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `create-8004-agent`. https://satohub.ai/resources/create-8004-agent — retrieved 2026-10-10.
 
 [← All layers](../index.md)

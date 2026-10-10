@@ -33,6 +33,6 @@ Sato Score: **⬡ 20** (Low) — a measure of how open, active and verifiable th
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `skyfire`. https://satohub.ai/resources/skyfire — retrieved 2026-10-09.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `skyfire`. https://satohub.ai/resources/skyfire — retrieved 2026-10-10.
 
 [← All layers](../index.md)

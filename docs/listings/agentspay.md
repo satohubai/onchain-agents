@@ -33,6 +33,6 @@ Sato Score: **⬡ 32** (Low) — a measure of how open, active and verifiable th
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `agentspay`. https://satohub.ai/resources/agentspay — retrieved 2026-10-09.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `agentspay`. https://satohub.ai/resources/agentspay — retrieved 2026-10-10.
 
 [← All layers](../index.md)

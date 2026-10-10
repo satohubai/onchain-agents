@@ -36,6 +36,6 @@ Sato Score: **⬡ 74** (High) — a measure of how open, active and verifiable t
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `socket`. https://satohub.ai/resources/socket — retrieved 2026-10-09.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `socket`. https://satohub.ai/resources/socket — retrieved 2026-10-10.
 
 [← All layers](../index.md)

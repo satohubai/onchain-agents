@@ -22,7 +22,7 @@ Sato Score: **⬡ 86** (High), +5 over 7 days — a measure of how open, active 
 - **Creator:** AlgoVault Labs
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 5 days ago
+- **Activity:** Active — last activity 6 days ago
 - **GitHub stars:** 10
 - **Deploys as:** npm
 - **Works with:** Claude Desktop, Claude Code, Cursor, Cline, Codex, Windsurf, Continue.dev, LangChain, LlamaIndex, Microsoft Agent Framework, CrewAI, Binance
@@ -43,7 +43,7 @@ npx -y crypto-quant-signal-mcp
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 87 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 89 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -52,6 +52,6 @@ npx -y crypto-quant-signal-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `algovault-quant-signal-mcp`. https://satohub.ai/resources/algovault-quant-signal-mcp — retrieved 2026-10-09.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `algovault-quant-signal-mcp`. https://satohub.ai/resources/algovault-quant-signal-mcp — retrieved 2026-10-10.
 
 [← All layers](../index.md)

@@ -9,7 +9,7 @@ layout: "default"
 
 Community MCP server for querying Solana transactions in natural language via the Solscan API.
 
-Sato Score: **⬡ 44** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 47** (Medium), +3 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -18,7 +18,7 @@ Sato Score: **⬡ 44** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Solana
 - **Open source:** Yes
 - **Status:** Unknown
-- **Activity:** Dormant — last activity 13 months ago
+- **Activity:** Dormant — last activity 14 months ago
 - **GitHub stars:** 47
 
 ## Deploy spec
@@ -37,7 +37,7 @@ cargo install solscan-mcp
 
 ## What we checked
 
-- Live endpoint probed by us: 46.3% of our checks succeeded over 82 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 40 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -46,6 +46,6 @@ cargo install solscan-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solscan-mcp`. https://satohub.ai/resources/solscan-mcp — retrieved 2026-10-09.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solscan-mcp`. https://satohub.ai/resources/solscan-mcp — retrieved 2026-10-10.
 
 [← All layers](../index.md)

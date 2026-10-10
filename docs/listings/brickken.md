@@ -9,7 +9,7 @@ layout: "default"
 
 Institutional RWA tokenization platform (ISO 27001/27701/27018, MiCA-aligned) with a no-code issuer studio and an API integration tier.
 
-Sato Score: **⬡ 25** (Low), -4 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 28** (Low), +3 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -36,7 +36,7 @@ brickken --version
 
 ## What we checked
 
-- Live endpoint probed by us: 46.3% of our checks succeeded over 82 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 40 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -45,6 +45,6 @@ brickken --version
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `brickken`. https://satohub.ai/resources/brickken — retrieved 2026-10-09.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `brickken`. https://satohub.ai/resources/brickken — retrieved 2026-10-10.
 
 [← All layers](../index.md)

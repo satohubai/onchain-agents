@@ -9,7 +9,7 @@ layout: "default"
 
 Official Crypto APIs MCP suite: hosted endpoint plus per-package servers for balances, blocks, txs, fees, and market data.
 
-Sato Score: **⬡ 73** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 74** (High), +1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -45,7 +45,7 @@ or install all domains: npm install @cryptoapis-io/mcp
 
 ## What we checked
 
-- Live endpoint probed by us: 98.9% of our checks succeeded over 87 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 40 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -54,6 +54,6 @@ or install all domains: npm install @cryptoapis-io/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cryptoapis-mcp`. https://satohub.ai/resources/cryptoapis-mcp — retrieved 2026-10-09.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cryptoapis-mcp`. https://satohub.ai/resources/cryptoapis-mcp — retrieved 2026-10-10.
 
 [← All layers](../index.md)

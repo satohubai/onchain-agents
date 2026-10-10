@@ -15,7 +15,7 @@ Sato Score: **⬡ 70** (High), -9 over 7 days — a measure of how open, active 
 
 - **Category:** Trading Tool
 - **Type:** Tool/Service
-- **Chains:** Hyperliquid, Base, Multichain
+- **Chains:** Hyperliquid, Multichain
 - **Standards:** x402
 - **Interfaces:** ui, rest-api
 - **Use cases:** trading
@@ -26,9 +26,23 @@ Sato Score: **⬡ 70** (High), -9 over 7 days — a measure of how open, active 
 - **Deploys as:** Self-hosted, Docker, Railway, Linux/macOS install script, Build from source
 - **Works with:** Binance, Bybit, OKX, Hyperliquid, Bitget, KuCoin, Gate, Aster, Lighter, DeepSeek, OpenAI, Claude
 
+## Deploy spec
+
+```sh
+curl -fsSL https://raw.githubusercontent.com/NoFxAiOS/nofx/main/install.sh | bash
+```
+
+- **Entry:** Terminal opens at http://127.0.0.1:3000 after install; first account registered becomes the instance owner. Docker alternative: curl -O https://raw.githubusercontent.com/NoFxAiOS/nofx/main/docker-compose.prod.yml && docker compose -f docker-compose.prod.yml up -d
+- **Runtime:** Go backend + web UI (Docker, install script, or from source: Go 1.21+, Node.js 18+)
+- **Requires:** Exchange credentials (Hyperliquid and eight other exchanges) entered in the web UI; README says they are encrypted at rest and stay on your machine (self-reported), An AI model provider key (DeepSeek, OpenAI, Claude, Qwen, Gemini, Grok, Kimi, MiniMax) or Claw402 metered over x402 with a wallet on Base, Autopilot places real orders: README's first run funds an AI fee wallet with $1+ USDC (Base) and a Hyperliquid account with $12+ USDC
+- **License:** AGPL-3.0
+- **MCP native:** no
+- **Deploy status:** self_reported
+- **As of:** 2026-10-09
+
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 16 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 18 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -37,6 +51,6 @@ Sato Score: **⬡ 70** (High), -9 over 7 days — a measure of how open, active 
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `nofx`. https://satohub.ai/resources/nofx — retrieved 2026-10-09.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `nofx`. https://satohub.ai/resources/nofx — retrieved 2026-10-10.
 
 [← All layers](../index.md)
