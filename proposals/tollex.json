@@ -1,0 +1,9 @@
+{
+  "name": "Tollex",
+  "website_url": "https://tollex.org",
+  "github_url": "https://github.com/ShiftAboveCtrl/tollex",
+  "category": "API / SDK",
+  "chains": ["Robinhood Chain", "Base"],
+  "description": "Paid capabilities for software agents on Robinhood Chain mainnet: free planning, per-call x402 v2 payments in USDC on Base or USDG on Robinhood Chain, and an EIP-712 signed receipt for every paid response.",
+  "relationship": "maintainer"
+}
