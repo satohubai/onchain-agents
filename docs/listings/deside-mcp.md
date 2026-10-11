@@ -9,7 +9,7 @@ layout: "default"
 
 MCP server for wallet-to-wallet messaging and agent identity resolution on Solana.
 
-Sato Score: **⬡ 65** (Medium), +10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 65** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -18,7 +18,7 @@ Sato Score: **⬡ 65** (Medium), +10 over 7 days — a measure of how open, acti
 - **Chains:** Solana
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 6 days ago
+- **Activity:** Active — last activity 7 days ago
 - **GitHub stars:** 0
 
 ## Deploy spec
@@ -46,6 +46,6 @@ npm install @desideapp/mcp-sdk
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `deside-mcp`. https://satohub.ai/resources/deside-mcp — retrieved 2026-10-10.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `deside-mcp`. https://satohub.ai/resources/deside-mcp — retrieved 2026-10-11.
 
 [← All layers](../index.md)

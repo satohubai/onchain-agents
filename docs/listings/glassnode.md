@@ -35,6 +35,6 @@ Sato Score: **⬡ 39** (Low), +1 over 7 days — a measure of how open, active a
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `glassnode`. https://satohub.ai/resources/glassnode — retrieved 2026-10-10.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `glassnode`. https://satohub.ai/resources/glassnode — retrieved 2026-10-11.
 
 [← All layers](../index.md)

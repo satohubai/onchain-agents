@@ -9,7 +9,7 @@ layout: "default"
 
 minia2a is a marketplace where agents find and pay for services on Base.
 
-Sato Score: **⬡ 87** (High), +1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 87** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -20,7 +20,7 @@ Sato Score: **⬡ 87** (High), +1 over 7 days — a measure of how open, active 
 - **Interfaces:** mcp, api
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 14 days ago
+- **Activity:** Active — last activity 15 days ago
 - **GitHub stars:** 1
 
 ## What we checked
@@ -34,6 +34,6 @@ Sato Score: **⬡ 87** (High), +1 over 7 days — a measure of how open, active 
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `minia2a`. https://satohub.ai/resources/minia2a — retrieved 2026-10-10.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `minia2a`. https://satohub.ai/resources/minia2a — retrieved 2026-10-11.
 
 [← All layers](../index.md)

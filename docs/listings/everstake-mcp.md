@@ -48,6 +48,6 @@ go run ./cmd/mcp_server
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `everstake-mcp`. https://satohub.ai/resources/everstake-mcp — retrieved 2026-10-10.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `everstake-mcp`. https://satohub.ai/resources/everstake-mcp — retrieved 2026-10-11.
 
 [← All layers](../index.md)

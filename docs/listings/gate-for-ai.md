@@ -22,7 +22,7 @@ Sato Score: **⬡ 51** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Gate.io
 - **Open source:** Yes
 - **Status:** Unknown
-- **Activity:** Quiet — last activity 6 months ago
+- **Activity:** Quiet — last activity 7 months ago
 - **GitHub stars:** 35
 - **Works with:** ChatGPT, Claude, OpenClaw, Cursor, Codex, Claude Code
 
@@ -51,6 +51,6 @@ claude mcp add --transport http gate-for-ai https://api.gatemcp.ai/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `gate-for-ai`. https://satohub.ai/resources/gate-for-ai — retrieved 2026-10-10.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `gate-for-ai`. https://satohub.ai/resources/gate-for-ai — retrieved 2026-10-11.
 
 [← All layers](../index.md)

@@ -51,6 +51,6 @@ curl -fsSL https://raw.githubusercontent.com/NoFxAiOS/nofx/main/install.sh | bas
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `nofx`. https://satohub.ai/resources/nofx — retrieved 2026-10-10.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `nofx`. https://satohub.ai/resources/nofx — retrieved 2026-10-11.
 
 [← All layers](../index.md)

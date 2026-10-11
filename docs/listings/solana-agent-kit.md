@@ -52,6 +52,6 @@ npm install solana-agent-kit
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solana-agent-kit`. https://satohub.ai/resources/solana-agent-kit — retrieved 2026-10-10.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solana-agent-kit`. https://satohub.ai/resources/solana-agent-kit — retrieved 2026-10-11.
 
 [← All layers](../index.md)

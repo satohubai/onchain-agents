@@ -22,20 +22,8 @@ Sato Score: **⬡ 66** (Medium), +1 over 7 days — a measure of how open, activ
 - **Creator:** Amazon Web Services (AWS)
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 6 days ago
+- **Activity:** Active — last activity 7 days ago
 - **GitHub stars:** 3.4k
-
-## Deploy spec
-
-```sh
-npm install -g @aws/agentcore
-pip install -r requirements.txt
-```
-
-- **Entry:** python -m venv .venv
-- **Runtime:** Node.js
-- **Deploy status:** self_reported
-- **As of:** 2026-10-10
 
 ## What we checked
 
@@ -48,6 +36,6 @@ pip install -r requirements.txt
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `aws-agentcore-payments`. https://satohub.ai/resources/aws-agentcore-payments — retrieved 2026-10-10.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `aws-agentcore-payments`. https://satohub.ai/resources/aws-agentcore-payments — retrieved 2026-10-11.
 
 [← All layers](../index.md)

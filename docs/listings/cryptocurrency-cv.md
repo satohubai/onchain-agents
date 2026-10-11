@@ -21,8 +21,8 @@ Sato Score: **⬡ 80** (High), +3 over 7 days — a measure of how open, active 
 - **Creator:** nirholas
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 25 days ago
-- **GitHub stars:** 310
+- **Activity:** Active — last activity 6 days ago
+- **GitHub stars:** 319
 - **Deploys as:** API, Docker, MCP server, npm
 - **Works with:** ChatGPT, Claude, LangChain, Python SDK, TypeScript SDK
 
@@ -52,6 +52,6 @@ docker pull ghcr.io/nirholas/free-crypto-news && docker run -p 3000:3000 ghcr.io
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cryptocurrency-cv`. https://satohub.ai/resources/cryptocurrency-cv — retrieved 2026-10-10.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cryptocurrency-cv`. https://satohub.ai/resources/cryptocurrency-cv — retrieved 2026-10-11.
 
 [← All layers](../index.md)

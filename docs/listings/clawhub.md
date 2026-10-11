@@ -21,7 +21,7 @@ Sato Score: **⬡ 70** (High) — a measure of how open, active and verifiable t
 - **Creator:** openclaw
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 3 days ago
+- **Activity:** Active — last activity 4 days ago
 - **GitHub stars:** 9.5k
 - **Deploys as:** Hosted, CLI
 - **Works with:** OpenClaw
@@ -51,6 +51,6 @@ npm i -g clawhub
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `clawhub`. https://satohub.ai/resources/clawhub — retrieved 2026-10-10.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `clawhub`. https://satohub.ai/resources/clawhub — retrieved 2026-10-11.
 
 [← All layers](../index.md)

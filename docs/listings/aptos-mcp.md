@@ -21,7 +21,7 @@ Sato Score: **⬡ 63** (Medium), -10 over 7 days — a measure of how open, acti
 - **Creator:** Aptos Labs
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Recent — last activity 30 days ago
+- **Activity:** Recent — last activity 1 month ago
 - **GitHub stars:** 13
 - **Deploys as:** npm package (@aptos-labs/aptos-mcp)
 - **Works with:** Cursor, Claude Code, Codex
@@ -51,6 +51,6 @@ claude mcp add -s local aptos-mcp npx -e APTOS_BOT_KEY=<your_bot_api_key> -- -y 
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `aptos-mcp`. https://satohub.ai/resources/aptos-mcp — retrieved 2026-10-10.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `aptos-mcp`. https://satohub.ai/resources/aptos-mcp — retrieved 2026-10-11.
 
 [← All layers](../index.md)

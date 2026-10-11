@@ -21,7 +21,7 @@ Sato Score: **⬡ 83** (High) — a measure of how open, active and verifiable t
 - **Creator:** Almanak
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity today
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 61
 - **Deploys as:** pip, Self-hosted, Hosted
 - **Works with:** Uniswap V3, Uniswap V4, Aave V3, Morpho Blue, GMX V2, Lido, Ethena, Polymarket, Curve, Safe
@@ -53,6 +53,6 @@ pipx install almanak
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `almanak`. https://satohub.ai/resources/almanak — retrieved 2026-10-10.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `almanak`. https://satohub.ai/resources/almanak — retrieved 2026-10-11.
 
 [← All layers](../index.md)

@@ -29,6 +29,6 @@ Sato Score: **⬡ 31** (Low), +3 over 7 days — a measure of how open, active a
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `yo-protocol`. https://satohub.ai/resources/yo-protocol — retrieved 2026-10-10.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `yo-protocol`. https://satohub.ai/resources/yo-protocol — retrieved 2026-10-11.
 
 [← All layers](../index.md)

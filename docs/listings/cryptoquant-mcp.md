@@ -22,7 +22,7 @@ Sato Score: **⬡ 75** (High), +3 over 7 days — a measure of how open, active 
 - **Creator:** CryptoQuant
 - **Open source:** Yes
 - **Status:** Unknown
-- **Activity:** Active — last activity 4 days ago
+- **Activity:** Active — last activity 5 days ago
 - **GitHub stars:** 7
 - **Deploys as:** npm
 - **Works with:** Claude Desktop, Claude Code, Cursor
@@ -53,6 +53,6 @@ npx -y cryptoquant-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cryptoquant-mcp`. https://satohub.ai/resources/cryptoquant-mcp — retrieved 2026-10-10.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cryptoquant-mcp`. https://satohub.ai/resources/cryptoquant-mcp — retrieved 2026-10-11.
 
 [← All layers](../index.md)

@@ -49,6 +49,6 @@ npx circle-agent-stack-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `circle-agent-stack-mcp`. https://satohub.ai/resources/circle-agent-stack-mcp — retrieved 2026-10-10.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `circle-agent-stack-mcp`. https://satohub.ai/resources/circle-agent-stack-mcp — retrieved 2026-10-11.
 
 [← All layers](../index.md)

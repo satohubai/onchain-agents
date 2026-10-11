@@ -37,6 +37,6 @@ Sato Score: **⬡ 56** (Medium), +1 over 7 days — a measure of how open, activ
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `chainlink-for-agents`. https://satohub.ai/resources/chainlink-for-agents — retrieved 2026-10-10.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `chainlink-for-agents`. https://satohub.ai/resources/chainlink-for-agents — retrieved 2026-10-11.
 
 [← All layers](../index.md)

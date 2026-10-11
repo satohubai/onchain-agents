@@ -51,6 +51,6 @@ Add MCP connector with URL https://mcp.vybenetwork.xyz (client authenticates via
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `vybe-solana-mcp`. https://satohub.ai/resources/vybe-solana-mcp — retrieved 2026-10-10.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `vybe-solana-mcp`. https://satohub.ai/resources/vybe-solana-mcp — retrieved 2026-10-11.
 
 [← All layers](../index.md)

@@ -36,6 +36,6 @@ Sato Score: **⬡ 74** (High), +1 over 7 days — a measure of how open, active 
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `epsilon`. https://satohub.ai/resources/epsilon — retrieved 2026-10-10.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `epsilon`. https://satohub.ai/resources/epsilon — retrieved 2026-10-11.
 
 [← All layers](../index.md)

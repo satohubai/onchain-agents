@@ -21,7 +21,7 @@ Sato Score: **⬡ 82** (High), +1 over 7 days — a measure of how open, active 
 - **Use cases:** payments, build
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 5 days ago
+- **Activity:** Active — last activity 6 days ago
 - **GitHub stars:** 6.6k
 
 ## What we checked
@@ -35,6 +35,6 @@ Sato Score: **⬡ 82** (High), +1 over 7 days — a measure of how open, active 
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `clawrouter`. https://satohub.ai/resources/clawrouter — retrieved 2026-10-10.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `clawrouter`. https://satohub.ai/resources/clawrouter — retrieved 2026-10-11.
 
 [← All layers](../index.md)

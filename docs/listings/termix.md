@@ -45,6 +45,6 @@ npm install -g @termix-it/cryptoclaw
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `termix`. https://satohub.ai/resources/termix — retrieved 2026-10-10.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `termix`. https://satohub.ai/resources/termix — retrieved 2026-10-11.
 
 [← All layers](../index.md)

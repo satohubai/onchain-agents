@@ -22,7 +22,7 @@ Sato Score: **⬡ 73** (High), -1 over 7 days — a measure of how open, active 
 - **Creator:** PayRam
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 2 days ago
+- **Activity:** Active — last activity 3 days ago
 - **GitHub stars:** 158
 - **Deploys as:** Hosted API, Self-hosted (Docker/VPS)
 - **Works with:** OpenClaw, Hermes, Claude, Cursor, GitHub Copilot
@@ -52,6 +52,6 @@ yarn install
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `payram-mcp`. https://satohub.ai/resources/payram-mcp — retrieved 2026-10-10.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `payram-mcp`. https://satohub.ai/resources/payram-mcp — retrieved 2026-10-11.
 
 [← All layers](../index.md)

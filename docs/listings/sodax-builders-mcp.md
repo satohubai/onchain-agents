@@ -18,7 +18,7 @@ Sato Score: **⬡ 83** (High), +5 over 7 days — a measure of how open, active 
 - **Chains:** Ethereum, Base, Arbitrum, Optimism, Polygon
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 9 days ago
+- **Activity:** Active — last activity 10 days ago
 - **GitHub stars:** 9
 - **Deploys as:** hosted remote MCP server (streamable HTTP), SSE (legacy), Docker, self-hosted
 - **Works with:** Claude, Cursor, VS Code, Windsurf, ChatGPT, Gemini CLI
@@ -52,6 +52,6 @@ pnpm build
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `sodax-builders-mcp`. https://satohub.ai/resources/sodax-builders-mcp — retrieved 2026-10-10.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `sodax-builders-mcp`. https://satohub.ai/resources/sodax-builders-mcp — retrieved 2026-10-11.
 
 [← All layers](../index.md)

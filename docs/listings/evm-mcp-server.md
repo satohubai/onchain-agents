@@ -9,7 +9,7 @@ layout: "default"
 
 MCP server exposing 22 tools across 60+ EVM chains: balances, contracts, token transfers, ENS, block/tx data.
 
-Sato Score: **⬡ 72** (High), +10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 72** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,7 +22,7 @@ Sato Score: **⬡ 72** (High), +10 over 7 days — a measure of how open, active
 - **Creator:** mcpdotdirect
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 7 days ago
+- **Activity:** Active — last activity 8 days ago
 - **GitHub stars:** 379
 
 ## Deploy spec
@@ -51,6 +51,6 @@ npx @mcpdotdirect/evm-mcp-server
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `evm-mcp-server`. https://satohub.ai/resources/evm-mcp-server — retrieved 2026-10-10.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `evm-mcp-server`. https://satohub.ai/resources/evm-mcp-server — retrieved 2026-10-11.
 
 [← All layers](../index.md)

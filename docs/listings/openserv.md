@@ -21,7 +21,7 @@ Sato Score: **⬡ 71** (High) — a measure of how open, active and verifiable t
 - **Creator:** OpenServ Inc.
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Quiet — last activity 7 months ago
+- **Activity:** Quiet — last activity 8 months ago
 - **GitHub stars:** 137
 - **Deploys as:** npm, Self-hosted, CLI, API
 - **Works with:** OpenAI SDK, Anthropic SDK, LangChain, Eliza, MCP
@@ -52,6 +52,6 @@ npm install @openserv-labs/sdk
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `openserv`. https://satohub.ai/resources/openserv — retrieved 2026-10-10.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `openserv`. https://satohub.ai/resources/openserv — retrieved 2026-10-11.
 
 [← All layers](../index.md)

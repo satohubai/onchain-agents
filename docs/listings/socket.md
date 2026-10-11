@@ -9,7 +9,7 @@ layout: "default"
 
 Dependency and package analysis from Socket, with a CLI and an MCP server that returns package scores to an AI assistant.
 
-Sato Score: **⬡ 74** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 78** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,9 +22,10 @@ Sato Score: **⬡ 74** (High) — a measure of how open, active and verifiable t
 - **Creator:** Socket
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 1 day ago
+- **Activity:** Active — last activity 2 days ago
 - **GitHub stars:** 323
 - **Deploys as:** npm, mcp server, hosted
+- **Works with:** npm, pnpm, yarn, Claude Desktop, GitHub, GitLab, Bitbucket, Jenkins, Azure DevOps, Slack, Jira, Linear
 
 ## What we checked
 
@@ -36,6 +37,6 @@ Sato Score: **⬡ 74** (High) — a measure of how open, active and verifiable t
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `socket`. https://satohub.ai/resources/socket — retrieved 2026-10-10.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `socket`. https://satohub.ai/resources/socket — retrieved 2026-10-11.
 
 [← All layers](../index.md)

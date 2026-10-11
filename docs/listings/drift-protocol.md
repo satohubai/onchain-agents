@@ -9,7 +9,7 @@ layout: "default"
 
 Open-source Solana perpetual futures DEX with TypeScript and Python SDKs and a self-hosted HTTP gateway.
 
-Sato Score: **⬡ 76** (High), -5 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 76** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -52,6 +52,6 @@ npm install @drift-labs/sdk
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `drift-protocol`. https://satohub.ai/resources/drift-protocol — retrieved 2026-10-10.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `drift-protocol`. https://satohub.ai/resources/drift-protocol — retrieved 2026-10-11.
 
 [← All layers](../index.md)

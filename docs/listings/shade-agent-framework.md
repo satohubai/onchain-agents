@@ -20,7 +20,7 @@ Sato Score: **⬡ 76** (High), +1 over 7 days — a measure of how open, active 
 - **Use cases:** build, wallets, security
 - **Open source:** Yes
 - **Status:** Beta
-- **Activity:** Active — last activity 24 days ago
+- **Activity:** Active — last activity 25 days ago
 - **GitHub stars:** 2
 
 ## What we checked
@@ -34,6 +34,6 @@ Sato Score: **⬡ 76** (High), +1 over 7 days — a measure of how open, active 
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `shade-agent-framework`. https://satohub.ai/resources/shade-agent-framework — retrieved 2026-10-10.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `shade-agent-framework`. https://satohub.ai/resources/shade-agent-framework — retrieved 2026-10-11.
 
 [← All layers](../index.md)

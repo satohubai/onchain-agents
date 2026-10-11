@@ -21,7 +21,7 @@ Sato Score: **⬡ 60** (Medium), +1 over 7 days — a measure of how open, activ
 - **Use cases:** data, trading
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 1 day ago
+- **Activity:** Active — last activity 2 days ago
 - **GitHub stars:** 0
 
 ## What we checked
@@ -35,6 +35,6 @@ Sato Score: **⬡ 60** (Medium), +1 over 7 days — a measure of how open, activ
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `madeonsol`. https://satohub.ai/resources/madeonsol — retrieved 2026-10-10.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `madeonsol`. https://satohub.ai/resources/madeonsol — retrieved 2026-10-11.
 
 [← All layers](../index.md)

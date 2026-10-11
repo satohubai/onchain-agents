@@ -9,7 +9,7 @@ layout: "default"
 
 Plugin-based monorepo MCP: EVM+Solana wallets, DEX aggregation, x402 payments, CEX trading, market data, bridges.
 
-Sato Score: **⬡ 61** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 71** (High), +10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,8 +22,8 @@ Sato Score: **⬡ 61** (Medium) — a measure of how open, active and verifiable
 - **Creator:** nirholas
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Recent — last activity 2 months ago
-- **GitHub stars:** 39
+- **Activity:** Active — last activity today
+- **GitHub stars:** 42
 
 ## Deploy spec
 
@@ -54,6 +54,6 @@ npm install
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `universal-crypto-mcp`. https://satohub.ai/resources/universal-crypto-mcp — retrieved 2026-10-10.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `universal-crypto-mcp`. https://satohub.ai/resources/universal-crypto-mcp — retrieved 2026-10-11.
 
 [← All layers](../index.md)

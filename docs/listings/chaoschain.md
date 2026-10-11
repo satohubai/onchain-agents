@@ -9,7 +9,7 @@ layout: "default"
 
 Protocol and SDKs (Python, TypeScript) for agents that register an ERC-8004 identity and record their work for reputation, with x402 payments.
 
-Sato Score: **⬡ 52** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 54** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -25,6 +25,7 @@ Sato Score: **⬡ 52** (Medium) — a measure of how open, active and verifiable
 - **Activity:** Quiet — last activity 6 months ago
 - **GitHub stars:** 25
 - **Deploys as:** npm, pip
+- **Works with:** ERC-8004, x402, XMTP, Arweave, IPFS, 4Mica, Circle Gateway
 
 ## What we checked
 
@@ -36,6 +37,6 @@ Sato Score: **⬡ 52** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `chaoschain`. https://satohub.ai/resources/chaoschain — retrieved 2026-10-10.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `chaoschain`. https://satohub.ai/resources/chaoschain — retrieved 2026-10-11.
 
 [← All layers](../index.md)
