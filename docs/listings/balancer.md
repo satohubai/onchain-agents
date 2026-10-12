@@ -21,7 +21,7 @@ Sato Score: **⬡ 44** (Medium), +3 over 7 days — a measure of how open, activ
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 40 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 41 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -30,6 +30,6 @@ Sato Score: **⬡ 44** (Medium), +3 over 7 days — a measure of how open, activ
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `balancer`. https://satohub.ai/resources/balancer — retrieved 2026-10-11.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `balancer`. https://satohub.ai/resources/balancer — retrieved 2026-10-12.
 
 [← All layers](../index.md)

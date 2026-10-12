@@ -21,7 +21,7 @@ Sato Score: **⬡ 61** (Medium) — a measure of how open, active and verifiable
 - **Creator:** codeswithroh
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 11 days ago
+- **Activity:** Active — last activity today
 - **GitHub stars:** 0
 - **Works with:** GitHub, GitHub Actions, Arc, USDC
 
@@ -35,6 +35,6 @@ Sato Score: **⬡ 61** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `mergepay`. https://satohub.ai/resources/mergepay — retrieved 2026-10-11.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `mergepay`. https://satohub.ai/resources/mergepay — retrieved 2026-10-12.
 
 [← All layers](../index.md)

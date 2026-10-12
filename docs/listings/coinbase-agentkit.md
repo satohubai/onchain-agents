@@ -22,7 +22,7 @@ Sato Score: **⬡ 81** (High), -7 over 7 days — a measure of how open, active 
 - **Creator:** Coinbase
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Recent — last activity 1 day ago
+- **Activity:** Recent — last activity 3 days ago
 - **GitHub stars:** 1.3k
 - **Deploys as:** npm, pip, Self-hosted
 - **Works with:** LangChain, Vercel AI SDK, MCP, AutoGen, OpenAI Agents SDK, Pydantic AI, Strands Agents, Privy, Viem
@@ -44,7 +44,7 @@ npm create onchain-agent@latest
 ## What we checked
 
 - Install reproduced in an isolated container on 2026-09-21.
-- Live endpoint probed by us: 100% of our checks succeeded over 40 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 41 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -53,6 +53,6 @@ npm create onchain-agent@latest
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `coinbase-agentkit`. https://satohub.ai/resources/coinbase-agentkit — retrieved 2026-10-11.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `coinbase-agentkit`. https://satohub.ai/resources/coinbase-agentkit — retrieved 2026-10-12.
 
 [← All layers](../index.md)

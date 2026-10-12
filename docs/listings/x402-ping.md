@@ -18,7 +18,7 @@ Sato Score: **⬡ 69** (Medium) — a measure of how open, active and verifiable
 - **Standards:** x402
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 15 days ago
+- **Activity:** Active — last activity 16 days ago
 - **GitHub stars:** 0
 - **Deploys as:** Cloudflare Workers, Deno Deploy, Local Deno
 
@@ -32,6 +32,6 @@ Sato Score: **⬡ 69** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `x402-ping`. https://satohub.ai/resources/x402-ping — retrieved 2026-10-11.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `x402-ping`. https://satohub.ai/resources/x402-ping — retrieved 2026-10-12.
 
 [← All layers](../index.md)
