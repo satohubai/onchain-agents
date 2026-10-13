@@ -9,7 +9,7 @@ layout: "default"
 
 Official Polygon Labs CLI giving AI agents session-scoped wallets, x402 payments, and ERC-8004 identity in one install.
 
-Sato Score: **⬡ 59** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 69** (Medium), +10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -18,7 +18,7 @@ Sato Score: **⬡ 59** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Polygon
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Recent — last activity 2 months ago
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 29
 
 ## Deploy spec
@@ -38,7 +38,7 @@ npx @polygonlabs/agent-cli --help
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 85 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 86 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -47,6 +47,6 @@ npx @polygonlabs/agent-cli --help
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `polygon-agent-cli`. https://satohub.ai/resources/polygon-agent-cli — retrieved 2026-10-12.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `polygon-agent-cli`. https://satohub.ai/resources/polygon-agent-cli — retrieved 2026-10-13.
 
 [← All layers](../index.md)

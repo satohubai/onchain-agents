@@ -30,9 +30,9 @@
     "web3",
     "dataset"
   ],
-  "dateModified": "2026-10-12",
+  "dateModified": "2026-10-13",
   "temporalCoverage": "2026-06-11/..",
-  "version": "2026-10-12",
+  "version": "2026-10-13",
   "identifier": "https://doi.org/10.5281/zenodo.22803661",
   "distribution": [
     {

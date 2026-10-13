@@ -23,7 +23,7 @@ Sato Score: **⬡ 60** (Medium) — a measure of how open, active and verifiable
 - **Open source:** Yes
 - **Status:** Active
 - **Activity:** Quiet — last activity 3 months ago
-- **GitHub stars:** 223
+- **GitHub stars:** 229
 - **Deploys as:** npm/npx (CLI and MCP packages), meta-installer (bitget-agent-installer)
 - **Works with:** Claude Code, Claude Desktop, Cursor, Codex, ChatGPT, OpenClaw, Windsurf, Continue
 
@@ -53,6 +53,6 @@ npx -y @bitget-ai/bitget-agent-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bitget-agent-hub`. https://satohub.ai/resources/bitget-agent-hub — retrieved 2026-10-12.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bitget-agent-hub`. https://satohub.ai/resources/bitget-agent-hub — retrieved 2026-10-13.
 
 [← All layers](../index.md)

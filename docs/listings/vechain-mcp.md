@@ -21,7 +21,7 @@ Sato Score: **⬡ 81** (High) — a measure of how open, active and verifiable t
 - **Creator:** VeChain
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 29 days ago
+- **Activity:** Recent — last activity 30 days ago
 - **GitHub stars:** 5
 - **Deploys as:** npm install, or Docker (docker pull ghcr.io/vechain/vechain-mcp-server)
 - **Works with:** Claude Desktop, Cursor, Claude Code
@@ -51,6 +51,6 @@ npx -y @vechain/mcp-server@latest
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `vechain-mcp`. https://satohub.ai/resources/vechain-mcp — retrieved 2026-10-12.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `vechain-mcp`. https://satohub.ai/resources/vechain-mcp — retrieved 2026-10-13.
 
 [← All layers](../index.md)

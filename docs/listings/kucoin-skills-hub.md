@@ -21,7 +21,7 @@ Sato Score: **⬡ 49** (Medium) — a measure of how open, active and verifiable
 - **Creator:** KuCoin
 - **Open source:** Yes
 - **Status:** Unknown
-- **Activity:** Quiet — last activity 6 months ago
+- **Activity:** Quiet — last activity 7 months ago
 - **GitHub stars:** 28
 - **Deploys as:** npx (skills CLI install)
 
@@ -50,6 +50,6 @@ npx skills add https://github.com/Kucoin/kucoin-skills-hub --full-depth
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `kucoin-skills-hub`. https://satohub.ai/resources/kucoin-skills-hub — retrieved 2026-10-12.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `kucoin-skills-hub`. https://satohub.ai/resources/kucoin-skills-hub — retrieved 2026-10-13.
 
 [← All layers](../index.md)

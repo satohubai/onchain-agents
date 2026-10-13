@@ -22,7 +22,7 @@ Sato Score: **⬡ 64** (Medium) — a measure of how open, active and verifiable
 - **Creator:** RootstockLabs
 - **Open source:** Yes
 - **Status:** Unknown
-- **Activity:** Recent — last activity 2 months ago
+- **Activity:** Quiet — last activity 3 months ago
 - **GitHub stars:** 3
 - **Deploys as:** npm
 - **Works with:** Cursor, Claude Desktop
@@ -53,6 +53,6 @@ npx -y @rsksmart/rsk-mcp-server
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `rootstock-mcp`. https://satohub.ai/resources/rootstock-mcp — retrieved 2026-10-12.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `rootstock-mcp`. https://satohub.ai/resources/rootstock-mcp — retrieved 2026-10-13.
 
 [← All layers](../index.md)

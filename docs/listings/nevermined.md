@@ -22,7 +22,7 @@ Sato Score: **⬡ 70** (High) — a measure of how open, active and verifiable t
 - **Creator:** Nevermined
 - **Open source:** Yes
 - **Status:** Unknown
-- **Activity:** Active — last activity 21 days ago
+- **Activity:** Active — last activity 22 days ago
 - **GitHub stars:** 18
 - **Deploys as:** npm
 - **Works with:** A2A, x402, Stripe, LangChain, LangSmith, MCP
@@ -37,6 +37,6 @@ Sato Score: **⬡ 70** (High) — a measure of how open, active and verifiable t
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `nevermined`. https://satohub.ai/resources/nevermined — retrieved 2026-10-12.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `nevermined`. https://satohub.ai/resources/nevermined — retrieved 2026-10-13.
 
 [← All layers](../index.md)

@@ -21,7 +21,7 @@ Sato Score: **⬡ 87** (High), +4 over 7 days — a measure of how open, active 
 - **Use cases:** trading, data
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 4 days ago
+- **Activity:** Active — last activity 2 days ago
 - **GitHub stars:** 9.4k
 - **Deploys as:** Self-hosted, Hosted, MCP server
 - **Works with:** Claude, ChatGPT
@@ -37,6 +37,6 @@ Sato Score: **⬡ 87** (High), +4 over 7 days — a measure of how open, active 
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `model-context-protocol`. https://satohub.ai/resources/model-context-protocol — retrieved 2026-10-12.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `model-context-protocol`. https://satohub.ai/resources/model-context-protocol — retrieved 2026-10-13.
 
 [← All layers](../index.md)

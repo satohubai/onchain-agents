@@ -22,7 +22,7 @@ Sato Score: **⬡ 59** (Medium), +3 over 7 days — a measure of how open, activ
 - **Creator:** dRPC
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Quiet — last activity 5 months ago
+- **Activity:** Quiet — last activity 6 months ago
 - **GitHub stars:** 17
 - **Deploys as:** Agent skills package (install via git clone or per-client extension install)
 - **Works with:** Claude Code, Gemini CLI, Cursor, Codex, Pi Agent, Windsurf, Cline, OpenClaw
@@ -44,7 +44,7 @@ claude plugins install drpc-agent-skills
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 41 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 42 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -53,6 +53,6 @@ claude plugins install drpc-agent-skills
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `drpc-agent-skills`. https://satohub.ai/resources/drpc-agent-skills — retrieved 2026-10-12.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `drpc-agent-skills`. https://satohub.ai/resources/drpc-agent-skills — retrieved 2026-10-13.
 
 [← All layers](../index.md)

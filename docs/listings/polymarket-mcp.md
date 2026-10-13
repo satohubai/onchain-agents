@@ -22,7 +22,7 @@ Sato Score: **⬡ 69** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Caio Vicentino
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 22 days ago
+- **Activity:** Active — last activity 23 days ago
 - **GitHub stars:** 689
 - **Works with:** Claude, Claude Desktop, Polymarket CLOB API, Polymarket Gamma API
 
@@ -54,6 +54,6 @@ pip install -e .
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `polymarket-mcp`. https://satohub.ai/resources/polymarket-mcp — retrieved 2026-10-12.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `polymarket-mcp`. https://satohub.ai/resources/polymarket-mcp — retrieved 2026-10-13.
 
 [← All layers](../index.md)

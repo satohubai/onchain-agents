@@ -9,7 +9,7 @@ layout: "default"
 
 MCP server from SlowMist exposing MistTrack address risk scoring and fund-flow tracing to AI agents.
 
-Sato Score: **⬡ 70** (High), +7 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 70** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -43,7 +43,7 @@ export MISTTRACK_API_KEY=YOUR_MISTTRACK_API_KEY && npx -y misttrack@latest
 ## What we checked
 
 - Install reproduced in an isolated container on 2026-07-21.
-- Live endpoint probed by us: 100% of our checks succeeded over 85 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 86 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -52,6 +52,6 @@ export MISTTRACK_API_KEY=YOUR_MISTTRACK_API_KEY && npx -y misttrack@latest
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `misttrack-mcp`. https://satohub.ai/resources/misttrack-mcp — retrieved 2026-10-12.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `misttrack-mcp`. https://satohub.ai/resources/misttrack-mcp — retrieved 2026-10-13.
 
 [← All layers](../index.md)

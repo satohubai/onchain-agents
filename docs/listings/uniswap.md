@@ -52,6 +52,6 @@ npx skills add Uniswap/uniswap-ai
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `uniswap`. https://satohub.ai/resources/uniswap — retrieved 2026-10-12.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `uniswap`. https://satohub.ai/resources/uniswap — retrieved 2026-10-13.
 
 [← All layers](../index.md)

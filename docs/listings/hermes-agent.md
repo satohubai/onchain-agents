@@ -22,7 +22,7 @@ Sato Score: **⬡ 92** (High) — a measure of how open, active and verifiable t
 - **Creator:** Nous Research
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity today
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 252.9k
 - **Deploys as:** Self-hosted, Docker
 - **Works with:** Telegram, Discord, Slack, WhatsApp, Signal, MCP, OpenRouter, OpenAI
@@ -54,6 +54,6 @@ pip install hermes-agent   # PyPI (Python 3.11–3.13)
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `hermes-agent`. https://satohub.ai/resources/hermes-agent — retrieved 2026-10-12.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `hermes-agent`. https://satohub.ai/resources/hermes-agent — retrieved 2026-10-13.
 
 [← All layers](../index.md)
