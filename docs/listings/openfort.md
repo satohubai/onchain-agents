@@ -36,6 +36,6 @@ Sato Score: **⬡ 67** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `openfort`. https://satohub.ai/resources/openfort — retrieved 2026-10-13.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `openfort`. https://satohub.ai/resources/openfort — retrieved 2026-10-14.
 
 [← All layers](../index.md)

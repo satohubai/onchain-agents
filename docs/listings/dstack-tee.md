@@ -1,0 +1,36 @@
+---
+title: "dstack — Sato Hub index"
+description: "Open-source runtime for running apps and agents in confidential VMs, with attested deployment, key release policy and an RA-TLS gateway."
+canonical: "https://satohub.ai/resources/dstack-tee"
+layout: "default"
+---
+
+# dstack
+
+Open-source runtime for running apps and agents in confidential VMs, with attested deployment, key release policy and an RA-TLS gateway.
+
+Sato Score: not scored (non-product listing) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+
+## Facts
+
+- **Category:** Developer Tool
+- **Type:** Infrastructure
+- **Interfaces:** cli, sdk
+- **Use cases:** privacy, security, build
+- **Creator:** Dstack-TEE
+- **Open source:** Yes
+- **Status:** Active
+
+## What we checked
+
+- Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
+
+## Links
+
+[Website](https://dstack.org) · [Docs](https://dstack.org) · [GitHub](https://github.com/Dstack-TEE/dstack) · [Sato Hub page ↗](https://satohub.ai/resources/dstack-tee?utm_source=github&utm_medium=index&utm_campaign=onchain-agents)
+
+## Cite
+
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `dstack-tee`. https://satohub.ai/resources/dstack-tee — retrieved 2026-10-14.
+
+[← All layers](../index.md)

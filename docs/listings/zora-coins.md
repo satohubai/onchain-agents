@@ -1,0 +1,37 @@
+---
+title: "Zora Coins — Sato Hub index"
+description: "Protocol and SDK for creating and trading ERC-20 coins on Base, with a public REST API and a skill file for AI agents."
+canonical: "https://satohub.ai/resources/zora-coins"
+layout: "default"
+---
+
+# Zora Coins
+
+Protocol and SDK for creating and trading ERC-20 coins on Base, with a public REST API and a skill file for AI agents.
+
+Sato Score: not scored (non-product listing) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+
+## Facts
+
+- **Category:** Agent Launchpad
+- **Type:** Venue
+- **Chains:** Base
+- **Interfaces:** sdk, rest-api, contract, plugin
+- **Use cases:** launch, build
+- **Creator:** Zora
+- **Open source:** Yes
+- **Status:** Active
+
+## What we checked
+
+- Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
+
+## Links
+
+[Website](https://docs.zora.co/coins) · [Docs](https://docs.zora.co/coins) · [GitHub](https://github.com/ourzora/zora-protocol) · [Sato Hub page ↗](https://satohub.ai/resources/zora-coins?utm_source=github&utm_medium=index&utm_campaign=onchain-agents)
+
+## Cite
+
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `zora-coins`. https://satohub.ai/resources/zora-coins — retrieved 2026-10-14.
+
+[← All layers](../index.md)

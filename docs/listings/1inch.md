@@ -22,7 +22,7 @@ Sato Score: **⬡ 77** (High), +2 over 7 days — a measure of how open, active 
 - **Creator:** 1inch Network
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 4 days ago
+- **Activity:** Active — last activity 5 days ago
 - **GitHub stars:** 60
 - **Deploys as:** API, SDK
 
@@ -50,6 +50,6 @@ claude mcp add --transport http --header "Authorization: Bearer YOUR_API_KEY" --
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `1inch`. https://satohub.ai/resources/1inch — retrieved 2026-10-13.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `1inch`. https://satohub.ai/resources/1inch — retrieved 2026-10-14.
 
 [← All layers](../index.md)

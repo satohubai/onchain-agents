@@ -37,6 +37,6 @@ Sato Score: **⬡ 70** (High) — a measure of how open, active and verifiable t
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `nevermined`. https://satohub.ai/resources/nevermined — retrieved 2026-10-13.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `nevermined`. https://satohub.ai/resources/nevermined — retrieved 2026-10-14.
 
 [← All layers](../index.md)

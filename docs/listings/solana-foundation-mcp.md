@@ -9,7 +9,7 @@ layout: "default"
 
 Solana Foundation's official MCP serving live developer docs, semantic search, and a program autofixer.
 
-Sato Score: **⬡ 69** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 70** (High), +1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -50,6 +50,6 @@ claude mcp add --transport http solana-mcp https://mcp.solana.com/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solana-foundation-mcp`. https://satohub.ai/resources/solana-foundation-mcp — retrieved 2026-10-13.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solana-foundation-mcp`. https://satohub.ai/resources/solana-foundation-mcp — retrieved 2026-10-14.
 
 [← All layers](../index.md)

@@ -1,0 +1,36 @@
+---
+title: "Lagrange DeepProve — Sato Hub index"
+description: "Rust framework that produces zero-knowledge proofs of neural network inference, including LLM forward passes."
+canonical: "https://satohub.ai/resources/lagrange-deepprove"
+layout: "default"
+---
+
+# Lagrange DeepProve
+
+Rust framework that produces zero-knowledge proofs of neural network inference, including LLM forward passes.
+
+Sato Score: not scored (non-product listing) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+
+## Facts
+
+- **Category:** Developer Tool
+- **Type:** Infrastructure
+- **Interfaces:** cli
+- **Use cases:** security, build
+- **Creator:** Lagrange Labs
+- **Open source:** Partial
+- **Status:** Unknown
+
+## What we checked
+
+- Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
+
+## Links
+
+[Website](https://lagrange.dev) · [GitHub](https://github.com/Lagrange-Labs/deep-prove) · [Sato Hub page ↗](https://satohub.ai/resources/lagrange-deepprove?utm_source=github&utm_medium=index&utm_campaign=onchain-agents)
+
+## Cite
+
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lagrange-deepprove`. https://satohub.ai/resources/lagrange-deepprove — retrieved 2026-10-14.
+
+[← All layers](../index.md)

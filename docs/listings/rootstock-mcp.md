@@ -9,7 +9,7 @@ layout: "default"
 
 Official Rootstock MCP: wallets, RBTC/ERC-20 balances and transfers, tx status, and contract deployment.
 
-Sato Score: **⬡ 64** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 59** (Medium), -5 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -53,6 +53,6 @@ npx -y @rsksmart/rsk-mcp-server
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `rootstock-mcp`. https://satohub.ai/resources/rootstock-mcp — retrieved 2026-10-13.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `rootstock-mcp`. https://satohub.ai/resources/rootstock-mcp — retrieved 2026-10-14.
 
 [← All layers](../index.md)
