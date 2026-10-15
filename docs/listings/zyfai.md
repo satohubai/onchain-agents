@@ -9,7 +9,7 @@ layout: "default"
 
 Self-custodial DeFi yield agents that rebalance Safe-based accounts across supported protocols, with an SDK and a hosted MCP server.
 
-Sato Score: not scored (non-product listing) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 25** (Low) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -32,6 +32,6 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `zyfai`. https://satohub.ai/resources/zyfai — retrieved 2026-10-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `zyfai`. https://satohub.ai/resources/zyfai — retrieved 2026-10-15.
 
 [← All layers](../index.md)

@@ -18,7 +18,7 @@ Sato Score: **⬡ 37** (Low) — a measure of how open, active and verifiable th
 - **Chains:** Hyperliquid
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Quiet — last activity 6 months ago
+- **Activity:** Quiet — last activity 7 months ago
 - **GitHub stars:** 0
 - **Deploys as:** hosted API, self-hosted
 
@@ -41,7 +41,7 @@ npm run dev
 
 ## What we checked
 
-- Live endpoint probed by us: 0% of our checks succeeded over 43 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 0% of our checks succeeded over 44 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -50,6 +50,6 @@ npm run dev
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `purple-flea-trading`. https://satohub.ai/resources/purple-flea-trading — retrieved 2026-10-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `purple-flea-trading`. https://satohub.ai/resources/purple-flea-trading — retrieved 2026-10-15.
 
 [← All layers](../index.md)

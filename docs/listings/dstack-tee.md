@@ -9,7 +9,7 @@ layout: "default"
 
 Open-source runtime for running apps and agents in confidential VMs, with attested deployment, key release policy and an RA-TLS gateway.
 
-Sato Score: not scored (non-product listing) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 67** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -20,6 +20,8 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 - **Creator:** Dstack-TEE
 - **Open source:** Yes
 - **Status:** Active
+- **Activity:** Active — last activity 1 day ago
+- **GitHub stars:** 561
 
 ## What we checked
 
@@ -31,6 +33,6 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `dstack-tee`. https://satohub.ai/resources/dstack-tee — retrieved 2026-10-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `dstack-tee`. https://satohub.ai/resources/dstack-tee — retrieved 2026-10-15.
 
 [← All layers](../index.md)

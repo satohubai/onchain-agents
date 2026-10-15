@@ -9,7 +9,7 @@ layout: "default"
 
 Solana coin launchpad with bonding-curve trading, PumpSwap pools and public docs and SDKs for creating and trading coins from code.
 
-Sato Score: not scored (non-product listing) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 50** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,6 +21,8 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 - **Creator:** Pump.fun
 - **Open source:** Unknown
 - **Status:** Active
+- **Activity:** Recent — last activity 1 month ago
+- **GitHub stars:** 454
 
 ## What we checked
 
@@ -32,6 +34,6 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `pump-fun`. https://satohub.ai/resources/pump-fun — retrieved 2026-10-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `pump-fun`. https://satohub.ai/resources/pump-fun — retrieved 2026-10-15.
 
 [← All layers](../index.md)

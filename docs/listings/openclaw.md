@@ -22,7 +22,7 @@ Sato Score: **⬡ 92** (High) — a measure of how open, active and verifiable t
 - **Open source:** Yes
 - **Status:** Active
 - **Activity:** Active — last activity today
-- **GitHub stars:** 391.6k
+- **GitHub stars:** 391.9k
 - **Deploys as:** Self-hosted, npm, Docker, MCP server
 - **Works with:** Telegram, Slack, Discord, WhatsApp, Signal, iMessage, Matrix, Microsoft Teams, MCP, OpenAI
 
@@ -52,6 +52,6 @@ npm install -g openclaw@latest
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `openclaw`. https://satohub.ai/resources/openclaw — retrieved 2026-10-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `openclaw`. https://satohub.ai/resources/openclaw — retrieved 2026-10-15.
 
 [← All layers](../index.md)

@@ -9,7 +9,7 @@ layout: "default"
 
 A blockchain developer platform providing node infrastructure plus NFT, Token, and Transfers APIs and SDKs across many chains.
 
-Sato Score: **⬡ 68** (Medium), -15 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 68** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -50,6 +50,6 @@ npm install @alchemy/wallet-apis viem
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `alchemy`. https://satohub.ai/resources/alchemy — retrieved 2026-10-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `alchemy`. https://satohub.ai/resources/alchemy — retrieved 2026-10-15.
 
 [← All layers](../index.md)

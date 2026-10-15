@@ -9,7 +9,7 @@ layout: "default"
 
 Rust framework that produces zero-knowledge proofs of neural network inference, including LLM forward passes.
 
-Sato Score: not scored (non-product listing) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 43** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -20,6 +20,8 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 - **Creator:** Lagrange Labs
 - **Open source:** Partial
 - **Status:** Unknown
+- **Activity:** Dormant — last activity 12 months ago
+- **GitHub stars:** 3.4k
 
 ## What we checked
 
@@ -31,6 +33,6 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lagrange-deepprove`. https://satohub.ai/resources/lagrange-deepprove — retrieved 2026-10-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lagrange-deepprove`. https://satohub.ai/resources/lagrange-deepprove — retrieved 2026-10-15.
 
 [← All layers](../index.md)

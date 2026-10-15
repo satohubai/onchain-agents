@@ -9,7 +9,7 @@ layout: "default"
 
 Launchpad and protocol for creating and tokenizing AI agents, primarily on Base.
 
-Sato Score: **⬡ 65** (Medium), -13 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 65** (Medium), -5 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -20,7 +20,7 @@ Sato Score: **⬡ 65** (Medium), -13 over 7 days — a measure of how open, acti
 - **Use cases:** trading, launch
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Quiet — last activity 2 days ago
+- **Activity:** Quiet — last activity 3 days ago
 - **GitHub stars:** 96
 - **Deploys as:** Hosted
 - **Works with:** Uniswap V2, Agent Commerce Protocol (ACP)
@@ -51,6 +51,6 @@ npm install @virtuals-protocol/game
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `virtuals-protocol`. https://satohub.ai/resources/virtuals-protocol — retrieved 2026-10-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `virtuals-protocol`. https://satohub.ai/resources/virtuals-protocol — retrieved 2026-10-15.
 
 [← All layers](../index.md)

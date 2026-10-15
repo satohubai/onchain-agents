@@ -9,7 +9,7 @@ layout: "default"
 
 Crossmint's open-source library of onchain actions (tools) for AI agents across chains.
 
-Sato Score: **⬡ 72** (High), -15 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 72** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,7 +21,7 @@ Sato Score: **⬡ 72** (High), -15 over 7 days — a measure of how open, active
 - **Creator:** GOAT SDK
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Quiet — last activity 6 days ago
+- **Activity:** Quiet — last activity today
 - **GitHub stars:** 1.0k
 - **Deploys as:** npm, pip, MCP server
 - **Works with:** Vercel AI, LangChain, LlamaIndex, Model Context Protocol, CrewAI, ElevenLabs, Crossmint, Safe, 1inch, CoinGecko, 0x
@@ -52,6 +52,6 @@ npm install @goat-sdk/core  # + per-plugin, e.g. @goat-sdk/plugin-uniswap
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `goat-sdk`. https://satohub.ai/resources/goat-sdk — retrieved 2026-10-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `goat-sdk`. https://satohub.ai/resources/goat-sdk — retrieved 2026-10-15.
 
 [← All layers](../index.md)

@@ -9,7 +9,7 @@ layout: "default"
 
 Skill collection for EmblemAI agents — 200+ crypto tools across seven blockchains.
 
-Sato Score: **⬡ 64** (Medium), -7 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 70** (High), -1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,7 +22,7 @@ Sato Score: **⬡ 64** (Medium), -7 over 7 days — a measure of how open, activ
 - **Creator:** EmblemAI
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Quiet — last activity 4 months ago
+- **Activity:** Quiet — last activity 5 months ago
 - **GitHub stars:** 12
 - **Deploys as:** npm CLI, MCP server (hosted), A2A agent
 - **Works with:** Claude Code, Cursor, Codex, GitHub Copilot, Gemini CLI, ElizaOS, Windsurf
@@ -46,7 +46,7 @@ claude mcp add --transport http EmblemAI https://emblemvault.ai/api/mcp
 ## What we checked
 
 - Install reproduced in an isolated container on 2026-09-21.
-- Live endpoint probed by us: 100% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 98.9% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -55,6 +55,6 @@ claude mcp add --transport http EmblemAI https://emblemvault.ai/api/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `emblem-agent-skills`. https://satohub.ai/resources/emblem-agent-skills — retrieved 2026-10-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `emblem-agent-skills`. https://satohub.ai/resources/emblem-agent-skills — retrieved 2026-10-15.
 
 [← All layers](../index.md)

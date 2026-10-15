@@ -19,7 +19,7 @@ Sato Score: **⬡ 47** (Medium), +3 over 7 days — a measure of how open, activ
 - **Open source:** Yes
 - **Status:** Unknown
 - **Activity:** Dormant — last activity 14 months ago
-- **GitHub stars:** 47
+- **GitHub stars:** 48
 
 ## Deploy spec
 
@@ -37,7 +37,7 @@ cargo install solscan-mcp
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 43 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 44 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -46,6 +46,6 @@ cargo install solscan-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solscan-mcp`. https://satohub.ai/resources/solscan-mcp — retrieved 2026-10-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solscan-mcp`. https://satohub.ai/resources/solscan-mcp — retrieved 2026-10-15.
 
 [← All layers](../index.md)

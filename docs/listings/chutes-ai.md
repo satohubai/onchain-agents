@@ -9,7 +9,7 @@ layout: "default"
 
 Serverless platform to deploy and call open-source AI models through an OpenAI-style API, run as Bittensor Subnet 64.
 
-Sato Score: not scored (non-product listing) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 53** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -20,6 +20,8 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 - **Creator:** Chutes
 - **Open source:** Partial
 - **Status:** Active
+- **Activity:** Recent — last activity 2 months ago
+- **GitHub stars:** 90
 
 ## What we checked
 
@@ -31,6 +33,6 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `chutes-ai`. https://satohub.ai/resources/chutes-ai — retrieved 2026-10-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `chutes-ai`. https://satohub.ai/resources/chutes-ai — retrieved 2026-10-15.
 
 [← All layers](../index.md)

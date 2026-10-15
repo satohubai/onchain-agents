@@ -20,12 +20,12 @@ Sato Score: **⬡ 76** (High) — a measure of how open, active and verifiable t
 - **Use cases:** build, wallets, security
 - **Open source:** Yes
 - **Status:** Beta
-- **Activity:** Active — last activity 28 days ago
+- **Activity:** Active — last activity 29 days ago
 - **GitHub stars:** 2
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 21 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 22 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -34,6 +34,6 @@ Sato Score: **⬡ 76** (High) — a measure of how open, active and verifiable t
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `shade-agent-framework`. https://satohub.ai/resources/shade-agent-framework — retrieved 2026-10-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `shade-agent-framework`. https://satohub.ai/resources/shade-agent-framework — retrieved 2026-10-15.
 
 [← All layers](../index.md)

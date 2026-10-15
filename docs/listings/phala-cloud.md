@@ -9,7 +9,7 @@ layout: "default"
 
 Cloud for running agents, private LLM inference and GPU jobs inside TEE confidential VMs, with CLI, SDK and attestation tooling.
 
-Sato Score: not scored (non-product listing) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 63** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -20,6 +20,8 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 - **Creator:** Phala Network
 - **Open source:** Partial
 - **Status:** Active
+- **Activity:** Active — last activity 15 days ago
+- **GitHub stars:** 32
 - **Deploys as:** Hosted TEE VM, CLI
 
 ## What we checked
@@ -32,6 +34,6 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `phala-cloud`. https://satohub.ai/resources/phala-cloud — retrieved 2026-10-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `phala-cloud`. https://satohub.ai/resources/phala-cloud — retrieved 2026-10-15.
 
 [← All layers](../index.md)

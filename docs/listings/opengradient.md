@@ -9,7 +9,7 @@ layout: "default"
 
 Network and Python SDK for verifiable AI inference, a model hub and LLM calls paid through x402.
 
-Sato Score: not scored (non-product listing) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 63** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,6 +21,8 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 - **Creator:** OpenGradient
 - **Open source:** Partial
 - **Status:** Beta
+- **Activity:** Active — last activity 24 days ago
+- **GitHub stars:** 98
 
 ## What we checked
 
@@ -32,6 +34,6 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `opengradient`. https://satohub.ai/resources/opengradient — retrieved 2026-10-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `opengradient`. https://satohub.ai/resources/opengradient — retrieved 2026-10-15.
 
 [← All layers](../index.md)

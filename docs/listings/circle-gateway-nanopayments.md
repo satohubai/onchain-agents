@@ -9,7 +9,7 @@ layout: "default"
 
 Circle Gateway batched settlement for gas-free USDC payments down to 0.000001 USDC, with buyer and seller SDKs for x402.
 
-Sato Score: not scored (non-product listing) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 43** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -34,6 +34,6 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `circle-gateway-nanopayments`. https://satohub.ai/resources/circle-gateway-nanopayments — retrieved 2026-10-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `circle-gateway-nanopayments`. https://satohub.ai/resources/circle-gateway-nanopayments — retrieved 2026-10-15.
 
 [← All layers](../index.md)

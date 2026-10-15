@@ -9,7 +9,7 @@ layout: "default"
 
 Leading multichain spot DEX with v4 hooks, official SDKs, and a hosted Trading API.
 
-Sato Score: **⬡ 83** (High), +3 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 83** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -52,6 +52,6 @@ npx skills add Uniswap/uniswap-ai
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `uniswap`. https://satohub.ai/resources/uniswap — retrieved 2026-10-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `uniswap`. https://satohub.ai/resources/uniswap — retrieved 2026-10-15.
 
 [← All layers](../index.md)

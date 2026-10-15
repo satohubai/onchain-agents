@@ -9,7 +9,7 @@ layout: "default"
 
 Official Machine Payments Protocol catalog of payment-enabled services, with a web directory, JSON API and read-only MCP server.
 
-Sato Score: not scored (non-product listing) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 73** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,6 +21,8 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 - **Creator:** MPP
 - **Open source:** Partial
 - **Status:** Active
+- **Activity:** Active — last activity today
+- **GitHub stars:** 185
 
 ## What we checked
 
@@ -32,6 +34,6 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `mpp-services-directory`. https://satohub.ai/resources/mpp-services-directory — retrieved 2026-10-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `mpp-services-directory`. https://satohub.ai/resources/mpp-services-directory — retrieved 2026-10-15.
 
 [← All layers](../index.md)

@@ -9,7 +9,7 @@ layout: "default"
 
 Public-good Solana program for attaching verifiable off-chain claims to onchain accounts, with TypeScript and Rust clients.
 
-Sato Score: not scored (non-product listing) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 66** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,6 +21,8 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 - **Creator:** Solana Foundation
 - **Open source:** Yes
 - **Status:** Active
+- **Activity:** Active — last activity 9 days ago
+- **GitHub stars:** 75
 
 ## What we checked
 
@@ -32,6 +34,6 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solana-attestation-service`. https://satohub.ai/resources/solana-attestation-service — retrieved 2026-10-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solana-attestation-service`. https://satohub.ai/resources/solana-attestation-service — retrieved 2026-10-15.
 
 [← All layers](../index.md)

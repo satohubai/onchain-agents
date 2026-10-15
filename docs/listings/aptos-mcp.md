@@ -9,7 +9,7 @@ layout: "default"
 
 Official Aptos MCP server: Move dev guidance, Geomi project automation, and sponsored-transaction setup.
 
-Sato Score: **⬡ 63** (Medium), -10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 63** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -51,6 +51,6 @@ claude mcp add -s local aptos-mcp npx -e APTOS_BOT_KEY=<your_bot_api_key> -- -y 
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `aptos-mcp`. https://satohub.ai/resources/aptos-mcp — retrieved 2026-10-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `aptos-mcp`. https://satohub.ai/resources/aptos-mcp — retrieved 2026-10-15.
 
 [← All layers](../index.md)

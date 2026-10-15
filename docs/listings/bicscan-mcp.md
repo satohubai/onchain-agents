@@ -22,8 +22,8 @@ Sato Score: **⬡ 61** (Medium) — a measure of how open, active and verifiable
 - **Creator:** AhnLab
 - **Open source:** Yes
 - **Status:** Unknown
-- **Activity:** Quiet — last activity 7 months ago
-- **GitHub stars:** 17
+- **Activity:** Quiet — last activity 8 months ago
+- **GitHub stars:** 16
 - **Deploys as:** uv/uvx (stdio), Docker, Hosted API (SSE)
 - **Works with:** Claude Desktop, Cursor
 
@@ -54,6 +54,6 @@ uv sync
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bicscan-mcp`. https://satohub.ai/resources/bicscan-mcp — retrieved 2026-10-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bicscan-mcp`. https://satohub.ai/resources/bicscan-mcp — retrieved 2026-10-15.
 
 [← All layers](../index.md)

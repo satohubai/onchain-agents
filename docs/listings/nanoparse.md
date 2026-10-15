@@ -9,7 +9,7 @@ layout: "default"
 
 NanoParse is an MCP server on Base.
 
-Sato Score: **⬡ 79** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 89** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -20,8 +20,10 @@ Sato Score: **⬡ 79** (High) — a measure of how open, active and verifiable t
 - **Interfaces:** mcp, api
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 3 days ago
+- **Activity:** Active — last activity 4 days ago
 - **GitHub stars:** 0
+- **Deploys as:** hosted
+- **Works with:** Claude, Cursor, Hermes, Windsurf, x402, Coinbase Payments MCP
 
 ## What we checked
 
@@ -33,6 +35,6 @@ Sato Score: **⬡ 79** (High) — a measure of how open, active and verifiable t
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `nanoparse`. https://satohub.ai/resources/nanoparse — retrieved 2026-10-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `nanoparse`. https://satohub.ai/resources/nanoparse — retrieved 2026-10-15.
 
 [← All layers](../index.md)

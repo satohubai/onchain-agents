@@ -9,7 +9,7 @@ layout: "default"
 
 Community Python MCP for TradingView-style screening: 30+ technical-analysis tools across Binance, KuCoin, Bybit, and more.
 
-Sato Score: **⬡ 64** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 74** (High), +10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,8 +21,8 @@ Sato Score: **⬡ 64** (Medium) — a measure of how open, active and verifiable
 - **Use cases:** trading, data
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Recent — last activity 1 month ago
-- **GitHub stars:** 4.9k
+- **Activity:** Active — last activity 1 day ago
+- **GitHub stars:** 5.1k
 - **Deploys as:** Hosted, self-hosted
 - **Works with:** Claude, ChatGPT, Cursor, Copilot, OpenClaw
 
@@ -51,6 +51,6 @@ pip install tradingview-mcp-server
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `tradingview-mcp`. https://satohub.ai/resources/tradingview-mcp — retrieved 2026-10-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `tradingview-mcp`. https://satohub.ai/resources/tradingview-mcp — retrieved 2026-10-15.
 
 [← All layers](../index.md)

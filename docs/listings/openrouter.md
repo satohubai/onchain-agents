@@ -9,7 +9,7 @@ layout: "default"
 
 One OpenAI-compatible API for many LLMs with routing, fallbacks and cost tracking across providers.
 
-Sato Score: not scored (non-product listing) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 64** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -20,6 +20,8 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 - **Creator:** OpenRouter
 - **Open source:** Partial
 - **Status:** Active
+- **Activity:** Active — last activity 26 days ago
+- **GitHub stars:** 690
 
 ## What we checked
 
@@ -31,6 +33,6 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `openrouter`. https://satohub.ai/resources/openrouter — retrieved 2026-10-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `openrouter`. https://satohub.ai/resources/openrouter — retrieved 2026-10-15.
 
 [← All layers](../index.md)

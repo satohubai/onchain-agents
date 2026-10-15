@@ -9,7 +9,7 @@ layout: "default"
 
 Decentralized spot and perpetual exchange on Arbitrum and Avalanche with an official SDK and REST API.
 
-Sato Score: **⬡ 73** (High), +4 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 73** (High), +1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -20,7 +20,7 @@ Sato Score: **⬡ 73** (High), +4 over 7 days — a measure of how open, active 
 - **Use cases:** trading, data, security, build
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 5 days ago
+- **Activity:** Active — last activity 6 days ago
 - **GitHub stars:** 232
 
 ## Deploy spec
@@ -48,6 +48,6 @@ npx skills add gmx-io/gmx-ai
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `gmx`. https://satohub.ai/resources/gmx — retrieved 2026-10-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `gmx`. https://satohub.ai/resources/gmx — retrieved 2026-10-15.
 
 [← All layers](../index.md)

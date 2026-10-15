@@ -9,7 +9,7 @@ layout: "default"
 
 OpenAI-compatible AI inference service running open models on Akash Network decentralized compute.
 
-Sato Score: not scored (non-product listing) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 26** (Low) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -31,6 +31,6 @@ Sato Score: not scored (non-product listing) — a measure of how open, active a
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `akashml`. https://satohub.ai/resources/akashml — retrieved 2026-10-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `akashml`. https://satohub.ai/resources/akashml — retrieved 2026-10-15.
 
 [← All layers](../index.md)

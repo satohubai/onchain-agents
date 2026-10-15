@@ -54,6 +54,6 @@ claude mcp add blockrun -s user -- npx -y @blockrun/mcp@latest
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `blockrun-mcp`. https://satohub.ai/resources/blockrun-mcp — retrieved 2026-10-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `blockrun-mcp`. https://satohub.ai/resources/blockrun-mcp — retrieved 2026-10-15.
 
 [← All layers](../index.md)

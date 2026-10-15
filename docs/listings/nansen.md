@@ -9,7 +9,7 @@ layout: "default"
 
 Onchain analytics platform with wallet labeling and smart-money tracking, offering an API with key-based and x402 access.
 
-Sato Score: **⬡ 74** (High), +27 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 74** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,7 +22,7 @@ Sato Score: **⬡ 74** (High), +27 over 7 days — a measure of how open, active
 - **Creator:** Nansen
 - **Open source:** No
 - **Status:** Active
-- **Activity:** Active — last activity 5 days ago
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 139
 - **Deploys as:** API, MCP server, npm
 - **Works with:** MCP, REST API, CLI, x402
@@ -52,6 +52,6 @@ npm install -g nansen-cli
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `nansen`. https://satohub.ai/resources/nansen — retrieved 2026-10-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `nansen`. https://satohub.ai/resources/nansen — retrieved 2026-10-15.
 
 [← All layers](../index.md)

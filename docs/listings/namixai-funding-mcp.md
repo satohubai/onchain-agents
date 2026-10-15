@@ -9,7 +9,7 @@ layout: "default"
 
 MCP server for perp funding rates and cross-exchange data across 20+ venues, including Hyperliquid HIP-3.
 
-Sato Score: **⬡ 53** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 59** (Medium), +6 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -18,8 +18,8 @@ Sato Score: **⬡ 53** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Base, Hyperliquid
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Quiet — last activity 3 months ago
-- **GitHub stars:** 0
+- **Activity:** Recent — last activity 1 month ago
+- **GitHub stars:** 2
 
 ## Deploy spec
 
@@ -38,7 +38,7 @@ npx -y @usenami/funding-mcp
 ## What we checked
 
 - Install reproduced in an isolated container on 2026-09-07.
-- Live endpoint probed by us: 100% of our checks succeeded over 87 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 88 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -47,6 +47,6 @@ npx -y @usenami/funding-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `namixai-funding-mcp`. https://satohub.ai/resources/namixai-funding-mcp — retrieved 2026-10-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `namixai-funding-mcp`. https://satohub.ai/resources/namixai-funding-mcp — retrieved 2026-10-15.
 
 [← All layers](../index.md)

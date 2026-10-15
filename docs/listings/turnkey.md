@@ -9,7 +9,7 @@ layout: "default"
 
 Secure key management infrastructure with policy controls, commonly used for agent wallets.
 
-Sato Score: **⬡ 86** (High), +3 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 86** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,7 +21,7 @@ Sato Score: **⬡ 86** (High), +3 over 7 days — a measure of how open, active 
 - **Creator:** Turnkey
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 1 day ago
+- **Activity:** Active — last activity 2 days ago
 - **GitHub stars:** 102
 - **Deploys as:** API, SDK
 - **Works with:** TypeScript SDK, React SDK, React Native SDK, REST API
@@ -51,6 +51,6 @@ npm install @turnkey/sdk-server
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `turnkey`. https://satohub.ai/resources/turnkey — retrieved 2026-10-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `turnkey`. https://satohub.ai/resources/turnkey — retrieved 2026-10-15.
 
 [← All layers](../index.md)

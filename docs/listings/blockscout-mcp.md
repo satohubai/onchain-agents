@@ -23,7 +23,7 @@ Sato Score: **⬡ 80** (High) — a measure of how open, active and verifiable t
 - **Open source:** Unknown
 - **Status:** Active
 - **Activity:** Recent — last activity 1 month ago
-- **GitHub stars:** 45
+- **GitHub stars:** 46
 - **Deploys as:** Docker, Hosted API (Streamable HTTP at mcp.blockscout.com), MCP Bundle (MCPB)
 - **Works with:** Claude Desktop, Claude Code, Cursor, ChatGPT Apps, Codex, Codex CLI
 
@@ -54,6 +54,6 @@ docker pull ghcr.io/blockscout/mcp-server:latest
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `blockscout-mcp`. https://satohub.ai/resources/blockscout-mcp — retrieved 2026-10-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `blockscout-mcp`. https://satohub.ai/resources/blockscout-mcp — retrieved 2026-10-15.
 
 [← All layers](../index.md)

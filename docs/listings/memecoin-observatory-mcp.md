@@ -22,7 +22,7 @@ Sato Score: **⬡ 67** (Medium), +15 over 7 days — a measure of how open, acti
 - **Creator:** tony-42069
 - **Open source:** Yes
 - **Status:** Unknown
-- **Activity:** Active — last activity 1 day ago
+- **Activity:** Active — last activity 2 days ago
 - **GitHub stars:** 33
 - **Deploys as:** Local (self-hosted)
 - **Works with:** Claude Desktop
@@ -55,6 +55,6 @@ cp .env.example .env
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `memecoin-observatory-mcp`. https://satohub.ai/resources/memecoin-observatory-mcp — retrieved 2026-10-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `memecoin-observatory-mcp`. https://satohub.ai/resources/memecoin-observatory-mcp — retrieved 2026-10-15.
 
 [← All layers](../index.md)
