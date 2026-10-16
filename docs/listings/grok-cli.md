@@ -9,7 +9,7 @@ layout: "default"
 
 Open-source terminal coding agent for the xAI Grok API — community-built, not affiliated with xAI.
 
-Sato Score: **⬡ 50** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 58** (Medium), +8 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -34,11 +34,12 @@ npm install -g @vibe-kit/grok-cli   # binary: grok
 - **Requires:** A Grok API key from x.ai (GROK_API_KEY)
 - **License:** MIT
 - **MCP native:** no
-- **Deploy status:** unknown
-- **As of:** 2026-09-14
+- **Deploy status:** verified
+- **As of:** 2026-10-15
 
 ## What we checked
 
+- Install reproduced in an isolated container on 2026-10-15.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -47,6 +48,6 @@ npm install -g @vibe-kit/grok-cli   # binary: grok
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `grok-cli`. https://satohub.ai/resources/grok-cli — retrieved 2026-10-15.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `grok-cli`. https://satohub.ai/resources/grok-cli — retrieved 2026-10-16.
 
 [← All layers](../index.md)

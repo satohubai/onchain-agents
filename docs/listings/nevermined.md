@@ -9,7 +9,7 @@ layout: "default"
 
 TypeScript SDK to put a payment plan in front of an agent: credit or time-based plans, x402 access tokens, and A2A and MCP integrations.
 
-Sato Score: **⬡ 70** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 70** (High), +3 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,7 +22,7 @@ Sato Score: **⬡ 70** (High) — a measure of how open, active and verifiable t
 - **Creator:** Nevermined
 - **Open source:** Yes
 - **Status:** Unknown
-- **Activity:** Active — last activity 23 days ago
+- **Activity:** Active — last activity 24 days ago
 - **GitHub stars:** 18
 - **Deploys as:** npm
 - **Works with:** A2A, x402, Stripe, LangChain, LangSmith, MCP
@@ -37,6 +37,6 @@ Sato Score: **⬡ 70** (High) — a measure of how open, active and verifiable t
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `nevermined`. https://satohub.ai/resources/nevermined — retrieved 2026-10-15.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `nevermined`. https://satohub.ai/resources/nevermined — retrieved 2026-10-16.
 
 [← All layers](../index.md)

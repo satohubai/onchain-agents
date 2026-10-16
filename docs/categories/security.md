@@ -9,17 +9,17 @@ layout: "default"
 
 Checks you run before an agent installs, connects, signs or trades: contract and token screening, endpoint checks, monitoring.
 
-**17 listings**, ordered by Sato Score — a 0–100 measure of how open, active and verifiable a project is, [not a safety or returns grade](../sato-score.md). Rendered 2026-10-15 from the public Sato Hub export.
+**17 listings**, ordered by Sato Score — a 0–100 measure of how open, active and verifiable a project is, [not a safety or returns grade](../sato-score.md). Rendered 2026-10-16 from the public Sato Hub export.
 
 | Name | What it is | Chains | ⬡ Score | Last activity | Links |
 |---|---|---|---|---|---|
-| [PulseFeed](https://github.com/Nikolife2016/pulsefeed-x402) | PulseFeed checks an x402 endpoint before an agent pays it (liveness, a 0-100 score, receiver and… | Base | 83 | 1 day ago | [satohub.ai](https://satohub.ai/resources/pulsefeed?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/pulsefeed.md) |
-| [Agent Skills Hub](https://github.com/agent-skills-hub/agent-skills-hub) | A registry of AI agent skills that applies automated source-code scanning and assigns security… | — | 81 | 13 days ago | [satohub.ai](https://satohub.ai/resources/agent-skills-hub?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/agent-skills-hub.md) |
-| [Self Protocol](https://github.com/selfxyz/self) | Open-source zero-knowledge identity protocol (passport-based proof of personhood) used to gate… | Multichain | 80 | 30 days ago | [satohub.ai](https://satohub.ai/resources/self-protocol?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/self-protocol.md) |
-| [GoPlus AgentGuard](https://github.com/GoPlusSecurity/agentguard) | MIT-licensed runtime guard for AI coding agents: hook-level action blocking, a 24-rule skill… | — | 78 | 7 days ago | [satohub.ai](https://satohub.ai/resources/goplus-agentguard?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/goplus-agentguard.md) |
-| [Socket](https://github.com/SocketDev/socket-cli) | Dependency and package analysis from Socket, with a CLI and an MCP server that returns package… | — | 78 | 2 days ago | [satohub.ai](https://satohub.ai/resources/socket?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/socket.md) |
+| [PulseFeed](https://github.com/Nikolife2016/pulsefeed-x402) | PulseFeed checks an x402 endpoint before an agent pays it (liveness, a 0-100 score, receiver and… | Base | 83 | 2 days ago | [satohub.ai](https://satohub.ai/resources/pulsefeed?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/pulsefeed.md) |
+| [Agent Skills Hub](https://github.com/agent-skills-hub/agent-skills-hub) | A registry of AI agent skills that applies automated source-code scanning and assigns security… | — | 81 | 14 days ago | [satohub.ai](https://satohub.ai/resources/agent-skills-hub?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/agent-skills-hub.md) |
+| [GoPlus AgentGuard](https://github.com/GoPlusSecurity/agentguard) | MIT-licensed runtime guard for AI coding agents: hook-level action blocking, a 24-rule skill… | — | 78 | today | [satohub.ai](https://satohub.ai/resources/goplus-agentguard?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/goplus-agentguard.md) |
+| [Socket](https://github.com/SocketDev/socket-cli) | Dependency and package analysis from Socket, with a CLI and an MCP server that returns package… | — | 78 | 1 day ago | [satohub.ai](https://satohub.ai/resources/socket?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/socket.md) |
+| [Self Protocol](https://github.com/selfxyz/self) | Open-source zero-knowledge identity protocol (passport-based proof of personhood) used to gate… | Multichain | 70 | 1 month ago | [satohub.ai](https://satohub.ai/resources/self-protocol?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/self-protocol.md) |
 | [MistTrack MCP](https://github.com/slowmist/MistTrackMCP) | MCP server from SlowMist exposing MistTrack address risk scoring and fund-flow tracing to AI agents. | Ethereum, Bitcoin, Polygon +2 | 70 | 5 months ago | [satohub.ai](https://satohub.ai/resources/misttrack-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/misttrack-mcp.md) |
-| [COTI](https://github.com/coti-io/coti-contracts) | Privacy infrastructure that gives MCP-compatible agents private wallets, encrypted messaging, and… | COTI, Ethereum | 68 | 1 day ago | [satohub.ai](https://satohub.ai/resources/coti?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/coti.md) |
+| [COTI](https://github.com/coti-io/coti-contracts) | Privacy infrastructure that gives MCP-compatible agents private wallets, encrypted messaging, and… | COTI, Ethereum | 68 | 2 days ago | [satohub.ai](https://satohub.ai/resources/coti?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/coti.md) |
 | [PRXVT](https://github.com/prxvt) | Open-source privacy SDK that adds unlinkable, zero-knowledge payments on top of the x402 agent… | Ethereum, Base, Polygon | 68 | — | [satohub.ai](https://satohub.ai/resources/prxvt?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/prxvt.md) |
 | [ChainAware](https://github.com/ChainAware/behavioral-prediction-mcp) | Pre-built MCP blockchain capability modules giving agents fraud detection, AML scoring, wallet… | Polygon, Ethereum, BNB Chain +4 | 67 | 2 months ago | [satohub.ai](https://satohub.ai/resources/chainaware?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/chainaware.md) |
 | [Usenami Signer MCP](https://github.com/namixai/signer-mcp) | MCP server that signs CEX/DEX orders inside an attested AWS Nitro Enclave so keys never touch the… | — | 61 | 14 days ago | [satohub.ai](https://satohub.ai/resources/namixai-signer-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) · [detail](../listings/namixai-signer-mcp.md) |
@@ -36,8 +36,8 @@ Checks you run before an agent installs, connects, signs or trades: contract and
 Where a project publishes one, as recorded in its deploy spec:
 
 - **Agent Skills Hub** — `npx agent-skills-hub`
-- **Self Protocol** — `npm install @selfxyz/enterprise-sdk`
 - **GoPlus AgentGuard** — `npm install -g @goplus/agentguard`
+- **Self Protocol** — `npm install @selfxyz/enterprise-sdk`
 - **MistTrack MCP** — `npx -y misttrack@latest --key YOUR_MISTTRACK_API_KEY`
 - **COTI** — `npm install @coti-io/coti-sdk-typescript`
 - **PRXVT** — `npm install @prxvt/sdk`

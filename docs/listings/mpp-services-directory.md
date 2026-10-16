@@ -21,8 +21,8 @@ Sato Score: **⬡ 73** (High) — a measure of how open, active and verifiable t
 - **Creator:** MPP
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity today
-- **GitHub stars:** 185
+- **Activity:** Active — last activity 1 day ago
+- **GitHub stars:** 186
 
 ## What we checked
 
@@ -34,6 +34,6 @@ Sato Score: **⬡ 73** (High) — a measure of how open, active and verifiable t
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `mpp-services-directory`. https://satohub.ai/resources/mpp-services-directory — retrieved 2026-10-15.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `mpp-services-directory`. https://satohub.ai/resources/mpp-services-directory — retrieved 2026-10-16.
 
 [← All layers](../index.md)

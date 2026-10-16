@@ -9,7 +9,7 @@ layout: "default"
 
 Trading API for the Kalshi exchange with REST, WebSocket and FIX access to event contracts and perpetual futures, plus a demo environment.
 
-Sato Score: **⬡ 33** (Low) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 41** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,6 +21,7 @@ Sato Score: **⬡ 33** (Low) — a measure of how open, active and verifiable th
 - **Open source:** No
 - **Status:** Active
 - **Deploys as:** API
+- **Works with:** REST, WebSocket, FIX, OpenAPI, AsyncAPI
 
 ## What we checked
 
@@ -32,6 +33,6 @@ Sato Score: **⬡ 33** (Low) — a measure of how open, active and verifiable th
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `kalshi-api`. https://satohub.ai/resources/kalshi-api — retrieved 2026-10-15.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `kalshi-api`. https://satohub.ai/resources/kalshi-api — retrieved 2026-10-16.
 
 [← All layers](../index.md)

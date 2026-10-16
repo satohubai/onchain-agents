@@ -9,7 +9,7 @@ layout: "default"
 
 Community MCP server with on-chain tools for AI applications to interact with the Linea blockchain.
 
-Sato Score: **⬡ 51** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 59** (Medium), +8 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -38,12 +38,13 @@ cp .env.example .env
 - **Requires:** LINEA_MAINNET_RPC_URL (default https://rpc.linea.build), LINEA_TESTNET_RPC_URL (default https://rpc.sepolia.linea.build), INFURA_API_KEY (optional), ALCHEMY_API_KEY (optional), WALLET_PRIVATE_KEY (risk: sensitive credential, controls funds), PRIVATE_KEY_ENCRYPTION_KEY, ETHEREUM_RPC_URL / ETHEREUM_TESTNET_RPC_URL (bridge operations)
 - **License:** MIT
 - **MCP native:** yes
-- **Deploy status:** unknown
-- **As of:** 2026-09-14
+- **Deploy status:** verified
+- **As of:** 2026-10-15
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
+- Install reproduced in an isolated container on 2026-10-15.
+- Live endpoint probed by us: 100% of our checks succeeded over 91 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -52,6 +53,6 @@ cp .env.example .env
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `linea-mcp`. https://satohub.ai/resources/linea-mcp — retrieved 2026-10-15.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `linea-mcp`. https://satohub.ai/resources/linea-mcp — retrieved 2026-10-16.
 
 [← All layers](../index.md)

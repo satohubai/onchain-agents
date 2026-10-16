@@ -9,7 +9,7 @@ layout: "default"
 
 MCP server for Ultrade's order-book DEX — wallet, market, and order tools for AI trading agents.
 
-Sato Score: **⬡ 46** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 54** (Medium), +8 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -35,12 +35,13 @@ npm run build
 - **Requires:** ALGORAND_NETWORK, ALGORAND_ALGOD_API, ALGORAND_ALGOD, ALGORAND_ALGOD_PORT, ALGORAND_TOKEN, ALGORAND_AGENT_WALLET_ACTIVE (wallet key/mnemonic — full signing custody; treat as a hot-wallet risk), ULTRADE_API_URL, ITEMS_PER_PAGE
 - **License:** MIT
 - **MCP native:** yes
-- **Deploy status:** unknown
-- **As of:** 2026-09-14
+- **Deploy status:** verified
+- **As of:** 2026-10-15
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 88 days. That is a success rate of our checks, not the project's uptime.
+- Install reproduced in an isolated container on 2026-10-15.
+- Live endpoint probed by us: 100% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -49,6 +50,6 @@ npm run build
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ultrade-mcp`. https://satohub.ai/resources/ultrade-mcp — retrieved 2026-10-15.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ultrade-mcp`. https://satohub.ai/resources/ultrade-mcp — retrieved 2026-10-16.
 
 [← All layers](../index.md)

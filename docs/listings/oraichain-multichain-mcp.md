@@ -9,7 +9,7 @@ layout: "default"
 
 CosmJS-based MCP toolkit for wallet queries, transactions, and contract deployment on Oraichain and Cosmos chains.
 
-Sato Score: **⬡ 51** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 59** (Medium), +8 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -37,12 +37,13 @@ pnpm build
 - **Requires:** RPC_URL — chain RPC endpoint, defaults to https://rpc.orai.io, PORT — local dev server port, default 4000, README lists wallet configuration for supported networks as a prerequisite but does not document a specific private-key env var — treat as an unresolved risk if the deployer wires in a signing key
 - **License:** GPL-3.0
 - **MCP native:** yes
-- **Deploy status:** unknown
-- **As of:** 2026-09-14
+- **Deploy status:** verified
+- **As of:** 2026-10-15
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 88 days. That is a success rate of our checks, not the project's uptime.
+- Install reproduced in an isolated container on 2026-10-15.
+- Live endpoint probed by us: 100% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -51,6 +52,6 @@ pnpm build
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `oraichain-multichain-mcp`. https://satohub.ai/resources/oraichain-multichain-mcp — retrieved 2026-10-15.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `oraichain-multichain-mcp`. https://satohub.ai/resources/oraichain-multichain-mcp — retrieved 2026-10-16.
 
 [← All layers](../index.md)

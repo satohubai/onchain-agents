@@ -19,7 +19,7 @@ Sato Score: **⬡ 53** (Medium) — a measure of how open, active and verifiable
 - **Open source:** Yes
 - **Status:** Active
 - **Activity:** Recent — last activity 2 months ago
-- **GitHub stars:** 11
+- **GitHub stars:** 10
 - **Deploys as:** CLI, npm package, MCP proxy, Node.js library
 
 ## Deploy spec
@@ -38,7 +38,7 @@ npx x402-proxy setup
 
 ## What we checked
 
-- Live endpoint probed by us: 98.9% of our checks succeeded over 88 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 98.9% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -47,6 +47,6 @@ npx x402-proxy setup
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `x402-proxy-cascade`. https://satohub.ai/resources/x402-proxy-cascade — retrieved 2026-10-15.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `x402-proxy-cascade`. https://satohub.ai/resources/x402-proxy-cascade — retrieved 2026-10-16.
 
 [← All layers](../index.md)

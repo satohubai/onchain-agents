@@ -40,11 +40,11 @@ npm install -g defi-trading-mcp
 - **License:** MIT
 - **MCP native:** yes
 - **Deploy status:** verified
-- **As of:** 2026-09-21
+- **As of:** 2026-10-15
 
 ## What we checked
 
-- Install reproduced in an isolated container on 2026-09-21.
+- Install reproduced in an isolated container on 2026-10-15.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -53,6 +53,6 @@ npm install -g defi-trading-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `defi-trading-mcp`. https://satohub.ai/resources/defi-trading-mcp — retrieved 2026-10-15.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `defi-trading-mcp`. https://satohub.ai/resources/defi-trading-mcp — retrieved 2026-10-16.
 
 [← All layers](../index.md)

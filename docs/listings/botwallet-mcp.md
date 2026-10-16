@@ -9,7 +9,7 @@ layout: "default"
 
 Non-custodial wallet MCP for AI agents to invoice, get paid, and spend on other agents/APIs, with human-set limits.
 
-Sato Score: **⬡ 64** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 72** (High), +8 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -18,7 +18,7 @@ Sato Score: **⬡ 64** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Solana
 - **Open source:** Partial
 - **Status:** Early
-- **Activity:** Active — last activity 9 days ago
+- **Activity:** Active — last activity 10 days ago
 - **GitHub stars:** 4
 - **Works with:** Claude Desktop, Cursor, Windsurf, Cline, x402 protocol
 
@@ -33,12 +33,13 @@ npm install -g @botwallet/mcp
 - **Requires:** BOTWALLET_API_KEY (optional), BOTWALLET_WALLET (optional — selects wallet if multiple), BOTWALLET_BASE_URL (optional, default https://api.botwallet.co/v1), Note: FROST 2-of-2 key shares are stored locally in ~/.botwallet/seeds/ — custody risk if that directory is exposed
 - **License:** Apache-2.0
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** verified
+- **As of:** 2026-10-15
 
 ## What we checked
 
-- Live endpoint probed by us: 90.9% of our checks succeeded over 88 days. That is a success rate of our checks, not the project's uptime.
+- Install reproduced in an isolated container on 2026-10-15.
+- Live endpoint probed by us: 91.1% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -47,6 +48,6 @@ npm install -g @botwallet/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `botwallet-mcp`. https://satohub.ai/resources/botwallet-mcp — retrieved 2026-10-15.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `botwallet-mcp`. https://satohub.ai/resources/botwallet-mcp — retrieved 2026-10-16.
 
 [← All layers](../index.md)

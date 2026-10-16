@@ -9,7 +9,7 @@ layout: "default"
 
 Developer MCP tools for AI crypto agents on BNB Chain: DeFi trading, DEX swaps, and contract deployment.
 
-Sato Score: **⬡ 84** (High), +3 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 74** (High), -7 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,7 +22,7 @@ Sato Score: **⬡ 84** (High), +3 over 7 days — a measure of how open, active 
 - **Creator:** nirholas
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Recent — last activity 30 days ago
+- **Activity:** Recent — last activity 1 month ago
 - **GitHub stars:** 34
 - **Deploys as:** MCP server, npx (stdio), HTTP mode, SSE mode
 - **Works with:** Claude Desktop, Cursor, VS Code, ChatGPT
@@ -39,12 +39,12 @@ npx -y @nirholas/bnbchain-mcp@latest
 - **License:** Apache-2.0
 - **MCP native:** yes
 - **Deploy status:** verified
-- **As of:** 2026-09-21
+- **As of:** 2026-10-15
 
 ## What we checked
 
-- Install reproduced in an isolated container on 2026-09-21.
-- Live endpoint probed by us: 100% of our checks succeeded over 44 days. That is a success rate of our checks, not the project's uptime.
+- Install reproduced in an isolated container on 2026-10-15.
+- Live endpoint probed by us: 100% of our checks succeeded over 46 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -53,6 +53,6 @@ npx -y @nirholas/bnbchain-mcp@latest
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bnbchain-mcp`. https://satohub.ai/resources/bnbchain-mcp — retrieved 2026-10-15.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bnbchain-mcp`. https://satohub.ai/resources/bnbchain-mcp — retrieved 2026-10-16.
 
 [← All layers](../index.md)
