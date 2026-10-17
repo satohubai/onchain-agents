@@ -23,7 +23,7 @@ Sato Score: **⬡ 54** (Medium) — a measure of how open, active and verifiable
 - **Status:** Active
 - **Activity:** Recent — last activity 1 month ago
 - **Deploys as:** npm
-- **Works with:** Claude Code, Cursor, Codex
+- **Works with:** Claude Code, Cursor, Codex, OpenClaw
 
 ## Deploy spec
 
@@ -49,6 +49,6 @@ git clone https://github.com/MetaMask/skills ~/dev/metamask/skills
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `metamask-skills`. https://satohub.ai/resources/metamask-skills — retrieved 2026-10-16.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `metamask-skills`. https://satohub.ai/resources/metamask-skills — retrieved 2026-10-17.
 
 [← All layers](../index.md)

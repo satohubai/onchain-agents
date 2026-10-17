@@ -21,7 +21,7 @@ Sato Score: **⬡ 63** (Medium) — a measure of how open, active and verifiable
 - **Creator:** OpenGradient
 - **Open source:** Partial
 - **Status:** Beta
-- **Activity:** Active — last activity 25 days ago
+- **Activity:** Active — last activity 26 days ago
 - **GitHub stars:** 98
 
 ## What we checked
@@ -34,6 +34,6 @@ Sato Score: **⬡ 63** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `opengradient`. https://satohub.ai/resources/opengradient — retrieved 2026-10-16.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `opengradient`. https://satohub.ai/resources/opengradient — retrieved 2026-10-17.
 
 [← All layers](../index.md)

@@ -9,7 +9,7 @@ layout: "default"
 
 TypeScript and Python SDKs to register an agent on ERC-8004, publish its MCP and A2A endpoints, and search for or give feedback on other agents.
 
-Sato Score: **⬡ 48** (Medium), +3 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 48** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -37,6 +37,6 @@ Sato Score: **⬡ 48** (Medium), +3 over 7 days — a measure of how open, activ
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `agent0-sdk`. https://satohub.ai/resources/agent0-sdk — retrieved 2026-10-16.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `agent0-sdk`. https://satohub.ai/resources/agent0-sdk — retrieved 2026-10-17.
 
 [← All layers](../index.md)

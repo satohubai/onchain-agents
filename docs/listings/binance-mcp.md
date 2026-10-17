@@ -21,7 +21,7 @@ Sato Score: **⬡ 72** (High), -10 over 7 days — a measure of how open, active
 - **Use cases:** trading, data
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Recent — last activity 30 days ago
+- **Activity:** Recent — last activity 1 month ago
 - **GitHub stars:** 50
 - **Deploys as:** pip
 - **Works with:** Claude, Cursor AI, ChatGPT
@@ -52,6 +52,6 @@ pip install binance-mcp-server
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `binance-mcp`. https://satohub.ai/resources/binance-mcp — retrieved 2026-10-16.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `binance-mcp`. https://satohub.ai/resources/binance-mcp — retrieved 2026-10-17.
 
 [← All layers](../index.md)

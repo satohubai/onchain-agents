@@ -22,7 +22,7 @@ Sato Score: **⬡ 81** (High) — a measure of how open, active and verifiable t
 - **Creator:** legendaryabhi
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 14 days ago
+- **Activity:** Active — last activity 15 days ago
 - **GitHub stars:** 112
 - **Deploys as:** npx
 - **Works with:** Claude Code, Gemini CLI, Cursor, Kiro, Codex, Antigravity, OpenCode, AdaL, OpenClaw
@@ -52,6 +52,6 @@ npx agent-skills-hub
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `agent-skills-hub`. https://satohub.ai/resources/agent-skills-hub — retrieved 2026-10-16.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `agent-skills-hub`. https://satohub.ai/resources/agent-skills-hub — retrieved 2026-10-17.
 
 [← All layers](../index.md)

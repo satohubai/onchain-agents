@@ -51,6 +51,6 @@ npm install -g merx
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `merx-mcp`. https://satohub.ai/resources/merx-mcp — retrieved 2026-10-16.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `merx-mcp`. https://satohub.ai/resources/merx-mcp — retrieved 2026-10-17.
 
 [← All layers](../index.md)

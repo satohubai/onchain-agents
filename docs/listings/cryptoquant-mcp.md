@@ -9,7 +9,7 @@ layout: "default"
 
 Official CryptoQuant MCP server exposing on-chain metrics like MVRV, SOPR, and exchange flows to agents.
 
-Sato Score: **⬡ 75** (High), +3 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 75** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,7 +22,7 @@ Sato Score: **⬡ 75** (High), +3 over 7 days — a measure of how open, active 
 - **Creator:** CryptoQuant
 - **Open source:** Yes
 - **Status:** Unknown
-- **Activity:** Active — last activity 10 days ago
+- **Activity:** Active — last activity 11 days ago
 - **GitHub stars:** 7
 - **Deploys as:** npm
 - **Works with:** Claude Desktop, Claude Code, Cursor
@@ -44,7 +44,7 @@ npx -y cryptoquant-mcp
 ## What we checked
 
 - Install reproduced in an isolated container on 2026-07-21.
-- Live endpoint probed by us: 100% of our checks succeeded over 46 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 47 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -53,6 +53,6 @@ npx -y cryptoquant-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cryptoquant-mcp`. https://satohub.ai/resources/cryptoquant-mcp — retrieved 2026-10-16.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cryptoquant-mcp`. https://satohub.ai/resources/cryptoquant-mcp — retrieved 2026-10-17.
 
 [← All layers](../index.md)

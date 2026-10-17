@@ -9,7 +9,7 @@ layout: "default"
 
 Framework for delegated agents: user-owned agent wallets on Lit key management, with Abilities and policies that bound what an app can sign.
 
-Sato Score: **⬡ 61** (Medium), +16 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 61** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -37,6 +37,6 @@ Sato Score: **⬡ 61** (Medium), +16 over 7 days — a measure of how open, acti
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lit-vincent`. https://satohub.ai/resources/lit-vincent — retrieved 2026-10-16.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lit-vincent`. https://satohub.ai/resources/lit-vincent — retrieved 2026-10-17.
 
 [← All layers](../index.md)

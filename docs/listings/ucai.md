@@ -9,7 +9,7 @@ layout: "default"
 
 ABI-to-MCP generator: turns any smart contract ABI into an MCP server agents can call.
 
-Sato Score: **⬡ 76** (High), -10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 86** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,7 +21,7 @@ Sato Score: **⬡ 76** (High), -10 over 7 days — a measure of how open, active
 - **Use cases:** trading
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Recent — last activity 1 month ago
+- **Activity:** Active — last activity 7 days ago
 - **GitHub stars:** 37
 - **Works with:** Claude
 
@@ -51,6 +51,6 @@ pip install abi-to-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ucai`. https://satohub.ai/resources/ucai — retrieved 2026-10-16.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ucai`. https://satohub.ai/resources/ucai — retrieved 2026-10-17.
 
 [← All layers](../index.md)

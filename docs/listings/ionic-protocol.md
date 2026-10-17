@@ -9,7 +9,7 @@ layout: "default"
 
 Money-market lending protocol on Base/Mode with a GOAT SDK plugin for agent-driven supply, borrow, and swap actions.
 
-Sato Score: **⬡ 50** (Medium), +11 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 50** (Medium), +8 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -39,7 +39,7 @@ yarn workspace @ionicprotocol/sdk build
 ## What we checked
 
 - Install reproduced in an isolated container on 2026-10-15.
-- Live endpoint probed by us: 100% of our checks succeeded over 46 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 47 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -48,6 +48,6 @@ yarn workspace @ionicprotocol/sdk build
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ionic-protocol`. https://satohub.ai/resources/ionic-protocol — retrieved 2026-10-16.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ionic-protocol`. https://satohub.ai/resources/ionic-protocol — retrieved 2026-10-17.
 
 [← All layers](../index.md)

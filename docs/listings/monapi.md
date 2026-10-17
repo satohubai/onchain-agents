@@ -9,7 +9,7 @@ layout: "default"
 
 One-line x402 paywall SDK for monetizing APIs and MCP servers with per-route USDC pricing.
 
-Sato Score: **⬡ 52** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 53** (Medium), +1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -19,7 +19,7 @@ Sato Score: **⬡ 52** (Medium) — a measure of how open, active and verifiable
 - **Open source:** Yes
 - **Status:** Early
 - **Activity:** Quiet — last activity 6 months ago
-- **GitHub stars:** 0
+- **GitHub stars:** 4
 
 ## Deploy spec
 
@@ -39,7 +39,7 @@ npm install @monapi/sdk @x402/mcp
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 91 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -48,6 +48,6 @@ npm install @monapi/sdk @x402/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `monapi`. https://satohub.ai/resources/monapi — retrieved 2026-10-16.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `monapi`. https://satohub.ai/resources/monapi — retrieved 2026-10-17.
 
 [← All layers](../index.md)

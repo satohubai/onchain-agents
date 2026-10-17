@@ -45,7 +45,7 @@ git clone https://github.com/nirholas/agenti && cd agenti && pnpm install
 
 ## What we checked
 
-- Live endpoint probed by us: 0% of our checks succeeded over 46 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 0% of our checks succeeded over 47 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -54,6 +54,6 @@ git clone https://github.com/nirholas/agenti && cd agenti && pnpm install
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `agenti`. https://satohub.ai/resources/agenti — retrieved 2026-10-16.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `agenti`. https://satohub.ai/resources/agenti — retrieved 2026-10-17.
 
 [← All layers](../index.md)

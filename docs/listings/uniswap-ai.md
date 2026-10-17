@@ -9,7 +9,7 @@ layout: "default"
 
 Official Uniswap skill repo: swap, liquidity, and v4 hook tooling for AI trading agents.
 
-Sato Score: **⬡ 68** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 69** (Medium), +1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -23,8 +23,8 @@ Sato Score: **⬡ 68** (Medium) — a measure of how open, active and verifiable
 - **Status:** Active
 - **Activity:** Active — last activity 17 days ago
 - **GitHub stars:** 233
-- **Deploys as:** Claude Code plugin
-- **Works with:** Claude Code
+- **Deploys as:** Claude Code plugin, Skills CLI (npx skills add)
+- **Works with:** Claude Code, viem, wagmi, Uniswap Trading API, Universal Router
 
 ## Deploy spec
 
@@ -50,6 +50,6 @@ npx skills add Uniswap/uniswap-ai
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `uniswap-ai`. https://satohub.ai/resources/uniswap-ai — retrieved 2026-10-16.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `uniswap-ai`. https://satohub.ai/resources/uniswap-ai — retrieved 2026-10-17.
 
 [← All layers](../index.md)

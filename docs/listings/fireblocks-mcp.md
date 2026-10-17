@@ -9,7 +9,7 @@ layout: "default"
 
 Fireblocks' open-source MCP server for its API: query vaults, assets, wallets and policies, and create transactions from an AI assistant.
 
-Sato Score: **⬡ 57** (Medium), +2 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 57** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -37,6 +37,6 @@ Sato Score: **⬡ 57** (Medium), +2 over 7 days — a measure of how open, activ
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `fireblocks-mcp`. https://satohub.ai/resources/fireblocks-mcp — retrieved 2026-10-16.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `fireblocks-mcp`. https://satohub.ai/resources/fireblocks-mcp — retrieved 2026-10-17.
 
 [← All layers](../index.md)

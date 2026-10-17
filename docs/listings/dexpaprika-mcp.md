@@ -22,7 +22,7 @@ Sato Score: **⬡ 86** (High) — a measure of how open, active and verifiable t
 - **Creator:** CoinPaprika
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity today
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 53
 - **Deploys as:** npm install -g / npx, or one-line Smithery install
 - **Works with:** Claude Desktop
@@ -52,6 +52,6 @@ npm install -g dexpaprika-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `dexpaprika-mcp`. https://satohub.ai/resources/dexpaprika-mcp — retrieved 2026-10-16.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `dexpaprika-mcp`. https://satohub.ai/resources/dexpaprika-mcp — retrieved 2026-10-17.
 
 [← All layers](../index.md)

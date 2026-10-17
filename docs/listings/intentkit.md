@@ -9,7 +9,7 @@ layout: "default"
 
 Open-source, self-hosted framework for running collaborative clusters of onchain AI agents.
 
-Sato Score: **⬡ 86** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 76** (High), -10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -20,7 +20,7 @@ Sato Score: **⬡ 86** (High) — a measure of how open, active and verifiable t
 - **Creator:** Crestal Network
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Recent — last activity 30 days ago
+- **Activity:** Recent — last activity 1 month ago
 - **GitHub stars:** 6.5k
 - **Deploys as:** self-hosted, Docker, library, API
 - **Works with:** Twitter, Telegram, Web3
@@ -52,6 +52,6 @@ pip install intentkit
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `intentkit`. https://satohub.ai/resources/intentkit — retrieved 2026-10-16.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `intentkit`. https://satohub.ai/resources/intentkit — retrieved 2026-10-17.
 
 [← All layers](../index.md)

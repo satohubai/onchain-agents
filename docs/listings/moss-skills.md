@@ -9,7 +9,7 @@ layout: "default"
 
 Eight install-ready SKILL.md modules that teach coding agents — Claude Code, Codex, Cursor, Gemini — to build MOSS wallet integrations on MegaETH: SDK, permissions, React, server-verify, paymaster, CLI, Privy migration, and pre-launch security review.
 
-Sato Score: **⬡ 65** (Medium), +1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 65** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,7 +21,7 @@ Sato Score: **⬡ 65** (Medium), +1 over 7 days — a measure of how open, activ
 - **Creator:** MegaETH Labs
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Recent — last activity 1 month ago
+- **Activity:** Recent — last activity 2 months ago
 - **GitHub stars:** 3
 - **Deploys as:** Claude Code plugin, Self-hosted
 - **Works with:** MOSS Wallet SDK, Claude Code, Cursor, Codex, Gemini, wagmi, Copilot
@@ -42,7 +42,7 @@ npx skills add megaeth-labs/skills --skill "*"
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 46 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 47 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -51,6 +51,6 @@ npx skills add megaeth-labs/skills --skill "*"
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `moss-skills`. https://satohub.ai/resources/moss-skills — retrieved 2026-10-16.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `moss-skills`. https://satohub.ai/resources/moss-skills — retrieved 2026-10-17.
 
 [← All layers](../index.md)

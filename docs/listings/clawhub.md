@@ -52,6 +52,6 @@ npm i -g clawhub
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `clawhub`. https://satohub.ai/resources/clawhub — retrieved 2026-10-16.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `clawhub`. https://satohub.ai/resources/clawhub — retrieved 2026-10-17.
 
 [← All layers](../index.md)

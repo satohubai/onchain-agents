@@ -20,7 +20,7 @@ Sato Score: **⬡ 63** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Phala Network
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 16 days ago
+- **Activity:** Active — last activity 17 days ago
 - **GitHub stars:** 32
 - **Deploys as:** Hosted TEE VM, CLI
 
@@ -34,6 +34,6 @@ Sato Score: **⬡ 63** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `phala-cloud`. https://satohub.ai/resources/phala-cloud — retrieved 2026-10-16.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `phala-cloud`. https://satohub.ai/resources/phala-cloud — retrieved 2026-10-17.
 
 [← All layers](../index.md)

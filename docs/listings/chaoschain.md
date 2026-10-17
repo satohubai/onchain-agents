@@ -37,6 +37,6 @@ Sato Score: **⬡ 54** (Medium), +2 over 7 days — a measure of how open, activ
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `chaoschain`. https://satohub.ai/resources/chaoschain — retrieved 2026-10-16.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `chaoschain`. https://satohub.ai/resources/chaoschain — retrieved 2026-10-17.
 
 [← All layers](../index.md)

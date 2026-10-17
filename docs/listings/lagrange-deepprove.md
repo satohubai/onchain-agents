@@ -20,7 +20,7 @@ Sato Score: **⬡ 43** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Lagrange Labs
 - **Open source:** Partial
 - **Status:** Unknown
-- **Activity:** Dormant — last activity 12 months ago
+- **Activity:** Quiet — last activity 4 months ago
 - **GitHub stars:** 3.4k
 
 ## What we checked
@@ -33,6 +33,6 @@ Sato Score: **⬡ 43** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lagrange-deepprove`. https://satohub.ai/resources/lagrange-deepprove — retrieved 2026-10-16.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lagrange-deepprove`. https://satohub.ai/resources/lagrange-deepprove — retrieved 2026-10-17.
 
 [← All layers](../index.md)

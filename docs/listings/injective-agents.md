@@ -22,7 +22,7 @@ Sato Score: **⬡ 58** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Injective Labs
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Dormant — last activity 18 months ago
+- **Activity:** Dormant — last activity 19 months ago
 - **GitHub stars:** 46
 - **Deploys as:** Self-hosted, Docker, MCP server
 - **Works with:** OpenAI, Injective MCP Server, Helix, Injective Trader SDK, LangChain, CrewAI, Exchange Precompile
@@ -54,6 +54,6 @@ pip install -r requirements.txt
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `injective-agents`. https://satohub.ai/resources/injective-agents — retrieved 2026-10-16.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `injective-agents`. https://satohub.ai/resources/injective-agents — retrieved 2026-10-17.
 
 [← All layers](../index.md)

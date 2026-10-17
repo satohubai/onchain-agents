@@ -9,7 +9,7 @@ layout: "default"
 
 Security-research skill marketplace incl. smart-contract vulnerability scanning and constant-time analysis.
 
-Sato Score: **⬡ 60** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 61** (Medium), +1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,9 +21,9 @@ Sato Score: **⬡ 60** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Trail of Bits
 - **Open source:** Unknown
 - **Status:** Active
-- **Activity:** Active — last activity 9 days ago
-- **GitHub stars:** 7.5k
-- **Deploys as:** Claude Code plugin
+- **Activity:** Active — last activity 1 day ago
+- **GitHub stars:** 7.6k
+- **Deploys as:** Claude Code plugin, Codex plugin, ChatGPT workspace marketplace
 - **Works with:** Claude Code, Codex
 
 ## Deploy spec
@@ -50,6 +50,6 @@ Sato Score: **⬡ 60** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `trailofbits-skills`. https://satohub.ai/resources/trailofbits-skills — retrieved 2026-10-16.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `trailofbits-skills`. https://satohub.ai/resources/trailofbits-skills — retrieved 2026-10-17.
 
 [← All layers](../index.md)
