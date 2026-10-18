@@ -22,7 +22,7 @@ Sato Score: **⬡ 88** (High) — a measure of how open, active and verifiable t
 - **Creator:** OpenAI
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity today
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 129.4k
 - **Deploys as:** Self-hosted, Hosted, npm
 - **Works with:** MCP, VS Code, Cursor, Windsurf, ChatGPT
@@ -54,6 +54,6 @@ npm install -g @openai/codex
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `openai-codex`. https://satohub.ai/resources/openai-codex — retrieved 2026-10-17.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `openai-codex`. https://satohub.ai/resources/openai-codex — retrieved 2026-10-18.
 
 [← All layers](../index.md)

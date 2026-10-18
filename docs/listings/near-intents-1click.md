@@ -20,7 +20,7 @@ Sato Score: **⬡ 78** (High) — a measure of how open, active and verifiable t
 - **Use cases:** trading, payments
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 26 days ago
+- **Activity:** Active — last activity 27 days ago
 - **GitHub stars:** 1
 
 ## What we checked
@@ -34,6 +34,6 @@ Sato Score: **⬡ 78** (High) — a measure of how open, active and verifiable t
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `near-intents-1click`. https://satohub.ai/resources/near-intents-1click — retrieved 2026-10-17.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `near-intents-1click`. https://satohub.ai/resources/near-intents-1click — retrieved 2026-10-18.
 
 [← All layers](../index.md)

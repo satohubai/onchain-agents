@@ -21,7 +21,7 @@ Sato Score: **⬡ 66** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Solana Foundation
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 11 days ago
+- **Activity:** Active — last activity 12 days ago
 - **GitHub stars:** 75
 
 ## What we checked
@@ -34,6 +34,6 @@ Sato Score: **⬡ 66** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solana-attestation-service`. https://satohub.ai/resources/solana-attestation-service — retrieved 2026-10-17.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solana-attestation-service`. https://satohub.ai/resources/solana-attestation-service — retrieved 2026-10-18.
 
 [← All layers](../index.md)

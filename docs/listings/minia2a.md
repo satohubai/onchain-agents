@@ -20,7 +20,7 @@ Sato Score: **⬡ 86** (High), -1 over 7 days — a measure of how open, active 
 - **Interfaces:** mcp, api
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 4 days ago
+- **Activity:** Active — last activity 5 days ago
 - **GitHub stars:** 1
 
 ## What we checked
@@ -34,6 +34,6 @@ Sato Score: **⬡ 86** (High), -1 over 7 days — a measure of how open, active 
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `minia2a`. https://satohub.ai/resources/minia2a — retrieved 2026-10-17.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `minia2a`. https://satohub.ai/resources/minia2a — retrieved 2026-10-18.
 
 [← All layers](../index.md)

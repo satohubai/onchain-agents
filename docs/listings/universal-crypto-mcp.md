@@ -9,7 +9,7 @@ layout: "default"
 
 Plugin-based monorepo MCP: EVM+Solana wallets, DEX aggregation, x402 payments, CEX trading, market data, bridges.
 
-Sato Score: **⬡ 71** (High), +10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 71** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,7 +22,7 @@ Sato Score: **⬡ 71** (High), +10 over 7 days — a measure of how open, active
 - **Creator:** nirholas
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 6 days ago
+- **Activity:** Active — last activity 7 days ago
 - **GitHub stars:** 42
 
 ## Deploy spec
@@ -45,7 +45,7 @@ npm install
 ## What we checked
 
 - Install reproduced in an isolated container on 2026-09-14.
-- Live endpoint probed by us: 100% of our checks succeeded over 91 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -54,6 +54,6 @@ npm install
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `universal-crypto-mcp`. https://satohub.ai/resources/universal-crypto-mcp — retrieved 2026-10-17.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `universal-crypto-mcp`. https://satohub.ai/resources/universal-crypto-mcp — retrieved 2026-10-18.
 
 [← All layers](../index.md)

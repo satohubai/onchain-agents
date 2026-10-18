@@ -18,7 +18,7 @@ Sato Score: **⬡ 64** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Multichain, Ethereum
 - **Open source:** Partial
 - **Status:** Early
-- **Activity:** Active — last activity 19 days ago
+- **Activity:** Active — last activity 20 days ago
 - **GitHub stars:** 1
 - **Works with:** Claude, MCP
 
@@ -48,6 +48,6 @@ claude mcp add --transport http risk-graph https://risk-graph-mcp.forta.network/
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `forta-risk-graph-mcp`. https://satohub.ai/resources/forta-risk-graph-mcp — retrieved 2026-10-17.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `forta-risk-graph-mcp`. https://satohub.ai/resources/forta-risk-graph-mcp — retrieved 2026-10-18.
 
 [← All layers](../index.md)

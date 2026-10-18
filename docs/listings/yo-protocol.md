@@ -29,6 +29,6 @@ Sato Score: **⬡ 31** (Low) — a measure of how open, active and verifiable th
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `yo-protocol`. https://satohub.ai/resources/yo-protocol — retrieved 2026-10-17.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `yo-protocol`. https://satohub.ai/resources/yo-protocol — retrieved 2026-10-18.
 
 [← All layers](../index.md)

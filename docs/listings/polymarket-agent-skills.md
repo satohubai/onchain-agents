@@ -21,7 +21,7 @@ Sato Score: **⬡ 59** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Polymarket
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Quiet — last activity 7 months ago
+- **Activity:** Quiet — last activity 8 months ago
 - **GitHub stars:** 192
 - **Works with:** Polymarket CLOB API, Gamma API, Data API, Bridge API, Relayer, WebSocket, TypeScript SDK, Python SDK, Rust SDK
 
@@ -36,6 +36,6 @@ Sato Score: **⬡ 59** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `polymarket-agent-skills`. https://satohub.ai/resources/polymarket-agent-skills — retrieved 2026-10-17.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `polymarket-agent-skills`. https://satohub.ai/resources/polymarket-agent-skills — retrieved 2026-10-18.
 
 [← All layers](../index.md)

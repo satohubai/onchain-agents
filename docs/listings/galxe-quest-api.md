@@ -31,6 +31,6 @@ Sato Score: **⬡ 32** (Low) — a measure of how open, active and verifiable th
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `galxe-quest-api`. https://satohub.ai/resources/galxe-quest-api — retrieved 2026-10-17.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `galxe-quest-api`. https://satohub.ai/resources/galxe-quest-api — retrieved 2026-10-18.
 
 [← All layers](../index.md)

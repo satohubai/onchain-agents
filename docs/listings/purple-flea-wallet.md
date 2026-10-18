@@ -47,6 +47,6 @@ npx -y @purpleflea/wallet-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `purple-flea-wallet`. https://satohub.ai/resources/purple-flea-wallet — retrieved 2026-10-17.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `purple-flea-wallet`. https://satohub.ai/resources/purple-flea-wallet — retrieved 2026-10-18.
 
 [← All layers](../index.md)

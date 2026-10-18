@@ -22,7 +22,7 @@ Sato Score: **⬡ 75** (High) — a measure of how open, active and verifiable t
 - **Creator:** Alchemy
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 22 days ago
+- **Activity:** Active — last activity 23 days ago
 - **GitHub stars:** 88
 - **Deploys as:** Hosted API (Streamable HTTP, OAuth), npm (legacy local stdio server)
 - **Works with:** Claude Code, Codex, Cursor, Claude Desktop, VS Code Copilot, Windsurf, Cline
@@ -52,6 +52,6 @@ claude mcp add alchemy --transport http https://mcp.alchemy.com/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `alchemy-mcp`. https://satohub.ai/resources/alchemy-mcp — retrieved 2026-10-17.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `alchemy-mcp`. https://satohub.ai/resources/alchemy-mcp — retrieved 2026-10-18.
 
 [← All layers](../index.md)

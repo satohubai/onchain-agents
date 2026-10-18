@@ -22,7 +22,7 @@ Sato Score: **⬡ 41** (Medium) — a measure of how open, active and verifiable
 - **Creator:** BlockBeats
 - **Open source:** Yes
 - **Status:** Unknown
-- **Activity:** Quiet — last activity 6 months ago
+- **Activity:** Quiet — last activity 7 months ago
 - **GitHub stars:** 43
 - **Deploys as:** npm (global install)
 - **Works with:** Claude Desktop, Cursor
@@ -52,6 +52,6 @@ npm install -g blockbeats-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `blockbeats-mcp`. https://satohub.ai/resources/blockbeats-mcp — retrieved 2026-10-17.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `blockbeats-mcp`. https://satohub.ai/resources/blockbeats-mcp — retrieved 2026-10-18.
 
 [← All layers](../index.md)

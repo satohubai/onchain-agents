@@ -9,7 +9,7 @@ layout: "default"
 
 Framework for TEE-hosted agents that hold assets and sign on many chains via NEAR chain signatures, with guardrails in an agent contract.
 
-Sato Score: **⬡ 66** (Medium), -10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 76** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -20,7 +20,7 @@ Sato Score: **⬡ 66** (Medium), -10 over 7 days — a measure of how open, acti
 - **Use cases:** build, wallets, security
 - **Open source:** Yes
 - **Status:** Beta
-- **Activity:** Recent — last activity 1 month ago
+- **Activity:** Active — last activity 4 days ago
 - **GitHub stars:** 2
 
 ## What we checked
@@ -34,6 +34,6 @@ Sato Score: **⬡ 66** (Medium), -10 over 7 days — a measure of how open, acti
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `shade-agent-framework`. https://satohub.ai/resources/shade-agent-framework — retrieved 2026-10-17.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `shade-agent-framework`. https://satohub.ai/resources/shade-agent-framework — retrieved 2026-10-18.
 
 [← All layers](../index.md)

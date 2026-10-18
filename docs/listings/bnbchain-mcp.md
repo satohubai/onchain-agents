@@ -53,6 +53,6 @@ npx -y @nirholas/bnbchain-mcp@latest
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bnbchain-mcp`. https://satohub.ai/resources/bnbchain-mcp — retrieved 2026-10-17.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bnbchain-mcp`. https://satohub.ai/resources/bnbchain-mcp — retrieved 2026-10-18.
 
 [← All layers](../index.md)

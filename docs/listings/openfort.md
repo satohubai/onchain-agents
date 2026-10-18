@@ -9,7 +9,7 @@ layout: "default"
 
 Wallet infrastructure with agentic backend wallets bound by signing policies, a Node SDK, a CLI, and MCP servers for its docs and CLI.
 
-Sato Score: **⬡ 67** (Medium), +4 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 67** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,7 +22,7 @@ Sato Score: **⬡ 67** (Medium), +4 over 7 days — a measure of how open, activ
 - **Creator:** Openfort
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 20 days ago
+- **Activity:** Active — last activity 21 days ago
 - **GitHub stars:** 10
 - **Deploys as:** npm, cli
 
@@ -36,6 +36,6 @@ Sato Score: **⬡ 67** (Medium), +4 over 7 days — a measure of how open, activ
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `openfort`. https://satohub.ai/resources/openfort — retrieved 2026-10-17.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `openfort`. https://satohub.ai/resources/openfort — retrieved 2026-10-18.
 
 [← All layers](../index.md)

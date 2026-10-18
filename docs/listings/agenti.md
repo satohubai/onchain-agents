@@ -54,6 +54,6 @@ git clone https://github.com/nirholas/agenti && cd agenti && pnpm install
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `agenti`. https://satohub.ai/resources/agenti — retrieved 2026-10-17.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `agenti`. https://satohub.ai/resources/agenti — retrieved 2026-10-18.
 
 [← All layers](../index.md)

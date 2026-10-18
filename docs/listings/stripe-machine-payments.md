@@ -22,7 +22,7 @@ Sato Score: **⬡ 68** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Stripe
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 8 days ago
+- **Activity:** Active — last activity 9 days ago
 - **GitHub stars:** 56
 - **Works with:** MPP, x402, Shared Payment Tokens, Stripe Connect, Coinbase Developer Platform, MCP, Link Agent Wallet, Tempo wallet
 
@@ -37,6 +37,6 @@ Sato Score: **⬡ 68** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `stripe-machine-payments`. https://satohub.ai/resources/stripe-machine-payments — retrieved 2026-10-17.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `stripe-machine-payments`. https://satohub.ai/resources/stripe-machine-payments — retrieved 2026-10-18.
 
 [← All layers](../index.md)

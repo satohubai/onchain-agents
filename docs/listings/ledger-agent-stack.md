@@ -36,6 +36,6 @@ Sato Score: **⬡ 56** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ledger-agent-stack`. https://satohub.ai/resources/ledger-agent-stack — retrieved 2026-10-17.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ledger-agent-stack`. https://satohub.ai/resources/ledger-agent-stack — retrieved 2026-10-18.
 
 [← All layers](../index.md)

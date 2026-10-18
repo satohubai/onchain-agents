@@ -37,6 +37,6 @@ Sato Score: **⬡ 56** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `chainlink-for-agents`. https://satohub.ai/resources/chainlink-for-agents — retrieved 2026-10-17.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `chainlink-for-agents`. https://satohub.ai/resources/chainlink-for-agents — retrieved 2026-10-18.
 
 [← All layers](../index.md)

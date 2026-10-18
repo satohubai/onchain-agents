@@ -30,6 +30,6 @@ Sato Score: **⬡ 40** (Medium), -1 over 7 days — a measure of how open, activ
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `singularitynet`. https://satohub.ai/resources/singularitynet — retrieved 2026-10-17.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `singularitynet`. https://satohub.ai/resources/singularitynet — retrieved 2026-10-18.
 
 [← All layers](../index.md)
