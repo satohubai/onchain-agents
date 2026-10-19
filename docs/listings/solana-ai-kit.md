@@ -18,8 +18,8 @@ Sato Score: **⬡ 62** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Solana
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 8 days ago
-- **GitHub stars:** 103
+- **Activity:** Active — last activity 5 days ago
+- **GitHub stars:** 109
 
 ## Deploy spec
 
@@ -48,6 +48,6 @@ git clone --recurse-submodules https://github.com/solanabr/solana-ai-kit.git
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solana-ai-kit`. https://satohub.ai/resources/solana-ai-kit — retrieved 2026-10-18.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solana-ai-kit`. https://satohub.ai/resources/solana-ai-kit — retrieved 2026-10-19.
 
 [← All layers](../index.md)

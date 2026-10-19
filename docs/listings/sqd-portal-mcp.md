@@ -18,7 +18,7 @@ Sato Score: **⬡ 61** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Multichain, Solana, Bitcoin, Hyperliquid
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 16 days ago
+- **Activity:** Active — last activity 17 days ago
 - **GitHub stars:** 1
 
 ## Deploy spec
@@ -34,8 +34,8 @@ npm start
 - **Requires:** MCP_HTTP_BEARER_TOKEN (optional, HTTP mode — requires Authorization: Bearer for POST /mcp), MCP_CURSOR_SECRET (optional, HTTP mode — signs pagination cursors)
 - **License:** MIT
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-10-19
 
 ## What we checked
 
@@ -48,6 +48,6 @@ npm start
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `sqd-portal-mcp`. https://satohub.ai/resources/sqd-portal-mcp — retrieved 2026-10-18.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `sqd-portal-mcp`. https://satohub.ai/resources/sqd-portal-mcp — retrieved 2026-10-19.
 
 [← All layers](../index.md)

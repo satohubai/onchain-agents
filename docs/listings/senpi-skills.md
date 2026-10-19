@@ -21,8 +21,8 @@ Sato Score: **⬡ 57** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Senpi
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 9 days ago
-- **GitHub stars:** 134
+- **Activity:** Active — last activity today
+- **GitHub stars:** 137
 
 ## What we checked
 
@@ -34,6 +34,6 @@ Sato Score: **⬡ 57** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `senpi-skills`. https://satohub.ai/resources/senpi-skills — retrieved 2026-10-18.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `senpi-skills`. https://satohub.ai/resources/senpi-skills — retrieved 2026-10-19.
 
 [← All layers](../index.md)

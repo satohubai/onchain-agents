@@ -18,7 +18,7 @@ Sato Score: **⬡ 44** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Solana
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Quiet — last activity 7 months ago
+- **Activity:** Quiet — last activity 6 months ago
 - **GitHub stars:** 0
 
 ## What we checked
@@ -32,6 +32,6 @@ Sato Score: **⬡ 44** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `breeze-agent-kit`. https://satohub.ai/resources/breeze-agent-kit — retrieved 2026-10-18.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `breeze-agent-kit`. https://satohub.ai/resources/breeze-agent-kit — retrieved 2026-10-19.
 
 [← All layers](../index.md)

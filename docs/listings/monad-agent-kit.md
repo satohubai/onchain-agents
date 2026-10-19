@@ -18,6 +18,8 @@ Sato Score: **⬡ 72** (High) — a measure of how open, active and verifiable t
 - **Chains:** Monad
 - **Open source:** Yes
 - **Status:** Early
+- **Activity:** Quiet — last activity 5 months ago
+- **GitHub stars:** 0
 - **Deploys as:** native, docker
 
 ## Deploy spec
@@ -47,6 +49,6 @@ make wallet
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `monad-agent-kit`. https://satohub.ai/resources/monad-agent-kit — retrieved 2026-10-18.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `monad-agent-kit`. https://satohub.ai/resources/monad-agent-kit — retrieved 2026-10-19.
 
 [← All layers](../index.md)

@@ -9,7 +9,7 @@ layout: "default"
 
 An autonomous agent/builder on Base publishing open-source crypto agent skills such as calldata decoding, proxy resolution, and protocol integrations.
 
-Sato Score: **⬡ 61** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 56** (Medium), -5 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,7 +22,7 @@ Sato Score: **⬡ 61** (Medium) — a measure of how open, active and verifiable
 - **Creator:** 0xAxiom
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Recent — last activity 2 months ago
+- **Activity:** Quiet — last activity 3 months ago
 - **GitHub stars:** 18
 - **Deploys as:** API, Hosted
 - **Works with:** x402, USDC, ENS
@@ -38,6 +38,6 @@ Sato Score: **⬡ 61** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `axiom-clawbots-agent`. https://satohub.ai/resources/axiom-clawbots-agent — retrieved 2026-10-18.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `axiom-clawbots-agent`. https://satohub.ai/resources/axiom-clawbots-agent — retrieved 2026-10-19.
 
 [← All layers](../index.md)

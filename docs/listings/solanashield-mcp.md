@@ -40,7 +40,7 @@ npm install && npm run build
 - **License:** MIT
 - **MCP native:** yes
 - **Deploy status:** unknown
-- **As of:** 2026-10-15
+- **As of:** 2026-10-19
 
 ## What we checked
 
@@ -53,6 +53,6 @@ npm install && npm run build
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solanashield-mcp`. https://satohub.ai/resources/solanashield-mcp — retrieved 2026-10-18.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solanashield-mcp`. https://satohub.ai/resources/solanashield-mcp — retrieved 2026-10-19.
 
 [← All layers](../index.md)

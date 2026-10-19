@@ -9,7 +9,7 @@ layout: "default"
 
 Official Crypto.com Exchange command-line client — scriptable trading API access with a TUI for humans.
 
-Sato Score: **⬡ 45** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 52** (Medium), +7 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -18,6 +18,8 @@ Sato Score: **⬡ 45** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Unknown
 - **Open source:** Yes
 - **Status:** Active
+- **Activity:** Recent — last activity 2 months ago
+- **GitHub stars:** 26
 
 ## Deploy spec
 
@@ -45,6 +47,6 @@ cargo install --git https://github.com/crypto-com/cdcx-cli.git --bin cdcx
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `crypto-com-cdcx-cli`. https://satohub.ai/resources/crypto-com-cdcx-cli — retrieved 2026-10-18.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `crypto-com-cdcx-cli`. https://satohub.ai/resources/crypto-com-cdcx-cli — retrieved 2026-10-19.
 
 [← All layers](../index.md)

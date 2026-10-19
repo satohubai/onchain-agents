@@ -21,8 +21,8 @@ Sato Score: **⬡ 70** (High), +1 over 7 days — a measure of how open, active 
 - **Creator:** Solana Foundation
 - **Open source:** Unknown
 - **Status:** Active
-- **Activity:** Active — last activity 18 days ago
-- **GitHub stars:** 79
+- **Activity:** Active — last activity 2 days ago
+- **GitHub stars:** 82
 - **Deploys as:** Hosted API
 - **Works with:** Claude Code, Cursor, Windsurf, VS Code, Codex
 
@@ -50,6 +50,6 @@ claude mcp add --transport http solana-mcp https://mcp.solana.com/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solana-foundation-mcp`. https://satohub.ai/resources/solana-foundation-mcp — retrieved 2026-10-18.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solana-foundation-mcp`. https://satohub.ai/resources/solana-foundation-mcp — retrieved 2026-10-19.
 
 [← All layers](../index.md)

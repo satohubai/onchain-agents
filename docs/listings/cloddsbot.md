@@ -20,7 +20,7 @@ Sato Score: **⬡ 83** (High) — a measure of how open, active and verifiable t
 - **Creator:** alsk1992
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 15 days ago
+- **Activity:** Active — last activity 16 days ago
 - **GitHub stars:** 3.0k
 - **Deploys as:** npm, Self-hosted
 - **Works with:** Polymarket, Kalshi, Binance, Hyperliquid, Jupiter, Raydium, Uniswap, 1inch, Bittensor
@@ -37,11 +37,11 @@ npm install -g clodds --loglevel=error
 - **License:** MIT
 - **MCP native:** yes
 - **Deploy status:** verified
-- **As of:** 2026-09-25
+- **As of:** 2026-10-19
 
 ## What we checked
 
-- Install reproduced in an isolated container on 2026-09-25.
+- Install reproduced in an isolated container on 2026-10-19.
 - Live endpoint probed by us: 100% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
@@ -51,6 +51,6 @@ npm install -g clodds --loglevel=error
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cloddsbot`. https://satohub.ai/resources/cloddsbot — retrieved 2026-10-18.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cloddsbot`. https://satohub.ai/resources/cloddsbot — retrieved 2026-10-19.
 
 [← All layers](../index.md)

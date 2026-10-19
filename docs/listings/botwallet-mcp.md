@@ -18,7 +18,7 @@ Sato Score: **⬡ 72** (High), +8 over 7 days — a measure of how open, active 
 - **Chains:** Solana
 - **Open source:** Partial
 - **Status:** Early
-- **Activity:** Active — last activity 12 days ago
+- **Activity:** Active — last activity 14 days ago
 - **GitHub stars:** 4
 - **Works with:** Claude Desktop, Cursor, Windsurf, Cline, x402 protocol
 
@@ -48,6 +48,6 @@ npm install -g @botwallet/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `botwallet-mcp`. https://satohub.ai/resources/botwallet-mcp — retrieved 2026-10-18.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `botwallet-mcp`. https://satohub.ai/resources/botwallet-mcp — retrieved 2026-10-19.
 
 [← All layers](../index.md)

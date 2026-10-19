@@ -18,7 +18,7 @@ Sato Score: **⬡ 62** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Solana
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 22 days ago
+- **Activity:** Active — last activity 23 days ago
 - **GitHub stars:** 431
 
 ## What we checked
@@ -32,6 +32,6 @@ Sato Score: **⬡ 62** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `awesome-solana-ai`. https://satohub.ai/resources/awesome-solana-ai — retrieved 2026-10-18.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `awesome-solana-ai`. https://satohub.ai/resources/awesome-solana-ai — retrieved 2026-10-19.
 
 [← All layers](../index.md)

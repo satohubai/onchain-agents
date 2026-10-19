@@ -9,7 +9,7 @@ layout: "default"
 
 Official Celo MCP server for querying the Celo ecosystem, chain data, and developer workflows.
 
-Sato Score: **⬡ 63** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 73** (High), +10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,7 +22,7 @@ Sato Score: **⬡ 63** (Medium) — a measure of how open, active and verifiable
 - **Creator:** cLabs
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Recent — last activity 1 month ago
+- **Activity:** Active — last activity today
 - **GitHub stars:** 5
 - **Deploys as:** pip install (git clone + pip install -e .)
 - **Works with:** Cursor
@@ -54,6 +54,6 @@ pip install -e .
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `celo-mcp`. https://satohub.ai/resources/celo-mcp — retrieved 2026-10-18.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `celo-mcp`. https://satohub.ai/resources/celo-mcp — retrieved 2026-10-19.
 
 [← All layers](../index.md)

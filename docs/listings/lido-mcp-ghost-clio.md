@@ -18,7 +18,7 @@ Sato Score: **⬡ 48** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Ethereum
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Quiet — last activity 6 months ago
+- **Activity:** Quiet — last activity 7 months ago
 - **GitHub stars:** 2
 - **Works with:** Claude Desktop, Cursor
 
@@ -36,8 +36,8 @@ npm run build
 - **Requires:** ETH_RPC_URL — optional, defaults to https://eth.llamarpc.com, ETH_PRIVATE_KEY — RISK: hex-encoded private key, only required for write operations (staking/voting transactions); read-only tools work without it per the README
 - **License:** MIT
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-10-19
 
 ## What we checked
 
@@ -50,6 +50,6 @@ npm run build
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lido-mcp-ghost-clio`. https://satohub.ai/resources/lido-mcp-ghost-clio — retrieved 2026-10-18.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lido-mcp-ghost-clio`. https://satohub.ai/resources/lido-mcp-ghost-clio — retrieved 2026-10-19.
 
 [← All layers](../index.md)

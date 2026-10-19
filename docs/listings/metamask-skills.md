@@ -9,7 +9,7 @@ layout: "default"
 
 Official MetaMask skill repo: smart-accounts and gator (delegation) tooling for wallet agents.
 
-Sato Score: **⬡ 54** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 66** (Medium), +12 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,7 +21,8 @@ Sato Score: **⬡ 54** (Medium) — a measure of how open, active and verifiable
 - **Creator:** MetaMask
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Recent — last activity 1 month ago
+- **Activity:** Active — last activity 3 days ago
+- **GitHub stars:** 23
 - **Deploys as:** npm
 - **Works with:** Claude Code, Cursor, Codex, OpenClaw
 
@@ -49,6 +50,6 @@ git clone https://github.com/MetaMask/skills ~/dev/metamask/skills
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `metamask-skills`. https://satohub.ai/resources/metamask-skills — retrieved 2026-10-18.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `metamask-skills`. https://satohub.ai/resources/metamask-skills — retrieved 2026-10-19.
 
 [← All layers](../index.md)

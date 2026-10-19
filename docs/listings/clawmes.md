@@ -21,7 +21,7 @@ Sato Score: **⬡ 55** (Medium), -10 over 7 days — a measure of how open, acti
 - **Creator:** clawnchdev
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Recent — last activity 30 days ago
+- **Activity:** Recent — last activity 1 month ago
 - **GitHub stars:** 25
 - **Deploys as:** pip, Hermes plugin
 - **Works with:** WalletConnect, 0x, Aave, Lido, Uniswap, LiFi, CoinGecko, Snapshot, Gnosis Safe
@@ -52,6 +52,6 @@ hermes clawmes init
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `clawmes`. https://satohub.ai/resources/clawmes — retrieved 2026-10-18.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `clawmes`. https://satohub.ai/resources/clawmes — retrieved 2026-10-19.
 
 [← All layers](../index.md)

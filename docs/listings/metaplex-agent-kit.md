@@ -9,7 +9,7 @@ layout: "default"
 
 Solana program binding a verifiable on-chain identity PDA to an agent, so agents can hold assets without exposing a private key.
 
-Sato Score: **⬡ 54** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 59** (Medium), +5 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -18,7 +18,7 @@ Sato Score: **⬡ 54** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Solana
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Quiet — last activity 3 months ago
+- **Activity:** Recent — last activity 1 month ago
 - **GitHub stars:** 2
 
 ## Deploy spec
@@ -46,6 +46,6 @@ npm install @metaplex-foundation/mpl-agent-registry
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `metaplex-agent-kit`. https://satohub.ai/resources/metaplex-agent-kit — retrieved 2026-10-18.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `metaplex-agent-kit`. https://satohub.ai/resources/metaplex-agent-kit — retrieved 2026-10-19.
 
 [← All layers](../index.md)

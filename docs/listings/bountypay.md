@@ -9,7 +9,7 @@ layout: "default"
 
 GitHub App that escrows USDC on Base (or MUSD on Mezo) against an issue and pays the contributor when the closing PR merges.
 
-Sato Score: **⬡ 43** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 53** (Medium), +10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,7 +21,7 @@ Sato Score: **⬡ 43** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Lucci Labs
 - **Open source:** Unknown
 - **Status:** Active
-- **Activity:** Recent — last activity 2 months ago
+- **Activity:** Active — last activity 17 days ago
 - **GitHub stars:** 3
 - **Works with:** GitHub
 
@@ -35,6 +35,6 @@ Sato Score: **⬡ 43** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bountypay`. https://satohub.ai/resources/bountypay — retrieved 2026-10-18.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bountypay`. https://satohub.ai/resources/bountypay — retrieved 2026-10-19.
 
 [← All layers](../index.md)

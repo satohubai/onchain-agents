@@ -22,7 +22,7 @@ Sato Score: **⬡ 64** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Hashgraph Online
 - **Open source:** Unknown
 - **Status:** Active
-- **Activity:** Active — last activity 17 days ago
+- **Activity:** Active — last activity 18 days ago
 - **GitHub stars:** 13
 - **Deploys as:** npx / pnpm (stdio or HTTP modes)
 
@@ -37,8 +37,8 @@ npx @hol-org/hashnet-mcp --stdio
 - **Requires:** HEDERA_ACCOUNT_ID / HEDERA_PRIVATE_KEY or ETH_PK (optional — only needed for on-chain agent registration/signing; discovery+chat tools work unauthenticated against the public HOL Registry Broker), REGISTRY_BROKER_API_KEY (optional — unlocks paid tools)
 - **License:** Apache-2.0
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-14
+- **Deploy status:** unknown
+- **As of:** 2026-10-19
 
 ## What we checked
 
@@ -51,6 +51,6 @@ npx @hol-org/hashnet-mcp --stdio
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `hashnet-mcp`. https://satohub.ai/resources/hashnet-mcp — retrieved 2026-10-18.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `hashnet-mcp`. https://satohub.ai/resources/hashnet-mcp — retrieved 2026-10-19.
 
 [← All layers](../index.md)

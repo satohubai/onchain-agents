@@ -9,7 +9,7 @@ layout: "default"
 
 Framework and tooling for building AI agents for onchain commerce.
 
-Sato Score: **⬡ 66** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 81** (High), +15 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,7 +21,7 @@ Sato Score: **⬡ 66** (Medium) — a measure of how open, active and verifiable
 - **Creator:** daydreamsai
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Quiet — last activity 7 months ago
+- **Activity:** Active — last activity 10 days ago
 - **GitHub stars:** 620
 - **Deploys as:** library, self-hosted
 - **Works with:** MCP, Discord, Supabase, OpenAI, Anthropic, Google, Groq, xAI
@@ -38,12 +38,12 @@ npm install @daydreamsai/core @ai-sdk/openai zod
 - **License:** MIT
 - **MCP native:** yes
 - **Deploy status:** verified
-- **As of:** 2026-09-21
+- **As of:** 2026-10-19
 
 ## What we checked
 
-- Install reproduced in an isolated container on 2026-09-21.
-- Live endpoint probed by us: 48.9% of our checks succeeded over 47 days. That is a success rate of our checks, not the project's uptime.
+- Install reproduced in an isolated container on 2026-10-19.
+- Live endpoint probed by us: 50% of our checks succeeded over 48 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -52,6 +52,6 @@ npm install @daydreamsai/core @ai-sdk/openai zod
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `daydreams`. https://satohub.ai/resources/daydreams — retrieved 2026-10-18.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `daydreams`. https://satohub.ai/resources/daydreams — retrieved 2026-10-19.
 
 [← All layers](../index.md)

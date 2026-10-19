@@ -34,8 +34,8 @@ npm install @buildersgarden/siwa
 - **Requires:** A wallet signer via one of the documented factories (Circle, Openfort, Privy, local account, keyring proxy, wallet client); local-account signing handles a private key — custody risk, .env.proxy.example lists proxy-mode variables (not enumerated in README)
 - **License:** MIT
 - **MCP native:** no
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-10-19
 
 ## What we checked
 
@@ -48,6 +48,6 @@ npm install @buildersgarden/siwa
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `siwa-sign-in-with-agent`. https://satohub.ai/resources/siwa-sign-in-with-agent — retrieved 2026-10-18.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `siwa-sign-in-with-agent`. https://satohub.ai/resources/siwa-sign-in-with-agent — retrieved 2026-10-19.
 
 [← All layers](../index.md)

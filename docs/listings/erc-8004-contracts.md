@@ -9,7 +9,7 @@ layout: "default"
 
 Reference Identity and Reputation registry contracts for ERC-8004, with ABIs and a per-chain deployment table, kept by the 8004 team.
 
-Sato Score: **⬡ 34** (Low) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 42** (Medium), +8 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,6 +22,8 @@ Sato Score: **⬡ 34** (Low) — a measure of how open, active and verifiable th
 - **Creator:** 8004.org team
 - **Open source:** Unknown
 - **Status:** Unknown
+- **Activity:** Recent — last activity 2 months ago
+- **GitHub stars:** 239
 
 ## What we checked
 
@@ -33,6 +35,6 @@ Sato Score: **⬡ 34** (Low) — a measure of how open, active and verifiable th
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `erc-8004-contracts`. https://satohub.ai/resources/erc-8004-contracts — retrieved 2026-10-18.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `erc-8004-contracts`. https://satohub.ai/resources/erc-8004-contracts — retrieved 2026-10-19.
 
 [← All layers](../index.md)

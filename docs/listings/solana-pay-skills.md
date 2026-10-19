@@ -9,7 +9,7 @@ layout: "default"
 
 Solana Foundation community registry of stablecoin-gated (USDC/USDT) APIs the pay CLI and AI agents can search, route to, and pay through.
 
-Sato Score: **⬡ 51** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 61** (Medium), +10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -18,7 +18,7 @@ Sato Score: **⬡ 51** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Solana
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Recent — last activity 2 months ago
+- **Activity:** Active — last activity 4 days ago
 - **GitHub stars:** 14
 
 ## What we checked
@@ -32,6 +32,6 @@ Sato Score: **⬡ 51** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solana-pay-skills`. https://satohub.ai/resources/solana-pay-skills — retrieved 2026-10-18.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solana-pay-skills`. https://satohub.ai/resources/solana-pay-skills — retrieved 2026-10-19.
 
 [← All layers](../index.md)

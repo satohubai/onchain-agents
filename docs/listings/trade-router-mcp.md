@@ -53,6 +53,6 @@ npx -y @traderouter/trade-router-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `trade-router-mcp`. https://satohub.ai/resources/trade-router-mcp — retrieved 2026-10-18.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `trade-router-mcp`. https://satohub.ai/resources/trade-router-mcp — retrieved 2026-10-19.
 
 [← All layers](../index.md)

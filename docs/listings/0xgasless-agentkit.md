@@ -39,11 +39,11 @@ npm install @0xgasless/agentkit tslib
 - **License:** Apache-2.0
 - **MCP native:** no
 - **Deploy status:** verified
-- **As of:** 2026-09-21
+- **As of:** 2026-10-19
 
 ## What we checked
 
-- Install reproduced in an isolated container on 2026-09-21.
+- Install reproduced in an isolated container on 2026-10-19.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -52,6 +52,6 @@ npm install @0xgasless/agentkit tslib
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `0xgasless-agentkit`. https://satohub.ai/resources/0xgasless-agentkit — retrieved 2026-10-18.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `0xgasless-agentkit`. https://satohub.ai/resources/0xgasless-agentkit — retrieved 2026-10-19.
 
 [← All layers](../index.md)

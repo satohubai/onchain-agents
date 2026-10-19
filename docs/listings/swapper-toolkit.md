@@ -38,11 +38,12 @@ npm i @swapper-finance/deposit-sdk
 - **Requires:** integratorId (public integrator identifier, not a secret)
 - **License:** MIT
 - **MCP native:** no
-- **Deploy status:** unknown
-- **As of:** 2026-10-15
+- **Deploy status:** verified
+- **As of:** 2026-10-19
 
 ## What we checked
 
+- Install reproduced in an isolated container on 2026-10-19.
 - Live endpoint probed by us: 100% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
@@ -52,6 +53,6 @@ npm i @swapper-finance/deposit-sdk
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `swapper-toolkit`. https://satohub.ai/resources/swapper-toolkit — retrieved 2026-10-18.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `swapper-toolkit`. https://satohub.ai/resources/swapper-toolkit — retrieved 2026-10-19.
 
 [← All layers](../index.md)

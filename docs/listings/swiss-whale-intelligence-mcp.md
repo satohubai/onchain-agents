@@ -38,7 +38,7 @@ claude mcp add btc-whale-intelligence https://mcp.swisswhaleintelligence.com/mcp
 
 ## What we checked
 
-- Live endpoint probed by us: 97.9% of our checks succeeded over 47 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 97.9% of our checks succeeded over 48 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -47,6 +47,6 @@ claude mcp add btc-whale-intelligence https://mcp.swisswhaleintelligence.com/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `swiss-whale-intelligence-mcp`. https://satohub.ai/resources/swiss-whale-intelligence-mcp — retrieved 2026-10-18.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `swiss-whale-intelligence-mcp`. https://satohub.ai/resources/swiss-whale-intelligence-mcp — retrieved 2026-10-19.
 
 [← All layers](../index.md)

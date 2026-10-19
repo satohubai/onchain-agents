@@ -33,6 +33,6 @@ Sato Score: **⬡ 41** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `kalshi-api`. https://satohub.ai/resources/kalshi-api — retrieved 2026-10-18.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `kalshi-api`. https://satohub.ai/resources/kalshi-api — retrieved 2026-10-19.
 
 [← All layers](../index.md)

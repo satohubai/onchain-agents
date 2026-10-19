@@ -18,7 +18,7 @@ Sato Score: **⬡ 73** (High), +8 over 7 days — a measure of how open, active 
 - **Chains:** Solana
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 2 days ago
+- **Activity:** Active — last activity 3 days ago
 - **GitHub stars:** 799
 - **Works with:** CLI, MCP, Agent Skill, TypeScript SDK
 
@@ -47,6 +47,6 @@ npm i unbrowse
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `unbrowse`. https://satohub.ai/resources/unbrowse — retrieved 2026-10-18.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `unbrowse`. https://satohub.ai/resources/unbrowse — retrieved 2026-10-19.
 
 [← All layers](../index.md)

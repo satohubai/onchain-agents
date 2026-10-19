@@ -21,7 +21,7 @@ Sato Score: **⬡ 86** (High) — a measure of how open, active and verifiable t
 - **Use cases:** trading
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 8 days ago
+- **Activity:** Active — last activity 10 days ago
 - **GitHub stars:** 37
 - **Works with:** Claude
 
@@ -51,6 +51,6 @@ pip install abi-to-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ucai`. https://satohub.ai/resources/ucai — retrieved 2026-10-18.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ucai`. https://satohub.ai/resources/ucai — retrieved 2026-10-19.
 
 [← All layers](../index.md)

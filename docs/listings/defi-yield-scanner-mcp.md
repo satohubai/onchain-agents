@@ -32,8 +32,8 @@ npm install defi-yield-scanner-mcp
 - **Runtime:** Node.js (npm package, MCP server)
 - **License:** MIT
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-20
+- **Deploy status:** unknown
+- **As of:** 2026-10-19
 
 ## What we checked
 
@@ -46,6 +46,6 @@ npm install defi-yield-scanner-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `defi-yield-scanner-mcp`. https://satohub.ai/resources/defi-yield-scanner-mcp — retrieved 2026-10-18.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `defi-yield-scanner-mcp`. https://satohub.ai/resources/defi-yield-scanner-mcp — retrieved 2026-10-19.
 
 [← All layers](../index.md)

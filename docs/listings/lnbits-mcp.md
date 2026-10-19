@@ -54,6 +54,6 @@ pip install -e .
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lnbits-mcp`. https://satohub.ai/resources/lnbits-mcp — retrieved 2026-10-18.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lnbits-mcp`. https://satohub.ai/resources/lnbits-mcp — retrieved 2026-10-19.
 
 [← All layers](../index.md)

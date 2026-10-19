@@ -21,7 +21,7 @@ Sato Score: **⬡ 75** (High), +18 over 7 days — a measure of how open, active
 - **Use cases:** payments, security
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 4 days ago
+- **Activity:** Active — last activity 5 days ago
 - **GitHub stars:** 2
 - **Deploys as:** npm
 - **Works with:** Claude Desktop, Claude Code, Cursor, ChatGPT
@@ -52,6 +52,6 @@ npm install -g @tensorfeed/x402-base-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `tensorfeed-x402-mcp`. https://satohub.ai/resources/tensorfeed-x402-mcp — retrieved 2026-10-18.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `tensorfeed-x402-mcp`. https://satohub.ai/resources/tensorfeed-x402-mcp — retrieved 2026-10-19.
 
 [← All layers](../index.md)

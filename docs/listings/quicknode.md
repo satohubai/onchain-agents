@@ -35,8 +35,8 @@ npx -y @quicknode/mcp
 - **Requires:** QUICKNODE_API_KEY (create on the QuickNode dashboard)
 - **License:** MIT
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-14
+- **Deploy status:** unknown
+- **As of:** 2026-10-19
 
 ## What we checked
 
@@ -49,6 +49,6 @@ npx -y @quicknode/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `quicknode`. https://satohub.ai/resources/quicknode — retrieved 2026-10-18.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `quicknode`. https://satohub.ai/resources/quicknode — retrieved 2026-10-19.
 
 [← All layers](../index.md)
