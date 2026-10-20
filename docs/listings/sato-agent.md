@@ -9,7 +9,7 @@ layout: "default"
 
 Open-source kit that gives an always-on agent (built for Grok Bot) its own Base and Solana wallet, with spending limits its owner sets and Sato Hub checks before it spends.
 
-Sato Score: **⬡ 65** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 66** (Medium), +1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -19,8 +19,8 @@ Sato Score: **⬡ 65** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Sato Hub
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 2 days ago
-- **GitHub stars:** 0
+- **Activity:** Active — last activity today
+- **GitHub stars:** 1
 
 ## What we checked
 
@@ -32,6 +32,6 @@ Sato Score: **⬡ 65** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `sato-agent`. https://satohub.ai/resources/sato-agent — retrieved 2026-10-19.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `sato-agent`. https://satohub.ai/resources/sato-agent — retrieved 2026-10-20.
 
 [← All layers](../index.md)

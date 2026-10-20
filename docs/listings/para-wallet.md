@@ -49,6 +49,6 @@ npm run build
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `para-wallet`. https://satohub.ai/resources/para-wallet — retrieved 2026-10-19.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `para-wallet`. https://satohub.ai/resources/para-wallet — retrieved 2026-10-20.
 
 [← All layers](../index.md)

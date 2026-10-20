@@ -21,7 +21,7 @@ Sato Score: **⬡ 69** (Medium), +1 over 7 days — a measure of how open, activ
 - **Creator:** Uniswap Labs
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 4 days ago
+- **Activity:** Active — last activity 5 days ago
 - **GitHub stars:** 233
 - **Deploys as:** Claude Code plugin, Skills CLI (npx skills add)
 - **Works with:** Claude Code, viem, wagmi, Uniswap Trading API, Universal Router
@@ -50,6 +50,6 @@ npx skills add Uniswap/uniswap-ai
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `uniswap-ai`. https://satohub.ai/resources/uniswap-ai — retrieved 2026-10-19.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `uniswap-ai`. https://satohub.ai/resources/uniswap-ai — retrieved 2026-10-20.
 
 [← All layers](../index.md)

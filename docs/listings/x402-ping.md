@@ -9,7 +9,7 @@ layout: "default"
 
 x402-ping is a API and SDK on Base.
 
-Sato Score: **⬡ 70** (High), +1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 70** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -18,13 +18,13 @@ Sato Score: **⬡ 70** (High), +1 over 7 days — a measure of how open, active 
 - **Standards:** x402
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 23 days ago
+- **Activity:** Active — last activity 24 days ago
 - **GitHub stars:** 0
 - **Deploys as:** Cloudflare Workers, Deno Deploy, Local Deno
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 20 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 21 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -33,6 +33,6 @@ Sato Score: **⬡ 70** (High), +1 over 7 days — a measure of how open, active 
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `x402-ping`. https://satohub.ai/resources/x402-ping — retrieved 2026-10-19.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `x402-ping`. https://satohub.ai/resources/x402-ping — retrieved 2026-10-20.
 
 [← All layers](../index.md)

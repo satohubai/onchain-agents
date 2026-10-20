@@ -9,7 +9,7 @@ layout: "default"
 
 DeFi execution MCP: swaps, lending, bridges, yield discovery, and portfolio analysis with external wallet signing.
 
-Sato Score: **⬡ 48** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 56** (Medium), +8 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -44,7 +44,7 @@ npm install haiku-mcp-server
 ## What we checked
 
 - Install reproduced in an isolated container on 2026-10-19.
-- Live endpoint probed by us: 70% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 68.9% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -53,6 +53,6 @@ npm install haiku-mcp-server
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `haiku-defi-mcp`. https://satohub.ai/resources/haiku-defi-mcp — retrieved 2026-10-19.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `haiku-defi-mcp`. https://satohub.ai/resources/haiku-defi-mcp — retrieved 2026-10-20.
 
 [← All layers](../index.md)

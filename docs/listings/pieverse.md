@@ -36,6 +36,6 @@ Sato Score: **⬡ 53** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `pieverse`. https://satohub.ai/resources/pieverse — retrieved 2026-10-19.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `pieverse`. https://satohub.ai/resources/pieverse — retrieved 2026-10-20.
 
 [← All layers](../index.md)

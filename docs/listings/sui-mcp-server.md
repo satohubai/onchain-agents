@@ -9,7 +9,7 @@ layout: "default"
 
 Community MCP server for Sui: wallet and session tools, coin/object/transaction queries, staking, SuiNS, and DEX lookups.
 
-Sato Score: **⬡ 68** (Medium), +10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 76** (High), +18 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,7 +22,7 @@ Sato Score: **⬡ 68** (Medium), +10 over 7 days — a measure of how open, acti
 - **Creator:** Matthew Karsten
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 5 days ago
+- **Activity:** Active — last activity 6 days ago
 - **GitHub stars:** 1
 - **Deploys as:** npm, local
 - **Works with:** Claude Desktop
@@ -52,6 +52,6 @@ npm install -g sui-mcp-server
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `sui-mcp-server`. https://satohub.ai/resources/sui-mcp-server — retrieved 2026-10-19.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `sui-mcp-server`. https://satohub.ai/resources/sui-mcp-server — retrieved 2026-10-20.
 
 [← All layers](../index.md)

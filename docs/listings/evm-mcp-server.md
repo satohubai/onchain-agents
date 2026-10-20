@@ -22,7 +22,7 @@ Sato Score: **⬡ 72** (High) — a measure of how open, active and verifiable t
 - **Creator:** mcpdotdirect
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 16 days ago
+- **Activity:** Active — last activity 17 days ago
 - **GitHub stars:** 378
 
 ## Deploy spec
@@ -51,6 +51,6 @@ npx @mcpdotdirect/evm-mcp-server
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `evm-mcp-server`. https://satohub.ai/resources/evm-mcp-server — retrieved 2026-10-19.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `evm-mcp-server`. https://satohub.ai/resources/evm-mcp-server — retrieved 2026-10-20.
 
 [← All layers](../index.md)

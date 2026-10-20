@@ -9,7 +9,7 @@ layout: "default"
 
 Official Sperax MCP for USDs/SPA protocol data: peg health, collateral, yield strategies, and vault risk on Arbitrum and BNB Chain.
 
-Sato Score: **⬡ 74** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 64** (Medium), -10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,7 +22,7 @@ Sato Score: **⬡ 74** (High) — a measure of how open, active and verifiable t
 - **Creator:** Sperax
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 29 days ago
+- **Activity:** Recent — last activity 30 days ago
 - **GitHub stars:** 16
 - **Deploys as:** npx (stdio for Claude Desktop, HTTP for other integrations)
 - **Works with:** Claude Desktop, Cursor, VS Code
@@ -55,6 +55,6 @@ pnpm build
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `sperax-crypto-mcp`. https://satohub.ai/resources/sperax-crypto-mcp — retrieved 2026-10-19.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `sperax-crypto-mcp`. https://satohub.ai/resources/sperax-crypto-mcp — retrieved 2026-10-20.
 
 [← All layers](../index.md)

@@ -31,6 +31,6 @@ Sato Score: **⬡ 26** (Low) — a measure of how open, active and verifiable th
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `mppscan`. https://satohub.ai/resources/mppscan — retrieved 2026-10-19.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `mppscan`. https://satohub.ai/resources/mppscan — retrieved 2026-10-20.
 
 [← All layers](../index.md)

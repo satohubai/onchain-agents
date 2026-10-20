@@ -23,8 +23,8 @@ Sato Score: **⬡ 84** (High) — a measure of how open, active and verifiable t
 - **Status:** Unknown
 - **Activity:** Quiet — last activity 6 months ago
 - **GitHub stars:** 3
-- **Deploys as:** npm
-- **Works with:** Claude, Cursor
+- **Deploys as:** npm, hosted SSE, local stdio, Docker
+- **Works with:** Claude, Cursor, GPT, Windsurf, LangChain, CrewAI, Vertex AI, AutoGen, BeeAI
 
 ## Deploy spec
 
@@ -51,6 +51,6 @@ npm install -g merx
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `merx-mcp`. https://satohub.ai/resources/merx-mcp — retrieved 2026-10-19.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `merx-mcp`. https://satohub.ai/resources/merx-mcp — retrieved 2026-10-20.
 
 [← All layers](../index.md)

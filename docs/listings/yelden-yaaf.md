@@ -18,7 +18,7 @@ Sato Score: **⬡ 60** (Medium), +15 over 7 days — a measure of how open, acti
 - **Creator:** Paulo Longen
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 9 days ago
+- **Activity:** Active — last activity 10 days ago
 - **GitHub stars:** 0
 
 ## What we checked
@@ -31,6 +31,6 @@ Sato Score: **⬡ 60** (Medium), +15 over 7 days — a measure of how open, acti
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `yelden-yaaf`. https://satohub.ai/resources/yelden-yaaf — retrieved 2026-10-19.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `yelden-yaaf`. https://satohub.ai/resources/yelden-yaaf — retrieved 2026-10-20.
 
 [← All layers](../index.md)

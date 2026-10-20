@@ -9,7 +9,7 @@ layout: "default"
 
 CLI toolkit for deploying NFT collections, minting, and running SuperRare-integrated auctions.
 
-Sato Score: **⬡ 67** (Medium), +10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 75** (High), +18 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -18,7 +18,7 @@ Sato Score: **⬡ 67** (Medium), +10 over 7 days — a measure of how open, acti
 - **Chains:** Ethereum, Base
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 1 day ago
+- **Activity:** Active — last activity today
 - **GitHub stars:** 0
 
 ## Deploy spec
@@ -47,6 +47,6 @@ npm install -g @rareprotocol/rare-cli
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `rare-protocol`. https://satohub.ai/resources/rare-protocol — retrieved 2026-10-19.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `rare-protocol`. https://satohub.ai/resources/rare-protocol — retrieved 2026-10-20.
 
 [← All layers](../index.md)

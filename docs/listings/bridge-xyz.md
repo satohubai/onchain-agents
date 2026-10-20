@@ -44,6 +44,6 @@ curl --location --request POST 'https://api.bridge.xyz/v0/transfers' --header 'A
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bridge-xyz`. https://satohub.ai/resources/bridge-xyz — retrieved 2026-10-19.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bridge-xyz`. https://satohub.ai/resources/bridge-xyz — retrieved 2026-10-20.
 
 [← All layers](../index.md)

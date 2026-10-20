@@ -37,6 +37,6 @@ Sato Score: **⬡ 48** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `agent0-sdk`. https://satohub.ai/resources/agent0-sdk — retrieved 2026-10-19.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `agent0-sdk`. https://satohub.ai/resources/agent0-sdk — retrieved 2026-10-20.
 
 [← All layers](../index.md)

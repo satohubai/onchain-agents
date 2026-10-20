@@ -22,7 +22,7 @@ Sato Score: **⬡ 67** (Medium), +1 over 7 days — a measure of how open, activ
 - **Creator:** truss44
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 2 days ago
+- **Activity:** Active — last activity 3 days ago
 - **GitHub stars:** 39
 - **Deploys as:** npm, Streamable HTTP (self-hosted)
 - **Works with:** Claude Desktop
@@ -52,6 +52,6 @@ npx -y mcp-crypto-price
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `mcp-crypto-price`. https://satohub.ai/resources/mcp-crypto-price — retrieved 2026-10-19.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `mcp-crypto-price`. https://satohub.ai/resources/mcp-crypto-price — retrieved 2026-10-20.
 
 [← All layers](../index.md)

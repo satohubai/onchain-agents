@@ -9,7 +9,7 @@ layout: "default"
 
 Official Tatum MCP exposing blockchain data and RPC gateway access across 130+ networks.
 
-Sato Score: **⬡ 59** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 67** (Medium), +8 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -53,6 +53,6 @@ npx @tatumio/blockchain-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `tatum-blockchain-mcp`. https://satohub.ai/resources/tatum-blockchain-mcp — retrieved 2026-10-19.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `tatum-blockchain-mcp`. https://satohub.ai/resources/tatum-blockchain-mcp — retrieved 2026-10-20.
 
 [← All layers](../index.md)

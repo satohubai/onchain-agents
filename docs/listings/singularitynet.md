@@ -21,7 +21,7 @@ Sato Score: **⬡ 40** (Medium), -1 over 7 days — a measure of how open, activ
 
 ## What we checked
 
-- Live endpoint probed by us: 98% of our checks succeeded over 49 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 98% of our checks succeeded over 50 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -30,6 +30,6 @@ Sato Score: **⬡ 40** (Medium), -1 over 7 days — a measure of how open, activ
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `singularitynet`. https://satohub.ai/resources/singularitynet — retrieved 2026-10-19.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `singularitynet`. https://satohub.ai/resources/singularitynet — retrieved 2026-10-20.
 
 [← All layers](../index.md)

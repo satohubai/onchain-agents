@@ -18,7 +18,7 @@ Sato Score: **⬡ 53** (Medium), +1 over 7 days — a measure of how open, activ
 - **Chains:** Base, Arbitrum, Polygon
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Quiet — last activity 6 months ago
+- **Activity:** Quiet — last activity 7 months ago
 - **GitHub stars:** 4
 
 ## Deploy spec
@@ -48,6 +48,6 @@ npm install @monapi/sdk @x402/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `monapi`. https://satohub.ai/resources/monapi — retrieved 2026-10-19.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `monapi`. https://satohub.ai/resources/monapi — retrieved 2026-10-20.
 
 [← All layers](../index.md)

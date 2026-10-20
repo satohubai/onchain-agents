@@ -47,6 +47,6 @@ npm install squads-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `squads-mcp`. https://satohub.ai/resources/squads-mcp — retrieved 2026-10-19.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `squads-mcp`. https://satohub.ai/resources/squads-mcp — retrieved 2026-10-20.
 
 [← All layers](../index.md)

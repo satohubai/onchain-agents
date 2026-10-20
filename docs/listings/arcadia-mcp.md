@@ -22,7 +22,7 @@ Sato Score: **⬡ 79** (High), +1 over 7 days — a measure of how open, active 
 - **Creator:** Arcadia Finance
 - **Open source:** Yes
 - **Status:** Unknown
-- **Activity:** Recent — last activity 1 month ago
+- **Activity:** Active — last activity today
 - **GitHub stars:** 5
 - **Deploys as:** npm
 - **Works with:** Claude, Cursor, VS Code
@@ -53,6 +53,6 @@ npx -y @arcadia-finance/mcp-server
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `arcadia-mcp`. https://satohub.ai/resources/arcadia-mcp — retrieved 2026-10-19.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `arcadia-mcp`. https://satohub.ai/resources/arcadia-mcp — retrieved 2026-10-20.
 
 [← All layers](../index.md)

@@ -48,6 +48,6 @@ npx skills add sendaifun/skills
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `sendai-skills`. https://satohub.ai/resources/sendai-skills — retrieved 2026-10-19.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `sendai-skills`. https://satohub.ai/resources/sendai-skills — retrieved 2026-10-20.
 
 [← All layers](../index.md)
