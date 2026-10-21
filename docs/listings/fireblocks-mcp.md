@@ -37,6 +37,6 @@ Sato Score: **⬡ 57** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `fireblocks-mcp`. https://satohub.ai/resources/fireblocks-mcp — retrieved 2026-10-20.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `fireblocks-mcp`. https://satohub.ai/resources/fireblocks-mcp — retrieved 2026-10-21.
 
 [← All layers](../index.md)

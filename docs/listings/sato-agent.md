@@ -19,7 +19,7 @@ Sato Score: **⬡ 66** (Medium), +1 over 7 days — a measure of how open, activ
 - **Creator:** Sato Hub
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity today
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 1
 
 ## What we checked
@@ -32,6 +32,6 @@ Sato Score: **⬡ 66** (Medium), +1 over 7 days — a measure of how open, activ
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `sato-agent`. https://satohub.ai/resources/sato-agent — retrieved 2026-10-20.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `sato-agent`. https://satohub.ai/resources/sato-agent — retrieved 2026-10-21.
 
 [← All layers](../index.md)

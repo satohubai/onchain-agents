@@ -9,7 +9,7 @@ layout: "default"
 
 NestJS-based toolkit for building AI agents that interact with Starknet, supporting multiple LLM providers.
 
-Sato Score: **⬡ 58** (Medium), -1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 58** (Medium), +14 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -51,6 +51,6 @@ cp .env.example .env
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `snak-starknet-agent-kit`. https://satohub.ai/resources/snak-starknet-agent-kit — retrieved 2026-10-20.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `snak-starknet-agent-kit`. https://satohub.ai/resources/snak-starknet-agent-kit — retrieved 2026-10-21.
 
 [← All layers](../index.md)

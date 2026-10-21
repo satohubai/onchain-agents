@@ -22,8 +22,8 @@ Sato Score: **⬡ 78** (High) — a measure of how open, active and verifiable t
 - **Creator:** Socket
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 4 days ago
-- **GitHub stars:** 327
+- **Activity:** Active — last activity 1 day ago
+- **GitHub stars:** 334
 - **Deploys as:** npm, mcp server, hosted
 - **Works with:** npm, pnpm, yarn, Claude Desktop, GitHub, GitLab, Bitbucket, Jenkins, Azure DevOps, Slack, Jira, Linear
 
@@ -37,6 +37,6 @@ Sato Score: **⬡ 78** (High) — a measure of how open, active and verifiable t
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `socket`. https://satohub.ai/resources/socket — retrieved 2026-10-20.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `socket`. https://satohub.ai/resources/socket — retrieved 2026-10-21.
 
 [← All layers](../index.md)

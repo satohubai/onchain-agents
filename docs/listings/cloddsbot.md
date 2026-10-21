@@ -20,7 +20,7 @@ Sato Score: **⬡ 83** (High) — a measure of how open, active and verifiable t
 - **Creator:** alsk1992
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 17 days ago
+- **Activity:** Active — last activity 18 days ago
 - **GitHub stars:** 3.0k
 - **Deploys as:** npm, Self-hosted
 - **Works with:** Polymarket, Kalshi, Binance, Hyperliquid, Jupiter, Raydium, Uniswap, 1inch, Bittensor
@@ -51,6 +51,6 @@ npm install -g clodds --loglevel=error
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cloddsbot`. https://satohub.ai/resources/cloddsbot — retrieved 2026-10-20.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cloddsbot`. https://satohub.ai/resources/cloddsbot — retrieved 2026-10-21.
 
 [← All layers](../index.md)

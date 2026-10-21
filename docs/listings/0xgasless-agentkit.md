@@ -52,6 +52,6 @@ npm install @0xgasless/agentkit tslib
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `0xgasless-agentkit`. https://satohub.ai/resources/0xgasless-agentkit — retrieved 2026-10-20.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `0xgasless-agentkit`. https://satohub.ai/resources/0xgasless-agentkit — retrieved 2026-10-21.
 
 [← All layers](../index.md)

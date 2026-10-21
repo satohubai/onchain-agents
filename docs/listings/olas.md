@@ -21,7 +21,7 @@ Sato Score: **⬡ 80** (High), -10 over 7 days — a measure of how open, active
 - **Creator:** Olas DAO
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Recent — last activity 4 days ago
+- **Activity:** Recent — last activity 5 days ago
 - **GitHub stars:** 128
 - **Deploys as:** Self-hosted, Docker, Kubernetes
 - **Works with:** Safe, Polymarket, Tenderly
@@ -53,6 +53,6 @@ pip install open-aea-ledger-ethereum
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `olas`. https://satohub.ai/resources/olas — retrieved 2026-10-20.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `olas`. https://satohub.ai/resources/olas — retrieved 2026-10-21.
 
 [← All layers](../index.md)

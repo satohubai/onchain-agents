@@ -9,7 +9,7 @@ layout: "default"
 
 Solana Foundation's official MCP serving live developer docs, semantic search, and a program autofixer.
 
-Sato Score: **⬡ 70** (High), +1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 70** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,7 +21,7 @@ Sato Score: **⬡ 70** (High), +1 over 7 days — a measure of how open, active 
 - **Creator:** Solana Foundation
 - **Open source:** Unknown
 - **Status:** Active
-- **Activity:** Active — last activity 3 days ago
+- **Activity:** Active — last activity today
 - **GitHub stars:** 82
 - **Deploys as:** Hosted API
 - **Works with:** Claude Code, Cursor, Windsurf, VS Code, Codex
@@ -50,6 +50,6 @@ claude mcp add --transport http solana-mcp https://mcp.solana.com/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solana-foundation-mcp`. https://satohub.ai/resources/solana-foundation-mcp — retrieved 2026-10-20.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solana-foundation-mcp`. https://satohub.ai/resources/solana-foundation-mcp — retrieved 2026-10-21.
 
 [← All layers](../index.md)

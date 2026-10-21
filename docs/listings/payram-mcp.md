@@ -9,23 +9,23 @@ layout: "default"
 
 PayRam's MCP server for self-hosted crypto payments: hosted endpoints and agent payment workflows.
 
-Sato Score: **⬡ 73** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 82** (High), +9 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
 - **Category:** Payment Rail
 - **Type:** Tool/Service
-- **Chains:** Multichain
+- **Chains:** Multichain, Bitcoin, Ethereum, Base, Polygon, Tron, Solana, BNB Chain
 - **Standards:** mcp
 - **Interfaces:** mcp, rest-api
 - **Use cases:** payments
 - **Creator:** PayRam
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 9 days ago
+- **Activity:** Active — last activity 10 days ago
 - **GitHub stars:** 158
-- **Deploys as:** Hosted API, Self-hosted (Docker/VPS)
-- **Works with:** OpenClaw, Hermes, Claude, Cursor, GitHub Copilot
+- **Deploys as:** Hosted API, Self-hosted (Docker/VPS), Local mode
+- **Works with:** OpenClaw, Hermes, Claude, Cursor, GitHub Copilot, n8n, LangChain
 
 ## Deploy spec
 
@@ -48,10 +48,10 @@ yarn install
 
 ## Links
 
-[Website](https://github.com/PayRam/payram-mcp) · [GitHub](https://github.com/PayRam/payram-mcp) · [Sato Hub page ↗](https://satohub.ai/resources/payram-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents)
+[Website](https://github.com/PayRam/payram-mcp) · [Docs](https://docs.payram.com) · [GitHub](https://github.com/PayRam/payram-mcp) · [Sato Hub page ↗](https://satohub.ai/resources/payram-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents)
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `payram-mcp`. https://satohub.ai/resources/payram-mcp — retrieved 2026-10-20.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `payram-mcp`. https://satohub.ai/resources/payram-mcp — retrieved 2026-10-21.
 
 [← All layers](../index.md)

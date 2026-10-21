@@ -9,7 +9,7 @@ layout: "default"
 
 Zero-config MCP access to DexPaprika's DEX data — tokens, liquidity pools, and OHLCV across 33 chains.
 
-Sato Score: **⬡ 86** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 87** (High), +1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,8 +22,8 @@ Sato Score: **⬡ 86** (High) — a measure of how open, active and verifiable t
 - **Creator:** CoinPaprika
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 4 days ago
-- **GitHub stars:** 53
+- **Activity:** Active — last activity 5 days ago
+- **GitHub stars:** 101
 - **Deploys as:** npm install -g / npx, or one-line Smithery install
 - **Works with:** Claude Desktop
 
@@ -52,6 +52,6 @@ npm install -g dexpaprika-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `dexpaprika-mcp`. https://satohub.ai/resources/dexpaprika-mcp — retrieved 2026-10-20.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `dexpaprika-mcp`. https://satohub.ai/resources/dexpaprika-mcp — retrieved 2026-10-21.
 
 [← All layers](../index.md)

@@ -52,6 +52,6 @@ pnpm build
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `oraichain-multichain-mcp`. https://satohub.ai/resources/oraichain-multichain-mcp — retrieved 2026-10-20.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `oraichain-multichain-mcp`. https://satohub.ai/resources/oraichain-multichain-mcp — retrieved 2026-10-21.
 
 [← All layers](../index.md)

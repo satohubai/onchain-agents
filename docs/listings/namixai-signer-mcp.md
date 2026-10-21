@@ -18,7 +18,7 @@ Sato Score: **⬡ 69** (Medium), +8 over 7 days — a measure of how open, activ
 - **Chains:** Unknown
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 19 days ago
+- **Activity:** Active — last activity 20 days ago
 - **GitHub stars:** 2
 
 ## Deploy spec
@@ -47,6 +47,6 @@ npm install @usenami/signer-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `namixai-signer-mcp`. https://satohub.ai/resources/namixai-signer-mcp — retrieved 2026-10-20.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `namixai-signer-mcp`. https://satohub.ai/resources/namixai-signer-mcp — retrieved 2026-10-21.
 
 [← All layers](../index.md)

@@ -25,7 +25,7 @@ Sato Score: **⬡ 61** (Medium) — a measure of how open, active and verifiable
 - **Activity:** Quiet — last activity 5 months ago
 - **GitHub stars:** 3
 - **Deploys as:** npm
-- **Works with:** Claude Desktop, Cursor, LangChain, ElizaOS
+- **Works with:** Claude Desktop, Cursor, LangChain, ElizaOS, Cline
 
 ## Deploy spec
 
@@ -53,6 +53,6 @@ npx -y @traderouter/trade-router-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `trade-router-mcp`. https://satohub.ai/resources/trade-router-mcp — retrieved 2026-10-20.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `trade-router-mcp`. https://satohub.ai/resources/trade-router-mcp — retrieved 2026-10-21.
 
 [← All layers](../index.md)

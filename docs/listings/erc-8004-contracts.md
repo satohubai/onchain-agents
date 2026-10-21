@@ -35,6 +35,6 @@ Sato Score: **⬡ 42** (Medium), +8 over 7 days — a measure of how open, activ
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `erc-8004-contracts`. https://satohub.ai/resources/erc-8004-contracts — retrieved 2026-10-20.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `erc-8004-contracts`. https://satohub.ai/resources/erc-8004-contracts — retrieved 2026-10-21.
 
 [← All layers](../index.md)

@@ -9,7 +9,7 @@ layout: "default"
 
 deBridge's official MCP for cross-chain and same-chain token swaps, fee estimation, and trade execution.
 
-Sato Score: **⬡ 77** (High), +1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 77** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,7 +22,7 @@ Sato Score: **⬡ 77** (High), +1 over 7 days — a measure of how open, active 
 - **Creator:** deBridge
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 6 days ago
+- **Activity:** Active — last activity 7 days ago
 - **GitHub stars:** 31
 - **Deploys as:** Hosted API, npm, Docker, Streamable HTTP, stdio
 - **Works with:** Claude Code, Claude Web, Claude Desktop, Cursor, GitHub Copilot, Windsurf, Cline, Continue, Zed, OpenClaw
@@ -52,6 +52,6 @@ claude mcp add debridge --transport http https://agents.debridge.com/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `debridge-mcp`. https://satohub.ai/resources/debridge-mcp — retrieved 2026-10-20.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `debridge-mcp`. https://satohub.ai/resources/debridge-mcp — retrieved 2026-10-21.
 
 [← All layers](../index.md)

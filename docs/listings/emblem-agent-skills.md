@@ -9,7 +9,7 @@ layout: "default"
 
 Skill collection for EmblemAI agents — 200+ crypto tools across seven blockchains.
 
-Sato Score: **⬡ 70** (High), -1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 70** (High), +6 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -55,6 +55,6 @@ claude mcp add --transport http EmblemAI https://emblemvault.ai/api/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `emblem-agent-skills`. https://satohub.ai/resources/emblem-agent-skills — retrieved 2026-10-20.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `emblem-agent-skills`. https://satohub.ai/resources/emblem-agent-skills — retrieved 2026-10-21.
 
 [← All layers](../index.md)

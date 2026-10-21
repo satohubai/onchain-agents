@@ -21,7 +21,7 @@ Sato Score: **⬡ 53** (Medium), +10 over 7 days — a measure of how open, acti
 - **Creator:** Lucci Labs
 - **Open source:** Unknown
 - **Status:** Active
-- **Activity:** Active — last activity 18 days ago
+- **Activity:** Active — last activity 19 days ago
 - **GitHub stars:** 3
 - **Works with:** GitHub
 
@@ -35,6 +35,6 @@ Sato Score: **⬡ 53** (Medium), +10 over 7 days — a measure of how open, acti
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bountypay`. https://satohub.ai/resources/bountypay — retrieved 2026-10-20.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bountypay`. https://satohub.ai/resources/bountypay — retrieved 2026-10-21.
 
 [← All layers](../index.md)

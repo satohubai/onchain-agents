@@ -20,7 +20,7 @@ Sato Score: **⬡ 53** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Chutes
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Recent — last activity 2 months ago
+- **Activity:** Quiet — last activity 3 months ago
 - **GitHub stars:** 90
 
 ## What we checked
@@ -33,6 +33,6 @@ Sato Score: **⬡ 53** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `chutes-ai`. https://satohub.ai/resources/chutes-ai — retrieved 2026-10-20.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `chutes-ai`. https://satohub.ai/resources/chutes-ai — retrieved 2026-10-21.
 
 [← All layers](../index.md)

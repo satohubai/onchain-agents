@@ -19,7 +19,7 @@ Sato Score: **⬡ 76** (High) — a measure of how open, active and verifiable t
 - **Creator:** Coinbase
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 27 days ago
+- **Activity:** Active — last activity 28 days ago
 - **GitHub stars:** 1.0k
 
 ## Deploy spec
@@ -46,6 +46,6 @@ npm create onchain
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `onchainkit`. https://satohub.ai/resources/onchainkit — retrieved 2026-10-20.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `onchainkit`. https://satohub.ai/resources/onchainkit — retrieved 2026-10-21.
 
 [← All layers](../index.md)

@@ -9,7 +9,7 @@ layout: "default"
 
 US stock market data API (formerly Polygon.io); agents buy it per request over x402 at agent.massive.com with no account.
 
-Sato Score: **⬡ 69** (Medium), +15 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 71** (High), +17 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,13 +22,13 @@ Sato Score: **⬡ 69** (Medium), +15 over 7 days — a measure of how open, acti
 - **Creator:** Massive
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 12 days ago
+- **Activity:** Active — last activity 13 days ago
 - **GitHub stars:** 398
 - **Deploys as:** Hosted/Remote
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 27 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 28 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -37,6 +37,6 @@ Sato Score: **⬡ 69** (Medium), +15 over 7 days — a measure of how open, acti
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `massive`. https://satohub.ai/resources/massive — retrieved 2026-10-20.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `massive`. https://satohub.ai/resources/massive — retrieved 2026-10-21.
 
 [← All layers](../index.md)

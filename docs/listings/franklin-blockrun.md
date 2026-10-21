@@ -21,7 +21,7 @@ Sato Score: **⬡ 78** (High), +8 over 7 days — a measure of how open, active 
 - **Creator:** BlockRun
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 1 day ago
+- **Activity:** Active — last activity today
 - **GitHub stars:** 559
 - **Deploys as:** npm, VS Code extension
 - **Works with:** x402, USDC, VS Code, BlockRun gateway
@@ -51,6 +51,6 @@ npm install -g @blockrun/franklin
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `franklin-blockrun`. https://satohub.ai/resources/franklin-blockrun — retrieved 2026-10-20.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `franklin-blockrun`. https://satohub.ai/resources/franklin-blockrun — retrieved 2026-10-21.
 
 [← All layers](../index.md)

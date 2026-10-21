@@ -21,7 +21,7 @@ Sato Score: **⬡ 71** (High) — a measure of how open, active and verifiable t
 - **Creator:** Morpheus
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity today
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 24
 - **Deploys as:** Hosted API, Desktop app, CLI, Self-hosted node, Railway, SecretVM (TEE)
 - **Works with:** OpenAI Python SDK, Vercel AI SDK, Cursor, OpenCode, LangChain, Eliza, n8n, Open WebUI, Brave Leo
@@ -36,6 +36,6 @@ Sato Score: **⬡ 71** (High) — a measure of how open, active and verifiable t
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `morpheus-ai`. https://satohub.ai/resources/morpheus-ai — retrieved 2026-10-20.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `morpheus-ai`. https://satohub.ai/resources/morpheus-ai — retrieved 2026-10-21.
 
 [← All layers](../index.md)

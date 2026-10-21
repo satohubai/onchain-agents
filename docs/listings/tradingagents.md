@@ -21,7 +21,7 @@ Sato Score: **⬡ 88** (High) — a measure of how open, active and verifiable t
 - **Creator:** Tauric Research
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 3 days ago
+- **Activity:** Active — last activity 4 days ago
 - **GitHub stars:** 112.1k
 - **Deploys as:** Self-hosted, pip, Docker
 - **Works with:** LangGraph, OpenAI, Anthropic, Google Gemini, xAI Grok, DeepSeek, Ollama, OpenRouter, Yahoo Finance, Alpha Vantage
@@ -53,6 +53,6 @@ pip install .
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `tradingagents`. https://satohub.ai/resources/tradingagents — retrieved 2026-10-20.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `tradingagents`. https://satohub.ai/resources/tradingagents — retrieved 2026-10-21.
 
 [← All layers](../index.md)

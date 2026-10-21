@@ -22,7 +22,7 @@ Sato Score: **⬡ 74** (High), +10 over 7 days — a measure of how open, active
 - **Creator:** qntx
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity today
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 262
 - **Deploys as:** pip
 - **Works with:** OpenAI, x402, USDC
@@ -53,6 +53,6 @@ pip install x402-openai[evm]
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `x402-openai-python`. https://satohub.ai/resources/x402-openai-python — retrieved 2026-10-20.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `x402-openai-python`. https://satohub.ai/resources/x402-openai-python — retrieved 2026-10-21.
 
 [← All layers](../index.md)

@@ -38,7 +38,7 @@ npx @mbrassey/solentic-mcp
 
 ## What we checked
 
-- Live endpoint probed by us: 98% of our checks succeeded over 49 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 98% of our checks succeeded over 50 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -47,6 +47,6 @@ npx @mbrassey/solentic-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solentic`. https://satohub.ai/resources/solentic — retrieved 2026-10-20.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solentic`. https://satohub.ai/resources/solentic — retrieved 2026-10-21.
 
 [← All layers](../index.md)
