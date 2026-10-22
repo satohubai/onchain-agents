@@ -22,7 +22,7 @@ Sato Score: **⬡ 41** (Medium), -9 over 7 days — a measure of how open, activ
 
 ## What we checked
 
-- Live endpoint probed by us: 96% of our checks succeeded over 25 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 96.2% of our checks succeeded over 26 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -31,6 +31,6 @@ Sato Score: **⬡ 41** (Medium), -9 over 7 days — a measure of how open, activ
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `quant-flow`. https://satohub.ai/resources/quant-flow — retrieved 2026-10-21.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `quant-flow`. https://satohub.ai/resources/quant-flow — retrieved 2026-10-22.
 
 [← All layers](../index.md)

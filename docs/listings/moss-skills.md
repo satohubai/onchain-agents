@@ -22,7 +22,7 @@ Sato Score: **⬡ 65** (Medium) — a measure of how open, active and verifiable
 - **Open source:** Yes
 - **Status:** Active
 - **Activity:** Recent — last activity 2 months ago
-- **GitHub stars:** 3
+- **GitHub stars:** 4
 - **Deploys as:** Claude Code plugin, Self-hosted
 - **Works with:** MOSS Wallet SDK, Claude Code, Cursor, Codex, Gemini, wagmi, Copilot
 
@@ -42,7 +42,7 @@ npx skills add megaeth-labs/skills --skill "*"
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 50 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 51 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -51,6 +51,6 @@ npx skills add megaeth-labs/skills --skill "*"
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `moss-skills`. https://satohub.ai/resources/moss-skills — retrieved 2026-10-21.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `moss-skills`. https://satohub.ai/resources/moss-skills — retrieved 2026-10-22.
 
 [← All layers](../index.md)

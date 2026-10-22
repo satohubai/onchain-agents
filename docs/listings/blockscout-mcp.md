@@ -54,6 +54,6 @@ docker pull ghcr.io/blockscout/mcp-server:latest
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `blockscout-mcp`. https://satohub.ai/resources/blockscout-mcp — retrieved 2026-10-21.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `blockscout-mcp`. https://satohub.ai/resources/blockscout-mcp — retrieved 2026-10-22.
 
 [← All layers](../index.md)

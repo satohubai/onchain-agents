@@ -21,7 +21,7 @@ Sato Score: **⬡ 87** (High) — a measure of how open, active and verifiable t
 - **Creator:** elizaOS
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 7 days ago
+- **Activity:** Active — last activity today
 - **GitHub stars:** 19.6k
 - **Deploys as:** Self-hosted, Docker, Hosted, npm
 - **Works with:** Discord, Telegram, Twitter, Farcaster, OpenAI, Anthropic, MCP, Vercel, Cloudflare, Supabase
@@ -52,6 +52,6 @@ bun add -g elizaos@beta
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `elizaos`. https://satohub.ai/resources/elizaos — retrieved 2026-10-21.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `elizaos`. https://satohub.ai/resources/elizaos — retrieved 2026-10-22.
 
 [← All layers](../index.md)

@@ -32,6 +32,6 @@ Sato Score: **⬡ 35** (Low) — a measure of how open, active and verifiable th
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ethskills`. https://satohub.ai/resources/ethskills — retrieved 2026-10-21.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ethskills`. https://satohub.ai/resources/ethskills — retrieved 2026-10-22.
 
 [← All layers](../index.md)

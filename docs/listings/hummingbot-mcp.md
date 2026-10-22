@@ -53,6 +53,6 @@ cd mcp && uv sync
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `hummingbot-mcp`. https://satohub.ai/resources/hummingbot-mcp — retrieved 2026-10-21.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `hummingbot-mcp`. https://satohub.ai/resources/hummingbot-mcp — retrieved 2026-10-22.
 
 [← All layers](../index.md)

@@ -53,6 +53,6 @@ npx -y @bankless/onchain-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bankless-onchain-mcp`. https://satohub.ai/resources/bankless-onchain-mcp — retrieved 2026-10-21.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bankless-onchain-mcp`. https://satohub.ai/resources/bankless-onchain-mcp — retrieved 2026-10-22.
 
 [← All layers](../index.md)

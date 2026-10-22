@@ -50,6 +50,6 @@ claude mcp add cow-mcp -s project --transport http https://cow-mcp.netlify.app/m
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cow-mcp`. https://satohub.ai/resources/cow-mcp — retrieved 2026-10-21.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cow-mcp`. https://satohub.ai/resources/cow-mcp — retrieved 2026-10-22.
 
 [← All layers](../index.md)

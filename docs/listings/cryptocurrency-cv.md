@@ -22,7 +22,7 @@ Sato Score: **⬡ 80** (High) — a measure of how open, active and verifiable t
 - **Open source:** Yes
 - **Status:** Early
 - **Activity:** Active — last activity 1 day ago
-- **GitHub stars:** 321
+- **GitHub stars:** 322
 - **Deploys as:** API, Docker, MCP server, npm
 - **Works with:** ChatGPT, Claude, LangChain, Python SDK, TypeScript SDK
 
@@ -52,6 +52,6 @@ docker pull ghcr.io/nirholas/free-crypto-news && docker run -p 3000:3000 ghcr.io
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cryptocurrency-cv`. https://satohub.ai/resources/cryptocurrency-cv — retrieved 2026-10-21.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cryptocurrency-cv`. https://satohub.ai/resources/cryptocurrency-cv — retrieved 2026-10-22.
 
 [← All layers](../index.md)

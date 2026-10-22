@@ -34,6 +34,6 @@ Sato Score: **⬡ 73** (High) — a measure of how open, active and verifiable t
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `mpp-services-directory`. https://satohub.ai/resources/mpp-services-directory — retrieved 2026-10-21.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `mpp-services-directory`. https://satohub.ai/resources/mpp-services-directory — retrieved 2026-10-22.
 
 [← All layers](../index.md)

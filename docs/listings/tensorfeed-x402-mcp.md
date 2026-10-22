@@ -9,7 +9,7 @@ layout: "default"
 
 Read-only Base mainnet MCP for x402: verify USDC settlements, parse x402 manifests, probe endpoints, decode payment payloads.
 
-Sato Score: **⬡ 75** (High), +18 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 75** (High), +8 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,7 +21,7 @@ Sato Score: **⬡ 75** (High), +18 over 7 days — a measure of how open, active
 - **Use cases:** payments, security
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 7 days ago
+- **Activity:** Active — last activity 8 days ago
 - **GitHub stars:** 2
 - **Deploys as:** npm
 - **Works with:** Claude Desktop, Claude Code, Cursor, ChatGPT
@@ -52,6 +52,6 @@ npm install -g @tensorfeed/x402-base-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `tensorfeed-x402-mcp`. https://satohub.ai/resources/tensorfeed-x402-mcp — retrieved 2026-10-21.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `tensorfeed-x402-mcp`. https://satohub.ai/resources/tensorfeed-x402-mcp — retrieved 2026-10-22.
 
 [← All layers](../index.md)

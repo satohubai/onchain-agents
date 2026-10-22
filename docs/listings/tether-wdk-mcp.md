@@ -53,6 +53,6 @@ npm run setup
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `tether-wdk-mcp`. https://satohub.ai/resources/tether-wdk-mcp — retrieved 2026-10-21.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `tether-wdk-mcp`. https://satohub.ai/resources/tether-wdk-mcp — retrieved 2026-10-22.
 
 [← All layers](../index.md)

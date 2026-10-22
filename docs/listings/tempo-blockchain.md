@@ -34,6 +34,6 @@ Sato Score: **⬡ 79** (High) — a measure of how open, active and verifiable t
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `tempo-blockchain`. https://satohub.ai/resources/tempo-blockchain — retrieved 2026-10-21.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `tempo-blockchain`. https://satohub.ai/resources/tempo-blockchain — retrieved 2026-10-22.
 
 [← All layers](../index.md)

@@ -47,6 +47,6 @@ para create my-app
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `para-wallet-skill`. https://satohub.ai/resources/para-wallet-skill — retrieved 2026-10-21.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `para-wallet-skill`. https://satohub.ai/resources/para-wallet-skill — retrieved 2026-10-22.
 
 [← All layers](../index.md)

@@ -18,7 +18,7 @@ Sato Score: **⬡ 50** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Bitcoin, Ethereum, Solana
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Quiet — last activity 4 months ago
+- **Activity:** Quiet — last activity 5 months ago
 - **GitHub stars:** 0
 - **Deploys as:** Hosted
 
@@ -38,7 +38,7 @@ claude mcp add btc-whale-intelligence https://mcp.swisswhaleintelligence.com/mcp
 
 ## What we checked
 
-- Live endpoint probed by us: 98% of our checks succeeded over 50 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 98% of our checks succeeded over 51 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -47,6 +47,6 @@ claude mcp add btc-whale-intelligence https://mcp.swisswhaleintelligence.com/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `swiss-whale-intelligence-mcp`. https://satohub.ai/resources/swiss-whale-intelligence-mcp — retrieved 2026-10-21.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `swiss-whale-intelligence-mcp`. https://satohub.ai/resources/swiss-whale-intelligence-mcp — retrieved 2026-10-22.
 
 [← All layers](../index.md)

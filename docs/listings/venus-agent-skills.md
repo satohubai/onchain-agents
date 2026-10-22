@@ -9,7 +9,7 @@ layout: "default"
 
 Official Venus Protocol agent-skill toolkit with a lending skill for the Venus money market.
 
-Sato Score: **⬡ 48** (Medium), +1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 50** (Medium), +3 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -23,7 +23,8 @@ Sato Score: **⬡ 48** (Medium), +1 over 7 days — a measure of how open, activ
 - **Status:** Unknown
 - **Activity:** Quiet — last activity 7 months ago
 - **GitHub stars:** 3
-- **Deploys as:** npm install (OpenClaw workspace skill)
+- **Deploys as:** npm install (OpenClaw workspace skill), copy skill folder into OpenClaw workspace skills directory, import packaged dist/venus-protocol-ops.skill file
+- **Works with:** OpenClaw, Venus Protocol, Flux (Fluid)
 
 ## Deploy spec
 
@@ -51,6 +52,6 @@ npm install
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `venus-agent-skills`. https://satohub.ai/resources/venus-agent-skills — retrieved 2026-10-21.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `venus-agent-skills`. https://satohub.ai/resources/venus-agent-skills — retrieved 2026-10-22.
 
 [← All layers](../index.md)

@@ -9,7 +9,7 @@ layout: "default"
 
 Open-source runtime for running apps and agents in confidential VMs, with attested deployment, key release policy and an RA-TLS gateway.
 
-Sato Score: **⬡ 72** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 72** (High), +5 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -20,7 +20,7 @@ Sato Score: **⬡ 72** (High) — a measure of how open, active and verifiable t
 - **Creator:** Dstack-TEE
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 1 day ago
+- **Activity:** Active — last activity today
 - **GitHub stars:** 561
 - **Deploys as:** self-hosted bare metal Intel TDX, self-hosted bare metal AMD SEV-SNP, Phala Cloud, GCP Confidential VMs, AWS Nitro Enclaves
 - **Works with:** Docker Compose, NVIDIA Confidential Computing, Python SDK, TypeScript SDK, Rust SDK, Go SDK, Ethereum smart contracts
@@ -35,6 +35,6 @@ Sato Score: **⬡ 72** (High) — a measure of how open, active and verifiable t
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `dstack-tee`. https://satohub.ai/resources/dstack-tee — retrieved 2026-10-21.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `dstack-tee`. https://satohub.ai/resources/dstack-tee — retrieved 2026-10-22.
 
 [← All layers](../index.md)

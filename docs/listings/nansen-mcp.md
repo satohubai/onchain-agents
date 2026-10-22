@@ -50,6 +50,6 @@ claude mcp add --transport http nansen https://mcp.nansen.ai/ra/mcp --header "NA
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `nansen-mcp`. https://satohub.ai/resources/nansen-mcp — retrieved 2026-10-21.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `nansen-mcp`. https://satohub.ai/resources/nansen-mcp — retrieved 2026-10-22.
 
 [← All layers](../index.md)

@@ -22,7 +22,7 @@ Sato Score: **⬡ 67** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Openfort
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 23 days ago
+- **Activity:** Active — last activity 24 days ago
 - **GitHub stars:** 10
 - **Deploys as:** npm, cli
 
@@ -36,6 +36,6 @@ Sato Score: **⬡ 67** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `openfort`. https://satohub.ai/resources/openfort — retrieved 2026-10-21.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `openfort`. https://satohub.ai/resources/openfort — retrieved 2026-10-22.
 
 [← All layers](../index.md)

@@ -9,20 +9,20 @@ layout: "default"
 
 CoinDCX's embedded-wallet SDK: MPC key management, social login and chain-abstracted transactions across EVM and non-EVM chains.
 
-Sato Score: **⬡ 49** (Medium), +2 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 50** (Medium), +3 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
 - **Category:** Wallet Infrastructure
 - **Type:** Infrastructure
-- **Chains:** Ethereum, Polygon, Solana, Aptos, Multichain
+- **Chains:** Ethereum, Polygon, Solana, Aptos, Multichain, Cosmos
 - **Creator:** CoinDCX
 - **Open source:** Partial
 - **Status:** Active
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 29 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 30 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -31,6 +31,6 @@ Sato Score: **⬡ 49** (Medium), +2 over 7 days — a measure of how open, activ
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `okto`. https://satohub.ai/resources/okto — retrieved 2026-10-21.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `okto`. https://satohub.ai/resources/okto — retrieved 2026-10-22.
 
 [← All layers](../index.md)

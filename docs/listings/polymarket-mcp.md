@@ -54,6 +54,6 @@ pip install -e .
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `polymarket-mcp`. https://satohub.ai/resources/polymarket-mcp — retrieved 2026-10-21.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `polymarket-mcp`. https://satohub.ai/resources/polymarket-mcp — retrieved 2026-10-22.
 
 [← All layers](../index.md)

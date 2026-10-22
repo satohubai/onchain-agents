@@ -52,6 +52,6 @@ claude mcp add --transport sse chainaware-behavioural-prediction-mcp-server http
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `chainaware`. https://satohub.ai/resources/chainaware — retrieved 2026-10-21.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `chainaware`. https://satohub.ai/resources/chainaware — retrieved 2026-10-22.
 
 [← All layers](../index.md)

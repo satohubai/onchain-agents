@@ -9,7 +9,7 @@ layout: "default"
 
 MCP server for perp funding rates and cross-exchange data across 20+ venues, including Hyperliquid HIP-3.
 
-Sato Score: **⬡ 59** (Medium), +6 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 59** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -47,6 +47,6 @@ npx -y @usenami/funding-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `namixai-funding-mcp`. https://satohub.ai/resources/namixai-funding-mcp — retrieved 2026-10-21.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `namixai-funding-mcp`. https://satohub.ai/resources/namixai-funding-mcp — retrieved 2026-10-22.
 
 [← All layers](../index.md)

@@ -22,7 +22,7 @@ Sato Score: **⬡ 52** (Medium) — a measure of how open, active and verifiable
 - **Creator:** minhoyoo-iotrust
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Quiet — last activity 5 months ago
+- **Activity:** Quiet — last activity 6 months ago
 - **GitHub stars:** 0
 - **Deploys as:** self-hosted, Docker, npm
 - **Works with:** MCP, Claude Desktop, Claude Code, OpenClaw, Jupiter, 0x, LI.FI, Lido, Jito, Aave V3, Kamino, Pendle
@@ -55,6 +55,6 @@ waiaas quickset --mode mainnet
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `waiaas`. https://satohub.ai/resources/waiaas — retrieved 2026-10-21.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `waiaas`. https://satohub.ai/resources/waiaas — retrieved 2026-10-22.
 
 [← All layers](../index.md)

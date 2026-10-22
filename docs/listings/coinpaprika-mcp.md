@@ -9,7 +9,7 @@ layout: "default"
 
 Official CoinPaprika MCP: 30 tools for prices, tickers, OHLCV, and exchange data across 8,000+ coins.
 
-Sato Score: **⬡ 78** (High), +1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 78** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -52,6 +52,6 @@ or self-host: npx @coinpaprika/mcp@latest
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `coinpaprika-mcp`. https://satohub.ai/resources/coinpaprika-mcp — retrieved 2026-10-21.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `coinpaprika-mcp`. https://satohub.ai/resources/coinpaprika-mcp — retrieved 2026-10-22.
 
 [← All layers](../index.md)

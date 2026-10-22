@@ -21,7 +21,7 @@ Sato Score: **⬡ 74** (High), +15 over 7 days — a measure of how open, active
 - **Creator:** GMX
 - **Open source:** Yes
 - **Status:** Unknown
-- **Activity:** Active — last activity 8 days ago
+- **Activity:** Active — last activity 9 days ago
 - **GitHub stars:** 11
 - **Deploys as:** npm, Claude Code plugin
 - **Works with:** Claude Code
@@ -52,6 +52,6 @@ Sato Score: **⬡ 74** (High), +15 over 7 days — a measure of how open, active
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `gmx-ai`. https://satohub.ai/resources/gmx-ai — retrieved 2026-10-21.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `gmx-ai`. https://satohub.ai/resources/gmx-ai — retrieved 2026-10-22.
 
 [← All layers](../index.md)

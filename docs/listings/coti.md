@@ -9,7 +9,7 @@ layout: "default"
 
 Privacy infrastructure that gives MCP-compatible agents private wallets, encrypted messaging, and confidential smart contracts using Garbled Circuits.
 
-Sato Score: **⬡ 68** (Medium), -1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 68** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,7 +22,7 @@ Sato Score: **⬡ 68** (Medium), -1 over 7 days — a measure of how open, activ
 - **Creator:** COTI
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 4 days ago
+- **Activity:** Active — last activity 2 days ago
 - **GitHub stars:** 14
 
 ## Deploy spec
@@ -50,6 +50,6 @@ npm install @coti-io/coti-sdk-typescript
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `coti`. https://satohub.ai/resources/coti — retrieved 2026-10-21.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `coti`. https://satohub.ai/resources/coti — retrieved 2026-10-22.
 
 [← All layers](../index.md)
