@@ -21,7 +21,7 @@ Sato Score: **⬡ 82** (High) — a measure of how open, active and verifiable t
 - **Use cases:** trading, wallets
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Quiet — last activity 5 months ago
+- **Activity:** Quiet — last activity 6 months ago
 - **GitHub stars:** 0
 - **Deploys as:** npm, hosted (Streamable HTTP), local (stdio via npx)
 - **Works with:** claude.ai web, Claude Desktop, Claude Code, Cursor, ChatGPT
@@ -50,6 +50,6 @@ claude mcp add cow-mcp -s project --transport http https://cow-mcp.netlify.app/m
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cow-mcp`. https://satohub.ai/resources/cow-mcp — retrieved 2026-10-22.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cow-mcp`. https://satohub.ai/resources/cow-mcp — retrieved 2026-10-23.
 
 [← All layers](../index.md)

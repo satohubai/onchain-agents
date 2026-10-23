@@ -50,6 +50,6 @@ docker pull quantconnect/mcp-server
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `quantconnect-mcp`. https://satohub.ai/resources/quantconnect-mcp — retrieved 2026-10-22.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `quantconnect-mcp`. https://satohub.ai/resources/quantconnect-mcp — retrieved 2026-10-23.
 
 [← All layers](../index.md)

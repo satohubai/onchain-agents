@@ -9,7 +9,7 @@ layout: "default"
 
 Community-built MCP server for Binance exchange data in trading-agent workflows. Not official Binance.
 
-Sato Score: **⬡ 72** (High), -10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 72** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -52,6 +52,6 @@ pip install binance-mcp-server
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `binance-mcp`. https://satohub.ai/resources/binance-mcp — retrieved 2026-10-22.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `binance-mcp`. https://satohub.ai/resources/binance-mcp — retrieved 2026-10-23.
 
 [← All layers](../index.md)

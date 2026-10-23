@@ -9,7 +9,7 @@ layout: "default"
 
 Non-custodial MCP for trading on CSPR.trade, the leading Casper Network DEX, with a public hosted endpoint.
 
-Sato Score: **⬡ 65** (Medium), +8 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 65** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -49,6 +49,6 @@ npm install @make-software/cspr-trade-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cspr-trade-mcp`. https://satohub.ai/resources/cspr-trade-mcp — retrieved 2026-10-22.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cspr-trade-mcp`. https://satohub.ai/resources/cspr-trade-mcp — retrieved 2026-10-23.
 
 [← All layers](../index.md)

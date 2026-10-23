@@ -22,8 +22,8 @@ Sato Score: **⬡ 77** (High), +8 over 7 days — a measure of how open, active 
 - **Creator:** Hyperliquid
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Recent — last activity 6 days ago
-- **GitHub stars:** 506
+- **Activity:** Recent — last activity 7 days ago
+- **GitHub stars:** 508
 - **Deploys as:** API, SDK
 - **Works with:** CCXT, Python SDK, TypeScript SDK
 
@@ -53,6 +53,6 @@ pip install hyperliquid-python-sdk
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `hyperliquid`. https://satohub.ai/resources/hyperliquid — retrieved 2026-10-22.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `hyperliquid`. https://satohub.ai/resources/hyperliquid — retrieved 2026-10-23.
 
 [← All layers](../index.md)

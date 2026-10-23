@@ -9,7 +9,7 @@ layout: "default"
 
 MCP server exposing CoinCap-backed crypto pricing, market stats, and technical indicators as agent-callable tools.
 
-Sato Score: **⬡ 67** (Medium), +1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 67** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,7 +22,7 @@ Sato Score: **⬡ 67** (Medium), +1 over 7 days — a measure of how open, activ
 - **Creator:** truss44
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 5 days ago
+- **Activity:** Active — last activity 6 days ago
 - **GitHub stars:** 39
 - **Deploys as:** npm, Streamable HTTP (self-hosted)
 - **Works with:** Claude Desktop
@@ -52,6 +52,6 @@ npx -y mcp-crypto-price
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `mcp-crypto-price`. https://satohub.ai/resources/mcp-crypto-price — retrieved 2026-10-22.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `mcp-crypto-price`. https://satohub.ai/resources/mcp-crypto-price — retrieved 2026-10-23.
 
 [← All layers](../index.md)

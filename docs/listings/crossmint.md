@@ -34,6 +34,6 @@ Sato Score: **⬡ 63** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `crossmint`. https://satohub.ai/resources/crossmint — retrieved 2026-10-22.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `crossmint`. https://satohub.ai/resources/crossmint — retrieved 2026-10-23.
 
 [← All layers](../index.md)

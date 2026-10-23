@@ -21,8 +21,8 @@ Sato Score: **⬡ 65** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Polymarket
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 7 days ago
-- **GitHub stars:** 167
+- **Activity:** Active — last activity 8 days ago
+- **GitHub stars:** 166
 - **Deploys as:** API, SDK
 
 ## What we checked
@@ -35,6 +35,6 @@ Sato Score: **⬡ 65** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `polymarket`. https://satohub.ai/resources/polymarket — retrieved 2026-10-22.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `polymarket`. https://satohub.ai/resources/polymarket — retrieved 2026-10-23.
 
 [← All layers](../index.md)

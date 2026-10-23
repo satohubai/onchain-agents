@@ -9,7 +9,7 @@ layout: "default"
 
 SDK from World (Tools for Humanity) that lets AI agents present a zero-knowledge proof a verified human authorized them, combined with x402 payments.
 
-Sato Score: **⬡ 86** (High), +10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 86** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,7 +22,7 @@ Sato Score: **⬡ 86** (High), +10 over 7 days — a measure of how open, active
 - **Creator:** Worldcoin
 - **Open source:** Partial
 - **Status:** Beta
-- **Activity:** Active — last activity 1 day ago
+- **Activity:** Active — last activity 2 days ago
 - **GitHub stars:** 24
 - **Deploys as:** npm
 - **Works with:** x402, World ID, World Chain, Base, Hono
@@ -53,6 +53,6 @@ npm install @worldcoin/agentkit
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `world-agentkit`. https://satohub.ai/resources/world-agentkit — retrieved 2026-10-22.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `world-agentkit`. https://satohub.ai/resources/world-agentkit — retrieved 2026-10-23.
 
 [← All layers](../index.md)

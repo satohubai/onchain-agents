@@ -9,7 +9,7 @@ layout: "default"
 
 CosmJS-based MCP toolkit for wallet queries, transactions, and contract deployment on Oraichain and Cosmos chains.
 
-Sato Score: **⬡ 59** (Medium), +8 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 59** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -52,6 +52,6 @@ pnpm build
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `oraichain-multichain-mcp`. https://satohub.ai/resources/oraichain-multichain-mcp — retrieved 2026-10-22.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `oraichain-multichain-mcp`. https://satohub.ai/resources/oraichain-multichain-mcp — retrieved 2026-10-23.
 
 [← All layers](../index.md)

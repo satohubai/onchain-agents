@@ -9,7 +9,7 @@ layout: "default"
 
 Open standard maintained by OpenAI and Stripe for connecting buyers, their AI agents, and businesses to complete purchases.
 
-Sato Score: **⬡ 72** (High), -5 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 72** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -38,6 +38,6 @@ Sato Score: **⬡ 72** (High), -5 over 7 days — a measure of how open, active 
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `agentic-commerce-protocol-acp`. https://satohub.ai/resources/agentic-commerce-protocol-acp — retrieved 2026-10-22.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `agentic-commerce-protocol-acp`. https://satohub.ai/resources/agentic-commerce-protocol-acp — retrieved 2026-10-23.
 
 [← All layers](../index.md)

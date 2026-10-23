@@ -9,7 +9,7 @@ layout: "default"
 
 Omnichain token launchpad with a dedicated MCP server and white-label API for agent-run token launches.
 
-Sato Score: **⬡ 52** (Medium), -12 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 52** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -38,7 +38,7 @@ npx -y @printr/mcp@latest
 ## What we checked
 
 - Install reproduced in an isolated container on 2026-07-21.
-- Live endpoint probed by us: 55.6% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 54.4% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -47,6 +47,6 @@ npx -y @printr/mcp@latest
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `printr`. https://satohub.ai/resources/printr — retrieved 2026-10-22.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `printr`. https://satohub.ai/resources/printr — retrieved 2026-10-23.
 
 [← All layers](../index.md)

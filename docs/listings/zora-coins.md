@@ -22,7 +22,7 @@ Sato Score: **⬡ 58** (Medium) — a measure of how open, active and verifiable
 - **Open source:** Yes
 - **Status:** Active
 - **Activity:** Recent — last activity 2 months ago
-- **GitHub stars:** 211
+- **GitHub stars:** 212
 
 ## What we checked
 
@@ -34,6 +34,6 @@ Sato Score: **⬡ 58** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `zora-coins`. https://satohub.ai/resources/zora-coins — retrieved 2026-10-22.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `zora-coins`. https://satohub.ai/resources/zora-coins — retrieved 2026-10-23.
 
 [← All layers](../index.md)

@@ -9,7 +9,7 @@ layout: "default"
 
 A public, npm-style registry for publishing, versioning, and searching OpenClaw agent skills and plugins.
 
-Sato Score: **⬡ 78** (High), +8 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 78** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,7 +21,7 @@ Sato Score: **⬡ 78** (High), +8 over 7 days — a measure of how open, active 
 - **Creator:** openclaw
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 2 days ago
+- **Activity:** Active — last activity today
 - **GitHub stars:** 9.5k
 - **Deploys as:** Hosted, CLI
 - **Works with:** OpenClaw
@@ -52,6 +52,6 @@ npm i -g clawhub
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `clawhub`. https://satohub.ai/resources/clawhub — retrieved 2026-10-22.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `clawhub`. https://satohub.ai/resources/clawhub — retrieved 2026-10-23.
 
 [← All layers](../index.md)

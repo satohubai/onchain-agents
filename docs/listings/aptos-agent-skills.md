@@ -20,7 +20,7 @@ Sato Score: **⬡ 58** (Medium) — a measure of how open, active and verifiable
 - **Open source:** Yes
 - **Status:** Active
 - **Activity:** Quiet — last activity 3 months ago
-- **GitHub stars:** 19
+- **GitHub stars:** 20
 - **Works with:** Claude Code, Cursor, GitHub Copilot
 
 ## Deploy spec
@@ -47,6 +47,6 @@ npx skills add aptos-labs/aptos-agent-skills
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `aptos-agent-skills`. https://satohub.ai/resources/aptos-agent-skills — retrieved 2026-10-22.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `aptos-agent-skills`. https://satohub.ai/resources/aptos-agent-skills — retrieved 2026-10-23.
 
 [← All layers](../index.md)

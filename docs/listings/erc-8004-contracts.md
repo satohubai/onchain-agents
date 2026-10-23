@@ -9,7 +9,7 @@ layout: "default"
 
 Reference Identity and Reputation registry contracts for ERC-8004, with ABIs and a per-chain deployment table, kept by the 8004 team.
 
-Sato Score: **⬡ 42** (Medium), +8 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 43** (Medium), +9 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -27,6 +27,7 @@ Sato Score: **⬡ 42** (Medium), +8 over 7 days — a measure of how open, activ
 
 ## What we checked
 
+- Live endpoint probed by us: 100% of our checks succeeded over 14 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -35,6 +36,6 @@ Sato Score: **⬡ 42** (Medium), +8 over 7 days — a measure of how open, activ
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `erc-8004-contracts`. https://satohub.ai/resources/erc-8004-contracts — retrieved 2026-10-22.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `erc-8004-contracts`. https://satohub.ai/resources/erc-8004-contracts — retrieved 2026-10-23.
 
 [← All layers](../index.md)

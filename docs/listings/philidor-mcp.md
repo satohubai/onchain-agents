@@ -9,7 +9,7 @@ layout: "default"
 
 Hosted MCP scoring risk across 700+ DeFi vaults on Morpho, Aave, Spark, Yearn, and Beefy for agent due diligence.
 
-Sato Score: **⬡ 77** (High), +1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 77** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,7 +22,7 @@ Sato Score: **⬡ 77** (High), +1 over 7 days — a measure of how open, active 
 - **Creator:** Philidor Labs
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 21 days ago
+- **Activity:** Active — last activity 22 days ago
 - **GitHub stars:** 5
 - **Deploys as:** Hosted API, Docker, npm, Local (stdio)
 - **Works with:** Claude Desktop, Claude Code, Cursor, Windsurf
@@ -51,6 +51,6 @@ claude mcp add philidor --transport http https://mcp.philidor.io/api/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `philidor-mcp`. https://satohub.ai/resources/philidor-mcp — retrieved 2026-10-22.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `philidor-mcp`. https://satohub.ai/resources/philidor-mcp — retrieved 2026-10-23.
 
 [← All layers](../index.md)

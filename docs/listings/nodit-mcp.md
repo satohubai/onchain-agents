@@ -22,7 +22,7 @@ Sato Score: **⬡ 79** (High), +22 over 7 days — a measure of how open, active
 - **Creator:** Nodit (Lambda256)
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 3 days ago
+- **Activity:** Active — last activity 4 days ago
 - **GitHub stars:** 23
 - **Deploys as:** npx (local stdio), Remote MCP (hosted SSE endpoint)
 - **Works with:** Claude Desktop, Claude Code, Cursor, Claude (Web)
@@ -44,7 +44,7 @@ npx @noditlabs/nodit-mcp-server@latest
 ## What we checked
 
 - Install reproduced in an isolated container on 2026-07-21.
-- Live endpoint probed by us: 0% of our checks succeeded over 51 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 0% of our checks succeeded over 52 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -53,6 +53,6 @@ npx @noditlabs/nodit-mcp-server@latest
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `nodit-mcp`. https://satohub.ai/resources/nodit-mcp — retrieved 2026-10-22.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `nodit-mcp`. https://satohub.ai/resources/nodit-mcp — retrieved 2026-10-23.
 
 [← All layers](../index.md)

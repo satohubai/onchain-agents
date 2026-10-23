@@ -9,7 +9,7 @@ layout: "default"
 
 Open-source agent skills and strategy templates for autonomous trading on Hyperliquid, published by Senpi.
 
-Sato Score: **⬡ 57** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 58** (Medium), +1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,7 +21,7 @@ Sato Score: **⬡ 57** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Senpi
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 3 days ago
+- **Activity:** Active — last activity 4 days ago
 - **GitHub stars:** 137
 
 ## What we checked
@@ -34,6 +34,6 @@ Sato Score: **⬡ 57** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `senpi-skills`. https://satohub.ai/resources/senpi-skills — retrieved 2026-10-22.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `senpi-skills`. https://satohub.ai/resources/senpi-skills — retrieved 2026-10-23.
 
 [← All layers](../index.md)
