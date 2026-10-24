@@ -9,7 +9,7 @@ layout: "default"
 
 Official MoonPay skill repo for crypto onramps, wallet ops, swaps, and prediction-market trading.
 
-Sato Score: **⬡ 60** (Medium), +11 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 60** (Medium), +10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,7 +21,7 @@ Sato Score: **⬡ 60** (Medium), +11 over 7 days — a measure of how open, acti
 - **Creator:** MoonPay
 - **Open source:** Unknown
 - **Status:** Active
-- **Activity:** Active — last activity 3 days ago
+- **Activity:** Active — last activity 4 days ago
 - **GitHub stars:** 111
 - **Deploys as:** npm, Claude Code plugin, Local MCP server, Skills CLI (npx skills add)
 - **Works with:** Claude Code, Cursor, Windsurf, Codex
@@ -51,6 +51,6 @@ npx skills add moonpay/skills
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `moonpay-skills`. https://satohub.ai/resources/moonpay-skills — retrieved 2026-10-23.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `moonpay-skills`. https://satohub.ai/resources/moonpay-skills — retrieved 2026-10-24.
 
 [← All layers](../index.md)

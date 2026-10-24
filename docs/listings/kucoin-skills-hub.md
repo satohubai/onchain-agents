@@ -9,7 +9,7 @@ layout: "default"
 
 Official KuCoin skills giving agents read-only access to spot, margin, futures, and account data.
 
-Sato Score: **⬡ 50** (Medium), +1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 50** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -50,6 +50,6 @@ npx skills add https://github.com/Kucoin/kucoin-skills-hub --full-depth
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `kucoin-skills-hub`. https://satohub.ai/resources/kucoin-skills-hub — retrieved 2026-10-23.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `kucoin-skills-hub`. https://satohub.ai/resources/kucoin-skills-hub — retrieved 2026-10-24.
 
 [← All layers](../index.md)

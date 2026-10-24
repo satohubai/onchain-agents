@@ -33,6 +33,6 @@ Sato Score: **⬡ 48** (Medium), -5 over 7 days — a measure of how open, activ
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `chutes-ai`. https://satohub.ai/resources/chutes-ai — retrieved 2026-10-23.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `chutes-ai`. https://satohub.ai/resources/chutes-ai — retrieved 2026-10-24.
 
 [← All layers](../index.md)

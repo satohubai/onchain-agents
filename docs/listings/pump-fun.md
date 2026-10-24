@@ -21,7 +21,7 @@ Sato Score: **⬡ 60** (Medium), +10 over 7 days — a measure of how open, acti
 - **Creator:** Pump.fun
 - **Open source:** Unknown
 - **Status:** Active
-- **Activity:** Active — last activity 10 days ago
+- **Activity:** Active — last activity 11 days ago
 - **GitHub stars:** 454
 
 ## What we checked
@@ -34,6 +34,6 @@ Sato Score: **⬡ 60** (Medium), +10 over 7 days — a measure of how open, acti
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `pump-fun`. https://satohub.ai/resources/pump-fun — retrieved 2026-10-23.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `pump-fun`. https://satohub.ai/resources/pump-fun — retrieved 2026-10-24.
 
 [← All layers](../index.md)

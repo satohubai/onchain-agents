@@ -18,7 +18,7 @@ Sato Score: **⬡ 77** (High) — a measure of how open, active and verifiable t
 - **Chains:** Base
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 2 days ago
+- **Activity:** Active — last activity 3 days ago
 - **GitHub stars:** 17
 
 ## Deploy spec
@@ -47,6 +47,6 @@ npm install @flaunch/sdk
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `flaunch`. https://satohub.ai/resources/flaunch — retrieved 2026-10-23.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `flaunch`. https://satohub.ai/resources/flaunch — retrieved 2026-10-24.
 
 [← All layers](../index.md)

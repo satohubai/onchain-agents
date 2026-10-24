@@ -21,7 +21,7 @@ Sato Score: **⬡ 79** (High) — a measure of how open, active and verifiable t
 - **Creator:** Tempo
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity today
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 1.0k
 
 ## What we checked
@@ -34,6 +34,6 @@ Sato Score: **⬡ 79** (High) — a measure of how open, active and verifiable t
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `tempo-blockchain`. https://satohub.ai/resources/tempo-blockchain — retrieved 2026-10-23.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `tempo-blockchain`. https://satohub.ai/resources/tempo-blockchain — retrieved 2026-10-24.
 
 [← All layers](../index.md)

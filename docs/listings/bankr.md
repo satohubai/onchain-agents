@@ -22,7 +22,7 @@ Sato Score: **⬡ 87** (High) — a measure of how open, active and verifiable t
 - **Creator:** Bankr
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity today
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 1.2k
 - **Deploys as:** CLI, npm, API, Claude Plugin
 - **Works with:** Uniswap, Alchemy, Zerion, Base, Shopify, x402
@@ -52,6 +52,6 @@ npm install -g @bankr/cli
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bankr`. https://satohub.ai/resources/bankr — retrieved 2026-10-23.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bankr`. https://satohub.ai/resources/bankr — retrieved 2026-10-24.
 
 [← All layers](../index.md)

@@ -9,7 +9,7 @@ layout: "default"
 
 Official MCP server for BlindPay's stablecoin payment rails: payouts, payins, virtual accounts, and FX quotes.
 
-Sato Score: **⬡ 78** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 77** (High), -1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -18,8 +18,8 @@ Sato Score: **⬡ 78** (High) — a measure of how open, active and verifiable t
 - **Chains:** Multichain
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 1 day ago
-- **GitHub stars:** 10
+- **Activity:** Active — last activity today
+- **GitHub stars:** 9
 - **Works with:** Cursor, Claude Code, Claude Desktop, Codex
 
 ## Deploy spec
@@ -48,6 +48,6 @@ npx -y @blindpay/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `blindpay`. https://satohub.ai/resources/blindpay — retrieved 2026-10-23.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `blindpay`. https://satohub.ai/resources/blindpay — retrieved 2026-10-24.
 
 [← All layers](../index.md)

@@ -9,7 +9,7 @@ layout: "default"
 
 Self-custodial DeFi yield agents that rebalance Safe-based accounts across supported protocols, with an SDK and a hosted MCP server.
 
-Sato Score: **⬡ 25** (Low) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 27** (Low), +2 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,6 +21,7 @@ Sato Score: **⬡ 25** (Low) — a measure of how open, active and verifiable th
 - **Creator:** Zyfai
 - **Open source:** Partial
 - **Status:** Active
+- **Works with:** Safe7579, Rhinestone SmartSession, Pimlico, Aave V3, Morpho, Fluid, ERC-8004, Coinbase tokenized stocks
 
 ## What we checked
 
@@ -32,6 +33,6 @@ Sato Score: **⬡ 25** (Low) — a measure of how open, active and verifiable th
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `zyfai`. https://satohub.ai/resources/zyfai — retrieved 2026-10-23.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `zyfai`. https://satohub.ai/resources/zyfai — retrieved 2026-10-24.
 
 [← All layers](../index.md)

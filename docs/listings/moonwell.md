@@ -44,6 +44,6 @@ yarn add @moonwell-fi/moonwell-sdk
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `moonwell`. https://satohub.ai/resources/moonwell — retrieved 2026-10-23.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `moonwell`. https://satohub.ai/resources/moonwell — retrieved 2026-10-24.
 
 [← All layers](../index.md)

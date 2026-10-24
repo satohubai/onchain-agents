@@ -50,6 +50,6 @@ git clone https://github.com/MetaMask/skills ~/dev/metamask/skills
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `metamask-skills`. https://satohub.ai/resources/metamask-skills — retrieved 2026-10-23.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `metamask-skills`. https://satohub.ai/resources/metamask-skills — retrieved 2026-10-24.
 
 [← All layers](../index.md)

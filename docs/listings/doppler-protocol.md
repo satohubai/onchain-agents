@@ -34,6 +34,6 @@ Sato Score: **⬡ 53** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `doppler-protocol`. https://satohub.ai/resources/doppler-protocol — retrieved 2026-10-23.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `doppler-protocol`. https://satohub.ai/resources/doppler-protocol — retrieved 2026-10-24.
 
 [← All layers](../index.md)

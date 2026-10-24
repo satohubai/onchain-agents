@@ -22,8 +22,8 @@ Sato Score: **⬡ 72** (High) — a measure of how open, active and verifiable t
 - **Creator:** Anthropic
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity today
-- **GitHub stars:** 91.3k
+- **Activity:** Active — last activity 1 day ago
+- **GitHub stars:** 91.5k
 
 ## Deploy spec
 
@@ -50,6 +50,6 @@ npx -y @modelcontextprotocol/server-everything
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `mcp-reference-servers`. https://satohub.ai/resources/mcp-reference-servers — retrieved 2026-10-23.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `mcp-reference-servers`. https://satohub.ai/resources/mcp-reference-servers — retrieved 2026-10-24.
 
 [← All layers](../index.md)

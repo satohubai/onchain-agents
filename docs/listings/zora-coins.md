@@ -9,7 +9,7 @@ layout: "default"
 
 Protocol and SDK for creating and trading ERC-20 coins on Base, with a public REST API and a skill file for AI agents.
 
-Sato Score: **⬡ 58** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 60** (Medium), +2 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -23,6 +23,7 @@ Sato Score: **⬡ 58** (Medium) — a measure of how open, active and verifiable
 - **Status:** Active
 - **Activity:** Recent — last activity 2 months ago
 - **GitHub stars:** 212
+- **Works with:** Uniswap V4, Doppler, wagmi
 
 ## What we checked
 
@@ -34,6 +35,6 @@ Sato Score: **⬡ 58** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `zora-coins`. https://satohub.ai/resources/zora-coins — retrieved 2026-10-23.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `zora-coins`. https://satohub.ai/resources/zora-coins — retrieved 2026-10-24.
 
 [← All layers](../index.md)
