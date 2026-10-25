@@ -18,12 +18,12 @@ Sato Score: **⬡ 60** (Medium), +9 over 7 days — a measure of how open, activ
 - **Chains:** Solana
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 9 days ago
+- **Activity:** Active — last activity 10 days ago
 - **GitHub stars:** 14
 
 ## What we checked
 
-- Live endpoint probed by us: 98.9% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 97.8% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -32,6 +32,6 @@ Sato Score: **⬡ 60** (Medium), +9 over 7 days — a measure of how open, activ
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solana-pay-skills`. https://satohub.ai/resources/solana-pay-skills — retrieved 2026-10-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solana-pay-skills`. https://satohub.ai/resources/solana-pay-skills — retrieved 2026-10-25.
 
 [← All layers](../index.md)

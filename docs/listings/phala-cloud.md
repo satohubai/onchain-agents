@@ -9,7 +9,7 @@ layout: "default"
 
 Cloud for running agents, private LLM inference and GPU jobs inside TEE confidential VMs, with CLI, SDK and attestation tooling.
 
-Sato Score: **⬡ 63** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 68** (Medium), +5 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -20,9 +20,10 @@ Sato Score: **⬡ 63** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Phala Network
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 2 days ago
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 32
-- **Deploys as:** Hosted TEE VM, CLI
+- **Deploys as:** Hosted TEE VM, CLI, SDK, Terraform, Docker Compose
+- **Works with:** Docker Compose, Terraform, MCP, Claude Code, Codex, Cursor, OpenAI-compatible API
 
 ## What we checked
 
@@ -34,6 +35,6 @@ Sato Score: **⬡ 63** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `phala-cloud`. https://satohub.ai/resources/phala-cloud — retrieved 2026-10-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `phala-cloud`. https://satohub.ai/resources/phala-cloud — retrieved 2026-10-25.
 
 [← All layers](../index.md)

@@ -50,6 +50,6 @@ npx -y @ton/mcp@alpha
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ton-agentkit-mcp`. https://satohub.ai/resources/ton-agentkit-mcp — retrieved 2026-10-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ton-agentkit-mcp`. https://satohub.ai/resources/ton-agentkit-mcp — retrieved 2026-10-25.
 
 [← All layers](../index.md)

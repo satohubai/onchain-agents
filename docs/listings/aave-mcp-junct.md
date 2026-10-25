@@ -19,13 +19,13 @@ Sato Score: **⬡ 39** (Low) — a measure of how open, active and verifiable th
 - **Creator:** Junct
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Quiet — last activity 6 months ago
+- **Activity:** Quiet — last activity 7 months ago
 - **GitHub stars:** 0
 - **Deploys as:** Hosted
 
 ## What we checked
 
-- Live endpoint probed by us: 0% of our checks succeeded over 53 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 0% of our checks succeeded over 54 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -34,6 +34,6 @@ Sato Score: **⬡ 39** (Low) — a measure of how open, active and verifiable th
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `aave-mcp-junct`. https://satohub.ai/resources/aave-mcp-junct — retrieved 2026-10-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `aave-mcp-junct`. https://satohub.ai/resources/aave-mcp-junct — retrieved 2026-10-25.
 
 [← All layers](../index.md)

@@ -50,6 +50,6 @@ git clone https://github.com/rocket-pool/skills
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `rocket-pool-skills`. https://satohub.ai/resources/rocket-pool-skills — retrieved 2026-10-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `rocket-pool-skills`. https://satohub.ai/resources/rocket-pool-skills — retrieved 2026-10-25.
 
 [← All layers](../index.md)

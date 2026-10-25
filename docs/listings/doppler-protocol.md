@@ -21,7 +21,7 @@ Sato Score: **⬡ 53** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Whetstone Research
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Recent — last activity 1 month ago
+- **Activity:** Recent — last activity 2 months ago
 - **GitHub stars:** 104
 
 ## What we checked
@@ -34,6 +34,6 @@ Sato Score: **⬡ 53** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `doppler-protocol`. https://satohub.ai/resources/doppler-protocol — retrieved 2026-10-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `doppler-protocol`. https://satohub.ai/resources/doppler-protocol — retrieved 2026-10-25.
 
 [← All layers](../index.md)

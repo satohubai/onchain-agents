@@ -19,7 +19,7 @@ Sato Score: **⬡ 70** (High) — a measure of how open, active and verifiable t
 - **Creator:** SlowMist
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Quiet — last activity 5 months ago
+- **Activity:** Quiet — last activity 6 months ago
 - **GitHub stars:** 39
 - **Deploys as:** npx, npm global install, local development
 - **Works with:** Claude Desktop, MistTrack OpenAPI
@@ -52,6 +52,6 @@ export MISTTRACK_API_KEY=YOUR_MISTTRACK_API_KEY && npx -y misttrack@latest
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `misttrack-mcp`. https://satohub.ai/resources/misttrack-mcp — retrieved 2026-10-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `misttrack-mcp`. https://satohub.ai/resources/misttrack-mcp — retrieved 2026-10-25.
 
 [← All layers](../index.md)

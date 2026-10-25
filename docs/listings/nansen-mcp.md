@@ -9,7 +9,7 @@ layout: "default"
 
 Official Nansen MCP exposing smart-money and wallet-labeling data across 25+ chains.
 
-Sato Score: **⬡ 70** (High), +3 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 70** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -50,6 +50,6 @@ claude mcp add --transport http nansen https://mcp.nansen.ai/ra/mcp --header "NA
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `nansen-mcp`. https://satohub.ai/resources/nansen-mcp — retrieved 2026-10-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `nansen-mcp`. https://satohub.ai/resources/nansen-mcp — retrieved 2026-10-25.
 
 [← All layers](../index.md)

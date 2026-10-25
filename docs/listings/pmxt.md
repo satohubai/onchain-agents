@@ -22,7 +22,7 @@ Sato Score: **⬡ 77** (High) — a measure of how open, active and verifiable t
 - **Creator:** pmxt-dev
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 23 days ago
+- **Activity:** Active — last activity 24 days ago
 - **GitHub stars:** 2.2k
 - **Deploys as:** Hosted, Self-hosted
 - **Works with:** Claude, Cursor, MCP
@@ -53,6 +53,6 @@ npx -y @pmxt/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `pmxt`. https://satohub.ai/resources/pmxt — retrieved 2026-10-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `pmxt`. https://satohub.ai/resources/pmxt — retrieved 2026-10-25.
 
 [← All layers](../index.md)

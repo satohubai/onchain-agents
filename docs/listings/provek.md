@@ -18,7 +18,7 @@ Sato Score: **⬡ 55** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Ethereum
 - **Open source:** Partial
 - **Status:** Early
-- **Activity:** Active — last activity 1 day ago
+- **Activity:** Active — last activity 2 days ago
 - **GitHub stars:** 1
 
 ## What we checked
@@ -31,6 +31,6 @@ Sato Score: **⬡ 55** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `provek`. https://satohub.ai/resources/provek — retrieved 2026-10-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `provek`. https://satohub.ai/resources/provek — retrieved 2026-10-25.
 
 [← All layers](../index.md)

@@ -18,7 +18,7 @@ Sato Score: **⬡ 75** (High), +18 over 7 days — a measure of how open, active
 - **Chains:** Ethereum, Base
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity today
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 0
 
 ## Deploy spec
@@ -47,6 +47,6 @@ npm install -g @rareprotocol/rare-cli
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `rare-protocol`. https://satohub.ai/resources/rare-protocol — retrieved 2026-10-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `rare-protocol`. https://satohub.ai/resources/rare-protocol — retrieved 2026-10-25.
 
 [← All layers](../index.md)

@@ -20,7 +20,7 @@ Sato Score: **⬡ 73** (High) — a measure of how open, active and verifiable t
 - **Use cases:** trading, data, security, build
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 1 day ago
+- **Activity:** Active — last activity 2 days ago
 - **GitHub stars:** 232
 
 ## Deploy spec
@@ -48,6 +48,6 @@ npx skills add gmx-io/gmx-ai
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `gmx`. https://satohub.ai/resources/gmx — retrieved 2026-10-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `gmx`. https://satohub.ai/resources/gmx — retrieved 2026-10-25.
 
 [← All layers](../index.md)
