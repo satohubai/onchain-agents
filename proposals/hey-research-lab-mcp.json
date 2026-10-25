@@ -1,0 +1,11 @@
+{
+  "name": "Hey Research Lab MCP",
+  "website_url": "https://heyresearch.xyz",
+  "github_url": "https://github.com/hey-research-lab/hey-research-open",
+  "category": "MCP",
+  "chains": [
+    "Robinhood Chain"
+  ],
+  "description": "Hosted read-only MCP server (heyresearch.xyz/mcp, no key): for any Robinhood Chain token or project, whether its team is still shipping and what it shipped, each ship linked to its public source. Also a public API and npm SDK; registered on Robinhood Chain as ERC-8004 agent #8783.",
+  "relationship": "maintainer"
+}
