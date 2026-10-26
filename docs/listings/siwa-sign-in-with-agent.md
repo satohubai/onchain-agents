@@ -19,7 +19,7 @@ Sato Score: **⬡ 59** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Builders Garden
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Quiet — last activity 5 months ago
+- **Activity:** Quiet — last activity 6 months ago
 - **GitHub stars:** 43
 - **Works with:** Next.js, Express, Hono, Fastify, Circle, Openfort, Privy, WalletClient
 
@@ -35,7 +35,7 @@ npm install @buildersgarden/siwa
 - **License:** MIT
 - **MCP native:** no
 - **Deploy status:** unknown
-- **As of:** 2026-10-19
+- **As of:** 2026-10-26
 
 ## What we checked
 
@@ -48,6 +48,6 @@ npm install @buildersgarden/siwa
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `siwa-sign-in-with-agent`. https://satohub.ai/resources/siwa-sign-in-with-agent — retrieved 2026-10-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `siwa-sign-in-with-agent`. https://satohub.ai/resources/siwa-sign-in-with-agent — retrieved 2026-10-26.
 
 [← All layers](../index.md)

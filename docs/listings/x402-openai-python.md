@@ -9,7 +9,7 @@ layout: "default"
 
 Drop-in OpenAI Python client with transparent x402 micropayment support.
 
-Sato Score: **⬡ 74** (High), +10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 74** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,7 +22,7 @@ Sato Score: **⬡ 74** (High), +10 over 7 days — a measure of how open, active
 - **Creator:** qntx
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 5 days ago
+- **Activity:** Active — last activity 6 days ago
 - **GitHub stars:** 262
 - **Deploys as:** pip
 - **Works with:** OpenAI, x402, USDC
@@ -53,6 +53,6 @@ pip install x402-openai[evm]
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `x402-openai-python`. https://satohub.ai/resources/x402-openai-python — retrieved 2026-10-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `x402-openai-python`. https://satohub.ai/resources/x402-openai-python — retrieved 2026-10-26.
 
 [← All layers](../index.md)

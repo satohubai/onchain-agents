@@ -21,7 +21,7 @@ Sato Score: **⬡ 72** (High) — a measure of how open, active and verifiable t
 - **Creator:** GOAT SDK
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Quiet — last activity 4 days ago
+- **Activity:** Quiet — last activity 5 days ago
 - **GitHub stars:** 1.0k
 - **Deploys as:** npm, pip, MCP server
 - **Works with:** Vercel AI, LangChain, LlamaIndex, Model Context Protocol, CrewAI, ElevenLabs, Crossmint, Safe, 1inch, CoinGecko, 0x
@@ -38,11 +38,11 @@ npm install @goat-sdk/core  # + per-plugin, e.g. @goat-sdk/plugin-uniswap
 - **License:** MIT
 - **MCP native:** no
 - **Deploy status:** verified
-- **As of:** 2026-10-15
+- **As of:** 2026-10-26
 
 ## What we checked
 
-- Install reproduced in an isolated container on 2026-10-15.
+- Install reproduced in an isolated container on 2026-10-26.
 - Live endpoint probed by us: 100% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
@@ -52,6 +52,6 @@ npm install @goat-sdk/core  # + per-plugin, e.g. @goat-sdk/plugin-uniswap
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `goat-sdk`. https://satohub.ai/resources/goat-sdk — retrieved 2026-10-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `goat-sdk`. https://satohub.ai/resources/goat-sdk — retrieved 2026-10-26.
 
 [← All layers](../index.md)

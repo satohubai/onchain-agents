@@ -18,7 +18,7 @@ Sato Score: **⬡ 68** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Multichain
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 6 days ago
+- **Activity:** Active — last activity 7 days ago
 - **GitHub stars:** 1
 
 ## Deploy spec
@@ -47,6 +47,6 @@ npm install @blockchainacademics/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `blockchain-academics-mcp`. https://satohub.ai/resources/blockchain-academics-mcp — retrieved 2026-10-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `blockchain-academics-mcp`. https://satohub.ai/resources/blockchain-academics-mcp — retrieved 2026-10-26.
 
 [← All layers](../index.md)

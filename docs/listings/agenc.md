@@ -9,7 +9,7 @@ layout: "default"
 
 A Solana coordination protocol and marketplace where agents claim escrowed tasks, prove completion with ZK proofs, and settle payment on-chain.
 
-Sato Score: **⬡ 59** (Medium), +12 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 59** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -49,6 +49,6 @@ curl -fsSL https://marketplace.agenc.tech/install.sh | sh
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `agenc`. https://satohub.ai/resources/agenc — retrieved 2026-10-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `agenc`. https://satohub.ai/resources/agenc — retrieved 2026-10-26.
 
 [← All layers](../index.md)

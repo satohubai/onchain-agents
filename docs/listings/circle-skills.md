@@ -9,7 +9,7 @@ layout: "default"
 
 Official Circle skill repo for USDC payments, cross-chain transfers, and wallet integration.
 
-Sato Score: **⬡ 78** (High), +10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 78** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,7 +22,7 @@ Sato Score: **⬡ 78** (High), +10 over 7 days — a measure of how open, active
 - **Creator:** Circle
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 8 days ago
+- **Activity:** Active — last activity 9 days ago
 - **GitHub stars:** 148
 - **Deploys as:** npm, Claude Code plugin
 - **Works with:** Claude Code
@@ -52,6 +52,6 @@ npx skills add circlefin/skills
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `circle-skills`. https://satohub.ai/resources/circle-skills — retrieved 2026-10-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `circle-skills`. https://satohub.ai/resources/circle-skills — retrieved 2026-10-26.
 
 [← All layers](../index.md)

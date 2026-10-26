@@ -19,7 +19,7 @@ Sato Score: **⬡ 67** (Medium), +15 over 7 days — a measure of how open, acti
 - **Creator:** momenbasel
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity today
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 9
 - **Deploys as:** CLI tool, Python library, MCP server, pip package
 - **Works with:** Claude Code, OpenAI Codex, Cursor, GoPlus Security, Honeypot.is, TokenSniffer, De.Fi Scanner, QuickIntel
@@ -37,7 +37,7 @@ cryptoguard install-hook
 - **License:** MIT
 - **MCP native:** yes
 - **Deploy status:** unknown
-- **As of:** 2026-10-19
+- **As of:** 2026-10-26
 
 ## What we checked
 
@@ -50,6 +50,6 @@ cryptoguard install-hook
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cryptoguard-agent-safety`. https://satohub.ai/resources/cryptoguard-agent-safety — retrieved 2026-10-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cryptoguard-agent-safety`. https://satohub.ai/resources/cryptoguard-agent-safety — retrieved 2026-10-26.
 
 [← All layers](../index.md)

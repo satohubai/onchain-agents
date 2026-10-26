@@ -38,8 +38,8 @@ npx @privy-io/mcp-server
 - **Requires:** PRIVY_APP_ID and PRIVY_APP_SECRET (from the Privy Dashboard) — this server creates/signs wallets on your behalf
 - **License:** MIT
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-07-14
+- **Deploy status:** failed
+- **As of:** 2026-10-26
 
 ## What we checked
 
@@ -52,6 +52,6 @@ npx @privy-io/mcp-server
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `privy-mcp`. https://satohub.ai/resources/privy-mcp — retrieved 2026-10-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `privy-mcp`. https://satohub.ai/resources/privy-mcp — retrieved 2026-10-26.
 
 [← All layers](../index.md)

@@ -9,7 +9,7 @@ layout: "default"
 
 Community Binance MCP with 478+ tools across spot, margin, futures, staking, NFT, and copy trading.
 
-Sato Score: **⬡ 57** (Medium), +5 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 57** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -40,7 +40,7 @@ npm run build
 - **License:** MIT
 - **MCP native:** yes
 - **Deploy status:** failed
-- **As of:** 2026-09-25
+- **As of:** 2026-10-26
 
 ## What we checked
 
@@ -53,6 +53,6 @@ npm run build
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `binance-mcp-nirholas`. https://satohub.ai/resources/binance-mcp-nirholas — retrieved 2026-10-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `binance-mcp-nirholas`. https://satohub.ai/resources/binance-mcp-nirholas — retrieved 2026-10-26.
 
 [← All layers](../index.md)

@@ -9,7 +9,7 @@ layout: "default"
 
 Oasis framework for running containerised apps and AI agents inside TEEs on a permissionless node pool, managed from Sapphire contracts.
 
-Sato Score: **⬡ 33** (Low) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 35** (Low), +2 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -20,6 +20,7 @@ Sato Score: **⬡ 33** (Low) — a measure of how open, active and verifiable th
 - **Creator:** Oasis Protocol Foundation
 - **Open source:** Unknown
 - **Status:** Active
+- **Deploys as:** Docker-like containers, single-executable apps, permissionless ROFL node pool
 
 ## What we checked
 
@@ -31,6 +32,6 @@ Sato Score: **⬡ 33** (Low) — a measure of how open, active and verifiable th
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `oasis-rofl`. https://satohub.ai/resources/oasis-rofl — retrieved 2026-10-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `oasis-rofl`. https://satohub.ai/resources/oasis-rofl — retrieved 2026-10-26.
 
 [← All layers](../index.md)

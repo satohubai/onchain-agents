@@ -9,7 +9,7 @@ layout: "default"
 
 Open-source scoring engine and on-chain registry on Polygon that rates autonomous trading agents from their trade records, with an isEligible() gate for protocols.
 
-Sato Score: **⬡ 61** (Medium), +16 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 61** (Medium), +1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -18,12 +18,12 @@ Sato Score: **⬡ 61** (Medium), +16 over 7 days — a measure of how open, acti
 - **Creator:** Paulo Longen
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 15 days ago
+- **Activity:** Active — last activity 16 days ago
 - **GitHub stars:** 0
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 17 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 18 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -32,6 +32,6 @@ Sato Score: **⬡ 61** (Medium), +16 over 7 days — a measure of how open, acti
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `yelden-yaaf`. https://satohub.ai/resources/yelden-yaaf — retrieved 2026-10-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `yelden-yaaf`. https://satohub.ai/resources/yelden-yaaf — retrieved 2026-10-26.
 
 [← All layers](../index.md)

@@ -9,7 +9,7 @@ layout: "default"
 
 CCXT-backed MCP server for multi-exchange market data, order books, balances, orders, and trade history.
 
-Sato Score: **⬡ 68** (Medium), +9 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 68** (Medium), +8 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -52,6 +52,6 @@ npm install -g @lazydino/ccxt-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ccxt-mcp`. https://satohub.ai/resources/ccxt-mcp — retrieved 2026-10-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ccxt-mcp`. https://satohub.ai/resources/ccxt-mcp — retrieved 2026-10-26.
 
 [← All layers](../index.md)

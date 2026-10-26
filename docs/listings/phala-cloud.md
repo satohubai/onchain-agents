@@ -20,7 +20,7 @@ Sato Score: **⬡ 68** (Medium), +5 over 7 days — a measure of how open, activ
 - **Creator:** Phala Network
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 1 day ago
+- **Activity:** Active — last activity today
 - **GitHub stars:** 32
 - **Deploys as:** Hosted TEE VM, CLI, SDK, Terraform, Docker Compose
 - **Works with:** Docker Compose, Terraform, MCP, Claude Code, Codex, Cursor, OpenAI-compatible API
@@ -35,6 +35,6 @@ Sato Score: **⬡ 68** (Medium), +5 over 7 days — a measure of how open, activ
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `phala-cloud`. https://satohub.ai/resources/phala-cloud — retrieved 2026-10-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `phala-cloud`. https://satohub.ai/resources/phala-cloud — retrieved 2026-10-26.
 
 [← All layers](../index.md)

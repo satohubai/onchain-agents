@@ -35,7 +35,7 @@ docker compose up
 - **License:** Unknown
 - **MCP native:** no
 - **Deploy status:** failed
-- **As of:** 2026-09-21
+- **As of:** 2026-10-26
 
 ## What we checked
 
@@ -48,6 +48,6 @@ docker compose up
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `listen-rs`. https://satohub.ai/resources/listen-rs — retrieved 2026-10-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `listen-rs`. https://satohub.ai/resources/listen-rs — retrieved 2026-10-26.
 
 [← All layers](../index.md)

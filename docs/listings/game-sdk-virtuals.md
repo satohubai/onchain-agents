@@ -18,7 +18,7 @@ Sato Score: **⬡ 63** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Base
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Dormant — last activity 12 months ago
+- **Activity:** Dormant — last activity 13 months ago
 - **GitHub stars:** 99
 
 ## Deploy spec
@@ -47,6 +47,6 @@ pip install game_sdk
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `game-sdk-virtuals`. https://satohub.ai/resources/game-sdk-virtuals — retrieved 2026-10-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `game-sdk-virtuals`. https://satohub.ai/resources/game-sdk-virtuals — retrieved 2026-10-26.
 
 [← All layers](../index.md)

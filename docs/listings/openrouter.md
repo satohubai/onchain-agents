@@ -9,7 +9,7 @@ layout: "default"
 
 One OpenAI-compatible API for many LLMs with routing, fallbacks and cost tracking across providers.
 
-Sato Score: **⬡ 64** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 67** (Medium), +3 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -20,8 +20,9 @@ Sato Score: **⬡ 64** (Medium) — a measure of how open, active and verifiable
 - **Creator:** OpenRouter
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 2 days ago
+- **Activity:** Active — last activity 3 days ago
 - **GitHub stars:** 691
+- **Works with:** Vercel AI SDK, OpenAI SDK, LangChain, Mastra, PydanticAI, LiveKit, Langfuse, Arize AX, Zapier, TanStack AI, Anthropic Agent SDK
 
 ## What we checked
 
@@ -33,6 +34,6 @@ Sato Score: **⬡ 64** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `openrouter`. https://satohub.ai/resources/openrouter — retrieved 2026-10-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `openrouter`. https://satohub.ai/resources/openrouter — retrieved 2026-10-26.
 
 [← All layers](../index.md)

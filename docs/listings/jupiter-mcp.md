@@ -38,8 +38,8 @@ git clone https://github.com/kukapay/jupiter-mcp && cd jupiter-mcp && npm instal
 - **Requires:** SOLANA_RPC_URL, PRIVATE_KEY (base58 hot wallet — executes real swaps)
 - **License:** MIT
 - **MCP native:** yes
-- **Deploy status:** self_reported
-- **As of:** 2026-06-16
+- **Deploy status:** unknown
+- **As of:** 2026-10-26
 
 ## What we checked
 
@@ -51,6 +51,6 @@ git clone https://github.com/kukapay/jupiter-mcp && cd jupiter-mcp && npm instal
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `jupiter-mcp`. https://satohub.ai/resources/jupiter-mcp — retrieved 2026-10-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `jupiter-mcp`. https://satohub.ai/resources/jupiter-mcp — retrieved 2026-10-26.
 
 [← All layers](../index.md)

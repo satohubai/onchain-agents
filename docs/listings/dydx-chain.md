@@ -21,7 +21,7 @@ Sato Score: **⬡ 83** (High) — a measure of how open, active and verifiable t
 - **Creator:** dYdX Trading Inc.
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 2 days ago
+- **Activity:** Active — last activity 3 days ago
 - **GitHub stars:** 346
 - **Deploys as:** npm, pip, API, Self-hosted
 - **Works with:** Cosmos SDK, CometBFT
@@ -38,7 +38,7 @@ npm install @dydxprotocol/v4-client-js
 - **License:** AGPL-3.0 (modified — subject to dYdX Terms of Use)
 - **MCP native:** no
 - **Deploy status:** unknown
-- **As of:** 2026-10-19
+- **As of:** 2026-10-26
 
 ## What we checked
 
@@ -51,6 +51,6 @@ npm install @dydxprotocol/v4-client-js
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `dydx-chain`. https://satohub.ai/resources/dydx-chain — retrieved 2026-10-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `dydx-chain`. https://satohub.ai/resources/dydx-chain — retrieved 2026-10-26.
 
 [← All layers](../index.md)

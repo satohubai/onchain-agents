@@ -36,7 +36,7 @@ npm run build
 - **License:** MIT
 - **MCP native:** yes
 - **Deploy status:** unknown
-- **As of:** 2026-10-19
+- **As of:** 2026-10-26
 
 ## What we checked
 
@@ -49,6 +49,6 @@ npm run build
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `para-wallet`. https://satohub.ai/resources/para-wallet — retrieved 2026-10-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `para-wallet`. https://satohub.ai/resources/para-wallet — retrieved 2026-10-26.
 
 [← All layers](../index.md)

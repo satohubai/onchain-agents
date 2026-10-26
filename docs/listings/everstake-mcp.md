@@ -18,7 +18,7 @@ Sato Score: **⬡ 59** (Medium), +10 over 7 days — a measure of how open, acti
 - **Chains:** Multichain
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 2 days ago
+- **Activity:** Active — last activity 3 days ago
 - **GitHub stars:** 1
 - **Deploys as:** Docker, stdio, local
 
@@ -35,7 +35,7 @@ go run ./cmd/mcp_server
 - **License:** BSD-3-Clause
 - **MCP native:** yes
 - **Deploy status:** failed
-- **As of:** 2026-09-14
+- **As of:** 2026-10-26
 
 ## What we checked
 
@@ -48,6 +48,6 @@ go run ./cmd/mcp_server
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `everstake-mcp`. https://satohub.ai/resources/everstake-mcp — retrieved 2026-10-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `everstake-mcp`. https://satohub.ai/resources/everstake-mcp — retrieved 2026-10-26.
 
 [← All layers](../index.md)

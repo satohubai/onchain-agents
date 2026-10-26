@@ -19,7 +19,7 @@ Sato Score: **⬡ 58** (Medium) — a measure of how open, active and verifiable
 - **Creator:** KasarLabs
 - **Open source:** Yes
 - **Status:** Unknown
-- **Activity:** Quiet — last activity 11 months ago
+- **Activity:** Quiet — last activity 12 months ago
 - **GitHub stars:** 96
 - **Works with:** OpenAI, Anthropic, Google Gemini, Ollama, DeepSeek
 
@@ -51,6 +51,6 @@ cp .env.example .env
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `snak-starknet-agent-kit`. https://satohub.ai/resources/snak-starknet-agent-kit — retrieved 2026-10-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `snak-starknet-agent-kit`. https://satohub.ai/resources/snak-starknet-agent-kit — retrieved 2026-10-26.
 
 [← All layers](../index.md)

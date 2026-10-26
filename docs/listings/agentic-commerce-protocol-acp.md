@@ -38,6 +38,6 @@ Sato Score: **⬡ 72** (High) — a measure of how open, active and verifiable t
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `agentic-commerce-protocol-acp`. https://satohub.ai/resources/agentic-commerce-protocol-acp — retrieved 2026-10-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `agentic-commerce-protocol-acp`. https://satohub.ai/resources/agentic-commerce-protocol-acp — retrieved 2026-10-26.
 
 [← All layers](../index.md)

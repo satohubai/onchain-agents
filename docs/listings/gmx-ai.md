@@ -9,7 +9,7 @@ layout: "default"
 
 Official GMX V2 skill repo for perp trading and liquidity-pool operations via agent.
 
-Sato Score: **⬡ 74** (High), +15 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 74** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,7 +21,7 @@ Sato Score: **⬡ 74** (High), +15 over 7 days — a measure of how open, active
 - **Creator:** GMX
 - **Open source:** Yes
 - **Status:** Unknown
-- **Activity:** Active — last activity 12 days ago
+- **Activity:** Active — last activity 13 days ago
 - **GitHub stars:** 11
 - **Deploys as:** npm, Claude Code plugin
 - **Works with:** Claude Code
@@ -52,6 +52,6 @@ Sato Score: **⬡ 74** (High), +15 over 7 days — a measure of how open, active
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `gmx-ai`. https://satohub.ai/resources/gmx-ai — retrieved 2026-10-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `gmx-ai`. https://satohub.ai/resources/gmx-ai — retrieved 2026-10-26.
 
 [← All layers](../index.md)

@@ -48,6 +48,6 @@ git clone --recurse-submodules https://github.com/solanabr/solana-ai-kit.git
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solana-ai-kit`. https://satohub.ai/resources/solana-ai-kit — retrieved 2026-10-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solana-ai-kit`. https://satohub.ai/resources/solana-ai-kit — retrieved 2026-10-26.
 
 [← All layers](../index.md)

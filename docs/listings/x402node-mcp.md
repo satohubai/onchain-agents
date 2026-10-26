@@ -41,7 +41,7 @@ cp .env.example .env
 - **License:** MIT
 - **MCP native:** yes
 - **Deploy status:** unknown
-- **As of:** 2026-10-19
+- **As of:** 2026-10-26
 
 ## What we checked
 
@@ -54,6 +54,6 @@ cp .env.example .env
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `x402node-mcp`. https://satohub.ai/resources/x402node-mcp — retrieved 2026-10-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `x402node-mcp`. https://satohub.ai/resources/x402node-mcp — retrieved 2026-10-26.
 
 [← All layers](../index.md)

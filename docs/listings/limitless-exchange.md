@@ -21,7 +21,7 @@ Sato Score: **⬡ 62** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Limitless Labs
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 5 days ago
+- **Activity:** Active — last activity 6 days ago
 - **GitHub stars:** 7
 
 ## What we checked
@@ -34,6 +34,6 @@ Sato Score: **⬡ 62** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `limitless-exchange`. https://satohub.ai/resources/limitless-exchange — retrieved 2026-10-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `limitless-exchange`. https://satohub.ai/resources/limitless-exchange — retrieved 2026-10-26.
 
 [← All layers](../index.md)

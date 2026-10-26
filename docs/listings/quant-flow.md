@@ -9,7 +9,7 @@ layout: "default"
 
 Open-source LLM-driven trading agent for Hyperliquid perpetuals and grid strategies, with order execution and risk limits kept in deterministic code.
 
-Sato Score: **⬡ 42** (Medium), -9 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 42** (Medium), +1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,7 +22,7 @@ Sato Score: **⬡ 42** (Medium), -9 over 7 days — a measure of how open, activ
 
 ## What we checked
 
-- Live endpoint probed by us: 96.6% of our checks succeeded over 29 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 96.7% of our checks succeeded over 30 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -31,6 +31,6 @@ Sato Score: **⬡ 42** (Medium), -9 over 7 days — a measure of how open, activ
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `quant-flow`. https://satohub.ai/resources/quant-flow — retrieved 2026-10-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `quant-flow`. https://satohub.ai/resources/quant-flow — retrieved 2026-10-26.
 
 [← All layers](../index.md)

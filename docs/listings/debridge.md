@@ -27,6 +27,6 @@ Sato Score: **⬡ 30** (Low) — a measure of how open, active and verifiable th
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `debridge`. https://satohub.ai/resources/debridge — retrieved 2026-10-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `debridge`. https://satohub.ai/resources/debridge — retrieved 2026-10-26.
 
 [← All layers](../index.md)

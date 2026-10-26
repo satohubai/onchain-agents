@@ -21,7 +21,7 @@ Sato Score: **⬡ 57** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Ethereum Attestation Service
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Recent — last activity 1 month ago
+- **Activity:** Recent — last activity 2 months ago
 - **GitHub stars:** 145
 
 ## What we checked
@@ -34,6 +34,6 @@ Sato Score: **⬡ 57** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ethereum-attestation-service`. https://satohub.ai/resources/ethereum-attestation-service — retrieved 2026-10-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ethereum-attestation-service`. https://satohub.ai/resources/ethereum-attestation-service — retrieved 2026-10-26.
 
 [← All layers](../index.md)

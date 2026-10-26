@@ -9,7 +9,7 @@ layout: "default"
 
 Solana swap aggregator that routes trades across DEXs via a widely used API and SDKs.
 
-Sato Score: **⬡ 77** (High), +5 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 77** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,7 +22,7 @@ Sato Score: **⬡ 77** (High), +5 over 7 days — a measure of how open, active 
 - **Creator:** Jupiter Exchange
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Recent — last activity 2 days ago
+- **Activity:** Recent — last activity 3 days ago
 - **GitHub stars:** 183
 - **Deploys as:** API, SDK, npm, MCP server
 - **Works with:** MCP, REST API, CLI
@@ -53,6 +53,6 @@ npm install @jup-ag/api
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `jupiter-aggregator`. https://satohub.ai/resources/jupiter-aggregator — retrieved 2026-10-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `jupiter-aggregator`. https://satohub.ai/resources/jupiter-aggregator — retrieved 2026-10-26.
 
 [← All layers](../index.md)

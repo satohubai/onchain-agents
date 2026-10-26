@@ -50,6 +50,6 @@ cd safer
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `safer-safe-wallet-mcp`. https://satohub.ai/resources/safer-safe-wallet-mcp — retrieved 2026-10-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `safer-safe-wallet-mcp`. https://satohub.ai/resources/safer-safe-wallet-mcp — retrieved 2026-10-26.
 
 [← All layers](../index.md)

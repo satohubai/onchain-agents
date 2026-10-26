@@ -20,7 +20,7 @@ Sato Score: **⬡ 89** (High) — a measure of how open, active and verifiable t
 - **Interfaces:** mcp, api
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 7 days ago
+- **Activity:** Active — last activity 8 days ago
 - **GitHub stars:** 0
 - **Deploys as:** hosted
 - **Works with:** Claude, Cursor, Hermes, Windsurf, x402, Coinbase Payments MCP
@@ -35,6 +35,6 @@ Sato Score: **⬡ 89** (High) — a measure of how open, active and verifiable t
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `nanoparse`. https://satohub.ai/resources/nanoparse — retrieved 2026-10-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `nanoparse`. https://satohub.ai/resources/nanoparse — retrieved 2026-10-26.
 
 [← All layers](../index.md)

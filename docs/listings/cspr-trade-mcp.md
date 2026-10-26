@@ -18,7 +18,7 @@ Sato Score: **⬡ 80** (High), +15 over 7 days — a measure of how open, active
 - **Chains:** Unknown
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity today
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 2
 - **Deploys as:** hosted endpoint, self-hosted (npm/stdio/http)
 - **Works with:** Claude Desktop, Cursor, OpenClaw, ClawHub
@@ -49,6 +49,6 @@ npm install @make-software/cspr-trade-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cspr-trade-mcp`. https://satohub.ai/resources/cspr-trade-mcp — retrieved 2026-10-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cspr-trade-mcp`. https://satohub.ai/resources/cspr-trade-mcp — retrieved 2026-10-26.
 
 [← All layers](../index.md)

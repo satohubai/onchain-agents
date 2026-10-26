@@ -35,7 +35,7 @@ pnpm install
 - **License:** MIT
 - **MCP native:** no
 - **Deploy status:** unknown
-- **As of:** 2026-10-19
+- **As of:** 2026-10-26
 
 ## What we checked
 
@@ -48,6 +48,6 @@ pnpm install
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `create-solana-agent`. https://satohub.ai/resources/create-solana-agent — retrieved 2026-10-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `create-solana-agent`. https://satohub.ai/resources/create-solana-agent — retrieved 2026-10-26.
 
 [← All layers](../index.md)
