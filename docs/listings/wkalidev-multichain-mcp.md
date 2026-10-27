@@ -9,7 +9,7 @@ layout: "default"
 
 Single MCP server for balance/price reads and unsigned transfer prep across Stacks, Celo, and Base.
 
-Sato Score: **⬡ 65** (Medium), +8 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 65** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -49,6 +49,6 @@ npm install @wkalidev/multichain-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `wkalidev-multichain-mcp`. https://satohub.ai/resources/wkalidev-multichain-mcp — retrieved 2026-10-26.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `wkalidev-multichain-mcp`. https://satohub.ai/resources/wkalidev-multichain-mcp — retrieved 2026-10-27.
 
 [← All layers](../index.md)

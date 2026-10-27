@@ -47,6 +47,6 @@ claude mcp add --transport http zerion-api https://developers.zerion.io/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `zerion-mcp`. https://satohub.ai/resources/zerion-mcp — retrieved 2026-10-26.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `zerion-mcp`. https://satohub.ai/resources/zerion-mcp — retrieved 2026-10-27.
 
 [← All layers](../index.md)

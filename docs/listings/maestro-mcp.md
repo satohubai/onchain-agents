@@ -22,7 +22,7 @@ Sato Score: **⬡ 48** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Maestro
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Quiet — last activity 5 months ago
+- **Activity:** Quiet — last activity 6 months ago
 - **GitHub stars:** 25
 - **Deploys as:** Hosted API (Streamable HTTP, mainnet + testnet), self-host (Bun runtime), Hosted mainnet endpoint, Hosted testnet4 endpoint, Self-host (Bun runtime)
 
@@ -42,7 +42,7 @@ claude mcp add --transport http maestro-btc https://xbt-mainnet.gomaestro-api.or
 
 ## What we checked
 
-- Live endpoint probed by us: 58.9% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 57.8% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -51,6 +51,6 @@ claude mcp add --transport http maestro-btc https://xbt-mainnet.gomaestro-api.or
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `maestro-mcp`. https://satohub.ai/resources/maestro-mcp — retrieved 2026-10-26.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `maestro-mcp`. https://satohub.ai/resources/maestro-mcp — retrieved 2026-10-27.
 
 [← All layers](../index.md)

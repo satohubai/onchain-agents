@@ -21,7 +21,7 @@ Sato Score: **⬡ 83** (High), +4 over 7 days — a measure of how open, active 
 - **Creator:** Tempo
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 3 days ago
+- **Activity:** Active — last activity today
 - **GitHub stars:** 1.0k
 - **Deploys as:** Pre-built binary, Build from source, Docker
 - **Works with:** TypeScript SDK, Rust SDK, Go SDK, Python SDK, Foundry, Codex, Claude Code, Amp, MCP
@@ -36,6 +36,6 @@ Sato Score: **⬡ 83** (High), +4 over 7 days — a measure of how open, active 
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `tempo-blockchain`. https://satohub.ai/resources/tempo-blockchain — retrieved 2026-10-26.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `tempo-blockchain`. https://satohub.ai/resources/tempo-blockchain — retrieved 2026-10-27.
 
 [← All layers](../index.md)

@@ -9,7 +9,7 @@ layout: "default"
 
 Decision audit trail and persistent memory for AI trading agents, with tamper-evident recall.
 
-Sato Score: **⬡ 71** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 79** (High), +8 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,7 +21,7 @@ Sato Score: **⬡ 71** (High) — a measure of how open, active and verifiable t
 - **Creator:** Mnemox AI
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 3 days ago
+- **Activity:** Active — last activity 4 days ago
 - **GitHub stars:** 1.4k
 - **Deploys as:** pip, MCP server
 - **Works with:** Claude, MT5, Smithery, Claude Code, Cursor, Docker
@@ -51,6 +51,6 @@ pip install tradememory-protocol
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `tradememory-protocol`. https://satohub.ai/resources/tradememory-protocol — retrieved 2026-10-26.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `tradememory-protocol`. https://satohub.ai/resources/tradememory-protocol — retrieved 2026-10-27.
 
 [← All layers](../index.md)

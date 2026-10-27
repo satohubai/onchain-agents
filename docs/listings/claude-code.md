@@ -23,7 +23,7 @@ Sato Score: **⬡ 84** (High) — a measure of how open, active and verifiable t
 - **Open source:** No
 - **Status:** Active
 - **Activity:** Active — last activity today
-- **GitHub stars:** 152.5k
+- **GitHub stars:** 153.5k
 - **Deploys as:** npm
 - **Works with:** Model Context Protocol, GitHub, VS Code, JetBrains, Slack
 
@@ -53,6 +53,6 @@ npm install -g @anthropic-ai/claude-code
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `claude-code`. https://satohub.ai/resources/claude-code — retrieved 2026-10-26.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `claude-code`. https://satohub.ai/resources/claude-code — retrieved 2026-10-27.
 
 [← All layers](../index.md)

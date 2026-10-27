@@ -9,7 +9,7 @@ layout: "default"
 
 Solana DEX smart-money signal MCP server (whale accumulation, divergence, BTC regime) sold pay-per-call via x402.
 
-Sato Score: **⬡ 58** (Medium), +8 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 58** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -18,7 +18,7 @@ Sato Score: **⬡ 58** (Medium), +8 over 7 days — a measure of how open, activ
 - **Chains:** Solana
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Quiet — last activity 5 months ago
+- **Activity:** Quiet — last activity 6 months ago
 - **GitHub stars:** 1
 - **Works with:** Claude Desktop, Cursor, Codex, agentcash
 
@@ -49,6 +49,6 @@ npm install -g cryptoiz-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cryptoiz-mcp`. https://satohub.ai/resources/cryptoiz-mcp — retrieved 2026-10-26.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cryptoiz-mcp`. https://satohub.ai/resources/cryptoiz-mcp — retrieved 2026-10-27.
 
 [← All layers](../index.md)

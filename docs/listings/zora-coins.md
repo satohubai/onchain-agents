@@ -35,6 +35,6 @@ Sato Score: **⬡ 60** (Medium), +2 over 7 days — a measure of how open, activ
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `zora-coins`. https://satohub.ai/resources/zora-coins — retrieved 2026-10-26.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `zora-coins`. https://satohub.ai/resources/zora-coins — retrieved 2026-10-27.
 
 [← All layers](../index.md)

@@ -18,7 +18,7 @@ Sato Score: **⬡ 69** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Ethereum, Base, Arbitrum, Polygon, Optimism, Avalanche
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 11 days ago
+- **Activity:** Active — last activity 12 days ago
 - **GitHub stars:** 2
 
 ## Deploy spec
@@ -50,6 +50,6 @@ cd graph-aave-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `graph-aave-mcp`. https://satohub.ai/resources/graph-aave-mcp — retrieved 2026-10-26.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `graph-aave-mcp`. https://satohub.ai/resources/graph-aave-mcp — retrieved 2026-10-27.
 
 [← All layers](../index.md)

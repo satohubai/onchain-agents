@@ -51,6 +51,6 @@ npm install @neynar/nodejs-sdk
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `neynar`. https://satohub.ai/resources/neynar — retrieved 2026-10-26.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `neynar`. https://satohub.ai/resources/neynar — retrieved 2026-10-27.
 
 [← All layers](../index.md)

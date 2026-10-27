@@ -9,7 +9,7 @@ layout: "default"
 
 Agent Control is a marketplace where agents find and pay for services on Base, Solana.
 
-Sato Score: **⬡ 74** (High), -4 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 74** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -19,7 +19,7 @@ Sato Score: **⬡ 74** (High), -4 over 7 days — a measure of how open, active 
 - **Interfaces:** api
 - **Open source:** Partial
 - **Status:** Early
-- **Activity:** Active — last activity 7 days ago
+- **Activity:** Active — last activity 8 days ago
 - **GitHub stars:** 0
 - **Works with:** Coinbase AgentKit, x402, MCP, Cursor, Grok, Slack
 
@@ -33,6 +33,6 @@ Sato Score: **⬡ 74** (High), -4 over 7 days — a measure of how open, active 
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `agent-control`. https://satohub.ai/resources/agent-control — retrieved 2026-10-26.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `agent-control`. https://satohub.ai/resources/agent-control — retrieved 2026-10-27.
 
 [← All layers](../index.md)

@@ -22,8 +22,8 @@ Sato Score: **⬡ 76** (High) — a measure of how open, active and verifiable t
 - **Status:** Early
 - **Activity:** Recent — last activity 1 month ago
 - **GitHub stars:** 6.5k
-- **Deploys as:** self-hosted, Docker, library, API
-- **Works with:** Twitter, Telegram, Web3
+- **Deploys as:** self-hosted, Docker, library, API, Docker Compose, Docker Swarm
+- **Works with:** Twitter, Telegram, Web3, Slack, Lark
 
 ## Deploy spec
 
@@ -52,6 +52,6 @@ pip install intentkit
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `intentkit`. https://satohub.ai/resources/intentkit — retrieved 2026-10-26.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `intentkit`. https://satohub.ai/resources/intentkit — retrieved 2026-10-27.
 
 [← All layers](../index.md)

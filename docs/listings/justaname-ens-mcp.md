@@ -9,7 +9,7 @@ layout: "default"
 
 MCP server for ENS — resolve names to addresses, reverse lookups, text records, subdomains, and registration pricing.
 
-Sato Score: **⬡ 52** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 60** (Medium), +8 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -48,6 +48,6 @@ claude mcp add ens -- npx -y mcp-server-ens
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `justaname-ens-mcp`. https://satohub.ai/resources/justaname-ens-mcp — retrieved 2026-10-26.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `justaname-ens-mcp`. https://satohub.ai/resources/justaname-ens-mcp — retrieved 2026-10-27.
 
 [← All layers](../index.md)

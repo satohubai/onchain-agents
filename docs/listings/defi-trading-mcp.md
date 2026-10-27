@@ -24,7 +24,7 @@ Sato Score: **⬡ 51** (Medium) — a measure of how open, active and verifiable
 - **Status:** Early
 - **Activity:** Quiet — last activity 4 months ago
 - **GitHub stars:** 54
-- **Deploys as:** npm package, MCP server (Claude Code, Claude Desktop, Cursor, Kiro IDE)
+- **Deploys as:** npm package, MCP server (Claude Code, Claude Desktop, Cursor, Kiro IDE), Kiro IDE, GitHub Copilot, Gemini CLI)
 - **Works with:** CoinGecko, Alchemy
 
 ## Deploy spec
@@ -53,6 +53,6 @@ npm install -g defi-trading-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `defi-trading-mcp`. https://satohub.ai/resources/defi-trading-mcp — retrieved 2026-10-26.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `defi-trading-mcp`. https://satohub.ai/resources/defi-trading-mcp — retrieved 2026-10-27.
 
 [← All layers](../index.md)

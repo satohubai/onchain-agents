@@ -9,7 +9,7 @@ layout: "default"
 
 Community-curated Solana AI-tooling index (MCP servers, wallet SDKs, frameworks) in the Solana Foundation org; not officially endorsed.
 
-Sato Score: **⬡ 62** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 52** (Medium), -10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -18,7 +18,7 @@ Sato Score: **⬡ 62** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Solana
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Recent — last activity 30 days ago
+- **Activity:** Recent — last activity 1 month ago
 - **GitHub stars:** 431
 
 ## What we checked
@@ -32,6 +32,6 @@ Sato Score: **⬡ 62** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `awesome-solana-ai`. https://satohub.ai/resources/awesome-solana-ai — retrieved 2026-10-26.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `awesome-solana-ai`. https://satohub.ai/resources/awesome-solana-ai — retrieved 2026-10-27.
 
 [← All layers](../index.md)

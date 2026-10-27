@@ -22,7 +22,7 @@ Sato Score: **⬡ 68** (Medium) — a measure of how open, active and verifiable
 - **Creator:** COTI
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 1 day ago
+- **Activity:** Active — last activity 2 days ago
 - **GitHub stars:** 14
 
 ## Deploy spec
@@ -50,6 +50,6 @@ npm install @coti-io/coti-sdk-typescript
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `coti`. https://satohub.ai/resources/coti — retrieved 2026-10-26.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `coti`. https://satohub.ai/resources/coti — retrieved 2026-10-27.
 
 [← All layers](../index.md)

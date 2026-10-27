@@ -9,7 +9,7 @@ layout: "default"
 
 Onchain perpetual futures and spot DEX running on its own L1 with an HyperEVM smart-contract layer.
 
-Sato Score: **⬡ 77** (High), +8 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 77** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,7 +22,7 @@ Sato Score: **⬡ 77** (High), +8 over 7 days — a measure of how open, active 
 - **Creator:** Hyperliquid
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Recent — last activity 10 days ago
+- **Activity:** Recent — last activity 1 day ago
 - **GitHub stars:** 508
 - **Deploys as:** API, SDK
 - **Works with:** CCXT, Python SDK, TypeScript SDK
@@ -53,6 +53,6 @@ pip install hyperliquid-python-sdk
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `hyperliquid`. https://satohub.ai/resources/hyperliquid — retrieved 2026-10-26.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `hyperliquid`. https://satohub.ai/resources/hyperliquid — retrieved 2026-10-27.
 
 [← All layers](../index.md)

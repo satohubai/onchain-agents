@@ -48,6 +48,6 @@ docker compose up
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `listen-rs`. https://satohub.ai/resources/listen-rs — retrieved 2026-10-26.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `listen-rs`. https://satohub.ai/resources/listen-rs — retrieved 2026-10-27.
 
 [← All layers](../index.md)
