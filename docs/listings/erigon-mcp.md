@@ -48,6 +48,6 @@ make mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `erigon-mcp`. https://satohub.ai/resources/erigon-mcp — retrieved 2026-10-27.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `erigon-mcp`. https://satohub.ai/resources/erigon-mcp — retrieved 2026-10-28.
 
 [← All layers](../index.md)

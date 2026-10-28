@@ -38,6 +38,6 @@ Sato Score: **⬡ 56** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `axiom-clawbots-agent`. https://satohub.ai/resources/axiom-clawbots-agent — retrieved 2026-10-27.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `axiom-clawbots-agent`. https://satohub.ai/resources/axiom-clawbots-agent — retrieved 2026-10-28.
 
 [← All layers](../index.md)

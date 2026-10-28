@@ -9,7 +9,7 @@ layout: "default"
 
 Free, key-less crypto news and market-data API aggregating Bitcoin, Ethereum, Solana, and DeFi.
 
-Sato Score: **⬡ 80** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 87** (High), +7 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,9 +22,9 @@ Sato Score: **⬡ 80** (High) — a measure of how open, active and verifiable t
 - **Open source:** Yes
 - **Status:** Early
 - **Activity:** Active — last activity 2 days ago
-- **GitHub stars:** 323
-- **Deploys as:** API, Docker, MCP server, npm
-- **Works with:** ChatGPT, Claude, LangChain, Python SDK, TypeScript SDK
+- **GitHub stars:** 324
+- **Deploys as:** API, Docker, MCP server, npm, Cloud Run, Vercel
+- **Works with:** ChatGPT, Claude, LangChain, Python SDK, TypeScript SDK, Go SDK, PHP SDK, React, x402
 
 ## Deploy spec
 
@@ -48,10 +48,10 @@ docker pull ghcr.io/nirholas/free-crypto-news && docker run -p 3000:3000 ghcr.io
 
 ## Links
 
-[Website](https://cryptocurrency.cv) · [GitHub](https://github.com/nirholas/cryptocurrency.cv) · [Sato Hub page ↗](https://satohub.ai/resources/cryptocurrency-cv?utm_source=github&utm_medium=index&utm_campaign=onchain-agents)
+[Website](https://cryptocurrency.cv) · [Docs](https://cryptocurrency.cv/developers) · [GitHub](https://github.com/nirholas/cryptocurrency.cv) · [Sato Hub page ↗](https://satohub.ai/resources/cryptocurrency-cv?utm_source=github&utm_medium=index&utm_campaign=onchain-agents)
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cryptocurrency-cv`. https://satohub.ai/resources/cryptocurrency-cv — retrieved 2026-10-27.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cryptocurrency-cv`. https://satohub.ai/resources/cryptocurrency-cv — retrieved 2026-10-28.
 
 [← All layers](../index.md)

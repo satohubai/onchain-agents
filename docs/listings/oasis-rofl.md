@@ -32,6 +32,6 @@ Sato Score: **⬡ 35** (Low), +2 over 7 days — a measure of how open, active a
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `oasis-rofl`. https://satohub.ai/resources/oasis-rofl — retrieved 2026-10-27.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `oasis-rofl`. https://satohub.ai/resources/oasis-rofl — retrieved 2026-10-28.
 
 [← All layers](../index.md)

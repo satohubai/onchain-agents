@@ -34,6 +34,6 @@ Sato Score: **⬡ 46** (Medium), +2 over 7 days — a measure of how open, activ
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `marlin-oyster`. https://satohub.ai/resources/marlin-oyster — retrieved 2026-10-27.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `marlin-oyster`. https://satohub.ai/resources/marlin-oyster — retrieved 2026-10-28.
 
 [← All layers](../index.md)

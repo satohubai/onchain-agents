@@ -22,7 +22,7 @@ Sato Score: **⬡ 82** (High) — a measure of how open, active and verifiable t
 - **Creator:** Matthew Karsten
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 28 days ago
+- **Activity:** Active — last activity 29 days ago
 - **GitHub stars:** 0
 - **Deploys as:** npm
 - **Works with:** Claude Desktop, Claude Code, Cursor, HashPack, Hedera Mirror Node, MCP Registry
@@ -53,6 +53,6 @@ npx @purplesquirrel/hedera-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `hedera-mcp`. https://satohub.ai/resources/hedera-mcp — retrieved 2026-10-27.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `hedera-mcp`. https://satohub.ai/resources/hedera-mcp — retrieved 2026-10-28.
 
 [← All layers](../index.md)

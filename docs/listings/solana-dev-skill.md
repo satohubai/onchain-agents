@@ -19,8 +19,8 @@ Sato Score: **⬡ 68** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Solana Foundation
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity today
-- **GitHub stars:** 579
+- **Activity:** Active — last activity 1 day ago
+- **GitHub stars:** 581
 - **Works with:** Claude Code, OpenAI Codex, GitHub Copilot, Gemini CLI, Cursor, Windsurf, Cline, OpenCode
 
 ## Deploy spec
@@ -50,6 +50,6 @@ git clone https://github.com/solana-foundation/solana-dev-skill
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solana-dev-skill`. https://satohub.ai/resources/solana-dev-skill — retrieved 2026-10-27.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solana-dev-skill`. https://satohub.ai/resources/solana-dev-skill — retrieved 2026-10-28.
 
 [← All layers](../index.md)

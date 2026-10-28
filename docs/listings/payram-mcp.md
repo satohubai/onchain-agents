@@ -9,7 +9,7 @@ layout: "default"
 
 PayRam's MCP server for self-hosted crypto payments: hosted endpoints and agent payment workflows.
 
-Sato Score: **⬡ 82** (High), +9 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 82** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,7 +22,7 @@ Sato Score: **⬡ 82** (High), +9 over 7 days — a measure of how open, active 
 - **Creator:** PayRam
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity today
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 158
 - **Deploys as:** Hosted API, Self-hosted (Docker/VPS), Local mode
 - **Works with:** OpenClaw, Hermes, Claude, Cursor, GitHub Copilot, n8n, LangChain
@@ -52,6 +52,6 @@ yarn install
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `payram-mcp`. https://satohub.ai/resources/payram-mcp — retrieved 2026-10-27.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `payram-mcp`. https://satohub.ai/resources/payram-mcp — retrieved 2026-10-28.
 
 [← All layers](../index.md)

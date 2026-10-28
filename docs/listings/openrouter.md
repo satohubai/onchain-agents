@@ -20,7 +20,7 @@ Sato Score: **⬡ 67** (Medium), +13 over 7 days — a measure of how open, acti
 - **Creator:** OpenRouter
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity today
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 691
 - **Works with:** Vercel AI SDK, OpenAI SDK, LangChain, Mastra, PydanticAI, LiveKit, Langfuse, Arize AX, Zapier, TanStack AI, Anthropic Agent SDK
 
@@ -34,6 +34,6 @@ Sato Score: **⬡ 67** (Medium), +13 over 7 days — a measure of how open, acti
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `openrouter`. https://satohub.ai/resources/openrouter — retrieved 2026-10-27.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `openrouter`. https://satohub.ai/resources/openrouter — retrieved 2026-10-28.
 
 [← All layers](../index.md)

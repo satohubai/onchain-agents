@@ -35,6 +35,6 @@ Sato Score: **⬡ 68** (Medium), +5 over 7 days — a measure of how open, activ
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `phala-cloud`. https://satohub.ai/resources/phala-cloud — retrieved 2026-10-27.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `phala-cloud`. https://satohub.ai/resources/phala-cloud — retrieved 2026-10-28.
 
 [← All layers](../index.md)

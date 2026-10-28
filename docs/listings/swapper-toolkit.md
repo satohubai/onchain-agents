@@ -53,6 +53,6 @@ npm i @swapper-finance/deposit-sdk
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `swapper-toolkit`. https://satohub.ai/resources/swapper-toolkit — retrieved 2026-10-27.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `swapper-toolkit`. https://satohub.ai/resources/swapper-toolkit — retrieved 2026-10-28.
 
 [← All layers](../index.md)

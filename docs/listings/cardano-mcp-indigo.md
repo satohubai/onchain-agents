@@ -9,7 +9,7 @@ layout: "default"
 
 Cardano wallet MCP server — submit transactions, read UTxOs, resolve ADAHandles, and check stake delegation.
 
-Sato Score: **⬡ 58** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 73** (High), +15 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -18,7 +18,7 @@ Sato Score: **⬡ 58** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Unknown
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Quiet — last activity 6 months ago
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 4
 - **Deploys as:** npm package, npx, Docker
 - **Works with:** Claude Desktop, Claude Code, Cursor, Windsurf, OpenClaw, Blockfrost, Kupo, Ogmios, Lucid Evolution
@@ -50,6 +50,6 @@ npx @indigoprotocol/cardano-mcp setup
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cardano-mcp-indigo`. https://satohub.ai/resources/cardano-mcp-indigo — retrieved 2026-10-27.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cardano-mcp-indigo`. https://satohub.ai/resources/cardano-mcp-indigo — retrieved 2026-10-28.
 
 [← All layers](../index.md)
