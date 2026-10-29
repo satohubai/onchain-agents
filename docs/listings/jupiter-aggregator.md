@@ -53,6 +53,6 @@ npm install @jup-ag/api
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `jupiter-aggregator`. https://satohub.ai/resources/jupiter-aggregator — retrieved 2026-10-28.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `jupiter-aggregator`. https://satohub.ai/resources/jupiter-aggregator — retrieved 2026-10-29.
 
 [← All layers](../index.md)

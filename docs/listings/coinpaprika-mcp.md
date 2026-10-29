@@ -22,7 +22,7 @@ Sato Score: **⬡ 80** (High), +2 over 7 days — a measure of how open, active 
 - **Creator:** CoinPaprika
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 6 days ago
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 20
 - **Deploys as:** Hosted API, npm
 - **Works with:** Claude Desktop, Claude Code
@@ -52,6 +52,6 @@ or self-host: npx @coinpaprika/mcp@latest
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `coinpaprika-mcp`. https://satohub.ai/resources/coinpaprika-mcp — retrieved 2026-10-28.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `coinpaprika-mcp`. https://satohub.ai/resources/coinpaprika-mcp — retrieved 2026-10-29.
 
 [← All layers](../index.md)

@@ -51,6 +51,6 @@ npm install -g @0xwork/cli
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `0xwork`. https://satohub.ai/resources/0xwork — retrieved 2026-10-28.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `0xwork`. https://satohub.ai/resources/0xwork — retrieved 2026-10-29.
 
 [← All layers](../index.md)

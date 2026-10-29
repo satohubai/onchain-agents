@@ -19,7 +19,7 @@ Sato Score: **⬡ 54** (Medium) — a measure of how open, active and verifiable
 - **Open source:** Yes
 - **Status:** Early
 - **Activity:** Dormant — last activity 18 months ago
-- **GitHub stars:** 5
+- **GitHub stars:** 4
 
 ## Deploy spec
 
@@ -50,6 +50,6 @@ npm run build
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ultrade-mcp`. https://satohub.ai/resources/ultrade-mcp — retrieved 2026-10-28.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ultrade-mcp`. https://satohub.ai/resources/ultrade-mcp — retrieved 2026-10-29.
 
 [← All layers](../index.md)

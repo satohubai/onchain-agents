@@ -9,7 +9,7 @@ layout: "default"
 
 Community MCP for Hedera: Mirror Node reads plus 73 build-only tools across accounts, HTS, HCS, EVM, and files.
 
-Sato Score: **⬡ 82** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 72** (High), -10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,7 +22,7 @@ Sato Score: **⬡ 82** (High) — a measure of how open, active and verifiable t
 - **Creator:** Matthew Karsten
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 29 days ago
+- **Activity:** Recent — last activity 30 days ago
 - **GitHub stars:** 0
 - **Deploys as:** npm
 - **Works with:** Claude Desktop, Claude Code, Cursor, HashPack, Hedera Mirror Node, MCP Registry
@@ -53,6 +53,6 @@ npx @purplesquirrel/hedera-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `hedera-mcp`. https://satohub.ai/resources/hedera-mcp — retrieved 2026-10-28.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `hedera-mcp`. https://satohub.ai/resources/hedera-mcp — retrieved 2026-10-29.
 
 [← All layers](../index.md)

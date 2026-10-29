@@ -18,7 +18,7 @@ Sato Score: **⬡ 46** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Ethereum, Base
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Quiet — last activity 9 months ago
+- **Activity:** Quiet — last activity 10 months ago
 - **GitHub stars:** 2
 
 ## Deploy spec
@@ -47,6 +47,6 @@ yarn build
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `metamask-mcp-x402`. https://satohub.ai/resources/metamask-mcp-x402 — retrieved 2026-10-28.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `metamask-mcp-x402`. https://satohub.ai/resources/metamask-mcp-x402 — retrieved 2026-10-29.
 
 [← All layers](../index.md)

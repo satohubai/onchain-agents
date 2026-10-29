@@ -53,6 +53,6 @@ npm install && npm run build
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solanashield-mcp`. https://satohub.ai/resources/solanashield-mcp — retrieved 2026-10-28.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solanashield-mcp`. https://satohub.ai/resources/solanashield-mcp — retrieved 2026-10-29.
 
 [← All layers](../index.md)

@@ -52,6 +52,6 @@ pip install binance-mcp-server
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `binance-mcp`. https://satohub.ai/resources/binance-mcp — retrieved 2026-10-28.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `binance-mcp`. https://satohub.ai/resources/binance-mcp — retrieved 2026-10-29.
 
 [← All layers](../index.md)

@@ -32,6 +32,6 @@ Sato Score: **⬡ 33** (Low) — a measure of how open, active and verifiable th
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `x402-preflight`. https://satohub.ai/resources/x402-preflight — retrieved 2026-10-28.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `x402-preflight`. https://satohub.ai/resources/x402-preflight — retrieved 2026-10-29.
 
 [← All layers](../index.md)

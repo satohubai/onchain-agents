@@ -52,6 +52,6 @@ npx octav-api-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `octav-api-mcp`. https://satohub.ai/resources/octav-api-mcp — retrieved 2026-10-28.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `octav-api-mcp`. https://satohub.ai/resources/octav-api-mcp — retrieved 2026-10-29.
 
 [← All layers](../index.md)

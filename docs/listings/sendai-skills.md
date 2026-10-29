@@ -19,7 +19,7 @@ Sato Score: **⬡ 55** (Medium) — a measure of how open, active and verifiable
 - **Creator:** SendAI
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Recent — last activity 2 months ago
+- **Activity:** Quiet — last activity 3 months ago
 - **GitHub stars:** 130
 
 ## Deploy spec
@@ -48,6 +48,6 @@ npx skills add sendaifun/skills
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `sendai-skills`. https://satohub.ai/resources/sendai-skills — retrieved 2026-10-28.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `sendai-skills`. https://satohub.ai/resources/sendai-skills — retrieved 2026-10-29.
 
 [← All layers](../index.md)

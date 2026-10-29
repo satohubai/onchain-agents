@@ -51,6 +51,6 @@ npm install @privy-io/node
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `privy`. https://satohub.ai/resources/privy — retrieved 2026-10-28.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `privy`. https://satohub.ai/resources/privy — retrieved 2026-10-29.
 
 [← All layers](../index.md)

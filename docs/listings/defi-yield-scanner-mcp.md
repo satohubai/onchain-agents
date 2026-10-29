@@ -46,6 +46,6 @@ npm install defi-yield-scanner-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `defi-yield-scanner-mcp`. https://satohub.ai/resources/defi-yield-scanner-mcp — retrieved 2026-10-28.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `defi-yield-scanner-mcp`. https://satohub.ai/resources/defi-yield-scanner-mcp — retrieved 2026-10-29.
 
 [← All layers](../index.md)
