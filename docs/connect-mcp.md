@@ -4,7 +4,7 @@ The index is queryable live over the [Model Context Protocol](https://modelconte
 
 **Endpoint:** `https://satohub.ai/api/mcp` (Streamable HTTP, no key, no account)
 
-**Tool list:** [`https://satohub.ai/api/mcp/tools.json`](https://satohub.ai/api/mcp/tools.json) carries the current tools, their input schemas and which ones change state. Most tools only read. The few that do something (watch a dependency, submit a project, register an agent passport, prepare a swap) are listed in its `write_tools` field; none of them holds a key, signs or broadcasts.
+**Tool list:** [`https://satohub.ai/api/mcp/tools.json`](https://satohub.ai/api/mcp/tools.json) carries the current tools, their input schemas and which ones change state. Most tools only read. The few that do something (watch a dependency, submit a project, register an agent passport or join with a wallet signature, prepare a swap) are listed in its `write_tools` field; none of them holds a key, signs or broadcasts. `onchain_agent_join_passport` creates a free public Sato Passport from a signature made with the agent's own wallet: call it once with no signatures and it returns the exact message to sign, then call again with the signatures. A signature proves control of that wallet's key and nothing about the agent.
 
 ## Claude Code
 

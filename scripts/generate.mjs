@@ -1162,7 +1162,7 @@ ${LAYERS.map((l) => `- [${l.title}](${raw}/docs/categories/${l.slug}.md): ${l.wh
 
 ## Related
 
-- [Agent Passports](${SITE}/agents): registered agents with on-chain verification checks and machine-readable manifests
+- [Agent Passports](${SITE}/agents): registered agents with on-chain verification checks and machine-readable manifests. An agent can join free with its own wallets: \`POST ${SITE}/api/passport/join\` with no signature returns the exact message to sign (also the MCP tool \`onchain_agent_join_passport\`)
 - [Agent Architect / Builder](${SITE}/build): describe an agent in plain language, get a build plan made of listings from this index
 - [SATO OS](${raw}/SATO-OS.md): self-hosted mission control for running an onchain agent
 - [satohub.ai](${SITE}): the full product
