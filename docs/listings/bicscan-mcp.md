@@ -9,7 +9,7 @@ layout: "default"
 
 AhnLab's BICScan MCP server: blockchain address risk scoring and asset lookups over the BICScan API.
 
-Sato Score: **⬡ 61** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 65** (Medium), +4 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -54,6 +54,6 @@ uv sync
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bicscan-mcp`. https://satohub.ai/resources/bicscan-mcp — retrieved 2026-10-29.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bicscan-mcp`. https://satohub.ai/resources/bicscan-mcp — retrieved 2026-10-30.
 
 [← All layers](../index.md)

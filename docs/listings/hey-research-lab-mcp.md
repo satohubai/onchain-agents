@@ -35,6 +35,6 @@ Sato Score: **⬡ 73** (High) — a measure of how open, active and verifiable t
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `hey-research-lab-mcp`. https://satohub.ai/resources/hey-research-lab-mcp — retrieved 2026-10-29.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `hey-research-lab-mcp`. https://satohub.ai/resources/hey-research-lab-mcp — retrieved 2026-10-30.
 
 [← All layers](../index.md)

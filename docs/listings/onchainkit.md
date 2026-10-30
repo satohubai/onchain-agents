@@ -9,7 +9,7 @@ layout: "default"
 
 Coinbase's React component and TypeScript SDK library for building onchain apps and mini-apps on Base.
 
-Sato Score: **⬡ 66** (Medium), -10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 66** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -46,6 +46,6 @@ npm create onchain
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `onchainkit`. https://satohub.ai/resources/onchainkit — retrieved 2026-10-29.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `onchainkit`. https://satohub.ai/resources/onchainkit — retrieved 2026-10-30.
 
 [← All layers](../index.md)

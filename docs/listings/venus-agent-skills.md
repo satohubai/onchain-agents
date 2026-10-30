@@ -52,6 +52,6 @@ npm install
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `venus-agent-skills`. https://satohub.ai/resources/venus-agent-skills — retrieved 2026-10-29.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `venus-agent-skills`. https://satohub.ai/resources/venus-agent-skills — retrieved 2026-10-30.
 
 [← All layers](../index.md)

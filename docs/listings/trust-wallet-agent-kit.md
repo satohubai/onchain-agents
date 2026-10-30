@@ -23,7 +23,7 @@ Sato Score: **⬡ 72** (High) — a measure of how open, active and verifiable t
 - **Open source:** Partial
 - **Status:** Active
 - **Activity:** Quiet — last activity 1 day ago
-- **GitHub stars:** 110
+- **GitHub stars:** 102
 - **Deploys as:** npm, CLI, MCP server, API
 - **Works with:** Claude Code, Cursor, Codex, Windsurf, GitHub Copilot, Wallet Core, x402
 
@@ -55,6 +55,6 @@ npx skills add trustwallet/tw-agent-skills  # coding-agent skills
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `trust-wallet-agent-kit`. https://satohub.ai/resources/trust-wallet-agent-kit — retrieved 2026-10-29.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `trust-wallet-agent-kit`. https://satohub.ai/resources/trust-wallet-agent-kit — retrieved 2026-10-30.
 
 [← All layers](../index.md)

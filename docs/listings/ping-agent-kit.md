@@ -47,6 +47,6 @@ npm install @ping-agent-kit/plugin-token @ping-agent-kit/plugin-nft @ping-agent-
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ping-agent-kit`. https://satohub.ai/resources/ping-agent-kit — retrieved 2026-10-29.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ping-agent-kit`. https://satohub.ai/resources/ping-agent-kit — retrieved 2026-10-30.
 
 [← All layers](../index.md)

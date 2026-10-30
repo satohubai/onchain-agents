@@ -9,7 +9,7 @@ layout: "default"
 
 An installable skill and unified API giving AI agents access to crypto market, on-chain, social, and prediction-market data across 40+ chains.
 
-Sato Score: **⬡ 68** (Medium), -6 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 68** (Medium), -5 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -53,6 +53,6 @@ npm install -g surf-cli
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `surf-asksurf`. https://satohub.ai/resources/surf-asksurf — retrieved 2026-10-29.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `surf-asksurf`. https://satohub.ai/resources/surf-asksurf — retrieved 2026-10-30.
 
 [← All layers](../index.md)

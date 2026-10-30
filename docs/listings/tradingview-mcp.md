@@ -22,7 +22,7 @@ Sato Score: **⬡ 82** (High), +8 over 7 days — a measure of how open, active 
 - **Open source:** Yes
 - **Status:** Active
 - **Activity:** Active — last activity 1 day ago
-- **GitHub stars:** 5.1k
+- **GitHub stars:** 5.2k
 - **Deploys as:** Hosted, self-hosted
 - **Works with:** Claude, ChatGPT, Cursor, Copilot, OpenClaw
 
@@ -52,6 +52,6 @@ pip install tradingview-mcp-server
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `tradingview-mcp`. https://satohub.ai/resources/tradingview-mcp — retrieved 2026-10-29.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `tradingview-mcp`. https://satohub.ai/resources/tradingview-mcp — retrieved 2026-10-30.
 
 [← All layers](../index.md)

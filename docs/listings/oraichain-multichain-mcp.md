@@ -19,7 +19,7 @@ Sato Score: **⬡ 59** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Oraichain Labs
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Dormant — last activity 17 months ago
+- **Activity:** Dormant — last activity 18 months ago
 - **GitHub stars:** 5
 - **Works with:** Claude Desktop
 
@@ -52,6 +52,6 @@ pnpm build
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `oraichain-multichain-mcp`. https://satohub.ai/resources/oraichain-multichain-mcp — retrieved 2026-10-29.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `oraichain-multichain-mcp`. https://satohub.ai/resources/oraichain-multichain-mcp — retrieved 2026-10-30.
 
 [← All layers](../index.md)

@@ -19,7 +19,7 @@ Sato Score: **⬡ 60** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Lumo Labs
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Dormant — last activity 16 months ago
+- **Activity:** Dormant — last activity 17 months ago
 - **GitHub stars:** 6
 - **Deploys as:** self-hosted, docker
 
@@ -50,6 +50,6 @@ make up
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lumokit`. https://satohub.ai/resources/lumokit — retrieved 2026-10-29.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lumokit`. https://satohub.ai/resources/lumokit — retrieved 2026-10-30.
 
 [← All layers](../index.md)

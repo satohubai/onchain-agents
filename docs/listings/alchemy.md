@@ -50,6 +50,6 @@ npm install @alchemy/wallet-apis viem
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `alchemy`. https://satohub.ai/resources/alchemy — retrieved 2026-10-29.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `alchemy`. https://satohub.ai/resources/alchemy — retrieved 2026-10-30.
 
 [← All layers](../index.md)

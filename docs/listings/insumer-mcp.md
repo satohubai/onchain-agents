@@ -21,7 +21,7 @@ Sato Score: **⬡ 82** (High) — a measure of how open, active and verifiable t
 - **Use cases:** wallets, data, privacy, security
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 6 days ago
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 2
 - **Deploys as:** npm, Docker, hosted endpoint, self-hosted
 - **Works with:** Claude Desktop, Cursor, Windsurf, LangChain, ElizaOS, OpenAI GPT, claude.ai custom connectors, ChatGPT connectors, x402
@@ -53,6 +53,6 @@ npm run build
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `insumer-mcp`. https://satohub.ai/resources/insumer-mcp — retrieved 2026-10-29.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `insumer-mcp`. https://satohub.ai/resources/insumer-mcp — retrieved 2026-10-30.
 
 [← All layers](../index.md)

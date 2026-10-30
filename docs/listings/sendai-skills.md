@@ -9,7 +9,7 @@ layout: "default"
 
 SendAI-maintained catalog of Solana agent skills (Jupiter, Helius, Kamino, Squads, and more) spanning DeFi, infrastructure, trading, oracles, data, cross-chain, NFT, security, and devops.
 
-Sato Score: **⬡ 55** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 50** (Medium), -5 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -48,6 +48,6 @@ npx skills add sendaifun/skills
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `sendai-skills`. https://satohub.ai/resources/sendai-skills — retrieved 2026-10-29.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `sendai-skills`. https://satohub.ai/resources/sendai-skills — retrieved 2026-10-30.
 
 [← All layers](../index.md)

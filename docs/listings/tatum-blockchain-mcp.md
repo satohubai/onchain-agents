@@ -22,7 +22,7 @@ Sato Score: **⬡ 67** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Tatum
 - **Open source:** Yes
 - **Status:** Unknown
-- **Activity:** Quiet — last activity 4 months ago
+- **Activity:** Quiet — last activity 5 months ago
 - **GitHub stars:** 15
 - **Deploys as:** npm install -g / npx
 - **Works with:** Cursor, Claude Desktop, VS Code
@@ -53,6 +53,6 @@ npx @tatumio/blockchain-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `tatum-blockchain-mcp`. https://satohub.ai/resources/tatum-blockchain-mcp — retrieved 2026-10-29.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `tatum-blockchain-mcp`. https://satohub.ai/resources/tatum-blockchain-mcp — retrieved 2026-10-30.
 
 [← All layers](../index.md)

@@ -23,7 +23,7 @@ Sato Score: **⬡ 76** (High) — a measure of how open, active and verifiable t
 - **Open source:** Yes
 - **Status:** Active
 - **Activity:** Quiet — last activity 4 months ago
-- **GitHub stars:** 4
+- **GitHub stars:** 5
 - **Deploys as:** Hosted API, Local
 - **Works with:** Cursor, VS Code, JetBrains, Claude Code, Claude Desktop, ChatGPT Desktop, Windsurf, Kiro, Warp Terminal, Cline, Continue.dev, Zed
 
@@ -51,6 +51,6 @@ claude mcp add --transport http web3auth https://mcp.web3auth.io
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `web3auth-mcp`. https://satohub.ai/resources/web3auth-mcp — retrieved 2026-10-29.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `web3auth-mcp`. https://satohub.ai/resources/web3auth-mcp — retrieved 2026-10-30.
 
 [← All layers](../index.md)

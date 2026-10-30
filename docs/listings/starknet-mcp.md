@@ -22,7 +22,7 @@ Sato Score: **⬡ 65** (Medium), -10 over 7 days — a measure of how open, acti
 - **Open source:** Yes
 - **Status:** Active
 - **Activity:** Recent — last activity 1 month ago
-- **GitHub stars:** 116
+- **GitHub stars:** 115
 - **Deploys as:** pip install (Python, local stdio)
 - **Works with:** Claude Code
 
@@ -52,6 +52,6 @@ claude mcp add --scope user --env STARKNET_RPC_URL=<your-rpc-url> starknet -- py
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `starknet-mcp`. https://satohub.ai/resources/starknet-mcp — retrieved 2026-10-29.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `starknet-mcp`. https://satohub.ai/resources/starknet-mcp — retrieved 2026-10-30.
 
 [← All layers](../index.md)

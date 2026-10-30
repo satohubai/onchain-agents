@@ -9,7 +9,7 @@ layout: "default"
 
 Web3 toolkit for Claude Code: 140 custody-free MCP tools for EVM and Solana DeFi, DEX, and perps.
 
-Sato Score: **⬡ 62** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 72** (High), +10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,7 +22,7 @@ Sato Score: **⬡ 62** (Medium) — a measure of how open, active and verifiable
 - **Creator:** ChainGPT
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Recent — last activity 1 month ago
+- **Activity:** Active — last activity today
 - **GitHub stars:** 11
 - **Deploys as:** Claude Code plugin, MCP server
 - **Works with:** 1inch, Jupiter, Aave, Lido, EigenLayer, Pendle, Morpho, Hyperliquid, Polymarket, Across, x402
@@ -53,6 +53,6 @@ Sato Score: **⬡ 62** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `chaingpt-claude-skill`. https://satohub.ai/resources/chaingpt-claude-skill — retrieved 2026-10-29.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `chaingpt-claude-skill`. https://satohub.ai/resources/chaingpt-claude-skill — retrieved 2026-10-30.
 
 [← All layers](../index.md)
