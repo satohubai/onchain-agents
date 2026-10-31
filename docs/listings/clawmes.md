@@ -52,6 +52,6 @@ hermes clawmes init
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `clawmes`. https://satohub.ai/resources/clawmes — retrieved 2026-10-30.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `clawmes`. https://satohub.ai/resources/clawmes — retrieved 2026-10-31.
 
 [← All layers](../index.md)

@@ -18,7 +18,7 @@ Sato Score: **⬡ 47** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Ethereum
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Dormant — last activity 19 months ago
+- **Activity:** Dormant — last activity 20 months ago
 - **GitHub stars:** 91
 
 ## Deploy spec
@@ -46,6 +46,6 @@ uv tool install cryo-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cryo-mcp`. https://satohub.ai/resources/cryo-mcp — retrieved 2026-10-30.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cryo-mcp`. https://satohub.ai/resources/cryo-mcp — retrieved 2026-10-31.
 
 [← All layers](../index.md)

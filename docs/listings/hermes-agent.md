@@ -54,6 +54,6 @@ pip install hermes-agent   # PyPI (Python 3.11–3.13)
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `hermes-agent`. https://satohub.ai/resources/hermes-agent — retrieved 2026-10-30.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `hermes-agent`. https://satohub.ai/resources/hermes-agent — retrieved 2026-10-31.
 
 [← All layers](../index.md)

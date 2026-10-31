@@ -9,7 +9,7 @@ layout: "default"
 
 Jupiter's hosted read-write MCP server: 75 tools across swap, limit/DCA, lend, perps-adjacent prediction, portfolio and token launch on Solana. API key optional.
 
-Sato Score: **⬡ 78** (High), -2 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 78** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,7 +22,7 @@ Sato Score: **⬡ 78** (High), -2 over 7 days — a measure of how open, active 
 - **Creator:** Jupiter
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 19 days ago
+- **Activity:** Active — last activity 20 days ago
 - **GitHub stars:** 65
 - **Deploys as:** Hosted, Local CLI
 
@@ -43,7 +43,7 @@ npm i -g @jup-ag/cli
 ## What we checked
 
 - Install reproduced in an isolated container on 2026-09-25.
-- Live endpoint probed by us: 91.9% of our checks succeeded over 37 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 89.5% of our checks succeeded over 38 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -52,6 +52,6 @@ npm i -g @jup-ag/cli
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `jupiter-trading-mcp`. https://satohub.ai/resources/jupiter-trading-mcp — retrieved 2026-10-30.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `jupiter-trading-mcp`. https://satohub.ai/resources/jupiter-trading-mcp — retrieved 2026-10-31.
 
 [← All layers](../index.md)

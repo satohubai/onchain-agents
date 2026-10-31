@@ -52,6 +52,6 @@ npx -y web3-research-mcp@latest
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `web3-research-mcp`. https://satohub.ai/resources/web3-research-mcp — retrieved 2026-10-30.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `web3-research-mcp`. https://satohub.ai/resources/web3-research-mcp — retrieved 2026-10-31.
 
 [← All layers](../index.md)

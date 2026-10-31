@@ -48,6 +48,6 @@ pnpm install
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `create-solana-agent`. https://satohub.ai/resources/create-solana-agent — retrieved 2026-10-30.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `create-solana-agent`. https://satohub.ai/resources/create-solana-agent — retrieved 2026-10-31.
 
 [← All layers](../index.md)

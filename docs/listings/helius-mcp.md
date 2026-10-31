@@ -52,6 +52,6 @@ export HELIUS_API_KEY=YOUR_API_KEY
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `helius-mcp`. https://satohub.ai/resources/helius-mcp — retrieved 2026-10-30.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `helius-mcp`. https://satohub.ai/resources/helius-mcp — retrieved 2026-10-31.
 
 [← All layers](../index.md)

@@ -22,7 +22,7 @@ Sato Score: **⬡ 75** (High), +1 over 7 days — a measure of how open, active 
 - **Creator:** Kraken
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 1 day ago
+- **Activity:** Active — last activity 2 days ago
 - **GitHub stars:** 767
 - **Deploys as:** Binary install (curl installer script), Cargo install, Homebrew-style download from GitHub Releases
 - **Works with:** Cursor, Claude, Codex, Copilot, Gemini, Goose, OpenClaw
@@ -52,6 +52,6 @@ curl --proto '=https' --tlsv1.2 -LsSf https://github.com/krakenfx/kraken-cli/rel
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `kraken-cli`. https://satohub.ai/resources/kraken-cli — retrieved 2026-10-30.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `kraken-cli`. https://satohub.ai/resources/kraken-cli — retrieved 2026-10-31.
 
 [← All layers](../index.md)

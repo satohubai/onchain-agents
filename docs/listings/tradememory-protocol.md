@@ -51,6 +51,6 @@ pip install tradememory-protocol
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `tradememory-protocol`. https://satohub.ai/resources/tradememory-protocol — retrieved 2026-10-30.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `tradememory-protocol`. https://satohub.ai/resources/tradememory-protocol — retrieved 2026-10-31.
 
 [← All layers](../index.md)

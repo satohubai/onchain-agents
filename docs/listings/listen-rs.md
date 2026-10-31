@@ -18,7 +18,7 @@ Sato Score: **⬡ 49** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Solana
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Quiet — last activity 11 months ago
+- **Activity:** Quiet — last activity 12 months ago
 - **GitHub stars:** 1.1k
 
 ## Deploy spec
@@ -48,6 +48,6 @@ docker compose up
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `listen-rs`. https://satohub.ai/resources/listen-rs — retrieved 2026-10-30.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `listen-rs`. https://satohub.ai/resources/listen-rs — retrieved 2026-10-31.
 
 [← All layers](../index.md)

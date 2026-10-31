@@ -53,6 +53,6 @@ npx @purplesquirrel/hedera-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `hedera-mcp`. https://satohub.ai/resources/hedera-mcp — retrieved 2026-10-30.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `hedera-mcp`. https://satohub.ai/resources/hedera-mcp — retrieved 2026-10-31.
 
 [← All layers](../index.md)

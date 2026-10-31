@@ -46,6 +46,6 @@ npm create onchain
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `onchainkit`. https://satohub.ai/resources/onchainkit — retrieved 2026-10-30.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `onchainkit`. https://satohub.ai/resources/onchainkit — retrieved 2026-10-31.
 
 [← All layers](../index.md)

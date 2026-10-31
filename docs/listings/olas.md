@@ -9,7 +9,7 @@ layout: "default"
 
 Network and framework for co-owned autonomous agent services operating onchain.
 
-Sato Score: **⬡ 90** (High), +10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 90** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -53,6 +53,6 @@ pip install open-aea-ledger-ethereum
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `olas`. https://satohub.ai/resources/olas — retrieved 2026-10-30.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `olas`. https://satohub.ai/resources/olas — retrieved 2026-10-31.
 
 [← All layers](../index.md)

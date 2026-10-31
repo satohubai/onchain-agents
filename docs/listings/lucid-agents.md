@@ -9,7 +9,7 @@ layout: "default"
 
 Commerce SDK for bootstrapping AI agents that can pay, sell, and transact onchain.
 
-Sato Score: **⬡ 59** (Medium), -12 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 59** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -53,6 +53,6 @@ npm install @lucid-agents/core @lucid-agents/http
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lucid-agents`. https://satohub.ai/resources/lucid-agents — retrieved 2026-10-30.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lucid-agents`. https://satohub.ai/resources/lucid-agents — retrieved 2026-10-31.
 
 [← All layers](../index.md)

@@ -18,7 +18,7 @@ Sato Score: **⬡ 73** (High), +15 over 7 days — a measure of how open, active
 - **Chains:** Unknown
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 3 days ago
+- **Activity:** Active — last activity 4 days ago
 - **GitHub stars:** 4
 - **Deploys as:** npm package, npx, Docker
 - **Works with:** Claude Desktop, Claude Code, Cursor, Windsurf, OpenClaw, Blockfrost, Kupo, Ogmios, Lucid Evolution
@@ -50,6 +50,6 @@ npx @indigoprotocol/cardano-mcp setup
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cardano-mcp-indigo`. https://satohub.ai/resources/cardano-mcp-indigo — retrieved 2026-10-30.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cardano-mcp-indigo`. https://satohub.ai/resources/cardano-mcp-indigo — retrieved 2026-10-31.
 
 [← All layers](../index.md)

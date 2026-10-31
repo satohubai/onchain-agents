@@ -18,7 +18,7 @@ Sato Score: **⬡ 64** (Medium), +10 over 7 days — a measure of how open, acti
 - **Chains:** Base
 - **Open source:** Partial
 - **Status:** Early
-- **Activity:** Active — last activity 3 days ago
+- **Activity:** Active — last activity 4 days ago
 - **GitHub stars:** 1
 
 ## Deploy spec
@@ -47,6 +47,6 @@ uv run gloria-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `gloria-mcp`. https://satohub.ai/resources/gloria-mcp — retrieved 2026-10-30.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `gloria-mcp`. https://satohub.ai/resources/gloria-mcp — retrieved 2026-10-31.
 
 [← All layers](../index.md)

@@ -22,7 +22,7 @@ Sato Score: **⬡ 77** (High) — a measure of how open, active and verifiable t
 - **Creator:** Philidor Labs
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 1 day ago
+- **Activity:** Active — last activity 2 days ago
 - **GitHub stars:** 5
 - **Deploys as:** Hosted API, Docker, npm, Local (stdio)
 - **Works with:** Claude Desktop, Claude Code, Cursor, Windsurf
@@ -51,6 +51,6 @@ claude mcp add philidor --transport http https://mcp.philidor.io/api/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `philidor-mcp`. https://satohub.ai/resources/philidor-mcp — retrieved 2026-10-30.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `philidor-mcp`. https://satohub.ai/resources/philidor-mcp — retrieved 2026-10-31.
 
 [← All layers](../index.md)

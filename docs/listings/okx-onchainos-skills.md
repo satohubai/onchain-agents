@@ -52,6 +52,6 @@ npx skills add okx/onchainos-skills
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `okx-onchainos-skills`. https://satohub.ai/resources/okx-onchainos-skills — retrieved 2026-10-30.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `okx-onchainos-skills`. https://satohub.ai/resources/okx-onchainos-skills — retrieved 2026-10-31.
 
 [← All layers](../index.md)
