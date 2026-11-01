@@ -22,7 +22,7 @@ Sato Score: **⬡ 70** (High) — a measure of how open, active and verifiable t
 - **Creator:** Bankless
 - **Open source:** Yes
 - **Status:** Unknown
-- **Activity:** Quiet — last activity 5 months ago
+- **Activity:** Quiet — last activity 6 months ago
 - **GitHub stars:** 78
 - **Deploys as:** npm, MCP server, Self-hosted
 - **Works with:** Model Context Protocol (MCP), Bankless API
@@ -53,6 +53,6 @@ npx -y @bankless/onchain-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bankless-onchain-mcp`. https://satohub.ai/resources/bankless-onchain-mcp — retrieved 2026-10-31.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bankless-onchain-mcp`. https://satohub.ai/resources/bankless-onchain-mcp — retrieved 2026-11-01.
 
 [← All layers](../index.md)

@@ -50,6 +50,6 @@ npm install -g zetachain@latest
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `zetachain-cli`. https://satohub.ai/resources/zetachain-cli — retrieved 2026-10-31.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `zetachain-cli`. https://satohub.ai/resources/zetachain-cli — retrieved 2026-11-01.
 
 [← All layers](../index.md)

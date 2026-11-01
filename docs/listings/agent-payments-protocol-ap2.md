@@ -23,7 +23,7 @@ Sato Score: **⬡ 72** (High) — a measure of how open, active and verifiable t
 - **Open source:** Yes
 - **Status:** Active
 - **Activity:** Quiet — last activity 4 months ago
-- **GitHub stars:** 3.2k
+- **GitHub stars:** 3.3k
 - **Deploys as:** pip, Self-hosted
 - **Works with:** A2A, MCP, ADK, x402, Universal Commerce Protocol
 
@@ -52,6 +52,6 @@ uv pip install git+https://github.com/google-agentic-commerce/AP2.git@main
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `agent-payments-protocol-ap2`. https://satohub.ai/resources/agent-payments-protocol-ap2 — retrieved 2026-10-31.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `agent-payments-protocol-ap2`. https://satohub.ai/resources/agent-payments-protocol-ap2 — retrieved 2026-11-01.
 
 [← All layers](../index.md)

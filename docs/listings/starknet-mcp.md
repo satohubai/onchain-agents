@@ -9,7 +9,7 @@ layout: "default"
 
 Official Starknet MCP server exposing the full Starknet JSON-RPC v0.10.2 surface as agent tools.
 
-Sato Score: **⬡ 65** (Medium), -10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 65** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -52,6 +52,6 @@ claude mcp add --scope user --env STARKNET_RPC_URL=<your-rpc-url> starknet -- py
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `starknet-mcp`. https://satohub.ai/resources/starknet-mcp — retrieved 2026-10-31.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `starknet-mcp`. https://satohub.ai/resources/starknet-mcp — retrieved 2026-11-01.
 
 [← All layers](../index.md)
