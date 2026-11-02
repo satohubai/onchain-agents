@@ -9,7 +9,7 @@ layout: "default"
 
 Open-source autonomous AI trading agent operating across 1000+ markets including Polymarket, Kalshi, and Hyperliquid.
 
-Sato Score: **⬡ 83** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 73** (High), -10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -20,8 +20,8 @@ Sato Score: **⬡ 83** (High) — a measure of how open, active and verifiable t
 - **Creator:** alsk1992
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 29 days ago
-- **GitHub stars:** 3.0k
+- **Activity:** Recent — last activity 1 month ago
+- **GitHub stars:** 3.1k
 - **Deploys as:** npm, Self-hosted
 - **Works with:** Polymarket, Kalshi, Binance, Hyperliquid, Jupiter, Raydium, Uniswap, 1inch, Bittensor
 
@@ -37,11 +37,11 @@ npm install -g clodds --loglevel=error
 - **License:** MIT
 - **MCP native:** yes
 - **Deploy status:** verified
-- **As of:** 2026-10-19
+- **As of:** 2026-11-02
 
 ## What we checked
 
-- Install reproduced in an isolated container on 2026-10-19.
+- Install reproduced in an isolated container on 2026-11-02.
 - Live endpoint probed by us: 100% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
@@ -51,6 +51,6 @@ npm install -g clodds --loglevel=error
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cloddsbot`. https://satohub.ai/resources/cloddsbot — retrieved 2026-11-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cloddsbot`. https://satohub.ai/resources/cloddsbot — retrieved 2026-11-02.
 
 [← All layers](../index.md)

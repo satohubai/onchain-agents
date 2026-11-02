@@ -53,6 +53,6 @@ Sato Score: **⬡ 72** (High), +10 over 7 days — a measure of how open, active
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `chaingpt-claude-skill`. https://satohub.ai/resources/chaingpt-claude-skill — retrieved 2026-11-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `chaingpt-claude-skill`. https://satohub.ai/resources/chaingpt-claude-skill — retrieved 2026-11-02.
 
 [← All layers](../index.md)

@@ -21,8 +21,8 @@ Sato Score: **⬡ 61** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Trail of Bits
 - **Open source:** Unknown
 - **Status:** Active
-- **Activity:** Active — last activity 3 days ago
-- **GitHub stars:** 7.8k
+- **Activity:** Active — last activity 5 days ago
+- **GitHub stars:** 7.9k
 - **Deploys as:** Claude Code plugin, Codex plugin, ChatGPT workspace marketplace
 - **Works with:** Claude Code, Codex
 
@@ -50,6 +50,6 @@ Sato Score: **⬡ 61** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `trailofbits-skills`. https://satohub.ai/resources/trailofbits-skills — retrieved 2026-11-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `trailofbits-skills`. https://satohub.ai/resources/trailofbits-skills — retrieved 2026-11-02.
 
 [← All layers](../index.md)

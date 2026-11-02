@@ -34,11 +34,11 @@ npx -y @klever/mcp-server
 - **License:** MIT
 - **MCP native:** yes
 - **Deploy status:** verified
-- **As of:** 2026-09-21
+- **As of:** 2026-11-02
 
 ## What we checked
 
-- Install reproduced in an isolated container on 2026-09-21.
+- Install reproduced in an isolated container on 2026-11-02.
 - Live endpoint probed by us: 100% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
@@ -48,6 +48,6 @@ npx -y @klever/mcp-server
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `klever-mcp`. https://satohub.ai/resources/klever-mcp — retrieved 2026-11-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `klever-mcp`. https://satohub.ai/resources/klever-mcp — retrieved 2026-11-02.
 
 [← All layers](../index.md)

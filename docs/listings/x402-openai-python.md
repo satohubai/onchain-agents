@@ -22,7 +22,7 @@ Sato Score: **⬡ 74** (High) — a measure of how open, active and verifiable t
 - **Creator:** qntx
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 6 days ago
+- **Activity:** Active — last activity 7 days ago
 - **GitHub stars:** 262
 - **Deploys as:** pip
 - **Works with:** OpenAI, x402, USDC
@@ -40,11 +40,11 @@ pip install x402-openai[evm]
 - **License:** MIT
 - **MCP native:** no
 - **Deploy status:** verified
-- **As of:** 2026-10-19
+- **As of:** 2026-11-02
 
 ## What we checked
 
-- Install reproduced in an isolated container on 2026-10-19.
+- Install reproduced in an isolated container on 2026-11-02.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -53,6 +53,6 @@ pip install x402-openai[evm]
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `x402-openai-python`. https://satohub.ai/resources/x402-openai-python — retrieved 2026-11-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `x402-openai-python`. https://satohub.ai/resources/x402-openai-python — retrieved 2026-11-02.
 
 [← All layers](../index.md)

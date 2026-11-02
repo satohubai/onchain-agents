@@ -53,6 +53,6 @@ cobo skill install all --scope local
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cobo-agentic-wallet`. https://satohub.ai/resources/cobo-agentic-wallet — retrieved 2026-11-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cobo-agentic-wallet`. https://satohub.ai/resources/cobo-agentic-wallet — retrieved 2026-11-02.
 
 [← All layers](../index.md)

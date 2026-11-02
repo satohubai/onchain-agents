@@ -9,7 +9,7 @@ layout: "default"
 
 Official MCP server from Subsquid (SQD) exposing its Portal API for querying onchain data across five chain families.
 
-Sato Score: **⬡ 61** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 51** (Medium), -10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -18,7 +18,7 @@ Sato Score: **⬡ 61** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Multichain, Solana, Bitcoin, Hyperliquid
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Recent — last activity 30 days ago
+- **Activity:** Recent — last activity 1 month ago
 - **GitHub stars:** 1
 
 ## Deploy spec
@@ -35,7 +35,7 @@ npm start
 - **License:** MIT
 - **MCP native:** yes
 - **Deploy status:** unknown
-- **As of:** 2026-10-26
+- **As of:** 2026-11-02
 
 ## What we checked
 
@@ -48,6 +48,6 @@ npm start
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `sqd-portal-mcp`. https://satohub.ai/resources/sqd-portal-mcp — retrieved 2026-11-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `sqd-portal-mcp`. https://satohub.ai/resources/sqd-portal-mcp — retrieved 2026-11-02.
 
 [← All layers](../index.md)

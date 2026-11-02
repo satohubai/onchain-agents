@@ -49,6 +49,6 @@ curl -o ~/.claude/skills/chainstack/SKILL.md https://mcp.chainstack.com/skill
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `chainstack-mcp`. https://satohub.ai/resources/chainstack-mcp — retrieved 2026-11-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `chainstack-mcp`. https://satohub.ai/resources/chainstack-mcp — retrieved 2026-11-02.
 
 [← All layers](../index.md)

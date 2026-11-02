@@ -9,7 +9,7 @@ layout: "default"
 
 MCP package giving agents 190+ EVM DeFi tools — swaps, bridges, limit orders, exchange trading — with confirmation gating.
 
-Sato Score: **⬡ 55** (Medium), -10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 55** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -47,6 +47,6 @@ npx web3agent init
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `web3agent-apegurus`. https://satohub.ai/resources/web3agent-apegurus — retrieved 2026-11-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `web3agent-apegurus`. https://satohub.ai/resources/web3agent-apegurus — retrieved 2026-11-02.
 
 [← All layers](../index.md)

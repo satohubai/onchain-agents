@@ -37,7 +37,7 @@ npx -y @ton/mcp@alpha
 - **License:** Unknown
 - **MCP native:** yes
 - **Deploy status:** unknown
-- **As of:** 2026-10-26
+- **As of:** 2026-11-02
 
 ## What we checked
 
@@ -50,6 +50,6 @@ npx -y @ton/mcp@alpha
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ton-agentkit-mcp`. https://satohub.ai/resources/ton-agentkit-mcp — retrieved 2026-11-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ton-agentkit-mcp`. https://satohub.ai/resources/ton-agentkit-mcp — retrieved 2026-11-02.
 
 [← All layers](../index.md)

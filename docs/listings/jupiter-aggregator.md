@@ -22,7 +22,7 @@ Sato Score: **⬡ 77** (High) — a measure of how open, active and verifiable t
 - **Creator:** Jupiter Exchange
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Recent — last activity 4 days ago
+- **Activity:** Quiet — last activity 5 days ago
 - **GitHub stars:** 183
 - **Deploys as:** API, SDK, npm, MCP server
 - **Works with:** MCP, REST API, CLI
@@ -53,6 +53,6 @@ npm install @jup-ag/api
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `jupiter-aggregator`. https://satohub.ai/resources/jupiter-aggregator — retrieved 2026-11-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `jupiter-aggregator`. https://satohub.ai/resources/jupiter-aggregator — retrieved 2026-11-02.
 
 [← All layers](../index.md)

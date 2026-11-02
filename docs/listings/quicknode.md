@@ -36,7 +36,7 @@ npx -y @quicknode/mcp
 - **License:** MIT
 - **MCP native:** yes
 - **Deploy status:** unknown
-- **As of:** 2026-10-26
+- **As of:** 2026-11-02
 
 ## What we checked
 
@@ -49,6 +49,6 @@ npx -y @quicknode/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `quicknode`. https://satohub.ai/resources/quicknode — retrieved 2026-11-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `quicknode`. https://satohub.ai/resources/quicknode — retrieved 2026-11-02.
 
 [← All layers](../index.md)

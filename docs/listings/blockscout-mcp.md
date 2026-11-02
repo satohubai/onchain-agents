@@ -40,11 +40,11 @@ docker pull ghcr.io/blockscout/mcp-server:latest
 - **License:** Unknown (custom Blockscout Software Licence; see LICENSE file — not a standard SPDX identifier)
 - **MCP native:** yes
 - **Deploy status:** verified
-- **As of:** 2026-09-25
+- **As of:** 2026-11-02
 
 ## What we checked
 
-- Install reproduced in an isolated container on 2026-09-25.
+- Install reproduced in an isolated container on 2026-11-02.
 - Live endpoint probed by us: 100% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
@@ -54,6 +54,6 @@ docker pull ghcr.io/blockscout/mcp-server:latest
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `blockscout-mcp`. https://satohub.ai/resources/blockscout-mcp — retrieved 2026-11-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `blockscout-mcp`. https://satohub.ai/resources/blockscout-mcp — retrieved 2026-11-02.
 
 [← All layers](../index.md)

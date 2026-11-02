@@ -36,11 +36,11 @@ pip install peaq-os-sdk python-dotenv
 - **License:** Apache-2.0
 - **MCP native:** no
 - **Deploy status:** verified
-- **As of:** 2026-10-19
+- **As of:** 2026-11-02
 
 ## What we checked
 
-- Install reproduced in an isolated container on 2026-10-19.
+- Install reproduced in an isolated container on 2026-11-02.
 - Live endpoint probed by us: 100% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
@@ -50,6 +50,6 @@ pip install peaq-os-sdk python-dotenv
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `peaq`. https://satohub.ai/resources/peaq — retrieved 2026-11-01.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `peaq`. https://satohub.ai/resources/peaq — retrieved 2026-11-02.
 
 [← All layers](../index.md)
