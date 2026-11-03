@@ -19,7 +19,7 @@ Sato Score: **⬡ 58** (Medium) — a measure of how open, active and verifiable
 - **Use cases:** trading, build
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Quiet — last activity 3 months ago
+- **Activity:** Quiet — last activity 4 months ago
 - **GitHub stars:** 3.5k
 - **Works with:** Telegram, MCP, xAI Grok API
 
@@ -48,6 +48,6 @@ npm install -g @vibe-kit/grok-cli   # binary: grok
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `grok-cli`. https://satohub.ai/resources/grok-cli — retrieved 2026-11-02.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `grok-cli`. https://satohub.ai/resources/grok-cli — retrieved 2026-11-03.
 
 [← All layers](../index.md)

@@ -9,7 +9,7 @@ layout: "default"
 
 MCP server for Ultrade's order-book DEX — wallet, market, and order tools for AI trading agents.
 
-Sato Score: **⬡ 54** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 55** (Medium), +1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -46,10 +46,10 @@ npm run build
 
 ## Links
 
-[Website](https://smithery.ai/server/@ultrade-org/ultrade-mcp) · [GitHub](https://github.com/ultrade-org/ultrade-mcp) · [Sato Hub page ↗](https://satohub.ai/resources/ultrade-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents)
+[Website](https://ultrade.org) · [GitHub](https://github.com/ultrade-org/ultrade-mcp) · [Sato Hub page ↗](https://satohub.ai/resources/ultrade-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents)
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ultrade-mcp`. https://satohub.ai/resources/ultrade-mcp — retrieved 2026-11-02.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ultrade-mcp`. https://satohub.ai/resources/ultrade-mcp — retrieved 2026-11-03.
 
 [← All layers](../index.md)

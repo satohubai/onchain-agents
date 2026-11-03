@@ -48,6 +48,6 @@ forge test
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `aerodrome-finance`. https://satohub.ai/resources/aerodrome-finance — retrieved 2026-11-02.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `aerodrome-finance`. https://satohub.ai/resources/aerodrome-finance — retrieved 2026-11-03.
 
 [← All layers](../index.md)

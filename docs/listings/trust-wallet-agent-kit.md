@@ -9,7 +9,7 @@ layout: "default"
 
 Non-custodial toolkit from Trust Wallet (MCP server, CLI, and SDK) that lets AI agents read and transact across 25+ chains within user-defined rules.
 
-Sato Score: **⬡ 72** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 87** (High), +15 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,7 +22,7 @@ Sato Score: **⬡ 72** (High) — a measure of how open, active and verifiable t
 - **Creator:** Trust Wallet
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Quiet — last activity 3 days ago
+- **Activity:** Active — last activity today
 - **GitHub stars:** 102
 - **Deploys as:** npm, CLI, MCP server, API
 - **Works with:** Claude Code, Cursor, Codex, Windsurf, GitHub Copilot, Wallet Core, x402
@@ -55,6 +55,6 @@ npx skills add trustwallet/tw-agent-skills  # coding-agent skills
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `trust-wallet-agent-kit`. https://satohub.ai/resources/trust-wallet-agent-kit — retrieved 2026-11-02.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `trust-wallet-agent-kit`. https://satohub.ai/resources/trust-wallet-agent-kit — retrieved 2026-11-03.
 
 [← All layers](../index.md)

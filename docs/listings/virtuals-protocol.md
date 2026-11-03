@@ -51,6 +51,6 @@ npm install @virtuals-protocol/game
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `virtuals-protocol`. https://satohub.ai/resources/virtuals-protocol — retrieved 2026-11-02.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `virtuals-protocol`. https://satohub.ai/resources/virtuals-protocol — retrieved 2026-11-03.
 
 [← All layers](../index.md)

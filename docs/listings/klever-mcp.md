@@ -48,6 +48,6 @@ npx -y @klever/mcp-server
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `klever-mcp`. https://satohub.ai/resources/klever-mcp — retrieved 2026-11-02.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `klever-mcp`. https://satohub.ai/resources/klever-mcp — retrieved 2026-11-03.
 
 [← All layers](../index.md)

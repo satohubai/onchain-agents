@@ -9,7 +9,7 @@ layout: "default"
 
 MCP toolkit for AI agents to send transactions and deploy/verify contracts on Monad with local-only key signing.
 
-Sato Score: **⬡ 72** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 42** (Medium), -30 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -49,6 +49,6 @@ make wallet
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `monad-agent-kit`. https://satohub.ai/resources/monad-agent-kit — retrieved 2026-11-02.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `monad-agent-kit`. https://satohub.ai/resources/monad-agent-kit — retrieved 2026-11-03.
 
 [← All layers](../index.md)

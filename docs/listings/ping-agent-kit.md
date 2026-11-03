@@ -18,7 +18,7 @@ Sato Score: **⬡ 56** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Solana
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Dormant — last activity 17 months ago
+- **Activity:** Dormant — last activity 18 months ago
 - **GitHub stars:** 4
 - **Works with:** LangChain, Vercel AI SDK, Metaplex, Jupiter Exchange, PumpPortal, Raydium, Orca, Manifest, Meteora, Openbook, SNS, Jito
 
@@ -47,6 +47,6 @@ npm install @ping-agent-kit/plugin-token @ping-agent-kit/plugin-nft @ping-agent-
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ping-agent-kit`. https://satohub.ai/resources/ping-agent-kit — retrieved 2026-11-02.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ping-agent-kit`. https://satohub.ai/resources/ping-agent-kit — retrieved 2026-11-03.
 
 [← All layers](../index.md)

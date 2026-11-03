@@ -22,7 +22,7 @@ Sato Score: **⬡ 68** (Medium), +1 over 7 days — a measure of how open, activ
 - **Creator:** Octav Labs
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 10 days ago
+- **Activity:** Active — last activity 11 days ago
 - **GitHub stars:** 1
 - **Deploys as:** npm, npx, local
 - **Works with:** Claude Desktop, MCP Inspector
@@ -52,6 +52,6 @@ npx octav-api-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `octav-api-mcp`. https://satohub.ai/resources/octav-api-mcp — retrieved 2026-11-02.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `octav-api-mcp`. https://satohub.ai/resources/octav-api-mcp — retrieved 2026-11-03.
 
 [← All layers](../index.md)

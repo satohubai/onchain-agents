@@ -51,6 +51,6 @@ npm install -g @blockrun/franklin
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `franklin-blockrun`. https://satohub.ai/resources/franklin-blockrun — retrieved 2026-11-02.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `franklin-blockrun`. https://satohub.ai/resources/franklin-blockrun — retrieved 2026-11-03.
 
 [← All layers](../index.md)
