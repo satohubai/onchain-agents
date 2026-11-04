@@ -18,7 +18,7 @@ Sato Score: **⬡ 51** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Sei
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Quiet — last activity 10 months ago
+- **Activity:** Quiet — last activity 11 months ago
 - **GitHub stars:** 11
 - **Works with:** Symphony, Takara, Silo, Citrex, LangChain, LangGraph
 
@@ -40,7 +40,7 @@ npm run test
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 91 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -49,6 +49,6 @@ npm run test
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `sei-agent-kit`. https://satohub.ai/resources/sei-agent-kit — retrieved 2026-11-03.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `sei-agent-kit`. https://satohub.ai/resources/sei-agent-kit — retrieved 2026-11-04.
 
 [← All layers](../index.md)

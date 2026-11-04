@@ -22,7 +22,7 @@ Sato Score: **⬡ 72** (High), +10 over 7 days — a measure of how open, active
 - **Creator:** ChainGPT
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 1 day ago
+- **Activity:** Active — last activity 2 days ago
 - **GitHub stars:** 11
 - **Deploys as:** Claude Code plugin, MCP server
 - **Works with:** 1inch, Jupiter, Aave, Lido, EigenLayer, Pendle, Morpho, Hyperliquid, Polymarket, Across, x402
@@ -53,6 +53,6 @@ Sato Score: **⬡ 72** (High), +10 over 7 days — a measure of how open, active
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `chaingpt-claude-skill`. https://satohub.ai/resources/chaingpt-claude-skill — retrieved 2026-11-03.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `chaingpt-claude-skill`. https://satohub.ai/resources/chaingpt-claude-skill — retrieved 2026-11-04.
 
 [← All layers](../index.md)

@@ -9,7 +9,7 @@ layout: "default"
 
 Official CryptoQuant MCP server exposing on-chain metrics like MVRV, SOPR, and exchange flows to agents.
 
-Sato Score: **⬡ 75** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 83** (High), +8 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,10 +22,10 @@ Sato Score: **⬡ 75** (High) — a measure of how open, active and verifiable t
 - **Creator:** CryptoQuant
 - **Open source:** Yes
 - **Status:** Unknown
-- **Activity:** Active — last activity 28 days ago
+- **Activity:** Active — last activity 29 days ago
 - **GitHub stars:** 7
-- **Deploys as:** npm
-- **Works with:** Claude Desktop, Claude Code, Cursor
+- **Deploys as:** npm, remote server
+- **Works with:** Claude Desktop, Claude Code, Cursor, Claude (claude.ai), ChatGPT, VS Code
 
 ## Deploy spec
 
@@ -44,15 +44,15 @@ npx -y cryptoquant-mcp
 ## What we checked
 
 - Install reproduced in an isolated container on 2026-07-21.
-- Live endpoint probed by us: 100% of our checks succeeded over 63 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 65 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
 
-[Website](https://cryptoquant.com) · [GitHub](https://github.com/CryptoQuantOfficial/cryptoquant-mcp) · [Sato Hub page ↗](https://satohub.ai/resources/cryptoquant-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents)
+[Website](https://cryptoquant.com) · [Docs](https://userguide.cryptoquant.com/api/mcp-server-beta/remote-mcp-recommended) · [GitHub](https://github.com/CryptoQuantOfficial/cryptoquant-mcp) · [Sato Hub page ↗](https://satohub.ai/resources/cryptoquant-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents)
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cryptoquant-mcp`. https://satohub.ai/resources/cryptoquant-mcp — retrieved 2026-11-03.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cryptoquant-mcp`. https://satohub.ai/resources/cryptoquant-mcp — retrieved 2026-11-04.
 
 [← All layers](../index.md)

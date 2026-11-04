@@ -19,7 +19,7 @@ Sato Score: **⬡ 58** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Aptos Labs
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Quiet — last activity 3 months ago
+- **Activity:** Quiet — last activity 4 months ago
 - **GitHub stars:** 20
 - **Works with:** Claude Code, Cursor, GitHub Copilot
 
@@ -38,7 +38,7 @@ npx skills add aptos-labs/aptos-agent-skills
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 91 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -47,6 +47,6 @@ npx skills add aptos-labs/aptos-agent-skills
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `aptos-agent-skills`. https://satohub.ai/resources/aptos-agent-skills — retrieved 2026-11-03.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `aptos-agent-skills`. https://satohub.ai/resources/aptos-agent-skills — retrieved 2026-11-04.
 
 [← All layers](../index.md)

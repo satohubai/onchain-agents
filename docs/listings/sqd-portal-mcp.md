@@ -19,7 +19,7 @@ Sato Score: **⬡ 51** (Medium), -10 over 7 days — a measure of how open, acti
 - **Open source:** Yes
 - **Status:** Active
 - **Activity:** Recent — last activity 1 month ago
-- **GitHub stars:** 1
+- **GitHub stars:** 2
 
 ## Deploy spec
 
@@ -39,7 +39,7 @@ npm start
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 91 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -48,6 +48,6 @@ npm start
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `sqd-portal-mcp`. https://satohub.ai/resources/sqd-portal-mcp — retrieved 2026-11-03.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `sqd-portal-mcp`. https://satohub.ai/resources/sqd-portal-mcp — retrieved 2026-11-04.
 
 [← All layers](../index.md)
