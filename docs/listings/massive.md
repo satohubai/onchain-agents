@@ -22,7 +22,7 @@ Sato Score: **⬡ 71** (High) — a measure of how open, active and verifiable t
 - **Creator:** Massive
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity today
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 400
 - **Deploys as:** Hosted/Remote
 
@@ -37,6 +37,6 @@ Sato Score: **⬡ 71** (High) — a measure of how open, active and verifiable t
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `massive`. https://satohub.ai/resources/massive — retrieved 2026-11-04.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `massive`. https://satohub.ai/resources/massive — retrieved 2026-11-05.
 
 [← All layers](../index.md)

@@ -9,7 +9,7 @@ layout: "default"
 
 Marlin sub-network that rents TEE-backed confidential VMs and runs serverless tasks, with attestation and key management tooling.
 
-Sato Score: **⬡ 47** (Medium), +1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 47** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -35,6 +35,6 @@ Sato Score: **⬡ 47** (Medium), +1 over 7 days — a measure of how open, activ
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `marlin-oyster`. https://satohub.ai/resources/marlin-oyster — retrieved 2026-11-04.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `marlin-oyster`. https://satohub.ai/resources/marlin-oyster — retrieved 2026-11-05.
 
 [← All layers](../index.md)

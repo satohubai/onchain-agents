@@ -21,7 +21,7 @@ Sato Score: **⬡ 76** (High) — a measure of how open, active and verifiable t
 - **Use cases:** trading
 - **Open source:** Partial
 - **Status:** Beta
-- **Activity:** Recent — last activity 30 days ago
+- **Activity:** Recent — last activity 1 month ago
 - **GitHub stars:** 0
 - **Works with:** Cursor, Claude Code, ChatGPT, Codex, Cline, LangChain, Vercel AI SDK, Telegram
 
@@ -36,6 +36,6 @@ Sato Score: **⬡ 76** (High) — a measure of how open, active and verifiable t
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `epsilon`. https://satohub.ai/resources/epsilon — retrieved 2026-11-04.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `epsilon`. https://satohub.ai/resources/epsilon — retrieved 2026-11-05.
 
 [← All layers](../index.md)

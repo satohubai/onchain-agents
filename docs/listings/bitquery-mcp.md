@@ -50,6 +50,6 @@ claude mcp add bitquery -- npx -y mcp-remote https://mcp.bitquery.io/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bitquery-mcp`. https://satohub.ai/resources/bitquery-mcp — retrieved 2026-11-04.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bitquery-mcp`. https://satohub.ai/resources/bitquery-mcp — retrieved 2026-11-05.
 
 [← All layers](../index.md)

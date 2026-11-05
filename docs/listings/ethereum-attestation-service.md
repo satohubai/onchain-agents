@@ -9,7 +9,7 @@ layout: "default"
 
 Open-source attestation infrastructure for signing and verifying structured data, with contracts, a TypeScript SDK and a CLI aimed at agents.
 
-Sato Score: **⬡ 58** (Medium), +1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 58** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -35,6 +35,6 @@ Sato Score: **⬡ 58** (Medium), +1 over 7 days — a measure of how open, activ
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ethereum-attestation-service`. https://satohub.ai/resources/ethereum-attestation-service — retrieved 2026-11-04.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ethereum-attestation-service`. https://satohub.ai/resources/ethereum-attestation-service — retrieved 2026-11-05.
 
 [← All layers](../index.md)

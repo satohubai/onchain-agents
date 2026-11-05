@@ -19,7 +19,7 @@ Sato Score: **⬡ 63** (Medium) — a measure of how open, active and verifiable
 - **Interfaces:** api
 - **Open source:** Partial
 - **Status:** Early
-- **Activity:** Active — last activity 10 days ago
+- **Activity:** Active — last activity 11 days ago
 - **GitHub stars:** 0
 
 ## What we checked
@@ -33,6 +33,6 @@ Sato Score: **⬡ 63** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `agentswap`. https://satohub.ai/resources/agentswap — retrieved 2026-11-04.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `agentswap`. https://satohub.ai/resources/agentswap — retrieved 2026-11-05.
 
 [← All layers](../index.md)

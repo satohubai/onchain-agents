@@ -18,7 +18,7 @@ Sato Score: **⬡ 78** (High) — a measure of how open, active and verifiable t
 - **Chains:** Bitcoin, Ethereum, Solana, Base, Arbitrum, Optimism, Polygon, BNB Chain, Avalanche, Cosmos, Sui, TON, Tron, Hyperliquid, Multichain
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 1 day ago
+- **Activity:** Active — last activity 2 days ago
 - **GitHub stars:** 15
 - **Works with:** THORChain, 1inch, KyberSwap, LiFi, Blockaid, CoinGecko, Banxa, Claude Code, Cursor
 
@@ -33,6 +33,6 @@ Sato Score: **⬡ 78** (High) — a measure of how open, active and verifiable t
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `vultisig`. https://satohub.ai/resources/vultisig — retrieved 2026-11-04.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `vultisig`. https://satohub.ai/resources/vultisig — retrieved 2026-11-05.
 
 [← All layers](../index.md)

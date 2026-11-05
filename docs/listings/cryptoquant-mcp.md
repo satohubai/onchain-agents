@@ -9,7 +9,7 @@ layout: "default"
 
 Official CryptoQuant MCP server exposing on-chain metrics like MVRV, SOPR, and exchange flows to agents.
 
-Sato Score: **⬡ 83** (High), +8 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 73** (High), -2 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,7 +22,7 @@ Sato Score: **⬡ 83** (High), +8 over 7 days — a measure of how open, active 
 - **Creator:** CryptoQuant
 - **Open source:** Yes
 - **Status:** Unknown
-- **Activity:** Active — last activity 29 days ago
+- **Activity:** Recent — last activity 30 days ago
 - **GitHub stars:** 7
 - **Deploys as:** npm, remote server
 - **Works with:** Claude Desktop, Claude Code, Cursor, Claude (claude.ai), ChatGPT, VS Code
@@ -53,6 +53,6 @@ npx -y cryptoquant-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cryptoquant-mcp`. https://satohub.ai/resources/cryptoquant-mcp — retrieved 2026-11-04.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cryptoquant-mcp`. https://satohub.ai/resources/cryptoquant-mcp — retrieved 2026-11-05.
 
 [← All layers](../index.md)

@@ -30,6 +30,6 @@ Sato Score: **⬡ 33** (Low) — a measure of how open, active and verifiable th
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `rugcheck`. https://satohub.ai/resources/rugcheck — retrieved 2026-11-04.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `rugcheck`. https://satohub.ai/resources/rugcheck — retrieved 2026-11-05.
 
 [← All layers](../index.md)

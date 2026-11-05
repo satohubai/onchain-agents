@@ -9,7 +9,7 @@ layout: "default"
 
 Wallet, stablecoin and card infrastructure for developers, with agent payment products across many blockchains through one API.
 
-Sato Score: **⬡ 64** (Medium), +1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 64** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,7 +21,7 @@ Sato Score: **⬡ 64** (Medium), +1 over 7 days — a measure of how open, activ
 - **Creator:** Crossmint
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 1 day ago
+- **Activity:** Active — last activity 2 days ago
 - **GitHub stars:** 52
 
 ## What we checked
@@ -35,6 +35,6 @@ Sato Score: **⬡ 64** (Medium), +1 over 7 days — a measure of how open, activ
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `crossmint`. https://satohub.ai/resources/crossmint — retrieved 2026-11-04.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `crossmint`. https://satohub.ai/resources/crossmint — retrieved 2026-11-05.
 
 [← All layers](../index.md)

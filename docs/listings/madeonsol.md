@@ -21,7 +21,7 @@ Sato Score: **⬡ 72** (High) — a measure of how open, active and verifiable t
 - **Use cases:** data, trading
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 15 days ago
+- **Activity:** Active — last activity 16 days ago
 - **GitHub stars:** 0
 - **Works with:** Claude, Cursor, ElizaOS, Agent Kit, MCP clients, x402
 
@@ -36,6 +36,6 @@ Sato Score: **⬡ 72** (High) — a measure of how open, active and verifiable t
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `madeonsol`. https://satohub.ai/resources/madeonsol — retrieved 2026-11-04.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `madeonsol`. https://satohub.ai/resources/madeonsol — retrieved 2026-11-05.
 
 [← All layers](../index.md)

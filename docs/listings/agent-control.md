@@ -19,7 +19,7 @@ Sato Score: **⬡ 75** (High), +1 over 7 days — a measure of how open, active 
 - **Interfaces:** api
 - **Open source:** Partial
 - **Status:** Early
-- **Activity:** Active — last activity 16 days ago
+- **Activity:** Active — last activity 17 days ago
 - **GitHub stars:** 0
 - **Works with:** Coinbase AgentKit, x402, MCP, Cursor, Grok, Slack
 
@@ -34,6 +34,6 @@ Sato Score: **⬡ 75** (High), +1 over 7 days — a measure of how open, active 
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `agent-control`. https://satohub.ai/resources/agent-control — retrieved 2026-11-04.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `agent-control`. https://satohub.ai/resources/agent-control — retrieved 2026-11-05.
 
 [← All layers](../index.md)

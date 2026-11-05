@@ -9,7 +9,7 @@ layout: "default"
 
 Pay-per-query access to subgraphs on The Graph Network over x402, paid in USDC on Base with no API key.
 
-Sato Score: **⬡ 39** (Low), +1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 39** (Low) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -35,6 +35,6 @@ Sato Score: **⬡ 39** (Low), +1 over 7 days — a measure of how open, active a
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `the-graph-x402`. https://satohub.ai/resources/the-graph-x402 — retrieved 2026-11-04.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `the-graph-x402`. https://satohub.ai/resources/the-graph-x402 — retrieved 2026-11-05.
 
 [← All layers](../index.md)

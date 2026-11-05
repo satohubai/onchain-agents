@@ -19,7 +19,7 @@ Sato Score: **⬡ 75** (High) — a measure of how open, active and verifiable t
 - **Creator:** Quack AI
 - **Open source:** Partial
 - **Status:** Unknown
-- **Activity:** Active — last activity 1 day ago
+- **Activity:** Active — last activity 2 days ago
 - **GitHub stars:** 0
 - **Works with:** Claude, Codex CLI, Cursor, Cline, GitHub Copilot, Hermes Agent, Aave, Morpho, Lista, Chainlink CCIP
 
@@ -48,6 +48,6 @@ npx -y @quackai/q402-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `q402-quack-ai`. https://satohub.ai/resources/q402-quack-ai — retrieved 2026-11-04.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `q402-quack-ai`. https://satohub.ai/resources/q402-quack-ai — retrieved 2026-11-05.
 
 [← All layers](../index.md)

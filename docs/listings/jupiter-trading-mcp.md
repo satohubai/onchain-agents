@@ -22,7 +22,7 @@ Sato Score: **⬡ 78** (High) — a measure of how open, active and verifiable t
 - **Creator:** Jupiter
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 24 days ago
+- **Activity:** Active — last activity 25 days ago
 - **GitHub stars:** 65
 - **Deploys as:** Hosted, Local CLI
 
@@ -52,6 +52,6 @@ npm i -g @jup-ag/cli
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `jupiter-trading-mcp`. https://satohub.ai/resources/jupiter-trading-mcp — retrieved 2026-11-04.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `jupiter-trading-mcp`. https://satohub.ai/resources/jupiter-trading-mcp — retrieved 2026-11-05.
 
 [← All layers](../index.md)

@@ -18,7 +18,7 @@ Sato Score: **⬡ 69** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Solana
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 1 day ago
+- **Activity:** Active — last activity 2 days ago
 - **GitHub stars:** 2
 
 ## Deploy spec
@@ -37,7 +37,7 @@ npm install @metaplex-foundation/mpl-agent-registry
 ## What we checked
 
 - Install reproduced in an isolated container on 2026-07-21.
-- Live endpoint probed by us: 100% of our checks succeeded over 91 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -46,6 +46,6 @@ npm install @metaplex-foundation/mpl-agent-registry
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `metaplex-agent-kit`. https://satohub.ai/resources/metaplex-agent-kit — retrieved 2026-11-04.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `metaplex-agent-kit`. https://satohub.ai/resources/metaplex-agent-kit — retrieved 2026-11-05.
 
 [← All layers](../index.md)

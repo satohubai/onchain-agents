@@ -1,7 +1,7 @@
 {
   "schema_version": "1",
   "item_schema": "https://satohub.ai/schemas/export-listing/v1.json",
-  "generated_at": "2026-11-04T19:56:04.374Z",
+  "generated_at": "2026-11-05T20:09:24.448Z",
   "source": "https://satohub.ai",
   "license": "Catalog data CC-BY-4.0 — attribution: data by satohub.ai. Scores/liveness are informational signals, not safety or quality guarantees.",
   "cite_as": "Sato Hub, \"Onchain Agents Index\", https://satohub.ai/datasets/onchain-agents-index (CC-BY-4.0; keep this credit and add the date you read it)",
@@ -21,15 +21,16 @@
     ],
     "coverage": {
       "daily": {
-        "run_id": "gh-41859290840-1",
-        "finished_at": "2026-11-04T16:23:27.231+00:00",
-        "steps_ok": 111,
+        "run_id": "gh-41973721950-1",
+        "finished_at": "2026-11-05T06:06:57.389+00:00",
+        "steps_ok": 112,
         "steps_failed": [
           "mcp-live",
           "archive-counters",
           "scan-bnb"
         ],
         "steps_partial": [
+          "x402-merchants",
           "archive-erc8004:robinhood-chain",
           "archive-erc8004:celo",
           "archive-erc8004:monad",
@@ -53,10 +54,10 @@
       "note": "coverage = what the last scheduled runs reported to the job ledger. A step in steps_failed wrote nothing usable; its numbers are stale or unknown, never zero. A step in steps_partial succeeded but read only part of its data: what it did not read is unknown, never zero."
     },
     "next_update": {
-      "daily": "2026-11-05T05:23:00.000Z",
+      "daily": "2026-11-06T05:23:00.000Z",
       "weekly": "2026-11-09T09:30:00.000Z"
     },
-    "generated_at": "2026-11-04T19:56:04.374Z"
+    "generated_at": "2026-11-05T20:09:24.447Z"
   },
   "count": 489,
   "aggregates": {
@@ -310,8 +311,8 @@
         "TypeScript SDK"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-10-26",
       "deploy_spec": {
         "as_of": "2026-10-26",
@@ -426,8 +427,8 @@
         "Supabase"
       ],
       "observed_success_pct": 98.9,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-10-26",
       "deploy_spec": {
         "as_of": "2026-10-26",
@@ -525,7 +526,7 @@
       "trust_tier": "High",
       "provisional": false,
       "liveness": "Quiet",
-      "last_activity_at": "2026-11-03T15:14:09.000Z",
+      "last_activity_at": "2026-11-04T13:20:16.000Z",
       "github_stars": 183,
       "verified_install": true,
       "verification_status": "Verified",
@@ -542,8 +543,8 @@
         "CLI"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-09-21",
       "deploy_spec": {
         "as_of": "2026-09-21",
@@ -646,8 +647,8 @@
         "ChatGPT"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": null,
       "install": null,
@@ -707,8 +708,8 @@
         "Agent Commerce Protocol (ACP)"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-10-26",
       "deploy_spec": {
         "as_of": "2026-10-26",
@@ -854,7 +855,7 @@
       "trust_tier": "High",
       "provisional": false,
       "liveness": "Quiet",
-      "last_activity_at": "2026-10-28T19:28:39.000Z",
+      "last_activity_at": "2026-11-04T21:24:59.000Z",
       "github_stars": 1009,
       "verified_install": true,
       "verification_status": "Unverified",
@@ -878,8 +879,8 @@
         "0x"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-10-26",
       "deploy_spec": {
         "as_of": "2026-10-26",
@@ -1056,8 +1057,8 @@
       ],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-07-14",
@@ -1159,8 +1160,8 @@
         "EIP-155"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -1256,8 +1257,8 @@
         "Metaplex"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-10-26",
       "deploy_spec": {
         "as_of": "2026-10-26",
@@ -1364,8 +1365,8 @@
         "CometBFT"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-11-02",
@@ -1450,8 +1451,8 @@
         "Tenderly"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-10-26",
       "deploy_spec": {
         "as_of": "2026-10-26",
@@ -1569,8 +1570,8 @@
         "Universal Commerce Protocol"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -1639,7 +1640,7 @@
       "trust_tier": "High",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-11-04T14:09:58.000Z",
+      "last_activity_at": "2026-11-05T05:06:24.000Z",
       "github_stars": 393543,
       "verified_install": true,
       "verification_status": "Verified",
@@ -1663,8 +1664,8 @@
         "OpenAI"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-11-02",
       "deploy_spec": {
         "as_of": "2026-11-02",
@@ -1776,8 +1777,8 @@
         "Universal Router"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -1859,7 +1860,7 @@
       "trust_tier": "High",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-10-29T22:00:51.000Z",
+      "last_activity_at": "2026-11-04T20:11:47.000Z",
       "github_stars": 6771,
       "verified_install": true,
       "verification_status": "Unverified",
@@ -1877,8 +1878,8 @@
         "MCP"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-10-26",
       "deploy_spec": {
         "as_of": "2026-10-26",
@@ -2064,8 +2065,8 @@
         "MoonPay"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-10-26",
       "deploy_spec": {
         "as_of": "2026-10-26",
@@ -2178,8 +2179,8 @@
         "OpenAI ChatGPT"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": null,
       "install": null,
@@ -2265,8 +2266,8 @@
         "x402"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-11-02",
       "deploy_spec": {
         "as_of": "2026-11-02",
@@ -2377,8 +2378,8 @@
         "Slack"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-09-25",
       "deploy_spec": {
         "as_of": "2026-09-25",
@@ -2471,7 +2472,7 @@
       "trust_tier": "High",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-11-04T15:25:08.000Z",
+      "last_activity_at": "2026-11-05T05:14:20.000Z",
       "github_stars": 1273,
       "verified_install": true,
       "verification_status": "Self-Reported",
@@ -2589,7 +2590,7 @@
       "custody_key_access": "none_found",
       "custody_key_egress": "unknown",
       "custody_fund_action_count": null,
-      "custody_as_of": "2026-11-04T15:56:40.981Z",
+      "custody_as_of": "2026-11-05T05:32:12.901Z",
       "date_added": "2026-06-08",
       "detail_url": "https://satohub.ai/resources/defillama",
       "trust_score_delta_7d": 0
@@ -2646,8 +2647,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -2741,8 +2742,8 @@
         "Ruby SDK"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-10-26",
       "deploy_spec": {
         "as_of": "2026-10-26",
@@ -2867,8 +2868,8 @@
         "x402"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-10-26",
       "deploy_spec": {
         "as_of": "2026-10-26",
@@ -2979,8 +2980,8 @@
         "Google Pay"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": null,
       "install": null,
@@ -3037,7 +3038,7 @@
       "trust_tier": "Medium",
       "provisional": false,
       "liveness": null,
-      "last_activity_at": "2026-11-04T15:14:29.000Z",
+      "last_activity_at": "2026-11-04T16:01:20.000Z",
       "github_stars": null,
       "verified_install": true,
       "verification_status": "Self-Reported",
@@ -3055,8 +3056,8 @@
         "Grok"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-10-26",
       "deploy_spec": {
         "as_of": "2026-10-26",
@@ -3164,8 +3165,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 97.8,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-11-02",
@@ -3252,8 +3253,8 @@
         "Foundry"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -3327,7 +3328,7 @@
       "trust_tier": "High",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-11-04T06:43:49.000Z",
+      "last_activity_at": "2026-11-04T19:11:01.000Z",
       "github_stars": 259770,
       "verified_install": true,
       "verification_status": "Verified",
@@ -3347,8 +3348,8 @@
         "OpenAI"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-09-25",
       "deploy_spec": {
         "as_of": "2026-09-25",
@@ -3462,8 +3463,8 @@
         "x402"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-11-02",
       "deploy_spec": {
         "as_of": "2026-11-02",
@@ -3553,7 +3554,7 @@
       "trust_tier": "High",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-11-04T02:58:24.000Z",
+      "last_activity_at": "2026-11-05T02:38:43.000Z",
       "github_stars": 131566,
       "verified_install": true,
       "verification_status": "Verified",
@@ -3674,8 +3675,8 @@
         "REST API"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-10-26",
       "deploy_spec": {
         "as_of": "2026-10-26",
@@ -3795,8 +3796,8 @@
         "Blockaid"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": null,
       "install": null,
@@ -3944,8 +3945,8 @@
         "QuickNode CLI"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-11-02",
@@ -4049,8 +4050,8 @@
         "Hono"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-10-26",
       "deploy_spec": {
         "as_of": "2026-10-26",
@@ -4149,8 +4150,8 @@
         "Claude"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": null,
       "install": null,
@@ -4314,9 +4315,9 @@
         "Hosted"
       ],
       "supported_integrations": [],
-      "observed_success_pct": 89,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_success_pct": 88.9,
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -4411,8 +4412,8 @@
         "Mini Apps"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-10-26",
       "deploy_spec": {
         "as_of": "2026-10-26",
@@ -4525,7 +4526,7 @@
       "custody_as_of": null,
       "date_added": "2026-06-08",
       "detail_url": "https://satohub.ai/resources/phantom-mcp",
-      "trust_score_delta_7d": 2
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "almanak",
@@ -4604,8 +4605,8 @@
         "Safe"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-11-02",
       "deploy_spec": {
         "as_of": "2026-11-02",
@@ -4660,7 +4661,7 @@
       "custody_key_access": "none_found",
       "custody_key_egress": "unknown",
       "custody_fund_action_count": null,
-      "custody_as_of": "2026-10-29T05:39:43.201Z",
+      "custody_as_of": "2026-11-05T05:32:13.504Z",
       "date_added": "2026-06-08",
       "detail_url": "https://satohub.ai/resources/almanak",
       "trust_score_delta_7d": 0
@@ -4714,8 +4715,8 @@
       ],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -4818,8 +4819,8 @@
         "TypeScript"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -4913,8 +4914,8 @@
         "CoW AMM"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -5002,10 +5003,10 @@
       ],
       "status": "Active",
       "open_source_status": "Yes",
-      "trust_score": 81,
+      "trust_score": 71,
       "trust_tier": "High",
       "provisional": false,
-      "liveness": "Active",
+      "liveness": "Recent",
       "last_activity_at": "2026-10-06T01:19:09.000Z",
       "github_stars": 53,
       "verified_install": false,
@@ -5028,8 +5029,8 @@
         "Bankr"
       ],
       "observed_success_pct": 98.9,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -5061,7 +5062,7 @@
       "custody_as_of": null,
       "date_added": "2026-06-08",
       "detail_url": "https://satohub.ai/resources/opensea-agent-skill",
-      "trust_score_delta_7d": 0
+      "trust_score_delta_7d": -10
     },
     {
       "slug": "venice-ai",
@@ -5121,8 +5122,8 @@
         "MCP"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": null,
       "install": null,
@@ -5195,8 +5196,8 @@
         "Messari Signals"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -5226,7 +5227,7 @@
       "custody_key_access": "none_found",
       "custody_key_egress": "unknown",
       "custody_fund_action_count": null,
-      "custody_as_of": "2026-11-04T05:32:21.572Z",
+      "custody_as_of": "2026-11-05T05:32:11.098Z",
       "date_added": "2026-06-08",
       "detail_url": "https://satohub.ai/resources/warden-protocol",
       "trust_score_delta_7d": 0
@@ -5305,8 +5306,8 @@
         "Exchange Precompile"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -5394,8 +5395,8 @@
         "MCP"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-11-02",
       "deploy_spec": {
         "as_of": "2026-11-02",
@@ -5494,8 +5495,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": null,
       "install": null,
@@ -5566,8 +5567,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -5665,8 +5666,8 @@
         "CCIP"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-10-26",
       "deploy_spec": {
         "as_of": "2026-10-26",
@@ -5769,8 +5770,8 @@
         "API"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -5938,8 +5939,8 @@
         "OpenClaw"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -6172,8 +6173,8 @@
         "Almanac"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-10-26",
       "deploy_spec": {
         "as_of": "2026-10-26",
@@ -6282,8 +6283,8 @@
         "Mercantil Agent SDK"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -6375,8 +6376,8 @@
         "MCP"
       ],
       "observed_success_pct": 97.8,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-10-26",
       "deploy_spec": {
         "as_of": "2026-10-26",
@@ -6493,8 +6494,8 @@
         "ERC-6551"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": null,
       "install": null,
@@ -6563,8 +6564,8 @@
       ],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": null,
       "install": null,
@@ -6692,8 +6693,8 @@
         "Alpha Vantage"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -6784,8 +6785,8 @@
         "ROS 2"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-11-02",
       "deploy_spec": {
         "as_of": "2026-11-02",
@@ -6957,8 +6958,8 @@
         "Discord"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-07-14",
@@ -7047,8 +7048,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": null,
       "install": null,
@@ -7115,8 +7116,8 @@
         "Hyperliquid API"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-10-26",
       "deploy_spec": {
         "as_of": "2026-10-26",
@@ -7234,8 +7235,8 @@
         "USDC"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -7315,7 +7316,7 @@
       "provisional": false,
       "liveness": "Active",
       "last_activity_at": "2026-11-03T10:20:31.000Z",
-      "github_stars": 347,
+      "github_stars": 350,
       "verified_install": true,
       "verification_status": "Verified",
       "creator_name": "Raydium",
@@ -7330,8 +7331,8 @@
         "Token-2022"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-09-21",
       "deploy_spec": {
         "as_of": "2026-09-21",
@@ -7438,8 +7439,8 @@
         "Subgraph"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": null,
       "install": null,
@@ -7508,8 +7509,8 @@
         "x402"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-07-21",
       "deploy_spec": {
         "as_of": "2026-07-21",
@@ -7603,8 +7604,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -7692,8 +7693,8 @@
         "Bankless API"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-10-26",
       "deploy_spec": {
         "as_of": "2026-10-26",
@@ -7798,8 +7799,8 @@
       ],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": null,
       "install": null,
@@ -7868,8 +7869,8 @@
         "Synth"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": null,
       "install": null,
@@ -7945,8 +7946,8 @@
         "ERC-8004"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-10-19",
       "deploy_spec": {
         "as_of": "2026-10-19",
@@ -8117,8 +8118,8 @@
         "Anchor"
       ],
       "observed_success_pct": 96.7,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-07-14",
@@ -8234,8 +8235,8 @@
         "OpenClaw"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-10-26",
       "deploy_spec": {
         "as_of": "2026-10-26",
@@ -8316,7 +8317,7 @@
       "trust_tier": "High",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-10-30T18:35:01.000Z",
+      "last_activity_at": "2026-11-05T00:49:22.000Z",
       "github_stars": 272,
       "verified_install": false,
       "verification_status": "Unverified",
@@ -8379,8 +8380,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 97.8,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": null,
       "install": null,
@@ -8512,8 +8513,8 @@
         "Anchor"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-10-15",
@@ -8744,8 +8745,8 @@
         "MCP"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -8846,8 +8847,8 @@
         "OpenClaw"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-11-02",
       "deploy_spec": {
         "as_of": "2026-11-02",
@@ -8963,8 +8964,8 @@
         "Python"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -9048,8 +9049,8 @@
         "Apple Pay"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": null,
       "install": null,
@@ -9215,8 +9216,8 @@
         "Supabase"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -9291,8 +9292,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": null,
       "install": null,
@@ -9363,8 +9364,8 @@
         "MCP"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-07-21",
       "deploy_spec": {
         "as_of": "2026-07-21",
@@ -9465,8 +9466,8 @@
         "OpenClaw"
       ],
       "observed_success_pct": 97.8,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-10-15",
       "deploy_spec": {
         "as_of": "2026-10-15",
@@ -9749,8 +9750,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -9840,8 +9841,8 @@
         "Windsurf"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-07-14",
@@ -10061,8 +10062,8 @@
         "Gemini CLI"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -10263,8 +10264,8 @@
         "Windsurf"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-09-21",
       "deploy_spec": {
         "as_of": "2026-09-21",
@@ -10352,8 +10353,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": null,
       "install": null,
@@ -10416,7 +10417,7 @@
       "custody_as_of": null,
       "date_added": "2026-10-14",
       "detail_url": "https://satohub.ai/resources/akashml",
-      "trust_score_delta_7d": 1
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "alby-mcp",
@@ -10601,8 +10602,8 @@
         "MCP"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": null,
       "install": null,
@@ -10807,8 +10808,8 @@
         "GitHub Copilot"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-10-19",
       "deploy_spec": {
         "as_of": "2026-10-19",
@@ -10926,8 +10927,8 @@
         "Bitget"
       ],
       "observed_success_pct": 98.9,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-11-02",
@@ -11022,9 +11023,9 @@
         "LangGraph",
         "LangChain"
       ],
-      "observed_success_pct": 57.1,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_success_pct": 56.7,
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-07-14",
@@ -11093,8 +11094,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-07-20",
@@ -11183,8 +11184,8 @@
         "Antigravity CLI"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-11-02",
@@ -11331,8 +11332,8 @@
         "GitHub Copilot"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -11410,8 +11411,8 @@
         "Codex"
       ],
       "observed_success_pct": 98.9,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-07-14",
@@ -11499,8 +11500,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-11-02",
@@ -11571,7 +11572,7 @@
       "trust_tier": "Medium",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-11-02T21:29:59.000Z",
+      "last_activity_at": "2026-11-04T19:50:52.000Z",
       "github_stars": 203,
       "verified_install": false,
       "verification_status": "Self-Reported",
@@ -11649,8 +11650,8 @@
         "VS Code"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-07-21",
       "deploy_spec": {
         "as_of": "2026-07-21",
@@ -11881,8 +11882,8 @@
         "Claude Desktop"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-07-14",
@@ -11946,8 +11947,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-07-21",
       "deploy_spec": {
         "as_of": "2026-07-21",
@@ -12031,8 +12032,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": null,
       "install": null,
@@ -12333,8 +12334,8 @@
         "Cursor"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -12483,8 +12484,8 @@
         "ChatGPT"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-07-21",
       "deploy_spec": {
         "as_of": "2026-07-21",
@@ -12564,7 +12565,7 @@
       "trust_tier": "Medium",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-10-31T20:50:10.000Z",
+      "last_activity_at": "2026-11-04T22:40:07.000Z",
       "github_stars": 32,
       "verified_install": false,
       "verification_status": "Unverified",
@@ -12576,8 +12577,8 @@
         "ChatGPT"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-10-26",
@@ -12775,8 +12776,8 @@
         "Zed"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-07-21",
       "deploy_spec": {
         "as_of": "2026-07-21",
@@ -12896,8 +12897,8 @@
         "any MCP-compatible AI agent"
       ],
       "observed_success_pct": 98.9,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-07-21",
       "deploy_spec": {
         "as_of": "2026-07-21",
@@ -12989,8 +12990,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-07-20",
@@ -13229,8 +13230,8 @@
         "Codex"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-09-21",
       "deploy_spec": {
         "as_of": "2026-09-21",
@@ -13417,8 +13418,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 98.9,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-07-21",
       "deploy_spec": {
         "as_of": "2026-07-21",
@@ -13531,8 +13532,8 @@
         "Go SDK"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-09-21",
       "deploy_spec": {
         "as_of": "2026-09-21",
@@ -13638,8 +13639,8 @@
         "Codex CLI"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-11-02",
       "deploy_spec": {
         "as_of": "2026-11-02",
@@ -13744,8 +13745,8 @@
         "OpenCode"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-07-14",
@@ -13801,8 +13802,8 @@
       ],
       "status": "Early",
       "open_source_status": "Partial",
-      "trust_score": 72,
-      "trust_tier": "High",
+      "trust_score": 62,
+      "trust_tier": "Medium",
       "provisional": false,
       "liveness": "Recent",
       "last_activity_at": "2026-10-05T17:32:17.000Z",
@@ -13818,9 +13819,9 @@
         "Cline",
         "x402 protocol"
       ],
-      "observed_success_pct": 91.2,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_success_pct": 91.1,
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-10-15",
       "deploy_spec": {
         "as_of": "2026-10-15",
@@ -13871,7 +13872,7 @@
       "custody_as_of": "2026-10-05T17:26:03.362Z",
       "date_added": "2026-07-19",
       "detail_url": "https://satohub.ai/resources/botwallet-mcp",
-      "trust_score_delta_7d": 0
+      "trust_score_delta_7d": -10
     },
     {
       "slug": "bountypay",
@@ -13934,7 +13935,7 @@
       "custody_as_of": null,
       "date_added": "2026-10-08",
       "detail_url": "https://satohub.ai/resources/bountypay",
-      "trust_score_delta_7d": -9
+      "trust_score_delta_7d": -10
     },
     {
       "slug": "breeze-agent-kit",
@@ -13974,8 +13975,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": null,
       "install": null,
@@ -14103,8 +14104,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -14284,8 +14285,8 @@
         "VS Code"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-09-21",
       "deploy_spec": {
         "as_of": "2026-09-21",
@@ -14439,8 +14440,8 @@
         "Lucid Evolution"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-07-21",
       "deploy_spec": {
         "as_of": "2026-07-21",
@@ -14549,8 +14550,8 @@
         "Claude Desktop"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-10-19",
       "deploy_spec": {
         "as_of": "2026-10-19",
@@ -14632,7 +14633,7 @@
       "trust_tier": "High",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-11-02T02:52:12.000Z",
+      "last_activity_at": "2026-11-04T18:39:31.000Z",
       "github_stars": 5,
       "verified_install": false,
       "verification_status": "Self-Reported",
@@ -14644,8 +14645,8 @@
         "Cursor"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -14733,8 +14734,8 @@
         "Codex"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-07-20",
@@ -14880,8 +14881,8 @@
         "Chainlink Proof of Reserve"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": null,
       "install": null,
@@ -14949,8 +14950,8 @@
         "ChatGPT"
       ],
       "observed_success_pct": 98.9,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -15028,7 +15029,7 @@
       "creator_name": null,
       "deployment_options": [],
       "supported_integrations": [],
-      "observed_success_pct": 95.3,
+      "observed_success_pct": 97.7,
       "observed_days": 43,
       "observed_window_start": "2026-09-23",
       "install_verified_at": null,
@@ -15166,7 +15167,7 @@
       "custody_as_of": null,
       "date_added": "2026-10-14",
       "detail_url": "https://satohub.ai/resources/chutes-ai",
-      "trust_score_delta_7d": 1
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "circle-agent-stack",
@@ -15289,8 +15290,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-11-02",
@@ -15383,7 +15384,7 @@
       "custody_as_of": null,
       "date_added": "2026-10-14",
       "detail_url": "https://satohub.ai/resources/circle-gateway-nanopayments",
-      "trust_score_delta_7d": 1
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "circle-skills",
@@ -15438,8 +15439,8 @@
         "Claude Code"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -15798,9 +15799,9 @@
         "Claude",
         "Claude Code"
       ],
-      "observed_success_pct": 52.7,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_success_pct": 52.2,
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-22",
@@ -15998,8 +15999,8 @@
         "Notion"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-07-14",
@@ -16193,8 +16194,8 @@
         "Claude Code"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -16368,8 +16369,8 @@
         "ChatGPT"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-07-14",
@@ -16546,8 +16547,8 @@
         "Vercel AI SDK"
       ],
       "observed_success_pct": 98.9,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-11-02",
@@ -16635,7 +16636,7 @@
       "custody_as_of": null,
       "date_added": "2026-10-14",
       "detail_url": "https://satohub.ai/resources/crossmint",
-      "trust_score_delta_7d": 1
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "crossmint-solana-smart-wallets",
@@ -16676,8 +16677,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": null,
       "install": null,
@@ -16727,8 +16728,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -16885,8 +16886,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-07-20",
@@ -16991,8 +16992,8 @@
         "n8n"
       ],
       "observed_success_pct": 97.8,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-07-14",
@@ -17077,8 +17078,8 @@
         "QuickIntel"
       ],
       "observed_success_pct": 98.9,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-11-02",
@@ -17169,8 +17170,8 @@
         "agentcash"
       ],
       "observed_success_pct": 98.9,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-10-19",
       "deploy_spec": {
         "as_of": "2026-10-19",
@@ -17266,8 +17267,8 @@
         "Windsurf"
       ],
       "observed_success_pct": 98.9,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": null,
       "install": null,
@@ -17311,10 +17312,10 @@
       ],
       "status": "Unknown",
       "open_source_status": "Yes",
-      "trust_score": 83,
+      "trust_score": 73,
       "trust_tier": "High",
       "provisional": false,
-      "liveness": "Active",
+      "liveness": "Recent",
       "last_activity_at": "2026-10-06T05:18:31.000Z",
       "github_stars": 7,
       "verified_install": true,
@@ -17380,7 +17381,7 @@
       "custody_as_of": "2026-10-02T14:42:36.640Z",
       "date_added": "2026-07-13",
       "detail_url": "https://satohub.ai/resources/cryptoquant-mcp",
-      "trust_score_delta_7d": 8
+      "trust_score_delta_7d": -2
     },
     {
       "slug": "cspr-trade-mcp",
@@ -17428,8 +17429,8 @@
         "ClawHub"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-11-02",
       "deploy_spec": {
         "as_of": "2026-11-02",
@@ -17588,8 +17589,8 @@
         "OpenClaw"
       ],
       "observed_success_pct": 98.9,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-07-14",
@@ -17666,8 +17667,8 @@
         "DeFiLlama"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-11-02",
@@ -17836,8 +17837,8 @@
         "Claude Desktop"
       ],
       "observed_success_pct": 98.9,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-10-15",
       "deploy_spec": {
         "as_of": "2026-10-15",
@@ -17924,8 +17925,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -18012,7 +18013,7 @@
       "custody_as_of": null,
       "date_added": "2026-10-14",
       "detail_url": "https://satohub.ai/resources/doppler-protocol",
-      "trust_score_delta_7d": 1
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "dripstack",
@@ -18244,7 +18245,7 @@
       "custody_as_of": null,
       "date_added": "2026-10-14",
       "detail_url": "https://satohub.ai/resources/dstack-tee",
-      "trust_score_delta_7d": 1
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "dune-mcp",
@@ -18535,8 +18536,8 @@
         "C2PA"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": null,
       "install": null,
@@ -18596,8 +18597,8 @@
       ],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -18726,8 +18727,8 @@
         "DefiLlama"
       ],
       "observed_success_pct": 97.8,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-09-14",
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -18841,7 +18842,7 @@
       "custody_as_of": null,
       "date_added": "2026-10-14",
       "detail_url": "https://satohub.ai/resources/ethereum-attestation-service",
-      "trust_score_delta_7d": 1
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "ethskills",
@@ -18888,8 +18889,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": null,
       "install": null,
@@ -18995,8 +18996,8 @@
       ],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-10-26",
@@ -19096,8 +19097,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 98.9,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-07-21",
       "deploy_spec": {
         "as_of": "2026-07-21",
@@ -19299,8 +19300,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-11-02",
@@ -19432,8 +19433,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-09-21",
       "deploy_spec": {
         "as_of": "2026-09-21",
@@ -19559,7 +19560,7 @@
       "custody_as_of": null,
       "date_added": "2026-09-22",
       "detail_url": "https://satohub.ai/resources/forta-risk-graph-mcp",
-      "trust_score_delta_7d": -10
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "galxe-quest-api",
@@ -19654,8 +19655,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-07-21",
       "deploy_spec": {
         "as_of": "2026-07-21",
@@ -19761,8 +19762,8 @@
         "Claude Code"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-07-14",
@@ -19848,9 +19849,9 @@
         "Trae",
         "OpenClaw"
       ],
-      "observed_success_pct": 81.3,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_success_pct": 81.1,
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-07-14",
@@ -19984,8 +19985,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-11-02",
@@ -20134,8 +20135,8 @@
         "@gmx-io/sdk"
       ],
       "observed_success_pct": 98.9,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -20450,7 +20451,7 @@
       "trust_tier": "Medium",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-10-15T03:11:34.000Z",
+      "last_activity_at": "2026-11-05T01:47:33.000Z",
       "github_stars": 2,
       "verified_install": true,
       "verification_status": "Unverified",
@@ -20458,8 +20459,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-07-21",
       "deploy_spec": {
         "as_of": "2026-07-21",
@@ -20514,7 +20515,7 @@
       "custody_key_access": "none_found",
       "custody_key_egress": "unknown",
       "custody_fund_action_count": null,
-      "custody_as_of": "2026-10-16T05:33:34.080Z",
+      "custody_as_of": "2026-11-05T05:32:16.341Z",
       "date_added": "2026-07-19",
       "detail_url": "https://satohub.ai/resources/graph-aave-mcp",
       "trust_score_delta_7d": 0
@@ -20655,7 +20656,7 @@
       ],
       "status": "Active",
       "open_source_status": "Yes",
-      "trust_score": 56,
+      "trust_score": 48,
       "trust_tier": "Medium",
       "provisional": false,
       "liveness": "Quiet",
@@ -20670,9 +20671,9 @@
       "supported_integrations": [
         "Claude Desktop"
       ],
-      "observed_success_pct": 51.6,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_success_pct": 51.1,
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-10-19",
       "deploy_spec": {
         "as_of": "2026-10-19",
@@ -20721,7 +20722,7 @@
       "custody_as_of": "2026-09-28T16:44:33.231Z",
       "date_added": "2026-07-13",
       "detail_url": "https://satohub.ai/resources/haiku-defi-mcp",
-      "trust_score_delta_7d": 0
+      "trust_score_delta_7d": -8
     },
     {
       "slug": "hashnet-mcp",
@@ -20782,8 +20783,8 @@
       ],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-11-02",
@@ -20872,8 +20873,8 @@
         "MCP Registry"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-07-21",
       "deploy_spec": {
         "as_of": "2026-07-21",
@@ -20921,7 +20922,7 @@
       "custody_as_of": "2026-09-28T16:44:34.378Z",
       "date_added": "2026-07-13",
       "detail_url": "https://satohub.ai/resources/hedera-mcp",
-      "trust_score_delta_7d": -10
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "helius-mcp",
@@ -20978,8 +20979,8 @@
         "Codex"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-07-21",
       "deploy_spec": {
         "as_of": "2026-07-21",
@@ -21175,7 +21176,7 @@
       "trust_tier": "High",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-11-03T18:46:21.000Z",
+      "last_activity_at": "2026-11-04T19:56:13.000Z",
       "github_stars": 0,
       "verified_install": false,
       "verification_status": "Self-Reported",
@@ -21459,8 +21460,8 @@
         "Hummingbot API"
       ],
       "observed_success_pct": 98.9,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-11-02",
@@ -21534,14 +21535,16 @@
       "creator_name": "Injective Labs",
       "deployment_options": [
         "npm (local stdio",
-        "git clone + build)"
+        "git clone + build)",
+        "local stdio",
+        "git clone + npm build"
       ],
       "supported_integrations": [
         "Claude Desktop"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-11-02",
@@ -21638,8 +21641,8 @@
         "x402"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-07-21",
       "deploy_spec": {
         "as_of": "2026-07-21",
@@ -21724,8 +21727,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-10-15",
       "deploy_spec": {
         "as_of": "2026-10-15",
@@ -21835,8 +21838,8 @@
         "Linear"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-07-20",
@@ -22032,8 +22035,8 @@
         "Claude Code"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-10-26",
       "deploy_spec": {
         "as_of": "2026-10-26",
@@ -22147,7 +22150,7 @@
       "custody_as_of": null,
       "date_added": "2026-10-14",
       "detail_url": "https://satohub.ai/resources/kalshi-api",
-      "trust_score_delta_7d": 1
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "kirha-crypto",
@@ -22195,8 +22198,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": null,
       "install": null,
@@ -22255,8 +22258,8 @@
         "VS Code (GitHub Copilot)"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-11-02",
       "deploy_spec": {
         "as_of": "2026-11-02",
@@ -22365,8 +22368,8 @@
         "OpenClaw"
       ],
       "observed_success_pct": 97.8,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-07-14",
@@ -22466,8 +22469,8 @@
       ],
       "supported_integrations": [],
       "observed_success_pct": 98.9,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -22539,8 +22542,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": null,
       "install": null,
@@ -22608,7 +22611,7 @@
       "custody_as_of": null,
       "date_added": "2026-10-14",
       "detail_url": "https://satohub.ai/resources/lagrange-deepprove",
-      "trust_score_delta_7d": 1
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "langchainbitcoin",
@@ -22648,8 +22651,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -22804,8 +22807,8 @@
         "Codex"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-07-14",
@@ -22938,8 +22941,8 @@
         "Cursor"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-11-02",
@@ -23010,7 +23013,7 @@
       ],
       "status": "Active",
       "open_source_status": "Unknown",
-      "trust_score": 62,
+      "trust_score": 65,
       "trust_tier": "Medium",
       "provisional": false,
       "liveness": null,
@@ -23021,12 +23024,19 @@
       "creator_name": "LI.FI",
       "deployment_options": [
         "Hosted (remote MCP endpoint",
-        "no install required)"
+        "no install required)",
+        "Hosted remote MCP endpoint",
+        "No installation required"
       ],
-      "supported_integrations": [],
+      "supported_integrations": [
+        "Claude",
+        "Cursor",
+        "Windsurf",
+        "VS Code Copilot"
+      ],
       "observed_success_pct": 98.9,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -23052,7 +23062,7 @@
       "custody_as_of": null,
       "date_added": "2026-07-13",
       "detail_url": "https://satohub.ai/resources/lifi-mcp",
-      "trust_score_delta_7d": 0
+      "trust_score_delta_7d": 3
     },
     {
       "slug": "lighter-mcp",
@@ -23096,8 +23106,8 @@
         "Hermes Agent"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-07-21",
       "deploy_spec": {
         "as_of": "2026-07-21",
@@ -23292,8 +23302,8 @@
         "Windsurf"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-11-02",
       "deploy_spec": {
         "as_of": "2026-11-02",
@@ -23402,7 +23412,7 @@
       "custody_as_of": null,
       "date_added": "2026-10-14",
       "detail_url": "https://satohub.ai/resources/limitless-exchange",
-      "trust_score_delta_7d": 1
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "linea-mcp",
@@ -23450,8 +23460,8 @@
         "Cline"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-10-15",
       "deploy_spec": {
         "as_of": "2026-10-15",
@@ -23541,7 +23551,7 @@
       "trust_score": 49,
       "trust_tier": "Medium",
       "provisional": false,
-      "liveness": "Quiet",
+      "liveness": "Dormant",
       "last_activity_at": "2025-11-05T00:31:15.000Z",
       "github_stars": 1091,
       "verified_install": false,
@@ -23550,8 +23560,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-10-26",
@@ -23671,7 +23681,7 @@
       "custody_as_of": null,
       "date_added": "2026-10-08",
       "detail_url": "https://satohub.ai/resources/lit-vincent",
-      "trust_score_delta_7d": -16
+      "trust_score_delta_7d": -1
     },
     {
       "slug": "lnbits-mcp",
@@ -23722,8 +23732,8 @@
         "Claude Desktop"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -23797,8 +23807,8 @@
       ],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -23877,9 +23887,9 @@
       "creator_name": "LunarCrush",
       "deployment_options": [],
       "supported_integrations": [],
-      "observed_success_pct": 38.5,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_success_pct": 37.8,
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": null,
       "install": null,
@@ -24116,9 +24126,9 @@
         "Self-host (Bun runtime)"
       ],
       "supported_integrations": [],
-      "observed_success_pct": 48.4,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_success_pct": 47.8,
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-07-14",
@@ -24207,7 +24217,7 @@
       "custody_as_of": null,
       "date_added": "2026-10-14",
       "detail_url": "https://satohub.ai/resources/marlin-oyster",
-      "trust_score_delta_7d": 1
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "massive",
@@ -24320,8 +24330,8 @@
         "x402"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -24417,8 +24427,8 @@
         "Claude Desktop"
       ],
       "observed_success_pct": 98.9,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-11-02",
@@ -24484,7 +24494,7 @@
       "trust_tier": "High",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-10-29T05:27:40.000Z",
+      "last_activity_at": "2026-11-04T21:28:41.000Z",
       "github_stars": 91709,
       "verified_install": true,
       "verification_status": "Self-Reported",
@@ -24492,8 +24502,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 98.9,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-07-21",
       "deploy_spec": {
         "as_of": "2026-07-21",
@@ -24554,7 +24564,7 @@
       "custody_key_access": "none_found",
       "custody_key_egress": "unknown",
       "custody_fund_action_count": null,
-      "custody_as_of": "2026-10-29T05:39:46.155Z",
+      "custody_as_of": "2026-11-05T05:32:14.430Z",
       "date_added": "2026-07-13",
       "detail_url": "https://satohub.ai/resources/mcp-reference-servers",
       "trust_score_delta_7d": 0
@@ -24617,8 +24627,8 @@
         "Chainlink"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": null,
       "install": null,
@@ -24678,8 +24688,8 @@
       ],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": null,
       "install": null,
@@ -24739,9 +24749,9 @@
       "supported_integrations": [
         "Claude Desktop"
       ],
-      "observed_success_pct": 76.9,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_success_pct": 76.7,
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -24957,8 +24967,8 @@
         "BeeAI"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-10-19",
@@ -25115,8 +25125,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -25187,8 +25197,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-10-15",
@@ -25273,7 +25283,7 @@
       "trust_tier": "Medium",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-11-04T14:54:00.000Z",
+      "last_activity_at": "2026-11-05T00:38:50.000Z",
       "github_stars": 25,
       "verified_install": false,
       "verification_status": "Self-Reported",
@@ -25288,8 +25298,8 @@
         "OpenClaw"
       ],
       "observed_success_pct": 98.9,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -25355,8 +25365,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-07-21",
       "deploy_spec": {
         "as_of": "2026-07-21",
@@ -25457,8 +25467,8 @@
         "Zed"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-07-21",
       "deploy_spec": {
         "as_of": "2026-07-21",
@@ -25607,8 +25617,8 @@
         "MistTrack OpenAPI"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-07-21",
       "deploy_spec": {
         "as_of": "2026-07-21",
@@ -25711,8 +25721,8 @@
       ],
       "supported_integrations": [],
       "observed_success_pct": 97.8,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -25784,9 +25794,9 @@
       "creator_name": null,
       "deployment_options": [],
       "supported_integrations": [],
-      "observed_success_pct": 93.4,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_success_pct": 93.3,
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -25816,10 +25826,10 @@
       "custody_key_access": "none_found",
       "custody_key_egress": "unknown",
       "custody_fund_action_count": null,
-      "custody_as_of": "2026-10-29T05:39:49.404Z",
+      "custody_as_of": "2026-11-05T05:32:16.707Z",
       "date_added": "2026-07-19",
       "detail_url": "https://satohub.ai/resources/monapi",
-      "trust_score_delta_7d": 13
+      "trust_score_delta_7d": 14
     },
     {
       "slug": "moonpay-skills",
@@ -25882,8 +25892,8 @@
         "Codex"
       ],
       "observed_success_pct": 98.9,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -25930,7 +25940,7 @@
       "custody_key_access": "none_found",
       "custody_key_egress": "unknown",
       "custody_fund_action_count": null,
-      "custody_as_of": "2026-10-21T05:31:00.957Z",
+      "custody_as_of": "2026-11-05T05:32:14.677Z",
       "date_added": "2026-07-13",
       "detail_url": "https://satohub.ai/resources/moonpay-skills",
       "trust_score_delta_7d": 0
@@ -25973,8 +25983,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -26078,7 +26088,7 @@
       "custody_as_of": null,
       "date_added": "2026-10-14",
       "detail_url": "https://satohub.ai/resources/morpheus-ai",
-      "trust_score_delta_7d": 1
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "morpho",
@@ -26119,8 +26129,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": null,
       "install": null,
@@ -26170,7 +26180,7 @@
       ],
       "status": "Active",
       "open_source_status": "Yes",
-      "trust_score": 65,
+      "trust_score": 64,
       "trust_tier": "Medium",
       "provisional": false,
       "liveness": "Recent",
@@ -26193,7 +26203,7 @@
         "wagmi",
         "Copilot"
       ],
-      "observed_success_pct": 100,
+      "observed_success_pct": 98.5,
       "observed_days": 65,
       "observed_window_start": "2026-09-01",
       "install_verified_at": null,
@@ -26224,7 +26234,7 @@
       "custody_as_of": null,
       "date_added": "2026-06-20",
       "detail_url": "https://satohub.ai/resources/moss-skills",
-      "trust_score_delta_7d": 0
+      "trust_score_delta_7d": -1
     },
     {
       "slug": "mpp-services-directory",
@@ -26284,7 +26294,7 @@
       "custody_as_of": null,
       "date_added": "2026-10-14",
       "detail_url": "https://satohub.ai/resources/mpp-services-directory",
-      "trust_score_delta_7d": 1
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "mppscan",
@@ -26328,8 +26338,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": null,
       "install": null,
@@ -26380,8 +26390,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-09-07",
       "deploy_spec": {
         "as_of": "2026-09-07",
@@ -26468,8 +26478,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-10-19",
       "deploy_spec": {
         "as_of": "2026-10-19",
@@ -26650,8 +26660,8 @@
         "Slack"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-07-20",
@@ -26721,8 +26731,8 @@
         "Codex"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": null,
       "install": null,
@@ -26842,7 +26852,7 @@
       "creator_name": null,
       "deployment_options": [],
       "supported_integrations": [],
-      "observed_success_pct": 89.3,
+      "observed_success_pct": 92.9,
       "observed_days": 28,
       "observed_window_start": "2026-10-08",
       "install_verified_at": null,
@@ -26890,7 +26900,7 @@
       ],
       "status": "Unknown",
       "open_source_status": "Unknown",
-      "trust_score": 65,
+      "trust_score": 66,
       "trust_tier": "Medium",
       "provisional": false,
       "liveness": null,
@@ -26911,7 +26921,7 @@
         "Python",
         "TypeScript"
       ],
-      "observed_success_pct": 96.8,
+      "observed_success_pct": 100,
       "observed_days": 31,
       "observed_window_start": "2026-10-05",
       "install_verified_at": null,
@@ -26923,7 +26933,7 @@
       "custody_as_of": null,
       "date_added": "2026-10-05",
       "detail_url": "https://satohub.ai/resources/neuronto-payments",
-      "trust_score_delta_7d": 1
+      "trust_score_delta_7d": 2
     },
     {
       "slug": "nevermined",
@@ -27052,8 +27062,8 @@
         "Claude"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-07-20",
@@ -27436,7 +27446,7 @@
       "custody_as_of": null,
       "date_added": "2026-10-14",
       "detail_url": "https://satohub.ai/resources/oasis-rofl",
-      "trust_score_delta_7d": 1
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "ocean-protocol",
@@ -27559,8 +27569,8 @@
         "MCP Inspector"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-11-02",
@@ -27757,8 +27767,8 @@
         "Cursor"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -27832,8 +27842,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 98.9,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -27918,8 +27928,8 @@
         "Gemini CLI"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-07-20",
@@ -28145,9 +28155,9 @@
       "creator_name": null,
       "deployment_options": [],
       "supported_integrations": [],
-      "observed_success_pct": 28.6,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_success_pct": 27.8,
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -28318,7 +28328,7 @@
       "custody_as_of": null,
       "date_added": "2026-10-14",
       "detail_url": "https://satohub.ai/resources/opengradient",
-      "trust_score_delta_7d": 1
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "openrouter",
@@ -28353,7 +28363,7 @@
       "trust_tier": "Medium",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-11-04T14:47:30.000Z",
+      "last_activity_at": "2026-11-04T23:48:39.000Z",
       "github_stars": 693,
       "verified_install": false,
       "verification_status": "Self-Reported",
@@ -28384,7 +28394,7 @@
       "custody_as_of": null,
       "date_added": "2026-10-14",
       "detail_url": "https://satohub.ai/resources/openrouter",
-      "trust_score_delta_7d": 1
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "opensea-mcp",
@@ -28441,8 +28451,8 @@
         "Chorus"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-07-14",
@@ -28523,8 +28533,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-09-21",
       "deploy_spec": {
         "as_of": "2026-09-21",
@@ -28629,8 +28639,8 @@
         "Safe"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-09-21",
       "deploy_spec": {
         "as_of": "2026-09-21",
@@ -28728,8 +28738,8 @@
         "Claude Desktop"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-10-15",
       "deploy_spec": {
         "as_of": "2026-10-15",
@@ -28973,8 +28983,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-11-02",
@@ -29052,8 +29062,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -29160,8 +29170,8 @@
         "LangChain"
       ],
       "observed_success_pct": 98.9,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -29269,7 +29279,7 @@
       "custody_as_of": null,
       "date_added": "2026-10-14",
       "detail_url": "https://satohub.ai/resources/phala-cloud",
-      "trust_score_delta_7d": 1
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "philidor-mcp",
@@ -29340,8 +29350,8 @@
         "Windsurf"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-07-14",
@@ -29507,8 +29517,8 @@
         "DALL-E"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -29594,8 +29604,8 @@
         "MCP"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-07-21",
       "deploy_spec": {
         "as_of": "2026-07-21",
@@ -29702,8 +29712,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -29794,7 +29804,7 @@
       "custody_as_of": null,
       "date_added": "2026-10-14",
       "detail_url": "https://satohub.ai/resources/polymarket",
-      "trust_score_delta_7d": 1
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "polymarket-agent-skills",
@@ -29921,8 +29931,8 @@
         "Polymarket Gamma API"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -30116,9 +30126,9 @@
       "creator_name": null,
       "deployment_options": [],
       "supported_integrations": [],
-      "observed_success_pct": 40.7,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_success_pct": 40,
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-07-21",
       "deploy_spec": {
         "as_of": "2026-07-21",
@@ -30229,8 +30239,8 @@
         "Claude Code"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-10-26",
@@ -30322,7 +30332,7 @@
       "trust_tier": "Medium",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-11-04T03:49:54.000Z",
+      "last_activity_at": "2026-11-05T03:47:21.000Z",
       "github_stars": 1,
       "verified_install": false,
       "verification_status": "Self-Reported",
@@ -30469,7 +30479,7 @@
       "custody_as_of": null,
       "date_added": "2026-10-14",
       "detail_url": "https://satohub.ai/resources/pump-fun",
-      "trust_score_delta_7d": 1
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "purple-flea-trading",
@@ -30705,8 +30715,8 @@
         "Windsurf"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-07-14",
@@ -30949,8 +30959,8 @@
         "GitHub Copilot"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-07-20",
@@ -31171,7 +31181,7 @@
       "trust_tier": "High",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-11-03T20:41:08.000Z",
+      "last_activity_at": "2026-11-04T21:23:53.000Z",
       "github_stars": 0,
       "verified_install": true,
       "verification_status": "Unverified",
@@ -31179,8 +31189,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-11-02",
       "deploy_spec": {
         "as_of": "2026-11-02",
@@ -31358,8 +31368,8 @@
         "Entropy Advisors"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": null,
       "install": null,
@@ -31576,8 +31586,8 @@
         "Ethereum MCP tools"
       ],
       "observed_success_pct": 98.9,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -31664,8 +31674,8 @@
         "Claude Desktop"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-07-21",
       "deploy_spec": {
         "as_of": "2026-07-21",
@@ -31910,8 +31920,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-09-14",
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -32172,8 +32182,8 @@
         "xAI"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": null,
       "install": null,
@@ -32230,8 +32240,8 @@
         "LangGraph"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -32321,8 +32331,8 @@
         "Claude Code"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-09-21",
       "deploy_spec": {
         "as_of": "2026-09-21",
@@ -32409,8 +32419,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-09-21",
       "deploy_spec": {
         "as_of": "2026-09-21",
@@ -32496,8 +32506,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 98.9,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -32564,7 +32574,7 @@
       "trust_tier": "Medium",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-11-04T13:58:50.000Z",
+      "last_activity_at": "2026-11-04T23:22:18.000Z",
       "github_stars": 137,
       "verified_install": false,
       "verification_status": "Self-Reported",
@@ -32583,7 +32593,7 @@
       "custody_as_of": null,
       "date_added": "2026-10-14",
       "detail_url": "https://satohub.ai/resources/senpi-skills",
-      "trust_score_delta_7d": 1
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "shade-agent-framework",
@@ -32692,7 +32702,7 @@
       "trust_tier": "Medium",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-11-04T08:37:45.000Z",
+      "last_activity_at": "2026-11-05T03:14:39.000Z",
       "github_stars": 52,
       "verified_install": false,
       "verification_status": "Self-Reported",
@@ -32819,8 +32829,8 @@
         "WalletClient"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-11-02",
@@ -33049,9 +33059,9 @@
         "Ollama",
         "DeepSeek"
       ],
-      "observed_success_pct": 92.3,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_success_pct": 92.2,
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -33233,8 +33243,8 @@
         "Gemini CLI"
       ],
       "observed_success_pct": 97.8,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-11-02",
       "deploy_spec": {
         "as_of": "2026-11-02",
@@ -33330,8 +33340,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 98.9,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-07-20",
@@ -33407,7 +33417,7 @@
       "trust_tier": "Medium",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-11-02T18:34:04.000Z",
+      "last_activity_at": "2026-11-04T21:49:18.000Z",
       "github_stars": 75,
       "verified_install": false,
       "verification_status": "Self-Reported",
@@ -33426,7 +33436,7 @@
       "custody_as_of": null,
       "date_added": "2026-10-14",
       "detail_url": "https://satohub.ai/resources/solana-attestation-service",
-      "trust_score_delta_7d": 1
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "solana-dev-skill",
@@ -33457,7 +33467,7 @@
       "trust_tier": "Medium",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-11-03T21:14:31.000Z",
+      "last_activity_at": "2026-11-04T18:41:19.000Z",
       "github_stars": 583,
       "verified_install": false,
       "verification_status": "Unverified",
@@ -33474,8 +33484,8 @@
         "OpenCode"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -33547,7 +33557,7 @@
       "trust_tier": "High",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-11-02T18:14:42.000Z",
+      "last_activity_at": "2026-11-04T21:47:25.000Z",
       "github_stars": 82,
       "verified_install": false,
       "verification_status": "Self-Reported",
@@ -33563,8 +33573,8 @@
         "Codex"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-07-14",
@@ -33629,8 +33639,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 98.9,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-10-26",
@@ -33717,9 +33727,9 @@
       "creator_name": null,
       "deployment_options": [],
       "supported_integrations": [],
-      "observed_success_pct": 85.7,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_success_pct": 85.6,
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": null,
       "install": null,
@@ -33780,8 +33790,8 @@
         "Claude Desktop"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-11-02",
@@ -33854,8 +33864,8 @@
       ],
       "supported_integrations": [],
       "observed_success_pct": 97.8,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-10-15",
@@ -34080,8 +34090,8 @@
         "VS Code"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -34158,8 +34168,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-11-02",
@@ -34239,8 +34249,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": null,
       "install": null,
@@ -34290,8 +34300,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-07-21",
       "deploy_spec": {
         "as_of": "2026-07-21",
@@ -34478,8 +34488,8 @@
         "Claude Code"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-07-20",
@@ -34575,7 +34585,7 @@
       "trust_tier": "High",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-10-29T22:34:42.000Z",
+      "last_activity_at": "2026-11-04T18:17:49.000Z",
       "github_stars": 58,
       "verified_install": false,
       "verification_status": "Self-Reported",
@@ -34652,7 +34662,7 @@
       "trust_tier": "High",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-11-04T04:04:48.000Z",
+      "last_activity_at": "2026-11-04T17:31:55.000Z",
       "github_stars": 1,
       "verified_install": true,
       "verification_status": "Unverified",
@@ -34665,8 +34675,8 @@
         "Claude Desktop"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-10-19",
       "deploy_spec": {
         "as_of": "2026-10-19",
@@ -34752,8 +34762,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -34957,7 +34967,7 @@
       "trust_tier": "Medium",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-11-04T12:30:11.000Z",
+      "last_activity_at": "2026-11-04T19:14:20.000Z",
       "github_stars": 499,
       "verified_install": false,
       "verification_status": "Self-Reported",
@@ -34970,8 +34980,8 @@
       ],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-10-26",
@@ -35074,8 +35084,8 @@
         "VS Code"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-10-19",
       "deploy_spec": {
         "as_of": "2026-10-19",
@@ -35164,7 +35174,7 @@
       "trust_tier": "High",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-11-04T15:48:31.000Z",
+      "last_activity_at": "2026-11-05T05:17:41.000Z",
       "github_stars": 1035,
       "verified_install": false,
       "verification_status": "Self-Reported",
@@ -35197,7 +35207,7 @@
       "custody_as_of": null,
       "date_added": "2026-10-14",
       "detail_url": "https://satohub.ai/resources/tempo-blockchain",
-      "trust_score_delta_7d": 1
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "tempo-mpp-specs",
@@ -35229,15 +35239,15 @@
       "provisional": false,
       "liveness": "Active",
       "last_activity_at": "2026-11-02T22:27:32.000Z",
-      "github_stars": 95,
+      "github_stars": 96,
       "verified_install": false,
       "verification_status": "Unverified",
       "creator_name": "Tempo Labs, Stripe",
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": null,
       "install": null,
@@ -35389,8 +35399,8 @@
         "ChatGPT"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-10-15",
       "deploy_spec": {
         "as_of": "2026-10-15",
@@ -35566,8 +35576,8 @@
         "OpenClaw"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-10-15",
@@ -35696,7 +35706,7 @@
       "custody_as_of": null,
       "date_added": "2026-10-14",
       "detail_url": "https://satohub.ai/resources/the-graph-x402",
-      "trust_score_delta_7d": 1
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "thirdweb-ai",
@@ -35752,9 +35762,9 @@
         "Coinbase AgentKit",
         "GOAT SDK"
       ],
-      "observed_success_pct": 57.1,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_success_pct": 56.7,
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-26",
@@ -35986,8 +35996,8 @@
         "Windsurf"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-11-02",
@@ -36086,8 +36096,8 @@
         "Cline"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-09-14",
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -36202,8 +36212,8 @@
         "OpenClaw"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-10-26",
       "deploy_spec": {
         "as_of": "2026-10-26",
@@ -36294,7 +36304,7 @@
       "trust_tier": "Medium",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-10-28T19:41:17.000Z",
+      "last_activity_at": "2026-11-04T17:39:20.000Z",
       "github_stars": 7932,
       "verified_install": false,
       "verification_status": "Self-Reported",
@@ -36309,8 +36319,8 @@
         "Codex"
       ],
       "observed_success_pct": 98.9,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -36375,7 +36385,7 @@
       "trust_tier": "High",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-10-09T16:13:47.000Z",
+      "last_activity_at": "2026-11-04T23:03:40.000Z",
       "github_stars": 38,
       "verified_install": true,
       "verification_status": "Unverified",
@@ -36385,8 +36395,8 @@
         "Claude"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-07-21",
       "deploy_spec": {
         "as_of": "2026-07-21",
@@ -36474,8 +36484,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-10-15",
       "deploy_spec": {
         "as_of": "2026-10-15",
@@ -36577,8 +36587,8 @@
         "TypeScript SDK"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-10-15",
       "deploy_spec": {
         "as_of": "2026-10-15",
@@ -36666,7 +36676,7 @@
       "trust_tier": "Medium",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-11-04T15:03:16.000Z",
+      "last_activity_at": "2026-11-05T00:21:58.000Z",
       "github_stars": 236,
       "verified_install": false,
       "verification_status": "Self-Reported",
@@ -36683,8 +36693,8 @@
         "Universal Router"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -36764,8 +36774,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-09-14",
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -36894,8 +36904,8 @@
         "Claude Code"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-07-21",
       "deploy_spec": {
         "as_of": "2026-07-21",
@@ -37005,8 +37015,8 @@
         "Cursor"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-10-26",
       "deploy_spec": {
         "as_of": "2026-10-26",
@@ -37109,8 +37119,8 @@
         "Flux (Fluid)"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -37346,7 +37356,7 @@
       "trust_tier": "High",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-10-31T15:30:58.000Z",
+      "last_activity_at": "2026-11-04T16:20:31.000Z",
       "github_stars": 170,
       "verified_install": true,
       "verification_status": "Unverified",
@@ -37363,8 +37373,8 @@
         "DeFiLlama"
       ],
       "observed_success_pct": 98.9,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-07-21",
       "deploy_spec": {
         "as_of": "2026-07-21",
@@ -37462,8 +37472,8 @@
         "Smithery"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-10-15",
@@ -37598,8 +37608,8 @@
         "Codex CLI"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-07-14",
@@ -37722,8 +37732,8 @@
         "Windsurf"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-10-19",
       "deploy_spec": {
         "as_of": "2026-10-19",
@@ -37872,8 +37882,8 @@
         "Next.js"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -38134,8 +38144,8 @@
       ],
       "supported_integrations": [],
       "observed_success_pct": 98.9,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -38229,8 +38239,8 @@
         "Cursor"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-11-02",
@@ -38312,8 +38322,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": null,
       "install": null,
@@ -38387,8 +38397,8 @@
         "RLUSD"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": null,
       "install": null,
@@ -38440,8 +38450,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -38758,8 +38768,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-07-20",
@@ -38824,8 +38834,8 @@
       "deployment_options": [],
       "supported_integrations": [],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -38907,8 +38917,8 @@
         "Cursor"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-10-15",
@@ -39018,7 +39028,7 @@
       "custody_as_of": null,
       "date_added": "2026-10-14",
       "detail_url": "https://satohub.ai/resources/zora-coins",
-      "trust_score_delta_7d": 1
+      "trust_score_delta_7d": 0
     },
     {
       "slug": "zyfai",
@@ -39141,8 +39151,8 @@
         "Telegram"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": null,
       "install": null,
@@ -39213,8 +39223,8 @@
         "ENS"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": null,
       "install": null,
@@ -39284,8 +39294,8 @@
         "OpenClaw"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": null,
       "install": null,
@@ -39457,7 +39467,7 @@
       "provisional": false,
       "liveness": "Active",
       "last_activity_at": "2026-10-18T11:52:56.000Z",
-      "github_stars": 8205,
+      "github_stars": 8208,
       "verified_install": false,
       "verification_status": "Self-Reported",
       "creator_name": "Vudovn",
@@ -39545,7 +39555,7 @@
       "trust_tier": "Medium",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-11-03T06:48:32.000Z",
+      "last_activity_at": "2026-11-04T22:39:03.000Z",
       "github_stars": 79,
       "verified_install": false,
       "verification_status": "Unverified",
@@ -39740,8 +39750,8 @@
         "Bitget Wallet API"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -39839,8 +39849,8 @@
         "ChatGPT Desktop"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-10-26",
       "deploy_spec": {
         "as_of": "2026-10-26",
@@ -39933,7 +39943,7 @@
       "trust_tier": "High",
       "provisional": false,
       "liveness": "Active",
-      "last_activity_at": "2026-10-09T16:14:18.000Z",
+      "last_activity_at": "2026-11-04T22:05:17.000Z",
       "github_stars": 34,
       "verified_install": true,
       "verification_status": "Unverified",
@@ -40279,8 +40289,8 @@
         "Bittensor"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-11-02",
       "deploy_spec": {
         "as_of": "2026-11-02",
@@ -40399,8 +40409,8 @@
         "x402"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -40538,7 +40548,7 @@
       "custody_key_access": "none_found",
       "custody_key_egress": "unknown",
       "custody_fund_action_count": null,
-      "custody_as_of": "2026-11-03T05:32:57.350Z",
+      "custody_as_of": "2026-11-05T05:32:13.903Z",
       "date_added": "2026-06-16",
       "detail_url": "https://satohub.ai/resources/daydreams",
       "trust_score_delta_7d": 0
@@ -40749,8 +40759,8 @@
         "Windsurf"
       ],
       "observed_success_pct": 98.9,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-11-02",
       "deploy_spec": {
         "as_of": "2026-11-02",
@@ -40863,8 +40873,8 @@
         "BlockRun gateway"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-10-15",
       "deploy_spec": {
         "as_of": "2026-10-15",
@@ -40970,8 +40980,8 @@
         "Lark"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-11-02",
       "deploy_spec": {
         "as_of": "2026-11-02",
@@ -41404,8 +41414,8 @@
         "Mastercard"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-11-02",
       "deploy_spec": {
         "as_of": "2026-11-02",
@@ -41516,8 +41526,8 @@
         "Docker"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": "2026-10-26",
       "deploy_spec": {
         "as_of": "2026-10-26",
@@ -41641,8 +41651,8 @@
         "Polymarket"
       ],
       "observed_success_pct": 100,
-      "observed_days": 91,
-      "observed_window_start": "2026-08-06",
+      "observed_days": 90,
+      "observed_window_start": "2026-08-07",
       "install_verified_at": null,
       "deploy_spec": {
         "as_of": "2026-09-14",
@@ -41885,7 +41895,7 @@
       "verification_status": "Self-Reported",
       "liveness_status": "Unknown",
       "onchain": {
-        "checked_at": "2026-11-04T16:21:47.089+00:00",
+        "checked_at": "2026-11-05T05:59:31.094+00:00",
         "erc8004_registered": true,
         "erc8004_agent_id": null,
         "mcp_live": false,
@@ -41935,7 +41945,7 @@
       "verification_status": "Self-Reported",
       "liveness_status": "Unknown",
       "onchain": {
-        "checked_at": "2026-11-04T16:21:45.464+00:00",
+        "checked_at": "2026-11-05T05:59:29.818+00:00",
         "erc8004_registered": false,
         "erc8004_agent_id": null,
         "mcp_live": false,

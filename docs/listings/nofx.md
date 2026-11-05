@@ -21,7 +21,7 @@ Sato Score: **⬡ 82** (High) — a measure of how open, active and verifiable t
 - **Use cases:** trading
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity today
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 13.2k
 - **Deploys as:** Self-hosted, Docker, Railway, Linux/macOS install script, Build from source
 - **Works with:** Binance, Bybit, OKX, Hyperliquid, Bitget, KuCoin, Gate, Aster, Lighter, DeepSeek, OpenAI, Claude
@@ -51,6 +51,6 @@ curl -fsSL https://raw.githubusercontent.com/NoFxAiOS/nofx/main/install.sh | bas
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `nofx`. https://satohub.ai/resources/nofx — retrieved 2026-11-04.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `nofx`. https://satohub.ai/resources/nofx — retrieved 2026-11-05.
 
 [← All layers](../index.md)

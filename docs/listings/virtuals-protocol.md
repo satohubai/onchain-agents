@@ -20,7 +20,7 @@ Sato Score: **⬡ 70** (High) — a measure of how open, active and verifiable t
 - **Use cases:** trading, launch
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Recent — last activity 2 days ago
+- **Activity:** Recent — last activity 3 days ago
 - **GitHub stars:** 96
 - **Deploys as:** Hosted
 - **Works with:** Uniswap V2, Agent Commerce Protocol (ACP)
@@ -42,7 +42,7 @@ npm install @virtuals-protocol/game
 ## What we checked
 
 - Install reproduced in an isolated container on 2026-10-26.
-- Live endpoint probed by us: 100% of our checks succeeded over 91 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -51,6 +51,6 @@ npm install @virtuals-protocol/game
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `virtuals-protocol`. https://satohub.ai/resources/virtuals-protocol — retrieved 2026-11-04.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `virtuals-protocol`. https://satohub.ai/resources/virtuals-protocol — retrieved 2026-11-05.
 
 [← All layers](../index.md)

@@ -32,6 +32,6 @@ Sato Score: **⬡ 59** (Medium), +2 over 7 days — a measure of how open, activ
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `x402-bazaar-rank`. https://satohub.ai/resources/x402-bazaar-rank — retrieved 2026-11-04.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `x402-bazaar-rank`. https://satohub.ai/resources/x402-bazaar-rank — retrieved 2026-11-05.
 
 [← All layers](../index.md)

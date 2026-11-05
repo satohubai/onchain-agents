@@ -21,7 +21,7 @@ Sato Score: **⬡ 81** (High) — a measure of how open, active and verifiable t
 - **Creator:** daydreamsai
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 26 days ago
+- **Activity:** Active — last activity 27 days ago
 - **GitHub stars:** 624
 - **Deploys as:** library, self-hosted
 - **Works with:** MCP, Discord, Supabase, OpenAI, Anthropic, Google, Groq, xAI
@@ -52,6 +52,6 @@ npm install @daydreamsai/core @ai-sdk/openai zod
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `daydreams`. https://satohub.ai/resources/daydreams — retrieved 2026-11-04.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `daydreams`. https://satohub.ai/resources/daydreams — retrieved 2026-11-05.
 
 [← All layers](../index.md)

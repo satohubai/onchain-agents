@@ -9,7 +9,7 @@ layout: "default"
 
 Phantom's MCP server that lets AI agents view addresses, sign transactions, swap, and transfer tokens across Solana, Ethereum, Bitcoin, and Sui.
 
-Sato Score: **⬡ 45** (Medium), +2 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 45** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -35,6 +35,6 @@ Sato Score: **⬡ 45** (Medium), +2 over 7 days — a measure of how open, activ
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `phantom-mcp`. https://satohub.ai/resources/phantom-mcp — retrieved 2026-11-04.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `phantom-mcp`. https://satohub.ai/resources/phantom-mcp — retrieved 2026-11-05.
 
 [← All layers](../index.md)

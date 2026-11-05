@@ -46,6 +46,6 @@ claude mcp add --transport http --scope user paladin-swap https://swap.paladinfi
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `paladinfi-swap-mcp`. https://satohub.ai/resources/paladinfi-swap-mcp — retrieved 2026-11-04.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `paladinfi-swap-mcp`. https://satohub.ai/resources/paladinfi-swap-mcp — retrieved 2026-11-05.
 
 [← All layers](../index.md)

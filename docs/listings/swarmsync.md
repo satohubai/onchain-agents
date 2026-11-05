@@ -33,6 +33,6 @@ Sato Score: **⬡ 48** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `swarmsync`. https://satohub.ai/resources/swarmsync — retrieved 2026-11-04.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `swarmsync`. https://satohub.ai/resources/swarmsync — retrieved 2026-11-05.
 
 [← All layers](../index.md)

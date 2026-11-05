@@ -33,6 +33,6 @@ Sato Score: **⬡ 32** (Low), -30 over 7 days — a measure of how open, active 
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ogena-token-risk`. https://satohub.ai/resources/ogena-token-risk — retrieved 2026-11-04.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ogena-token-risk`. https://satohub.ai/resources/ogena-token-risk — retrieved 2026-11-05.
 
 [← All layers](../index.md)

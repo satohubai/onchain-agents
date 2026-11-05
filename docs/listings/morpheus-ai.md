@@ -9,7 +9,7 @@ layout: "default"
 
 Decentralized AI inference network with an OpenAI-compatible Inference API and open-source consumer and provider node software.
 
-Sato Score: **⬡ 72** (High), +1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 72** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,7 +21,7 @@ Sato Score: **⬡ 72** (High), +1 over 7 days — a measure of how open, active 
 - **Creator:** Morpheus
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 1 day ago
+- **Activity:** Active — last activity 2 days ago
 - **GitHub stars:** 24
 - **Deploys as:** Hosted API, Desktop app, CLI, Self-hosted node, Railway, SecretVM (TEE)
 - **Works with:** OpenAI Python SDK, Vercel AI SDK, Cursor, OpenCode, LangChain, Eliza, n8n, Open WebUI, Brave Leo
@@ -37,6 +37,6 @@ Sato Score: **⬡ 72** (High), +1 over 7 days — a measure of how open, active 
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `morpheus-ai`. https://satohub.ai/resources/morpheus-ai — retrieved 2026-11-04.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `morpheus-ai`. https://satohub.ai/resources/morpheus-ai — retrieved 2026-11-05.
 
 [← All layers](../index.md)

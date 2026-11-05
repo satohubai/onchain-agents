@@ -37,6 +37,6 @@ Sato Score: **⬡ 44** (Medium), -10 over 7 days — a measure of how open, acti
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `alby-x402-facilitator`. https://satohub.ai/resources/alby-x402-facilitator — retrieved 2026-11-04.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `alby-x402-facilitator`. https://satohub.ai/resources/alby-x402-facilitator — retrieved 2026-11-05.
 
 [← All layers](../index.md)

@@ -18,7 +18,7 @@ Sato Score: **⬡ 80** (High) — a measure of how open, active and verifiable t
 - **Chains:** Unknown
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 16 days ago
+- **Activity:** Active — last activity 17 days ago
 - **GitHub stars:** 470
 - **Works with:** Claude Code, Codex, OpenClaw, Hermes, QClaw, DSH
 
@@ -48,6 +48,6 @@ npm install -g @goplus/agentguard
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `goplus-agentguard`. https://satohub.ai/resources/goplus-agentguard — retrieved 2026-11-04.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `goplus-agentguard`. https://satohub.ai/resources/goplus-agentguard — retrieved 2026-11-05.
 
 [← All layers](../index.md)

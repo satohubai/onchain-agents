@@ -9,7 +9,7 @@ layout: "default"
 
 Prediction market on Polygon with a public CLOB trading API, official V2 SDKs and a builder program for apps that route orders.
 
-Sato Score: **⬡ 66** (Medium), +1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 66** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,7 +21,7 @@ Sato Score: **⬡ 66** (Medium), +1 over 7 days — a measure of how open, activ
 - **Creator:** Polymarket
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 8 days ago
+- **Activity:** Active — last activity 9 days ago
 - **GitHub stars:** 167
 - **Deploys as:** API, SDK
 
@@ -36,6 +36,6 @@ Sato Score: **⬡ 66** (Medium), +1 over 7 days — a measure of how open, activ
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `polymarket`. https://satohub.ai/resources/polymarket — retrieved 2026-11-04.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `polymarket`. https://satohub.ai/resources/polymarket — retrieved 2026-11-05.
 
 [← All layers](../index.md)
