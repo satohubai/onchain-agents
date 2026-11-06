@@ -22,7 +22,7 @@ Sato Score: **⬡ 73** (High), -2 over 7 days — a measure of how open, active 
 - **Creator:** CryptoQuant
 - **Open source:** Yes
 - **Status:** Unknown
-- **Activity:** Recent — last activity 30 days ago
+- **Activity:** Recent — last activity 1 month ago
 - **GitHub stars:** 7
 - **Deploys as:** npm, remote server
 - **Works with:** Claude Desktop, Claude Code, Cursor, Claude (claude.ai), ChatGPT, VS Code
@@ -44,7 +44,7 @@ npx -y cryptoquant-mcp
 ## What we checked
 
 - Install reproduced in an isolated container on 2026-07-21.
-- Live endpoint probed by us: 100% of our checks succeeded over 65 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 66 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -53,6 +53,6 @@ npx -y cryptoquant-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cryptoquant-mcp`. https://satohub.ai/resources/cryptoquant-mcp — retrieved 2026-11-05.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cryptoquant-mcp`. https://satohub.ai/resources/cryptoquant-mcp — retrieved 2026-11-06.
 
 [← All layers](../index.md)

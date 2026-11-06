@@ -52,6 +52,6 @@ pip install intentkit
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `intentkit`. https://satohub.ai/resources/intentkit — retrieved 2026-11-05.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `intentkit`. https://satohub.ai/resources/intentkit — retrieved 2026-11-06.
 
 [← All layers](../index.md)

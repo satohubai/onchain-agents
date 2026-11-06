@@ -18,7 +18,7 @@ Sato Score: **⬡ 46** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Multichain
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Dormant — last activity 15 months ago
+- **Activity:** Dormant — last activity 16 months ago
 - **GitHub stars:** 0
 - **Works with:** Chainlink Data Feeds, Chainlink Functions, Chainlink Automation, Chainlink VRF, Chainlink CCIP, Chainlink Proof of Reserve
 
@@ -33,6 +33,6 @@ Sato Score: **⬡ 46** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `chainlink-mcp-server`. https://satohub.ai/resources/chainlink-mcp-server — retrieved 2026-11-05.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `chainlink-mcp-server`. https://satohub.ai/resources/chainlink-mcp-server — retrieved 2026-11-06.
 
 [← All layers](../index.md)

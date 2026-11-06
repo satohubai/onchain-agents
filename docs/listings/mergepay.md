@@ -9,7 +9,7 @@ layout: "default"
 
 USDC bounties on GitHub issues, paid when a PR merges, with GitHub's signature checked by a contract on Arc.
 
-Sato Score: **⬡ 62** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 64** (Medium), +2 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,13 +21,13 @@ Sato Score: **⬡ 62** (Medium) — a measure of how open, active and verifiable
 - **Creator:** codeswithroh
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 24 days ago
+- **Activity:** Active — last activity 25 days ago
 - **GitHub stars:** 0
 - **Works with:** GitHub, GitHub Actions, Arc, USDC
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 27 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 28 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -36,6 +36,6 @@ Sato Score: **⬡ 62** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `mergepay`. https://satohub.ai/resources/mergepay — retrieved 2026-11-05.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `mergepay`. https://satohub.ai/resources/mergepay — retrieved 2026-11-06.
 
 [← All layers](../index.md)

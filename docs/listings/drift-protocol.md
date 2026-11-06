@@ -21,7 +21,7 @@ Sato Score: **⬡ 76** (High) — a measure of how open, active and verifiable t
 - **Creator:** Drift Protocol
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Quiet — last activity 3 months ago
+- **Activity:** Quiet — last activity 4 months ago
 - **GitHub stars:** 408
 - **Deploys as:** Self-hosted, Docker
 - **Works with:** Solana, Jupiter, TypeScript SDK, Python SDK, Anchor, Data API
@@ -43,7 +43,7 @@ npm install @drift-labs/sdk
 ## What we checked
 
 - Install reproduced in an isolated container on 2026-07-21.
-- Live endpoint probed by us: 100% of our checks succeeded over 65 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 66 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Verified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -52,6 +52,6 @@ npm install @drift-labs/sdk
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `drift-protocol`. https://satohub.ai/resources/drift-protocol — retrieved 2026-11-05.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `drift-protocol`. https://satohub.ai/resources/drift-protocol — retrieved 2026-11-06.
 
 [← All layers](../index.md)

@@ -22,7 +22,7 @@ Sato Score: **⬡ 81** (High), +10 over 7 days — a measure of how open, active
 - **Creator:** Gate
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 1 day ago
+- **Activity:** Active — last activity 2 days ago
 - **GitHub stars:** 27
 - **Deploys as:** Hosted remote MCP endpoints (api.gatemcp.ai), npx
 - **Works with:** Cursor, Claude CLI, Trae, OpenClaw
@@ -52,6 +52,6 @@ claude mcp add --transport http gate-mcp https://api.gatemcp.ai/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `gate-mcp`. https://satohub.ai/resources/gate-mcp — retrieved 2026-11-05.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `gate-mcp`. https://satohub.ai/resources/gate-mcp — retrieved 2026-11-06.
 
 [← All layers](../index.md)

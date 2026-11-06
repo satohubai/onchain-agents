@@ -9,7 +9,7 @@ layout: "default"
 
 Official open-source QuantConnect MCP for quant project management, doc search, code checks, and backtesting.
 
-Sato Score: **⬡ 48** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 49** (Medium), +1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,8 +22,8 @@ Sato Score: **⬡ 48** (Medium) — a measure of how open, active and verifiable
 - **Creator:** QuantConnect
 - **Open source:** Yes
 - **Status:** Active
-- **Deploys as:** Local/self-hosted (Deploy Container), GitHub Copilot integration (localhost HTTP endpoint)
-- **Works with:** GitHub Copilot
+- **Deploys as:** Local/self-hosted (Deploy Container), GitHub Copilot integration (localhost HTTP endpoint), Hosted remote MCP server (https://www.quantconnect.com/api/v2/mcp)
+- **Works with:** GitHub Copilot, Claude Code, Cursor, Devin Desktop
 
 ## Deploy spec
 
@@ -50,6 +50,6 @@ docker pull quantconnect/mcp-server
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `quantconnect-mcp`. https://satohub.ai/resources/quantconnect-mcp — retrieved 2026-11-05.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `quantconnect-mcp`. https://satohub.ai/resources/quantconnect-mcp — retrieved 2026-11-06.
 
 [← All layers](../index.md)

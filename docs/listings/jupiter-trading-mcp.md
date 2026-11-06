@@ -22,8 +22,8 @@ Sato Score: **⬡ 78** (High) — a measure of how open, active and verifiable t
 - **Creator:** Jupiter
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 25 days ago
-- **GitHub stars:** 65
+- **Activity:** Active — last activity 26 days ago
+- **GitHub stars:** 66
 - **Deploys as:** Hosted, Local CLI
 
 ## Deploy spec
@@ -43,7 +43,7 @@ npm i -g @jup-ag/cli
 ## What we checked
 
 - Install reproduced in an isolated container on 2026-11-02.
-- Live endpoint probed by us: 88.4% of our checks succeeded over 43 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 88.6% of our checks succeeded over 44 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -52,6 +52,6 @@ npm i -g @jup-ag/cli
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `jupiter-trading-mcp`. https://satohub.ai/resources/jupiter-trading-mcp — retrieved 2026-11-05.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `jupiter-trading-mcp`. https://satohub.ai/resources/jupiter-trading-mcp — retrieved 2026-11-06.
 
 [← All layers](../index.md)

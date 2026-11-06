@@ -9,7 +9,7 @@ layout: "default"
 
 Agent skill for Bitget Wallet: token swaps, cross-chain bridging, and gasless transactions.
 
-Sato Score: **⬡ 77** (High), +15 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 77** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,7 +22,7 @@ Sato Score: **⬡ 77** (High), +15 over 7 days — a measure of how open, active
 - **Creator:** Bitget Wallet
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 6 days ago
+- **Activity:** Active — last activity 7 days ago
 - **GitHub stars:** 180
 - **Deploys as:** Self-hosted, Python
 - **Works with:** OpenClaw, Dify, Telegram, Discord, x402, Bitget Wallet API
@@ -53,6 +53,6 @@ pip install requests eth-account
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bitget-wallet-skill`. https://satohub.ai/resources/bitget-wallet-skill — retrieved 2026-11-05.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bitget-wallet-skill`. https://satohub.ai/resources/bitget-wallet-skill — retrieved 2026-11-06.
 
 [← All layers](../index.md)

@@ -9,7 +9,7 @@ layout: "default"
 
 Hey Research Lab MCP is an MCP server on Robinhood Chain.
 
-Sato Score: **⬡ 73** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 74** (High), +1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,7 +22,7 @@ Sato Score: **⬡ 73** (High) — a measure of how open, active and verifiable t
 - **Open source:** Yes
 - **Status:** Early
 - **Activity:** Active — last activity 1 day ago
-- **GitHub stars:** 0
+- **GitHub stars:** 1
 - **Deploys as:** local stdio (npx), hosted endpoint, npm package
 
 ## What we checked
@@ -35,6 +35,6 @@ Sato Score: **⬡ 73** (High) — a measure of how open, active and verifiable t
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `hey-research-lab-mcp`. https://satohub.ai/resources/hey-research-lab-mcp — retrieved 2026-11-05.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `hey-research-lab-mcp`. https://satohub.ai/resources/hey-research-lab-mcp — retrieved 2026-11-06.
 
 [← All layers](../index.md)
