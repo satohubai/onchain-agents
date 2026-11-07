@@ -9,7 +9,7 @@ layout: "default"
 
 Open-source unified prediction-market API with a hosted MCP: market search, events, order books, and prices across venues.
 
-Sato Score: **⬡ 67** (Medium), -10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 67** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -53,6 +53,6 @@ npx -y @pmxt/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `pmxt`. https://satohub.ai/resources/pmxt — retrieved 2026-11-06.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `pmxt`. https://satohub.ai/resources/pmxt — retrieved 2026-11-07.
 
 [← All layers](../index.md)

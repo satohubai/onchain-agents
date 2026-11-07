@@ -53,6 +53,6 @@ npx -y @rsksmart/rsk-mcp-server
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `rootstock-mcp`. https://satohub.ai/resources/rootstock-mcp — retrieved 2026-11-06.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `rootstock-mcp`. https://satohub.ai/resources/rootstock-mcp — retrieved 2026-11-07.
 
 [← All layers](../index.md)

@@ -9,7 +9,7 @@ layout: "default"
 
 Arbitrum-native, MCP-first agent framework with A2A and x402 support, backed by an Arbitrum Foundation grant program.
 
-Sato Score: **⬡ 72** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 67** (Medium), -5 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -19,7 +19,7 @@ Sato Score: **⬡ 72** (High) — a measure of how open, active and verifiable t
 - **Standards:** x402
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Recent — last activity 2 months ago
+- **Activity:** Quiet — last activity 3 months ago
 - **GitHub stars:** 53
 
 ## Deploy spec
@@ -48,6 +48,6 @@ npx -y @emberai/agent-node@latest
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `arbitrum-vibekit`. https://satohub.ai/resources/arbitrum-vibekit — retrieved 2026-11-06.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `arbitrum-vibekit`. https://satohub.ai/resources/arbitrum-vibekit — retrieved 2026-11-07.
 
 [← All layers](../index.md)

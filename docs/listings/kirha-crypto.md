@@ -18,7 +18,7 @@ Sato Score: **⬡ 42** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Ethereum, Bitcoin, Solana, Base, Arbitrum, Optimism, Polygon, Avalanche, BNB Chain
 - **Open source:** Partial
 - **Status:** Early
-- **Activity:** Dormant — last activity 15 months ago
+- **Activity:** Dormant — last activity 16 months ago
 - **GitHub stars:** 1
 
 ## What we checked
@@ -32,6 +32,6 @@ Sato Score: **⬡ 42** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `kirha-crypto`. https://satohub.ai/resources/kirha-crypto — retrieved 2026-11-06.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `kirha-crypto`. https://satohub.ai/resources/kirha-crypto — retrieved 2026-11-07.
 
 [← All layers](../index.md)

@@ -22,7 +22,7 @@ Sato Score: **⬡ 83** (High), +15 over 7 days — a measure of how open, active
 - **Creator:** AskSurf
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 4 days ago
+- **Activity:** Active — last activity 5 days ago
 - **GitHub stars:** 73
 - **Deploys as:** npm, API
 - **Works with:** Claude Code, Codex, Surf CLI, MCP
@@ -53,6 +53,6 @@ npm install -g surf-cli
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `surf-asksurf`. https://satohub.ai/resources/surf-asksurf — retrieved 2026-11-06.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `surf-asksurf`. https://satohub.ai/resources/surf-asksurf — retrieved 2026-11-07.
 
 [← All layers](../index.md)

@@ -48,6 +48,6 @@ npm install @monapi/sdk @x402/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `monapi`. https://satohub.ai/resources/monapi — retrieved 2026-11-06.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `monapi`. https://satohub.ai/resources/monapi — retrieved 2026-11-07.
 
 [← All layers](../index.md)

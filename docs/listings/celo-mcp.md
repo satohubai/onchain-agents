@@ -54,6 +54,6 @@ pip install -e .
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `celo-mcp`. https://satohub.ai/resources/celo-mcp — retrieved 2026-11-06.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `celo-mcp`. https://satohub.ai/resources/celo-mcp — retrieved 2026-11-07.
 
 [← All layers](../index.md)

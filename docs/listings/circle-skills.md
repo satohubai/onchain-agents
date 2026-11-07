@@ -22,7 +22,7 @@ Sato Score: **⬡ 78** (High) — a measure of how open, active and verifiable t
 - **Creator:** Circle
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 20 days ago
+- **Activity:** Active — last activity today
 - **GitHub stars:** 148
 - **Deploys as:** npm, Claude Code plugin
 - **Works with:** Claude Code
@@ -52,6 +52,6 @@ npx skills add circlefin/skills
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `circle-skills`. https://satohub.ai/resources/circle-skills — retrieved 2026-11-06.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `circle-skills`. https://satohub.ai/resources/circle-skills — retrieved 2026-11-07.
 
 [← All layers](../index.md)

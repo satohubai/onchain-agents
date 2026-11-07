@@ -18,7 +18,7 @@ Sato Score: **⬡ 48** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Multichain
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Quiet — last activity 8 months ago
+- **Activity:** Quiet — last activity 9 months ago
 - **GitHub stars:** 0
 
 ## Deploy spec
@@ -49,6 +49,6 @@ npm run build
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `para-wallet`. https://satohub.ai/resources/para-wallet — retrieved 2026-11-06.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `para-wallet`. https://satohub.ai/resources/para-wallet — retrieved 2026-11-07.
 
 [← All layers](../index.md)

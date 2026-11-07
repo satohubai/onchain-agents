@@ -22,8 +22,8 @@ Sato Score: **⬡ 91** (High) — a measure of how open, active and verifiable t
 - **Creator:** BlockRun Labs, Inc.
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 1 day ago
-- **GitHub stars:** 391
+- **Activity:** Active — last activity today
+- **GitHub stars:** 389
 - **Deploys as:** npm package, MCP server
 - **Works with:** Claude Code, Claude Desktop, Cursor, Windsurf, ChatGPT Desktop
 
@@ -54,6 +54,6 @@ claude mcp add blockrun -s user -- npx -y @blockrun/mcp@latest
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `blockrun-mcp`. https://satohub.ai/resources/blockrun-mcp — retrieved 2026-11-06.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `blockrun-mcp`. https://satohub.ai/resources/blockrun-mcp — retrieved 2026-11-07.
 
 [← All layers](../index.md)

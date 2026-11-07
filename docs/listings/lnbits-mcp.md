@@ -9,7 +9,7 @@ layout: "default"
 
 Open-source MCP server for the LNbits Lightning accounts system: wallet balances, payments, and admin tools.
 
-Sato Score: **⬡ 58** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 64** (Medium), +6 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -25,7 +25,7 @@ Sato Score: **⬡ 58** (Medium) — a measure of how open, active and verifiable
 - **Activity:** Quiet — last activity 7 months ago
 - **GitHub stars:** 7
 - **Deploys as:** pip install (git clone + pip install -e .)
-- **Works with:** Claude Desktop
+- **Works with:** Claude Desktop, LNbits, Any MCP-compatible client
 
 ## Deploy spec
 
@@ -54,6 +54,6 @@ pip install -e .
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lnbits-mcp`. https://satohub.ai/resources/lnbits-mcp — retrieved 2026-11-06.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lnbits-mcp`. https://satohub.ai/resources/lnbits-mcp — retrieved 2026-11-07.
 
 [← All layers](../index.md)

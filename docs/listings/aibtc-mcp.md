@@ -9,7 +9,7 @@ layout: "default"
 
 Bitcoin-native MCP server: BTC/STX wallets, L1 reads and transfers, Stacks, sBTC, and x402 payments.
 
-Sato Score: **⬡ 82** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 83** (High), +1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,10 +22,10 @@ Sato Score: **⬡ 82** (High) — a measure of how open, active and verifiable t
 - **Creator:** AIBTC
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 3 days ago
+- **Activity:** Active — last activity 4 days ago
 - **GitHub stars:** 12
 - **Deploys as:** npx
-- **Works with:** Claude Code, Claude Desktop, Cursor, Windsurf
+- **Works with:** Claude Code, Claude Desktop, Cursor, Windsurf, Gemini CLI, OpenAI Codex CLI, VS Code, Zed, Cline, Roo Code, OpenRouter
 
 ## Deploy spec
 
@@ -53,6 +53,6 @@ npx @aibtc/mcp-server@latest --install
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `aibtc-mcp`. https://satohub.ai/resources/aibtc-mcp — retrieved 2026-11-06.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `aibtc-mcp`. https://satohub.ai/resources/aibtc-mcp — retrieved 2026-11-07.
 
 [← All layers](../index.md)

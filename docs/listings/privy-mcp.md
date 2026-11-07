@@ -22,7 +22,7 @@ Sato Score: **⬡ 59** (Medium), +1 over 7 days — a measure of how open, activ
 - **Creator:** Privy
 - **Open source:** Yes
 - **Status:** Unknown
-- **Activity:** Quiet — last activity 8 months ago
+- **Activity:** Quiet — last activity 9 months ago
 - **GitHub stars:** 2
 - **Deploys as:** npx (stdio, local), npx, npm global install, build from source, local
 - **Works with:** Claude Desktop, Cursor, Claude Code
@@ -52,6 +52,6 @@ npx @privy-io/mcp-server
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `privy-mcp`. https://satohub.ai/resources/privy-mcp — retrieved 2026-11-06.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `privy-mcp`. https://satohub.ai/resources/privy-mcp — retrieved 2026-11-07.
 
 [← All layers](../index.md)

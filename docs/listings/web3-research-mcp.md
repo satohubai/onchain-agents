@@ -23,7 +23,7 @@ Sato Score: **⬡ 77** (High) — a measure of how open, active and verifiable t
 - **Open source:** Yes
 - **Status:** Active
 - **Activity:** Active — last activity 1 day ago
-- **GitHub stars:** 170
+- **GitHub stars:** 171
 - **Deploys as:** Local (stdio)
 - **Works with:** Claude Desktop, Cursor, Smithery, CoinGecko, CoinMarketCap, DeFiLlama
 
@@ -52,6 +52,6 @@ npx -y web3-research-mcp@latest
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `web3-research-mcp`. https://satohub.ai/resources/web3-research-mcp — retrieved 2026-11-06.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `web3-research-mcp`. https://satohub.ai/resources/web3-research-mcp — retrieved 2026-11-07.
 
 [← All layers](../index.md)

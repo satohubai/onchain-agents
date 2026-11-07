@@ -21,7 +21,7 @@ Sato Score: **⬡ 74** (High), +1 over 7 days — a measure of how open, active 
 - **Creator:** HEY Research Lab
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 1 day ago
+- **Activity:** Active — last activity 2 days ago
 - **GitHub stars:** 1
 - **Deploys as:** local stdio (npx), hosted endpoint, npm package
 
@@ -35,6 +35,6 @@ Sato Score: **⬡ 74** (High), +1 over 7 days — a measure of how open, active 
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `hey-research-lab-mcp`. https://satohub.ai/resources/hey-research-lab-mcp — retrieved 2026-11-06.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `hey-research-lab-mcp`. https://satohub.ai/resources/hey-research-lab-mcp — retrieved 2026-11-07.
 
 [← All layers](../index.md)

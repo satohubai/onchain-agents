@@ -18,7 +18,7 @@ Sato Score: **⬡ 48** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Base, Ethereum, Arbitrum
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Quiet — last activity 6 months ago
+- **Activity:** Quiet — last activity 7 months ago
 - **GitHub stars:** 1
 - **Works with:** Claude Desktop, OpenClaw, DexScreener, DeFiLlama
 
@@ -46,6 +46,6 @@ npm install defi-yield-scanner-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `defi-yield-scanner-mcp`. https://satohub.ai/resources/defi-yield-scanner-mcp — retrieved 2026-11-06.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `defi-yield-scanner-mcp`. https://satohub.ai/resources/defi-yield-scanner-mcp — retrieved 2026-11-07.
 
 [← All layers](../index.md)

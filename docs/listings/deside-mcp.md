@@ -18,7 +18,7 @@ Sato Score: **⬡ 65** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Solana
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 3 days ago
+- **Activity:** Active — last activity today
 - **GitHub stars:** 0
 
 ## Deploy spec
@@ -37,7 +37,7 @@ npm install @desideapp/mcp-sdk
 ## What we checked
 
 - Install reproduced in an isolated container on 2026-11-02.
-- Live endpoint probed by us: 0% of our checks succeeded over 66 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 0% of our checks succeeded over 67 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -46,6 +46,6 @@ npm install @desideapp/mcp-sdk
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `deside-mcp`. https://satohub.ai/resources/deside-mcp — retrieved 2026-11-06.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `deside-mcp`. https://satohub.ai/resources/deside-mcp — retrieved 2026-11-07.
 
 [← All layers](../index.md)
