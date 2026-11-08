@@ -51,6 +51,6 @@ npm install @prxvt/sdk
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `prxvt`. https://satohub.ai/resources/prxvt — retrieved 2026-11-07.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `prxvt`. https://satohub.ai/resources/prxvt — retrieved 2026-11-08.
 
 [← All layers](../index.md)

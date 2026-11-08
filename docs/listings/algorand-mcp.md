@@ -52,6 +52,6 @@ npm install -g @goplausible/algorand-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `algorand-mcp`. https://satohub.ai/resources/algorand-mcp — retrieved 2026-11-07.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `algorand-mcp`. https://satohub.ai/resources/algorand-mcp — retrieved 2026-11-08.
 
 [← All layers](../index.md)

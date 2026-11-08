@@ -22,13 +22,13 @@ Sato Score: **⬡ 60** (Medium) — a measure of how open, active and verifiable
 - **Creator:** ExpertVagabond
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Recent — last activity 1 month ago
+- **Activity:** Recent — last activity 2 months ago
 - **GitHub stars:** 0
 - **Works with:** Uniswap v4, Chainlink, Blockscout, x402, EIP-3009, EIP-2612, Multicall3
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 45 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 46 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -37,6 +37,6 @@ Sato Score: **⬡ 60** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `robinhood-chain-mcp`. https://satohub.ai/resources/robinhood-chain-mcp — retrieved 2026-11-07.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `robinhood-chain-mcp`. https://satohub.ai/resources/robinhood-chain-mcp — retrieved 2026-11-08.
 
 [← All layers](../index.md)

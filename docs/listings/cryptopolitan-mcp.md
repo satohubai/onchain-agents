@@ -18,7 +18,7 @@ Sato Score: **⬡ 73** (High) — a measure of how open, active and verifiable t
 - **Chains:** Unknown
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Quiet — last activity 6 months ago
+- **Activity:** Quiet — last activity 7 months ago
 - **GitHub stars:** 4
 - **Deploys as:** Hosted SSE endpoint, Hosted HTTP endpoint
 - **Works with:** Claude Code, Cursor, Windsurf
@@ -34,6 +34,6 @@ Sato Score: **⬡ 73** (High) — a measure of how open, active and verifiable t
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cryptopolitan-mcp`. https://satohub.ai/resources/cryptopolitan-mcp — retrieved 2026-11-07.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cryptopolitan-mcp`. https://satohub.ai/resources/cryptopolitan-mcp — retrieved 2026-11-08.
 
 [← All layers](../index.md)

@@ -47,6 +47,6 @@ cargo install --git https://github.com/crypto-com/cdcx-cli.git --bin cdcx
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `crypto-com-cdcx-cli`. https://satohub.ai/resources/crypto-com-cdcx-cli — retrieved 2026-11-07.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `crypto-com-cdcx-cli`. https://satohub.ai/resources/crypto-com-cdcx-cli — retrieved 2026-11-08.
 
 [← All layers](../index.md)

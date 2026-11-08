@@ -18,7 +18,7 @@ Sato Score: **⬡ 56** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Solana
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Dormant — last activity 18 months ago
+- **Activity:** Dormant — last activity 19 months ago
 - **GitHub stars:** 26
 - **Works with:** Claude 3 Sonnet, GPT-4, DeepSeek Chat, Solana Agent Kit, Next.js, Tailwind CSS, Shadcn UI, Langchain SDK, Vercel AI SDK
 
@@ -48,6 +48,6 @@ pnpm install
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `create-solana-agent`. https://satohub.ai/resources/create-solana-agent — retrieved 2026-11-07.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `create-solana-agent`. https://satohub.ai/resources/create-solana-agent — retrieved 2026-11-08.
 
 [← All layers](../index.md)

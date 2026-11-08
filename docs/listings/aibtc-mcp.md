@@ -22,7 +22,7 @@ Sato Score: **⬡ 83** (High), +1 over 7 days — a measure of how open, active 
 - **Creator:** AIBTC
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 4 days ago
+- **Activity:** Active — last activity 5 days ago
 - **GitHub stars:** 12
 - **Deploys as:** npx
 - **Works with:** Claude Code, Claude Desktop, Cursor, Windsurf, Gemini CLI, OpenAI Codex CLI, VS Code, Zed, Cline, Roo Code, OpenRouter
@@ -53,6 +53,6 @@ npx @aibtc/mcp-server@latest --install
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `aibtc-mcp`. https://satohub.ai/resources/aibtc-mcp — retrieved 2026-11-07.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `aibtc-mcp`. https://satohub.ai/resources/aibtc-mcp — retrieved 2026-11-08.
 
 [← All layers](../index.md)

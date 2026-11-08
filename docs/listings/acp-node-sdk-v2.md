@@ -9,7 +9,7 @@ layout: "default"
 
 Official Node.js SDK for Virtuals' Agent Commerce Protocol — event-driven agent-to-agent job and escrow flows.
 
-Sato Score: **⬡ 61** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 51** (Medium), -10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -18,7 +18,7 @@ Sato Score: **⬡ 61** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Base, Solana
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Recent — last activity 30 days ago
+- **Activity:** Recent — last activity 1 month ago
 - **GitHub stars:** 1
 
 ## Deploy spec
@@ -47,6 +47,6 @@ cp .env.example .env
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `acp-node-sdk-v2`. https://satohub.ai/resources/acp-node-sdk-v2 — retrieved 2026-11-07.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `acp-node-sdk-v2`. https://satohub.ai/resources/acp-node-sdk-v2 — retrieved 2026-11-08.
 
 [← All layers](../index.md)

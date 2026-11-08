@@ -22,7 +22,7 @@ Sato Score: **⬡ 83** (High) — a measure of how open, active and verifiable t
 - **Creator:** Bortlesboat
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 3 days ago
+- **Activity:** Active — last activity 4 days ago
 - **GitHub stars:** 4
 - **Deploys as:** pip, uvx, docker, docker compose, self-hosted
 - **Works with:** Claude Desktop, Claude Code, Cursor, VS Code, Zed
@@ -53,6 +53,6 @@ pip install bitcoin-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bitcoin-mcp`. https://satohub.ai/resources/bitcoin-mcp — retrieved 2026-11-07.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bitcoin-mcp`. https://satohub.ai/resources/bitcoin-mcp — retrieved 2026-11-08.
 
 [← All layers](../index.md)

@@ -9,7 +9,7 @@ layout: "default"
 
 Zero-custody Solana staking MCP server with 26 tools for staking, unstaking, validator lookup, and APY data.
 
-Sato Score: **⬡ 50** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 50** (Medium), +7 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -47,6 +47,6 @@ npx @mbrassey/solentic-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solentic`. https://satohub.ai/resources/solentic — retrieved 2026-11-07.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solentic`. https://satohub.ai/resources/solentic — retrieved 2026-11-08.
 
 [← All layers](../index.md)

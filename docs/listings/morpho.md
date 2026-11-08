@@ -32,6 +32,6 @@ Sato Score: **⬡ 62** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `morpho`. https://satohub.ai/resources/morpho — retrieved 2026-11-07.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `morpho`. https://satohub.ai/resources/morpho — retrieved 2026-11-08.
 
 [← All layers](../index.md)

@@ -9,7 +9,7 @@ layout: "default"
 
 Hashgraph Online MCP for agent discovery, chat, registration, workflows, and Hedera agent interactions.
 
-Sato Score: **⬡ 55** (Medium), -10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 55** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -51,6 +51,6 @@ npx @hol-org/hashnet-mcp --stdio
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `hashnet-mcp`. https://satohub.ai/resources/hashnet-mcp — retrieved 2026-11-07.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `hashnet-mcp`. https://satohub.ai/resources/hashnet-mcp — retrieved 2026-11-08.
 
 [← All layers](../index.md)

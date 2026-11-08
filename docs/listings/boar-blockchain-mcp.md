@@ -9,7 +9,7 @@ layout: "default"
 
 Blockchain infrastructure MCP from Boar Network, with setup guides and free-tier access paths.
 
-Sato Score: **⬡ 84** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 85** (High), +1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -25,7 +25,7 @@ Sato Score: **⬡ 84** (High) — a measure of how open, active and verifiable t
 - **Activity:** Quiet — last activity 4 months ago
 - **GitHub stars:** 12
 - **Deploys as:** Hosted (remote MCP endpoint, no install)
-- **Works with:** Claude Desktop, Claude Code, Cursor, OpenCode
+- **Works with:** Claude Desktop, Claude Code, Cursor, OpenCode, VS Code (GitHub Copilot), Windsurf, Gemini CLI
 
 ## Deploy spec
 
@@ -51,6 +51,6 @@ claude mcp add boar-blockchain-mcp-basic --transport http --scope project https:
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `boar-blockchain-mcp`. https://satohub.ai/resources/boar-blockchain-mcp — retrieved 2026-11-07.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `boar-blockchain-mcp`. https://satohub.ai/resources/boar-blockchain-mcp — retrieved 2026-11-08.
 
 [← All layers](../index.md)

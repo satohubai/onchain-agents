@@ -9,7 +9,7 @@ layout: "default"
 
 Official Octav MCP exposing portfolio holdings, DeFi positions, NAV, and transaction history across 20+ chains.
 
-Sato Score: **⬡ 68** (Medium), +1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 68** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,7 +22,7 @@ Sato Score: **⬡ 68** (Medium), +1 over 7 days — a measure of how open, activ
 - **Creator:** Octav Labs
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 15 days ago
+- **Activity:** Active — last activity 16 days ago
 - **GitHub stars:** 1
 - **Deploys as:** npm, npx, local
 - **Works with:** Claude Desktop, MCP Inspector
@@ -52,6 +52,6 @@ npx octav-api-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `octav-api-mcp`. https://satohub.ai/resources/octav-api-mcp — retrieved 2026-11-07.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `octav-api-mcp`. https://satohub.ai/resources/octav-api-mcp — retrieved 2026-11-08.
 
 [← All layers](../index.md)
