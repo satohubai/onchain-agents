@@ -9,7 +9,7 @@ layout: "default"
 
 MCP wrapper around Cryo, the Rust/Python Ethereum data-extraction tool, for bulk block/trace/log queries plus SQL.
 
-Sato Score: **⬡ 47** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 32** (Low), -15 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -46,6 +46,6 @@ uv tool install cryo-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cryo-mcp`. https://satohub.ai/resources/cryo-mcp — retrieved 2026-11-08.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cryo-mcp`. https://satohub.ai/resources/cryo-mcp — retrieved 2026-11-09.
 
 [← All layers](../index.md)

@@ -22,7 +22,7 @@ Sato Score: **⬡ 76** (High) — a measure of how open, active and verifiable t
 - **Creator:** Matthew Karsten
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 4 days ago
+- **Activity:** Active — last activity 5 days ago
 - **GitHub stars:** 1
 - **Deploys as:** npm, local
 - **Works with:** Claude Desktop
@@ -52,6 +52,6 @@ npm install -g sui-mcp-server
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `sui-mcp-server`. https://satohub.ai/resources/sui-mcp-server — retrieved 2026-11-08.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `sui-mcp-server`. https://satohub.ai/resources/sui-mcp-server — retrieved 2026-11-09.
 
 [← All layers](../index.md)

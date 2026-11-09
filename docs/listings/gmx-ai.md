@@ -21,7 +21,7 @@ Sato Score: **⬡ 75** (High), +1 over 7 days — a measure of how open, active 
 - **Creator:** GMX
 - **Open source:** Yes
 - **Status:** Unknown
-- **Activity:** Active — last activity 26 days ago
+- **Activity:** Active — last activity 27 days ago
 - **GitHub stars:** 11
 - **Deploys as:** npm, Claude Code plugin, Vercel Skills CLI
 - **Works with:** Claude Code, Vercel Skills CLI, viem, @gmx-io/sdk
@@ -52,6 +52,6 @@ Sato Score: **⬡ 75** (High), +1 over 7 days — a measure of how open, active 
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `gmx-ai`. https://satohub.ai/resources/gmx-ai — retrieved 2026-11-08.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `gmx-ai`. https://satohub.ai/resources/gmx-ai — retrieved 2026-11-09.
 
 [← All layers](../index.md)

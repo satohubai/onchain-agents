@@ -9,7 +9,7 @@ layout: "default"
 
 Official Bitget toolkit: MCP server, CLI, SDK, and skills for spot, futures, and account operations.
 
-Sato Score: **⬡ 61** (Medium), +1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 54** (Medium), -6 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -53,6 +53,6 @@ npx -y @bitget-ai/bitget-agent-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bitget-agent-hub`. https://satohub.ai/resources/bitget-agent-hub — retrieved 2026-11-08.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bitget-agent-hub`. https://satohub.ai/resources/bitget-agent-hub — retrieved 2026-11-09.
 
 [← All layers](../index.md)

@@ -9,7 +9,7 @@ layout: "default"
 
 MCP server for crypto-perps research signals, funding-rate arbitrage scans, and market-regime data.
 
-Sato Score: **⬡ 85** (High), -1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 85** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -39,7 +39,7 @@ npx -y crypto-quant-signal-mcp
 - **License:** MIT
 - **MCP native:** yes
 - **Deploy status:** unknown
-- **As of:** 2026-11-02
+- **As of:** 2026-11-09
 
 ## What we checked
 
@@ -52,6 +52,6 @@ npx -y crypto-quant-signal-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `algovault-quant-signal-mcp`. https://satohub.ai/resources/algovault-quant-signal-mcp — retrieved 2026-11-08.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `algovault-quant-signal-mcp`. https://satohub.ai/resources/algovault-quant-signal-mcp — retrieved 2026-11-09.
 
 [← All layers](../index.md)

@@ -9,7 +9,7 @@ layout: "default"
 
 Rust toolkit pairing the rig LLM framework with Solana trading primitives, including Jito bundle submission.
 
-Sato Score: **⬡ 49** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 34** (Low), -15 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -48,6 +48,6 @@ docker compose up
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `listen-rs`. https://satohub.ai/resources/listen-rs — retrieved 2026-11-08.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `listen-rs`. https://satohub.ai/resources/listen-rs — retrieved 2026-11-09.
 
 [← All layers](../index.md)

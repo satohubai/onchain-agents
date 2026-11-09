@@ -9,7 +9,7 @@ layout: "default"
 
 Lightweight AI toolkit framework offering on-chain actions and research abilities for Solana.
 
-Sato Score: **⬡ 60** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 45** (Medium), -15 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -50,6 +50,6 @@ make up
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lumokit`. https://satohub.ai/resources/lumokit — retrieved 2026-11-08.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lumokit`. https://satohub.ai/resources/lumokit — retrieved 2026-11-09.
 
 [← All layers](../index.md)

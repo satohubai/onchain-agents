@@ -36,7 +36,7 @@ npx circle-agent-stack-mcp
 - **License:** MIT
 - **MCP native:** yes
 - **Deploy status:** unknown
-- **As of:** 2026-11-02
+- **As of:** 2026-11-09
 
 ## What we checked
 
@@ -49,6 +49,6 @@ npx circle-agent-stack-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `circle-agent-stack-mcp`. https://satohub.ai/resources/circle-agent-stack-mcp — retrieved 2026-11-08.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `circle-agent-stack-mcp`. https://satohub.ai/resources/circle-agent-stack-mcp — retrieved 2026-11-09.
 
 [← All layers](../index.md)

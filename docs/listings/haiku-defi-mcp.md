@@ -25,7 +25,7 @@ Sato Score: **⬡ 48** (Medium), -8 over 7 days — a measure of how open, activ
 - **Activity:** Quiet — last activity 6 months ago
 - **GitHub stars:** 2
 - **Deploys as:** npm install / npx
-- **Works with:** Claude Desktop
+- **Works with:** Claude Desktop, Coinbase, AgentKit, Safe
 
 ## Deploy spec
 
@@ -44,7 +44,7 @@ npm install haiku-mcp-server
 ## What we checked
 
 - Install reproduced in an isolated container on 2026-10-19.
-- Live endpoint probed by us: 47.8% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 46.7% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -53,6 +53,6 @@ npm install haiku-mcp-server
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `haiku-defi-mcp`. https://satohub.ai/resources/haiku-defi-mcp — retrieved 2026-11-08.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `haiku-defi-mcp`. https://satohub.ai/resources/haiku-defi-mcp — retrieved 2026-11-09.
 
 [← All layers](../index.md)

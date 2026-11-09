@@ -9,7 +9,7 @@ layout: "default"
 
 Community MCP server with on-chain tools for AI applications to interact with the Linea blockchain.
 
-Sato Score: **⬡ 59** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 44** (Medium), -15 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -53,6 +53,6 @@ cp .env.example .env
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `linea-mcp`. https://satohub.ai/resources/linea-mcp — retrieved 2026-11-08.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `linea-mcp`. https://satohub.ai/resources/linea-mcp — retrieved 2026-11-09.
 
 [← All layers](../index.md)

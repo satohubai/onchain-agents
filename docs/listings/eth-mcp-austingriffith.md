@@ -9,7 +9,7 @@ layout: "default"
 
 MCP server enabling agents to build and deploy Ethereum apps with Scaffold-ETH — clone, fork, deploy, and run local Web3 dev flows.
 
-Sato Score: **⬡ 55** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 40** (Medium), -15 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -18,7 +18,7 @@ Sato Score: **⬡ 55** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Ethereum
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Quiet — last activity 9 months ago
+- **Activity:** Quiet — last activity 10 months ago
 - **GitHub stars:** 2
 - **Works with:** Cursor, Scaffold-ETH, Foundry, Next.js, Anvil, mcp-server-ens, Blockscout MCP server, DefiLlama
 
@@ -48,6 +48,6 @@ npx -y eth-mcp@latest
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `eth-mcp-austingriffith`. https://satohub.ai/resources/eth-mcp-austingriffith — retrieved 2026-11-08.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `eth-mcp-austingriffith`. https://satohub.ai/resources/eth-mcp-austingriffith — retrieved 2026-11-09.
 
 [← All layers](../index.md)

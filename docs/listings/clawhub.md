@@ -38,11 +38,11 @@ npm i -g clawhub
 - **License:** MIT
 - **MCP native:** no
 - **Deploy status:** verified
-- **As of:** 2026-10-15
+- **As of:** 2026-11-09
 
 ## What we checked
 
-- Install reproduced in an isolated container on 2026-10-15.
+- Install reproduced in an isolated container on 2026-11-09.
 - Live endpoint probed by us: 97.8% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
@@ -52,6 +52,6 @@ npm i -g clawhub
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `clawhub`. https://satohub.ai/resources/clawhub — retrieved 2026-11-08.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `clawhub`. https://satohub.ai/resources/clawhub — retrieved 2026-11-09.
 
 [← All layers](../index.md)

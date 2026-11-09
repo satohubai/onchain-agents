@@ -22,7 +22,7 @@ Sato Score: **⬡ 67** (Medium) — a measure of how open, active and verifiable
 - **Creator:** ChainAware
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Recent — last activity 2 months ago
+- **Activity:** Quiet — last activity 3 months ago
 - **GitHub stars:** 10
 - **Deploys as:** MCP server, API
 - **Works with:** MCP, Telegram, Discord
@@ -52,6 +52,6 @@ claude mcp add --transport sse chainaware-behavioural-prediction-mcp-server http
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `chainaware`. https://satohub.ai/resources/chainaware — retrieved 2026-11-08.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `chainaware`. https://satohub.ai/resources/chainaware — retrieved 2026-11-09.
 
 [← All layers](../index.md)

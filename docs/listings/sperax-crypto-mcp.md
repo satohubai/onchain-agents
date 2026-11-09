@@ -24,8 +24,8 @@ Sato Score: **⬡ 64** (Medium) — a measure of how open, active and verifiable
 - **Status:** Active
 - **Activity:** Recent — last activity 1 month ago
 - **GitHub stars:** 16
-- **Deploys as:** npx (stdio for Claude Desktop, HTTP for other integrations)
-- **Works with:** Claude Desktop, Cursor, VS Code
+- **Deploys as:** npx (stdio for Claude Desktop, HTTP for other integrations), npx (stdio for Claude Desktop), HTTP server mode, self-hosted from source (pnpm)
+- **Works with:** Claude Desktop, Cursor, VS Code, SperaxOS, MCP Inspector
 
 ## Deploy spec
 
@@ -55,6 +55,6 @@ pnpm build
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `sperax-crypto-mcp`. https://satohub.ai/resources/sperax-crypto-mcp — retrieved 2026-11-08.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `sperax-crypto-mcp`. https://satohub.ai/resources/sperax-crypto-mcp — retrieved 2026-11-09.
 
 [← All layers](../index.md)

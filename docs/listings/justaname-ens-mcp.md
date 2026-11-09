@@ -18,7 +18,7 @@ Sato Score: **⬡ 60** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Ethereum
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Quiet — last activity 9 months ago
+- **Activity:** Quiet — last activity 10 months ago
 - **GitHub stars:** 8
 - **Works with:** Claude Desktop, Claude Code
 
@@ -48,6 +48,6 @@ claude mcp add ens -- npx -y mcp-server-ens
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `justaname-ens-mcp`. https://satohub.ai/resources/justaname-ens-mcp — retrieved 2026-11-08.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `justaname-ens-mcp`. https://satohub.ai/resources/justaname-ens-mcp — retrieved 2026-11-09.
 
 [← All layers](../index.md)

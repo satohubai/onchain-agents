@@ -9,7 +9,7 @@ layout: "default"
 
 A registry of AI agent skills that applies automated source-code scanning and assigns security grades before installation.
 
-Sato Score: **⬡ 71** (High), -10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 71** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -52,6 +52,6 @@ npx agent-skills-hub
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `agent-skills-hub`. https://satohub.ai/resources/agent-skills-hub — retrieved 2026-11-08.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `agent-skills-hub`. https://satohub.ai/resources/agent-skills-hub — retrieved 2026-11-09.
 
 [← All layers](../index.md)

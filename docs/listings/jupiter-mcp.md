@@ -39,7 +39,7 @@ git clone https://github.com/kukapay/jupiter-mcp && cd jupiter-mcp && npm instal
 - **License:** MIT
 - **MCP native:** yes
 - **Deploy status:** unknown
-- **As of:** 2026-11-02
+- **As of:** 2026-11-09
 
 ## What we checked
 
@@ -51,6 +51,6 @@ git clone https://github.com/kukapay/jupiter-mcp && cd jupiter-mcp && npm instal
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `jupiter-mcp`. https://satohub.ai/resources/jupiter-mcp — retrieved 2026-11-08.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `jupiter-mcp`. https://satohub.ai/resources/jupiter-mcp — retrieved 2026-11-09.
 
 [← All layers](../index.md)

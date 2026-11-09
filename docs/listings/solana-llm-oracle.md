@@ -9,7 +9,7 @@ layout: "default"
 
 On-chain oracle letting Solana smart contracts request LLM inference and process results via verified callbacks.
 
-Sato Score: **⬡ 45** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 30** (Low), -15 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -46,6 +46,6 @@ cargo add solana-llm-oracle --features cpi
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solana-llm-oracle`. https://satohub.ai/resources/solana-llm-oracle — retrieved 2026-11-08.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solana-llm-oracle`. https://satohub.ai/resources/solana-llm-oracle — retrieved 2026-11-09.
 
 [← All layers](../index.md)

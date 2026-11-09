@@ -9,7 +9,7 @@ layout: "default"
 
 MCP server for Lido liquid staking: stake, unstake, wrap, vote, and monitor yields on Ethereum.
 
-Sato Score: **⬡ 48** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 33** (Low), -15 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -37,7 +37,7 @@ npm run build
 - **License:** MIT
 - **MCP native:** yes
 - **Deploy status:** unknown
-- **As of:** 2026-11-02
+- **As of:** 2026-11-09
 
 ## What we checked
 
@@ -50,6 +50,6 @@ npm run build
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lido-mcp-ghost-clio`. https://satohub.ai/resources/lido-mcp-ghost-clio — retrieved 2026-11-08.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lido-mcp-ghost-clio`. https://satohub.ai/resources/lido-mcp-ghost-clio — retrieved 2026-11-09.
 
 [← All layers](../index.md)

@@ -9,7 +9,7 @@ layout: "default"
 
 MCP server that discovers x402-paid APIs via CDP Bazaar and handles USDC micropayments on Base.
 
-Sato Score: **⬡ 52** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 45** (Medium), -7 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -41,7 +41,7 @@ cp .env.example .env
 - **License:** MIT
 - **MCP native:** yes
 - **Deploy status:** unknown
-- **As of:** 2026-11-02
+- **As of:** 2026-11-09
 
 ## What we checked
 
@@ -54,6 +54,6 @@ cp .env.example .env
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `x402node-mcp`. https://satohub.ai/resources/x402node-mcp — retrieved 2026-11-08.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `x402node-mcp`. https://satohub.ai/resources/x402node-mcp — retrieved 2026-11-09.
 
 [← All layers](../index.md)

@@ -9,7 +9,7 @@ layout: "default"
 
 SendAI scaffolding CLI (npx create-solana-agent) for spinning up an LLM-powered chat agent wired to Solana actions.
 
-Sato Score: **⬡ 56** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 41** (Medium), -15 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -35,7 +35,7 @@ pnpm install
 - **License:** MIT
 - **MCP native:** no
 - **Deploy status:** unknown
-- **As of:** 2026-11-02
+- **As of:** 2026-11-09
 
 ## What we checked
 
@@ -48,6 +48,6 @@ pnpm install
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `create-solana-agent`. https://satohub.ai/resources/create-solana-agent — retrieved 2026-11-08.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `create-solana-agent`. https://satohub.ai/resources/create-solana-agent — retrieved 2026-11-09.
 
 [← All layers](../index.md)

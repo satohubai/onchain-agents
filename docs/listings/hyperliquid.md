@@ -9,7 +9,7 @@ layout: "default"
 
 Onchain perpetual futures and spot DEX running on its own L1 with an HyperEVM smart-contract layer.
 
-Sato Score: **⬡ 77** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 72** (High), -5 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,7 +22,7 @@ Sato Score: **⬡ 77** (High) — a measure of how open, active and verifiable t
 - **Creator:** Hyperliquid
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Quiet — last activity 10 days ago
+- **Activity:** Quiet — last activity 11 days ago
 - **GitHub stars:** 514
 - **Deploys as:** API, SDK
 - **Works with:** CCXT, Python SDK, TypeScript SDK
@@ -39,11 +39,11 @@ pip install hyperliquid-python-sdk
 - **License:** MIT
 - **MCP native:** no
 - **Deploy status:** verified
-- **As of:** 2026-10-26
+- **As of:** 2026-11-09
 
 ## What we checked
 
-- Install reproduced in an isolated container on 2026-10-26.
+- Install reproduced in an isolated container on 2026-11-09.
 - Live endpoint probed by us: 100% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Verified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
@@ -53,6 +53,6 @@ pip install hyperliquid-python-sdk
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `hyperliquid`. https://satohub.ai/resources/hyperliquid — retrieved 2026-11-08.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `hyperliquid`. https://satohub.ai/resources/hyperliquid — retrieved 2026-11-09.
 
 [← All layers](../index.md)

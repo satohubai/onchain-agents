@@ -22,14 +22,14 @@ Sato Score: **⬡ 57** (Medium), +2 over 7 days — a measure of how open, activ
 - **Creator:** ChaosChain
 - **Open source:** Yes
 - **Status:** Unknown
-- **Activity:** Quiet — last activity 6 months ago
+- **Activity:** Quiet — last activity 7 months ago
 - **GitHub stars:** 25
 - **Deploys as:** npm, pip
 - **Works with:** ERC-8004, x402, XMTP, Arweave, IPFS, 4Mica, Circle Gateway
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 30 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 31 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -38,6 +38,6 @@ Sato Score: **⬡ 57** (Medium), +2 over 7 days — a measure of how open, activ
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `chaoschain`. https://satohub.ai/resources/chaoschain — retrieved 2026-11-08.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `chaoschain`. https://satohub.ai/resources/chaoschain — retrieved 2026-11-09.
 
 [← All layers](../index.md)

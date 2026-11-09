@@ -21,7 +21,7 @@ Sato Score: **⬡ 67** (Medium) — a measure of how open, active and verifiable
 - **Creator:** nirholas
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 3 days ago
+- **Activity:** Active — last activity 4 days ago
 - **GitHub stars:** 40
 - **Works with:** Claude Desktop, Cursor, ChatGPT
 
@@ -53,6 +53,6 @@ npm run build
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `binance-mcp-nirholas`. https://satohub.ai/resources/binance-mcp-nirholas — retrieved 2026-11-08.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `binance-mcp-nirholas`. https://satohub.ai/resources/binance-mcp-nirholas — retrieved 2026-11-09.
 
 [← All layers](../index.md)

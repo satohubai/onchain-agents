@@ -9,7 +9,7 @@ layout: "default"
 
 MCP Registry-listed server for non-custodial Solana trading: swaps, limit, trailing, TWAP, DCA, and combo orders.
 
-Sato Score: **⬡ 61** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 46** (Medium), -15 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -53,6 +53,6 @@ npx -y @traderouter/trade-router-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `trade-router-mcp`. https://satohub.ai/resources/trade-router-mcp — retrieved 2026-11-08.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `trade-router-mcp`. https://satohub.ai/resources/trade-router-mcp — retrieved 2026-11-09.
 
 [← All layers](../index.md)

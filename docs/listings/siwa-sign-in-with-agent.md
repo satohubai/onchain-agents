@@ -35,7 +35,7 @@ npm install @buildersgarden/siwa
 - **License:** MIT
 - **MCP native:** no
 - **Deploy status:** unknown
-- **As of:** 2026-11-02
+- **As of:** 2026-11-09
 
 ## What we checked
 
@@ -48,6 +48,6 @@ npm install @buildersgarden/siwa
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `siwa-sign-in-with-agent`. https://satohub.ai/resources/siwa-sign-in-with-agent — retrieved 2026-11-08.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `siwa-sign-in-with-agent`. https://satohub.ai/resources/siwa-sign-in-with-agent — retrieved 2026-11-09.
 
 [← All layers](../index.md)

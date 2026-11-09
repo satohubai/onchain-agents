@@ -22,8 +22,8 @@ Sato Score: **⬡ 70** (High) — a measure of how open, active and verifiable t
 - **Creator:** Alpaca
 - **Open source:** Unknown
 - **Status:** Active
-- **Activity:** Active — last activity 4 days ago
-- **GitHub stars:** 1.0k
+- **Activity:** Active — last activity 5 days ago
+- **GitHub stars:** 1.1k
 - **Deploys as:** PyPI (uvx/pipx, stdio), Docker
 - **Works with:** Claude Desktop, Claude Code, Cursor, VS Code, PyCharm, Antigravity CLI
 
@@ -39,7 +39,7 @@ uvx alpaca-mcp-server
 - **License:** MIT
 - **MCP native:** yes
 - **Deploy status:** unknown
-- **As of:** 2026-11-02
+- **As of:** 2026-11-09
 
 ## What we checked
 
@@ -52,6 +52,6 @@ uvx alpaca-mcp-server
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `alpaca-mcp`. https://satohub.ai/resources/alpaca-mcp — retrieved 2026-11-08.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `alpaca-mcp`. https://satohub.ai/resources/alpaca-mcp — retrieved 2026-11-09.
 
 [← All layers](../index.md)

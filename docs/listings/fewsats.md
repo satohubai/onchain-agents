@@ -33,7 +33,7 @@ uvx fewsats-mcp
 - **License:** Unknown
 - **MCP native:** yes
 - **Deploy status:** unknown
-- **As of:** 2026-11-02
+- **As of:** 2026-11-09
 
 ## What we checked
 
@@ -46,6 +46,6 @@ uvx fewsats-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `fewsats`. https://satohub.ai/resources/fewsats — retrieved 2026-11-08.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `fewsats`. https://satohub.ai/resources/fewsats — retrieved 2026-11-09.
 
 [← All layers](../index.md)

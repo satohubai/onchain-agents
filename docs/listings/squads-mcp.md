@@ -18,7 +18,7 @@ Sato Score: **⬡ 54** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Solana
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Dormant — last activity 16 months ago
+- **Activity:** Dormant — last activity 17 months ago
 - **GitHub stars:** 4
 
 ## Deploy spec
@@ -47,6 +47,6 @@ npm install squads-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `squads-mcp`. https://satohub.ai/resources/squads-mcp — retrieved 2026-11-08.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `squads-mcp`. https://satohub.ai/resources/squads-mcp — retrieved 2026-11-09.
 
 [← All layers](../index.md)
