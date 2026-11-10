@@ -9,7 +9,7 @@ layout: "default"
 
 Official Starknet MCP server exposing the full Starknet JSON-RPC v0.10.2 surface as agent tools.
 
-Sato Score: **⬡ 65** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 74** (High), +9 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,7 +21,7 @@ Sato Score: **⬡ 65** (Medium) — a measure of how open, active and verifiable
 - **Creator:** StarkWare
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Recent — last activity 1 month ago
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 115
 - **Deploys as:** pip install (Python, local stdio)
 - **Works with:** Claude Code
@@ -43,7 +43,7 @@ claude mcp add --scope user --env STARKNET_RPC_URL=<your-rpc-url> starknet -- py
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 98.9% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -52,6 +52,6 @@ claude mcp add --scope user --env STARKNET_RPC_URL=<your-rpc-url> starknet -- py
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `starknet-mcp`. https://satohub.ai/resources/starknet-mcp — retrieved 2026-11-09.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `starknet-mcp`. https://satohub.ai/resources/starknet-mcp — retrieved 2026-11-10.
 
 [← All layers](../index.md)

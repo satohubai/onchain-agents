@@ -9,7 +9,7 @@ layout: "default"
 
 An installable skill and unified API giving AI agents access to crypto market, on-chain, social, and prediction-market data across 40+ chains.
 
-Sato Score: **⬡ 83** (High), +15 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 83** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,7 +22,7 @@ Sato Score: **⬡ 83** (High), +15 over 7 days — a measure of how open, active
 - **Creator:** AskSurf
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 7 days ago
+- **Activity:** Active — last activity 8 days ago
 - **GitHub stars:** 73
 - **Deploys as:** npm, API
 - **Works with:** Claude Code, Codex, Surf CLI, MCP
@@ -53,6 +53,6 @@ npm install -g surf-cli
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `surf-asksurf`. https://satohub.ai/resources/surf-asksurf — retrieved 2026-11-09.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `surf-asksurf`. https://satohub.ai/resources/surf-asksurf — retrieved 2026-11-10.
 
 [← All layers](../index.md)

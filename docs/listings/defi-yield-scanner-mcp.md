@@ -9,7 +9,7 @@ layout: "default"
 
 MCP server combining DexScreener and DeFiLlama data for yield scanning and token risk checks.
 
-Sato Score: **⬡ 33** (Low), -15 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 47** (Medium), -1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -37,7 +37,7 @@ npm install defi-yield-scanner-mcp
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 98.9% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -46,6 +46,6 @@ npm install defi-yield-scanner-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `defi-yield-scanner-mcp`. https://satohub.ai/resources/defi-yield-scanner-mcp — retrieved 2026-11-09.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `defi-yield-scanner-mcp`. https://satohub.ai/resources/defi-yield-scanner-mcp — retrieved 2026-11-10.
 
 [← All layers](../index.md)

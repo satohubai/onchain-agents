@@ -22,7 +22,7 @@ Sato Score: **⬡ 74** (High), +1 over 7 days — a measure of how open, active 
 - **Creator:** cLabs
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 5 days ago
+- **Activity:** Active — last activity today
 - **GitHub stars:** 5
 - **Deploys as:** pip install (git clone + pip install -e .), uvx, Streamable HTTP remote server, self-hosted
 - **Works with:** Cursor, Claude Desktop
@@ -54,6 +54,6 @@ pip install -e .
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `celo-mcp`. https://satohub.ai/resources/celo-mcp — retrieved 2026-11-09.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `celo-mcp`. https://satohub.ai/resources/celo-mcp — retrieved 2026-11-10.
 
 [← All layers](../index.md)

@@ -18,8 +18,8 @@ Sato Score: **⬡ 62** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Base, Ethereum
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 2 days ago
-- **GitHub stars:** 363
+- **Activity:** Active — last activity 1 day ago
+- **GitHub stars:** 369
 
 ## What we checked
 
@@ -32,6 +32,6 @@ Sato Score: **⬡ 62** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `morpho`. https://satohub.ai/resources/morpho — retrieved 2026-11-09.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `morpho`. https://satohub.ai/resources/morpho — retrieved 2026-11-10.
 
 [← All layers](../index.md)

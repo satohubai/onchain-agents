@@ -9,7 +9,7 @@ layout: "default"
 
 Pre-built MCP blockchain capability modules giving agents fraud detection, AML scoring, wallet profiling, and token analysis.
 
-Sato Score: **⬡ 67** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 62** (Medium), -5 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -52,6 +52,6 @@ claude mcp add --transport sse chainaware-behavioural-prediction-mcp-server http
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `chainaware`. https://satohub.ai/resources/chainaware — retrieved 2026-11-09.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `chainaware`. https://satohub.ai/resources/chainaware — retrieved 2026-11-10.
 
 [← All layers](../index.md)

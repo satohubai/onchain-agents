@@ -9,7 +9,7 @@ layout: "default"
 
 MCP toolkit for AI agents to send transactions and deploy/verify contracts on Monad with local-only key signing.
 
-Sato Score: **⬡ 39** (Low), -33 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 39** (Low), -3 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -40,7 +40,7 @@ make wallet
 
 ## What we checked
 
-- Live endpoint probed by us: 93.3% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 92.2% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -49,6 +49,6 @@ make wallet
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `monad-agent-kit`. https://satohub.ai/resources/monad-agent-kit — retrieved 2026-11-09.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `monad-agent-kit`. https://satohub.ai/resources/monad-agent-kit — retrieved 2026-11-10.
 
 [← All layers](../index.md)

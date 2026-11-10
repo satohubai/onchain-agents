@@ -9,7 +9,7 @@ layout: "default"
 
 GoPlausible's Algorand MCP: agent wallets, transaction building/signing, TEAL, DEX aggregation, full Algod/Indexer access.
 
-Sato Score: **⬡ 68** (Medium), -4 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 83** (High), +10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,7 +22,7 @@ Sato Score: **⬡ 68** (Medium), -4 over 7 days — a measure of how open, activ
 - **Creator:** GoPlausible
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Quiet — last activity 3 months ago
+- **Activity:** Active — last activity today
 - **GitHub stars:** 44
 - **Deploys as:** npm (npx / global install / from source), Docker (agent wallet volume)
 - **Works with:** Claude Desktop, Claude Code, Cursor, Windsurf, VS Code, Cline, OpenClaw, OpenAI Codex CLI, Open Code, GitHub Copilot
@@ -52,6 +52,6 @@ npm install -g @goplausible/algorand-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `algorand-mcp`. https://satohub.ai/resources/algorand-mcp — retrieved 2026-11-09.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `algorand-mcp`. https://satohub.ai/resources/algorand-mcp — retrieved 2026-11-10.
 
 [← All layers](../index.md)

@@ -21,7 +21,7 @@ Sato Score: **⬡ 76** (High) — a measure of how open, active and verifiable t
 - **Creator:** SendAI
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Quiet — last activity 5 months ago
+- **Activity:** Quiet — last activity 6 months ago
 - **GitHub stars:** 1.7k
 - **Deploys as:** npm, MCP server, Self-hosted
 - **Works with:** Jupiter, Raydium, Orca, Meteora, Drift, Wormhole, deBridge, Pyth, LangChain, Vercel AI SDK, Turnkey, Privy
@@ -52,6 +52,6 @@ npm install solana-agent-kit
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solana-agent-kit`. https://satohub.ai/resources/solana-agent-kit — retrieved 2026-11-09.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solana-agent-kit`. https://satohub.ai/resources/solana-agent-kit — retrieved 2026-11-10.
 
 [← All layers](../index.md)

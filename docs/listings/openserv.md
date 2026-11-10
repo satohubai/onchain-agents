@@ -52,6 +52,6 @@ npm install @openserv-labs/sdk
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `openserv`. https://satohub.ai/resources/openserv — retrieved 2026-11-09.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `openserv`. https://satohub.ai/resources/openserv — retrieved 2026-11-10.
 
 [← All layers](../index.md)

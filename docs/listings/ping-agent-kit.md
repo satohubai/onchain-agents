@@ -9,7 +9,7 @@ layout: "default"
 
 Open-source Solana agent-integration kit with a plugin architecture spanning tokens, NFTs, DeFi, and Blinks.
 
-Sato Score: **⬡ 41** (Medium), -15 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 55** (Medium), -1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -38,7 +38,7 @@ npm install @ping-agent-kit/plugin-token @ping-agent-kit/plugin-nft @ping-agent-
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 98.9% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -47,6 +47,6 @@ npm install @ping-agent-kit/plugin-token @ping-agent-kit/plugin-nft @ping-agent-
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ping-agent-kit`. https://satohub.ai/resources/ping-agent-kit — retrieved 2026-11-09.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ping-agent-kit`. https://satohub.ai/resources/ping-agent-kit — retrieved 2026-11-10.
 
 [← All layers](../index.md)

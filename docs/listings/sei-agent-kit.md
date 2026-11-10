@@ -9,7 +9,7 @@ layout: "default"
 
 TypeScript SDK giving AI agents direct access to Sei DeFi protocols: swaps, lending, staking, and perps.
 
-Sato Score: **⬡ 36** (Low), -15 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 50** (Medium), -1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -40,7 +40,7 @@ npm run test
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 98.9% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -49,6 +49,6 @@ npm run test
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `sei-agent-kit`. https://satohub.ai/resources/sei-agent-kit — retrieved 2026-11-09.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `sei-agent-kit`. https://satohub.ai/resources/sei-agent-kit — retrieved 2026-11-10.
 
 [← All layers](../index.md)

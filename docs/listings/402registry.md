@@ -9,7 +9,7 @@ layout: "default"
 
 402registry is an MCP server on Base.
 
-Sato Score: **⬡ 75** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 82** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -18,10 +18,12 @@ Sato Score: **⬡ 75** (High) — a measure of how open, active and verifiable t
 - **Chains:** Base
 - **Standards:** mcp, x402
 - **Interfaces:** mcp, api
+- **Creator:** Georgi Kalchev
 - **Open source:** Partial
 - **Status:** Early
-- **Activity:** Active — last activity 15 days ago
+- **Activity:** Active — last activity 16 days ago
 - **GitHub stars:** 0
+- **Deploys as:** Hosted remote MCP server
 
 ## What we checked
 
@@ -33,6 +35,6 @@ Sato Score: **⬡ 75** (High) — a measure of how open, active and verifiable t
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `402registry`. https://satohub.ai/resources/402registry — retrieved 2026-11-09.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `402registry`. https://satohub.ai/resources/402registry — retrieved 2026-11-10.
 
 [← All layers](../index.md)
