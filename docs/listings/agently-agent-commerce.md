@@ -22,7 +22,7 @@ Sato Score: **⬡ 62** (Medium) — a measure of how open, active and verifiable
 - **Creator:** agentlyhq
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Quiet — last activity 3 months ago
+- **Activity:** Quiet — last activity 4 months ago
 - **GitHub stars:** 73
 - **Deploys as:** CLI
 - **Works with:** MCP, A2A, x402, OpenClaw
@@ -53,6 +53,6 @@ npm install -g use-agently
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `agently-agent-commerce`. https://satohub.ai/resources/agently-agent-commerce — retrieved 2026-11-10.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `agently-agent-commerce`. https://satohub.ai/resources/agently-agent-commerce — retrieved 2026-11-11.
 
 [← All layers](../index.md)

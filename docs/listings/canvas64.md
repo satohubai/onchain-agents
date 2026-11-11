@@ -9,7 +9,7 @@ layout: "default"
 
 Canvas64 is an MCP server on Base.
 
-Sato Score: **⬡ 58** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 59** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -31,6 +31,6 @@ Sato Score: **⬡ 58** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `canvas64`. https://satohub.ai/resources/canvas64 — retrieved 2026-11-10.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `canvas64`. https://satohub.ai/resources/canvas64 — retrieved 2026-11-11.
 
 [← All layers](../index.md)

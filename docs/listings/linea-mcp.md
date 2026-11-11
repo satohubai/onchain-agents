@@ -19,7 +19,7 @@ Sato Score: **⬡ 58** (Medium), -1 over 7 days — a measure of how open, activ
 - **Interfaces:** mcp
 - **Open source:** Yes
 - **Status:** Unknown
-- **Activity:** Quiet — last activity 9 months ago
+- **Activity:** Quiet — last activity 10 months ago
 - **GitHub stars:** 2
 - **Deploys as:** npm
 - **Works with:** Claude, Cursor, Windsurf, Cline
@@ -53,6 +53,6 @@ cp .env.example .env
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `linea-mcp`. https://satohub.ai/resources/linea-mcp — retrieved 2026-11-10.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `linea-mcp`. https://satohub.ai/resources/linea-mcp — retrieved 2026-11-11.
 
 [← All layers](../index.md)

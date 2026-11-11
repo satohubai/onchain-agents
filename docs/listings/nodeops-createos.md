@@ -9,7 +9,7 @@ layout: "default"
 
 A deployment platform whose CreateOS skills let AI coding tools deploy and manage apps without manual DevOps.
 
-Sato Score: **⬡ 47** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 35** (Low), -12 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -50,6 +50,6 @@ npx skills add https://github.com/NodeOps-app/skills --skill createos
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `nodeops-createos`. https://satohub.ai/resources/nodeops-createos — retrieved 2026-11-10.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `nodeops-createos`. https://satohub.ai/resources/nodeops-createos — retrieved 2026-11-11.
 
 [← All layers](../index.md)

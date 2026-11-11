@@ -32,6 +32,6 @@ Sato Score: **⬡ 43** (Medium), -1 over 7 days — a measure of how open, activ
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `breeze-agent-kit`. https://satohub.ai/resources/breeze-agent-kit — retrieved 2026-11-10.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `breeze-agent-kit`. https://satohub.ai/resources/breeze-agent-kit — retrieved 2026-11-11.
 
 [← All layers](../index.md)

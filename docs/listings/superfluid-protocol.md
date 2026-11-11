@@ -46,6 +46,6 @@ cd my-superfluid-app
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `superfluid-protocol`. https://satohub.ai/resources/superfluid-protocol — retrieved 2026-11-10.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `superfluid-protocol`. https://satohub.ai/resources/superfluid-protocol — retrieved 2026-11-11.
 
 [← All layers](../index.md)

@@ -22,7 +22,7 @@ Sato Score: **⬡ 73** (High) — a measure of how open, active and verifiable t
 - **Creator:** Crypto APIs
 - **Open source:** Unknown
 - **Status:** Unknown
-- **Activity:** Active — last activity 20 days ago
+- **Activity:** Active — last activity 21 days ago
 - **GitHub stars:** 0
 - **Deploys as:** npm/npx, Docker, Hosted API (multi-tenant HTTP)
 - **Works with:** Claude Desktop, Claude Code, Cursor, Windsurf, n8n
@@ -54,6 +54,6 @@ or install all domains: npm install @cryptoapis-io/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cryptoapis-mcp`. https://satohub.ai/resources/cryptoapis-mcp — retrieved 2026-11-10.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cryptoapis-mcp`. https://satohub.ai/resources/cryptoapis-mcp — retrieved 2026-11-11.
 
 [← All layers](../index.md)
