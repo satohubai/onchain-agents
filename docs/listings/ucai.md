@@ -51,6 +51,6 @@ pip install abi-to-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ucai`. https://satohub.ai/resources/ucai — retrieved 2026-11-11.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ucai`. https://satohub.ai/resources/ucai — retrieved 2026-11-12.
 
 [← All layers](../index.md)

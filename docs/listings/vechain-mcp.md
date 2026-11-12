@@ -9,7 +9,7 @@ layout: "default"
 
 Official VeChain MCP server exposing ecosystem resources and VeChain developer workflows to agents.
 
-Sato Score: **⬡ 81** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 82** (High), +1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,9 +21,9 @@ Sato Score: **⬡ 81** (High) — a measure of how open, active and verifiable t
 - **Creator:** VeChain
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 6 days ago
+- **Activity:** Active — last activity 7 days ago
 - **GitHub stars:** 5
-- **Deploys as:** npm install, or Docker (docker pull ghcr.io/vechain/vechain-mcp-server)
+- **Deploys as:** npm install, or Docker (docker pull ghcr.io/vechain/vechain-mcp-server), Docker, npx
 - **Works with:** Claude Desktop, Cursor, Claude Code
 
 ## Deploy spec
@@ -51,6 +51,6 @@ npx -y @vechain/mcp-server@latest
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `vechain-mcp`. https://satohub.ai/resources/vechain-mcp — retrieved 2026-11-11.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `vechain-mcp`. https://satohub.ai/resources/vechain-mcp — retrieved 2026-11-12.
 
 [← All layers](../index.md)

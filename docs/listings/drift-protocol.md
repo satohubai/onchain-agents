@@ -22,7 +22,7 @@ Sato Score: **⬡ 76** (High) — a measure of how open, active and verifiable t
 - **Open source:** Yes
 - **Status:** Active
 - **Activity:** Quiet — last activity 4 months ago
-- **GitHub stars:** 409
+- **GitHub stars:** 410
 - **Deploys as:** Self-hosted, Docker
 - **Works with:** Solana, Jupiter, TypeScript SDK, Python SDK, Anchor, Data API
 
@@ -52,6 +52,6 @@ npm install @drift-labs/sdk
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `drift-protocol`. https://satohub.ai/resources/drift-protocol — retrieved 2026-11-11.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `drift-protocol`. https://satohub.ai/resources/drift-protocol — retrieved 2026-11-12.
 
 [← All layers](../index.md)

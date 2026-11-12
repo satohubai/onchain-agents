@@ -22,7 +22,7 @@ Sato Score: **⬡ 70** (High), -1 over 7 days — a measure of how open, active 
 - **Creator:** nirholas
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity today
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 44
 
 ## Deploy spec
@@ -54,6 +54,6 @@ npm install
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `universal-crypto-mcp`. https://satohub.ai/resources/universal-crypto-mcp — retrieved 2026-11-11.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `universal-crypto-mcp`. https://satohub.ai/resources/universal-crypto-mcp — retrieved 2026-11-12.
 
 [← All layers](../index.md)

@@ -1,6 +1,6 @@
 # Onchain Agents
 
-**A scored index of 493 tools for building onchain AI agents** — frameworks, MCP servers, wallets, payment rails, data feeds and trading venues, with activity and scores refreshed every day.
+**A scored index of 495 tools for building onchain AI agents** — frameworks, MCP servers, wallets, payment rails, data feeds and trading venues, with activity and scores refreshed every day.
 
 **Use it in one command.** Add it to Claude Code as an MCP server (Streamable HTTP, no key, no account):
 
@@ -10,7 +10,7 @@ claude mcp add --transport http satohub https://satohub.ai/api/mcp
 
 Any other MCP client: point it at `https://satohub.ai/api/mcp` (48 tools, 42 of them read-only; [other clients](docs/connect-mcp.md)). No MCP client: `curl -s https://satohub.ai/api/export/index.json` returns the whole catalog as JSON.
 
-- **What this is.** 493 listings of what onchain AI agents are built from, across 28 chains, rendered daily from a public export. Discovery never lists anything on its own: a project is listed only after it passes an evidence check. Nothing in this repo can be bought — listing, order and score follow the same rules for every project ([NEUTRALITY.md](NEUTRALITY.md)).
+- **What this is.** 495 listings of what onchain AI agents are built from, across 28 chains, rendered daily from a public export. Discovery never lists anything on its own: a project is listed only after it passes an evidence check. Nothing in this repo can be bought — listing, order and score follow the same rules for every project ([NEUTRALITY.md](NEUTRALITY.md)).
 - **Token.** Sato Hub has no token. A token using the Sato name is not ours.
 - **What a Sato Score is.** A 0–100 measure of how **open, active and verifiable** a project is, computed from evidence only. It is **not** a safety, quality, security or returns grade, and self-reported is never treated as verified.
 - **How current it is.** Re-rendered every day; `Last activity` is observed, not claimed. `unknown` means we could not measure it, never zero.
@@ -44,8 +44,8 @@ The loop that runs the agent: prompting, memory, tool calls, scheduling. Pick th
 | [Hermes Agent](https://github.com/NousResearch/hermes-agent) | Open-source self-improving AI agent from Nous Research with a built-in learning… | — | 92 | 1 day ago | install reproduced |
 | [Olas (Autonolas)](https://github.com/valory-xyz/open-autonomy) | Network and framework for co-owned autonomous agent services operating onchain. | Ethereum, Gnosis, Base +1 | 90 | today | install reproduced |
 | [OpenAI Codex](https://github.com/openai/codex) | OpenAI's agentic coding tool (CLI, IDE, and cloud) that runs agents and… | — | 88 | today | install reproduced |
-| [TradingAgents](https://github.com/TauricResearch/TradingAgents) | An open-source multi-agent LLM framework that simulates a trading firm with… | — | 88 | 7 days ago | live probed |
-| [Fetch.ai uAgents](https://github.com/fetchai/uAgents) | Python framework for lightweight autonomous agents with built-in… | Cosmos, Ethereum | 87 | 1 day ago | install reproduced |
+| [TradingAgents](https://github.com/TauricResearch/TradingAgents) | An open-source multi-agent LLM framework that simulates a trading firm with… | — | 88 | 8 days ago | live probed |
+| [Fetch.ai uAgents](https://github.com/fetchai/uAgents) | Python framework for lightweight autonomous agents with built-in… | Cosmos, Ethereum | 87 | 2 days ago | install reproduced |
 
 <sub>Highest-scored in this layer, 6 of 31. [All 31 →](docs/categories/agent-frameworks.md)</sub>
 
@@ -57,12 +57,12 @@ Libraries that turn an agent's decision into a signed transaction — swap, tran
 
 | Name | What it is | Chains | ⬡ Score | Last activity | Checked |
 |---|---|---|---|---|---|
-| [Coinbase AgentKit](https://github.com/coinbase/agentkit) | Coinbase's toolkit for giving AI agents wallets and the ability to take onchain… | Base, Ethereum, Multichain | 91 | 1 day ago | install reproduced |
-| [Model Context Protocol (MCP)](https://github.com/modelcontextprotocol/modelcontextprotocol) | Anthropic's open standard for connecting AI systems to external tools and data… | — | 87 | today | live probed |
-| [World AgentKit](https://github.com/worldcoin/agentkit) | SDK from World (Tools for Humanity) that lets AI agents present a… | Base | 86 | 21 days ago | install reproduced |
+| [Coinbase AgentKit](https://github.com/coinbase/agentkit) | Coinbase's toolkit for giving AI agents wallets and the ability to take onchain… | Base, Ethereum, Multichain | 91 | 2 days ago | install reproduced |
+| [Model Context Protocol (MCP)](https://github.com/modelcontextprotocol/modelcontextprotocol) | Anthropic's open standard for connecting AI systems to external tools and data… | — | 87 | 1 day ago | live probed |
+| [Tempo](https://github.com/tempoxyz/tempo) | Purpose-built blockchain for stablecoin payments, with docs, SDKs, a docs MCP… | — | 86 | 6 days ago | live probed |
+| [World AgentKit](https://github.com/worldcoin/agentkit) | SDK from World (Tools for Humanity) that lets AI agents present a… | Base | 86 | 22 days ago | install reproduced |
 | [Universal Contract AI Interface (UCAI)](https://github.com/nirholas/UCAI) | ABI-to-MCP generator: turns any smart contract ABI into an MCP server agents… | Multichain | 85 | 1 day ago | install reproduced |
-| [ClawRouter (BlockRun)](https://github.com/BlockRunAI/ClawRouter) | Local LLM router for agents: routes each request to the cheapest capable model… | Base, Solana | 84 | 1 day ago | live probed |
-| [Tempo](https://github.com/tempoxyz/tempo) | Purpose-built blockchain for stablecoin payments, with docs, SDKs, a docs MCP… | — | 84 | 5 days ago | live probed |
+| [ClawRouter (BlockRun)](https://github.com/BlockRunAI/ClawRouter) | Local LLM router for agents: routes each request to the cheapest capable model… | Base, Solana | 84 | 2 days ago | live probed |
 
 <sub>Highest-scored in this layer, 6 of 70. [All 70 →](docs/categories/action-kits.md)</sub>
 
@@ -75,13 +75,13 @@ Tool servers your agent calls over the Model Context Protocol. This is the large
 | Name | What it is | Chains | ⬡ Score | Last activity | Checked |
 |---|---|---|---|---|---|
 | [Hermes Agent](https://github.com/NousResearch/hermes-agent) | Open-source self-improving AI agent from Nous Research with a built-in learning… | — | 92 | 1 day ago | install reproduced |
-| [NanoParse](https://github.com/nanoparse-dev/nanoparse-mcp) | NanoParse is an MCP server on Base. | Base | 92 | 15 days ago | live probed |
-| [Coinbase AgentKit](https://github.com/coinbase/agentkit) | Coinbase's toolkit for giving AI agents wallets and the ability to take onchain… | Base, Ethereum, Multichain | 91 | 1 day ago | install reproduced |
-| [BlockRun MCP](https://github.com/BlockRunAI/blockrun-mcp) | MCP server giving AI agents live data — markets, crypto, research, X — billed… | Base, Solana | 91 | 1 day ago | install reproduced |
-| [CoinGecko MCP](https://github.com/coingecko/coingecko-typescript) | Official CoinGecko MCP: hosted free/pro endpoints for live prices, market data… | Multichain | 89 | 7 days ago | live probed |
-| [Skim](https://github.com/JessieJanie/skim402) | Skim is a data service for agents on Base. | Base | 89 | 10 days ago | install reproduced |
+| [NanoParse](https://github.com/nanoparse-dev/nanoparse-mcp) | NanoParse is an MCP server on Base. | Base | 92 | 16 days ago | live probed |
+| [Coinbase AgentKit](https://github.com/coinbase/agentkit) | Coinbase's toolkit for giving AI agents wallets and the ability to take onchain… | Base, Ethereum, Multichain | 91 | 2 days ago | install reproduced |
+| [BlockRun MCP](https://github.com/BlockRunAI/blockrun-mcp) | MCP server giving AI agents live data — markets, crypto, research, X — billed… | Base, Solana | 91 | 2 days ago | install reproduced |
+| [CoinGecko MCP](https://github.com/coingecko/coingecko-typescript) | Official CoinGecko MCP: hosted free/pro endpoints for live prices, market data… | Multichain | 89 | 8 days ago | live probed |
+| [Skim](https://github.com/JessieJanie/skim402) | Skim is a data service for agents on Base. | Base | 89 | 1 day ago | install reproduced |
 | [OpenAI Codex](https://github.com/openai/codex) | OpenAI's agentic coding tool (CLI, IDE, and cloud) that runs agents and… | — | 88 | today | install reproduced |
-| [CoinPaprika MCP](https://github.com/coinpaprika/coinpaprika-mcp) | Official CoinPaprika MCP: 30 tools for prices, tickers, OHLCV, and exchange… | Multichain | 88 | 13 days ago | live probed |
+| [CoinPaprika MCP](https://github.com/coinpaprika/coinpaprika-mcp) | Official CoinPaprika MCP: 30 tools for prices, tickers, OHLCV, and exchange… | Multichain | 88 | 14 days ago | live probed |
 
 <sub>Highest-scored in this layer, 8 of 226. [All 226 →](docs/categories/mcp-servers.md)</sub>
 
@@ -96,8 +96,8 @@ Where the agent's key lives and what it is allowed to do: embedded wallets, MPC,
 | [Bankr](https://github.com/BankrBot/skills) | Crypto execution layer and cross-chain wallet that lets agents and users trade… | Base, Ethereum, Polygon +7 | 87 | today | install reproduced |
 | [Trust Wallet Agent Kit (TWAK)](https://github.com/trustwallet/tw-agent-skills) | Non-custodial toolkit from Trust Wallet (MCP server, CLI, and SDK) that lets AI… | Ethereum, Base, Solana +6 | 87 | 1 day ago | install reproduced |
 | [Turnkey](https://github.com/tkhq/sdk) | Secure key management infrastructure with policy controls, commonly used for… | Ethereum, Base, Solana +1 | 86 | today | install reproduced |
-| [Privy](https://github.com/privy-io/node-sdk) | Embedded and server wallet infrastructure used to give agents secure key… | Ethereum, Base, Solana +1 | 84 | today | install reproduced |
-| [Vultisig](https://github.com/vultisig/vultisig-sdk) | Seedless MPC wallet whose vaults are programmable by agents through a… | Bitcoin, Ethereum, Solana +12 | 78 | today | live probed |
+| [Privy](https://github.com/privy-io/node-sdk) | Embedded and server wallet infrastructure used to give agents secure key… | Ethereum, Base, Solana +1 | 84 | 1 day ago | install reproduced |
+| [Vultisig](https://github.com/vultisig/vultisig-sdk) | Seedless MPC wallet whose vaults are programmable by agents through a… | Bitcoin, Ethereum, Solana +12 | 78 | 1 day ago | live probed |
 | [0xGasless AgentKit](https://github.com/0xgasless/agentkit) | Toolkit giving AI agents gasless access to crypto wallets and onchain… | BNB Chain, Avalanche, Base | 76 | 1 month ago | install reproduced |
 
 <sub>Highest-scored in this layer, 6 of 35. [All 35 →](docs/categories/wallets-keys.md)</sub>
@@ -110,12 +110,12 @@ What the agent knows before it acts: RPC access, market data, chain indexing, wa
 
 | Name | What it is | Chains | ⬡ Score | Last activity | Checked |
 |---|---|---|---|---|---|
-| [CoinGecko MCP](https://github.com/coingecko/coingecko-typescript) | Official CoinGecko MCP: hosted free/pro endpoints for live prices, market data… | Multichain | 89 | 7 days ago | live probed |
-| [Skim](https://github.com/JessieJanie/skim402) | Skim is a data service for agents on Base. | Base | 89 | 10 days ago | install reproduced |
-| [CoinPaprika MCP](https://github.com/coinpaprika/coinpaprika-mcp) | Official CoinPaprika MCP: 30 tools for prices, tickers, OHLCV, and exchange… | Multichain | 88 | 13 days ago | live probed |
-| [cryptocurrency.cv](https://github.com/nirholas/cryptocurrency.cv) | Free, key-less crypto news and market-data API aggregating Bitcoin, Ethereum… | — | 87 | 6 days ago | live probed |
-| [DexPaprika MCP Server](https://github.com/coinpaprika/dexpaprika-mcp) | Zero-config MCP access to DexPaprika's DEX data — tokens, liquidity pools, and… | Multichain | 86 | 6 days ago | install reproduced |
-| [Zerion](https://github.com/zeriontech/zerion-ai) | Wallet and DeFi data provider offering portfolio, positions, transactions, PnL… | Ethereum, Base, Arbitrum +8 | 85 | 1 day ago | install reproduced |
+| [CoinGecko MCP](https://github.com/coingecko/coingecko-typescript) | Official CoinGecko MCP: hosted free/pro endpoints for live prices, market data… | Multichain | 89 | 8 days ago | live probed |
+| [Skim](https://github.com/JessieJanie/skim402) | Skim is a data service for agents on Base. | Base | 89 | 1 day ago | install reproduced |
+| [CoinPaprika MCP](https://github.com/coinpaprika/coinpaprika-mcp) | Official CoinPaprika MCP: 30 tools for prices, tickers, OHLCV, and exchange… | Multichain | 88 | 14 days ago | live probed |
+| [cryptocurrency.cv](https://github.com/nirholas/cryptocurrency.cv) | Free, key-less crypto news and market-data API aggregating Bitcoin, Ethereum… | — | 87 | 1 day ago | live probed |
+| [DexPaprika MCP Server](https://github.com/coinpaprika/dexpaprika-mcp) | Zero-config MCP access to DexPaprika's DEX data — tokens, liquidity pools, and… | Multichain | 86 | 7 days ago | install reproduced |
+| [Boar Blockchain MCP](https://github.com/boar-network/blockchain-mcp) | Blockchain infrastructure MCP from Boar Network, with setup guides and… | Multichain | 85 | 4 months ago | live probed |
 
 <sub>Highest-scored in this layer, 6 of 80. [All 80 →](docs/categories/data-rpc.md)</sub>
 
@@ -125,12 +125,12 @@ How agents pay and get paid: x402 (HTTP 402 plus stablecoin), agent commerce pro
 
 | Name | What it is | Chains | ⬡ Score | Last activity | Checked |
 |---|---|---|---|---|---|
-| [NanoParse](https://github.com/nanoparse-dev/nanoparse-mcp) | NanoParse is an MCP server on Base. | Base | 92 | 15 days ago | live probed |
-| [Coinbase AgentKit](https://github.com/coinbase/agentkit) | Coinbase's toolkit for giving AI agents wallets and the ability to take onchain… | Base, Ethereum, Multichain | 91 | 1 day ago | install reproduced |
-| [BlockRun MCP](https://github.com/BlockRunAI/blockrun-mcp) | MCP server giving AI agents live data — markets, crypto, research, X — billed… | Base, Solana | 91 | 1 day ago | install reproduced |
-| [Skim](https://github.com/JessieJanie/skim402) | Skim is a data service for agents on Base. | Base | 89 | 10 days ago | install reproduced |
-| [minia2a](https://github.com/minia2auk/minia2a-mcp) | minia2a is a marketplace where agents find and pay for services on Base. | Base | 88 | 6 days ago | live probed |
-| [x402](https://github.com/x402-foundation/x402) | Open HTTP 402 payment protocol, now at the x402 Foundation: agents pay per… | Base, Ethereum, Solana +2 | 87 | 5 days ago | install reproduced |
+| [NanoParse](https://github.com/nanoparse-dev/nanoparse-mcp) | NanoParse is an MCP server on Base. | Base | 92 | 16 days ago | live probed |
+| [Coinbase AgentKit](https://github.com/coinbase/agentkit) | Coinbase's toolkit for giving AI agents wallets and the ability to take onchain… | Base, Ethereum, Multichain | 91 | 2 days ago | install reproduced |
+| [BlockRun MCP](https://github.com/BlockRunAI/blockrun-mcp) | MCP server giving AI agents live data — markets, crypto, research, X — billed… | Base, Solana | 91 | 2 days ago | install reproduced |
+| [Skim](https://github.com/JessieJanie/skim402) | Skim is a data service for agents on Base. | Base | 89 | 1 day ago | install reproduced |
+| [minia2a](https://github.com/minia2auk/minia2a-mcp) | minia2a is a marketplace where agents find and pay for services on Base. | Base | 88 | 7 days ago | live probed |
+| [x402](https://github.com/x402-foundation/x402) | Open HTTP 402 payment protocol, now at the x402 Foundation: agents pay per… | Base, Ethereum, Solana +2 | 87 | 6 days ago | install reproduced |
 
 <sub>Highest-scored in this layer, 6 of 153. [All 153 →](docs/categories/payments.md)</sub>
 
@@ -142,12 +142,12 @@ How an agent is identified and found by other agents: ERC-8004 registration, MCP
 
 | Name | What it is | Chains | ⬡ Score | Last activity | Checked |
 |---|---|---|---|---|---|
-| [Model Context Protocol (MCP)](https://github.com/modelcontextprotocol/modelcontextprotocol) | Anthropic's open standard for connecting AI systems to external tools and data… | — | 87 | today | live probed |
+| [Model Context Protocol (MCP)](https://github.com/modelcontextprotocol/modelcontextprotocol) | Anthropic's open standard for connecting AI systems to external tools and data… | — | 87 | 1 day ago | live probed |
 | [Bankr](https://github.com/BankrBot/skills) | Crypto execution layer and cross-chain wallet that lets agents and users trade… | Base, Ethereum, Polygon +7 | 87 | today | install reproduced |
-| [World AgentKit](https://github.com/worldcoin/agentkit) | SDK from World (Tools for Humanity) that lets AI agents present a… | Base | 86 | 21 days ago | install reproduced |
-| [Self Protocol](https://github.com/selfxyz/self) | Open-source zero-knowledge identity protocol (passport-based proof of… | Multichain | 80 | 4 days ago | install reproduced |
+| [World AgentKit](https://github.com/worldcoin/agentkit) | SDK from World (Tools for Humanity) that lets AI agents present a… | Base | 86 | 22 days ago | install reproduced |
+| [Self Protocol](https://github.com/selfxyz/self) | Open-source zero-knowledge identity protocol (passport-based proof of… | Multichain | 80 | 5 days ago | install reproduced |
 | [0xGasless AgentKit](https://github.com/0xgasless/agentkit) | Toolkit giving AI agents gasless access to crypto wallets and onchain… | BNB Chain, Avalanche, Base | 76 | 1 month ago | install reproduced |
-| [Q402 (Quack AI)](https://github.com/quackai-org/q402-mcp) | Gasless stablecoin payment relay and managed Agent Wallets across 12 EVM chains… | BNB Chain, Ethereum, Avalanche +4 | 75 | 8 days ago | install reproduced |
+| [Q402 (Quack AI)](https://github.com/quackai-org/q402-mcp) | Gasless stablecoin payment relay and managed Agent Wallets across 12 EVM chains… | BNB Chain, Ethereum, Avalanche +4 | 75 | 9 days ago | install reproduced |
 
 <sub>Highest-scored in this layer, 6 of 48. [All 48 →](docs/categories/identity-discovery.md)</sub>
 
@@ -160,11 +160,11 @@ Checks you run before an agent installs, connects, signs or trades: contract and
 | Name | What it is | Chains | ⬡ Score | Last activity | Checked |
 |---|---|---|---|---|---|
 | [PulseFeed](https://github.com/Nikolife2016/pulsefeed-x402) | PulseFeed checks an x402 endpoint before an agent pays it (liveness, a 0-100… | Base | 86 | today | live probed |
-| [Socket](https://github.com/SocketDev/socket-cli) | Dependency and package analysis from Socket, with a CLI and an MCP server that… | — | 81 | 5 days ago | live probed |
-| [Self Protocol](https://github.com/selfxyz/self) | Open-source zero-knowledge identity protocol (passport-based proof of… | Multichain | 80 | 4 days ago | install reproduced |
-| [GoPlus AgentGuard](https://github.com/GoPlusSecurity/agentguard) | MIT-licensed runtime guard for AI coding agents: hook-level action blocking, a… | — | 79 | 2 days ago | install reproduced |
+| [Socket](https://github.com/SocketDev/socket-cli) | Dependency and package analysis from Socket, with a CLI and an MCP server that… | — | 81 | 6 days ago | live probed |
+| [Self Protocol](https://github.com/selfxyz/self) | Open-source zero-knowledge identity protocol (passport-based proof of… | Multichain | 80 | 5 days ago | install reproduced |
+| [GoPlus AgentGuard](https://github.com/GoPlusSecurity/agentguard) | MIT-licensed runtime guard for AI coding agents: hook-level action blocking, a… | — | 79 | 1 day ago | install reproduced |
+| [ChainAware](https://github.com/ChainAware/behavioral-prediction-mcp) | Pre-built MCP blockchain capability modules giving agents fraud detection, AML… | Polygon, Ethereum, BNB Chain +4 | 77 | 1 day ago | live probed |
 | [Agent Skills Hub](https://github.com/agent-skills-hub/agent-skills-hub) | A registry of AI agent skills that applies automated source-code scanning and… | — | 71 | 1 month ago | install reproduced |
-| [MistTrack MCP](https://github.com/slowmist/MistTrackMCP) | MCP server from SlowMist exposing MistTrack address risk scoring and fund-flow… | Ethereum, Bitcoin, Polygon +2 | 70 | 6 months ago | install reproduced |
 
 <sub>Highest-scored in this layer, 6 of 17. [All 17 →](docs/categories/security.md)</sub>
 
@@ -176,12 +176,12 @@ Where the agent actually trades: DEXs, aggregators, perps, lending and yield ven
 
 | Name | What it is | Chains | ⬡ Score | Last activity | Checked |
 |---|---|---|---|---|---|
-| [Raydium](https://github.com/raydium-io/raydium-sdk-V2) | Solana AMM and DEX with an open-source TypeScript SDK V2 and public… | Solana | 95 | 5 days ago | install reproduced |
-| [CloddsBot](https://github.com/alsk1992/CloddsBot) | Open-source autonomous AI trading agent operating across 1000+ markets… | Solana, Base, Ethereum +4 | 83 | 5 days ago | install reproduced |
-| [Orca](https://github.com/orca-so/whirlpools) | Solana concentrated-liquidity AMM (Whirlpools) with open-source TypeScript and… | Solana | 83 | 8 days ago | live probed |
-| [dYdX](https://github.com/dydxprotocol/v4-chain) | Perpetual futures DEX running on its own Cosmos SDK app-chain with… | Cosmos | 83 | 6 days ago | live probed |
-| [Uniswap](https://github.com/Uniswap/sdks) | Leading multichain spot DEX with v4 hooks, official SDKs, and a hosted Trading… | Ethereum, Base, Arbitrum +4 | 83 | 1 day ago | live probed |
-| [NOFX](https://github.com/NoFxAiOS/nofx) | Open-source AI trading terminal: an LLM drives strategy inside hard-coded risk… | Hyperliquid, Multichain | 82 | 7 days ago | live probed |
+| [Raydium](https://github.com/raydium-io/raydium-sdk-V2) | Solana AMM and DEX with an open-source TypeScript SDK V2 and public… | Solana | 95 | 6 days ago | install reproduced |
+| [CloddsBot](https://github.com/alsk1992/CloddsBot) | Open-source autonomous AI trading agent operating across 1000+ markets… | Solana, Base, Ethereum +4 | 83 | 6 days ago | install reproduced |
+| [Orca](https://github.com/orca-so/whirlpools) | Solana concentrated-liquidity AMM (Whirlpools) with open-source TypeScript and… | Solana | 83 | 9 days ago | live probed |
+| [dYdX](https://github.com/dydxprotocol/v4-chain) | Perpetual futures DEX running on its own Cosmos SDK app-chain with… | Cosmos | 83 | today | live probed |
+| [Uniswap](https://github.com/Uniswap/sdks) | Leading multichain spot DEX with v4 hooks, official SDKs, and a hosted Trading… | Ethereum, Base, Arbitrum +4 | 83 | 3 days ago | live probed |
+| [NOFX](https://github.com/NoFxAiOS/nofx) | Open-source AI trading terminal: an LLM drives strategy inside hard-coded risk… | Hyperliquid, Multichain | 82 | 8 days ago | live probed |
 
 <sub>Highest-scored in this layer, 6 of 60. [All 60 →](docs/categories/trading-venues.md)</sub>
 
@@ -216,9 +216,9 @@ Per-layer pages with every listing: [docs/index.md](docs/index.md) · per-listin
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/statband-dark.svg">
-  <img src="assets/statband-light.svg" alt="493 resources · 28 chains · 490 scored · 201 independently checked · updated 2026-11-11" width="760">
+  <img src="assets/statband-light.svg" alt="495 resources · 28 chains · 492 scored · 201 independently checked · updated 2026-11-12" width="760">
 </picture>
-**490 scored** (evidence-only Sato Score, every product) · **201 independently checked ✓** (129 with an install reproduced in an isolated container; the rest by evidence review or a live endpoint probe) — and growing.
+**492 scored** (evidence-only Sato Score, every product) · **201 independently checked ✓** (129 with an install reproduced in an isolated container; the rest by evidence review or a live endpoint probe) — and growing.
 
 <sub>Every product listing carries a Sato Score — a 0–100 measure of how open, active, and verifiable it is. Independently checked means we reproduced its documented install in an isolated container, reviewed its verification evidence, or probed its live endpoint ourselves.</sub>
 
@@ -299,9 +299,9 @@ broadcasts. [The method](docs/swap.md) · [full rules](https://satohub.ai/docs/s
 - [MCP Servers](#mcp-servers) (149)
 - [Wallet Infrastructure](#wallet-infrastructure) (35)
 - [Trading & DeFi](#trading--defi) (60)
-- [Data & APIs](#data--apis) (83)
+- [Data & APIs](#data--apis) (84)
 - [Developer Tools](#developer-tools) (39)
-- [Skills & Plugins](#skills--plugins) (31)
+- [Skills & Plugins](#skills--plugins) (32)
 - [Launchpads & Marketplaces](#launchpads--marketplaces) (13)
 - [Security](#security) (17)
 - [Live Onchain Agents (directory)](#live-onchain-agents-directory) (6)
@@ -338,10 +338,10 @@ broadcasts. [The method](docs/swap.md) · [full rules](https://satohub.ai/docs/s
 | [CoinGecko MCP](https://github.com/coingecko/coingecko-typescript) | MCP | Official CoinGecko MCP: hosted free/pro endpoints for live prices, market data, and on-chain DEX analytics. | Multichain | [⬡ 89](https://satohub.ai/resources/coingecko-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 59 |  |
 | [Skim](https://github.com/JessieJanie/skim402) | Data Tool | Skim is a data service for agents on Base. | Base | [⬡ 89](https://satohub.ai/resources/skim?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 3 | ✓ |
 | [OpenAI Codex](https://github.com/openai/codex) | Agent Framework | OpenAI's agentic coding tool (CLI, IDE, and cloud) that runs agents and connects to MCP servers and skills. | — | [⬡ 88](https://satohub.ai/resources/openai-codex?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 133.4k | ✓ |
-| [TradingAgents](https://github.com/TauricResearch/TradingAgents) | Agent Framework | An open-source multi-agent LLM framework that simulates a trading firm with analyst, trader, and… | — | [⬡ 88](https://satohub.ai/resources/tradingagents?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 120.3k |  |
+| [TradingAgents](https://github.com/TauricResearch/TradingAgents) | Agent Framework | An open-source multi-agent LLM framework that simulates a trading firm with analyst, trader, and… | — | [⬡ 88](https://satohub.ai/resources/tradingagents?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 122.1k |  |
 | [CoinPaprika MCP](https://github.com/coinpaprika/coinpaprika-mcp) | MCP | Official CoinPaprika MCP: 30 tools for prices, tickers, OHLCV, and exchange data across 8,000+ coins. | Multichain | [⬡ 88](https://satohub.ai/resources/coinpaprika-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 30 |  |
 | [minia2a](https://github.com/minia2auk/minia2a-mcp) | Agent Marketplace | minia2a is a marketplace where agents find and pay for services on Base. | Base | [⬡ 88](https://satohub.ai/resources/minia2a?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 1 |  |
-| [Model Context Protocol (MCP)](https://github.com/modelcontextprotocol/modelcontextprotocol) | Developer Tool | Anthropic's open standard for connecting AI systems to external tools and data sources. | — | [⬡ 87](https://satohub.ai/resources/model-context-protocol?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 9.6k |  |
+| [Model Context Protocol (MCP)](https://github.com/modelcontextprotocol/modelcontextprotocol) | Developer Tool | Anthropic's open standard for connecting AI systems to external tools and data sources. | — | [⬡ 87](https://satohub.ai/resources/model-context-protocol?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 9.7k |  |
 | [x402](https://github.com/x402-foundation/x402) | Payment Rail | Open HTTP 402 payment protocol, now at the x402 Foundation: agents pay per request in stablecoins, and by a… | Base, Ethereum, Solana +2 | [⬡ 87](https://satohub.ai/resources/x402?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 6.8k | ✓ |
 
 **[⬆ Back to Index](#index)**
@@ -357,9 +357,9 @@ broadcasts. [The method](docs/swap.md) · [full rules](https://satohub.ai/docs/s
 | Name | What it is | Chains | ⬡ Score | Activity | ★ | ✓ |
 |---|---|---|---|---|---|---|
 | [Olas (Autonolas)](https://github.com/valory-xyz/open-autonomy) | Network and framework for co-owned autonomous agent services operating onchain. | Ethereum, Gnosis, Base +1 | [⬡ 90](https://satohub.ai/resources/olas?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 137 | ✓ |
-| [TradingAgents](https://github.com/TauricResearch/TradingAgents) | An open-source multi-agent LLM framework that simulates a trading firm with analyst, trader, and… | — | [⬡ 88](https://satohub.ai/resources/tradingagents?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 120.3k |  |
+| [TradingAgents](https://github.com/TauricResearch/TradingAgents) | An open-source multi-agent LLM framework that simulates a trading firm with analyst, trader, and… | — | [⬡ 88](https://satohub.ai/resources/tradingagents?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 122.1k |  |
 | [ElizaOS](https://github.com/elizaOS/eliza) | Open-source TypeScript framework for building crypto-native multi-agent systems. | Solana, Ethereum, Base +1 | [⬡ 84](https://satohub.ai/resources/elizaos?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 19.8k | ✓ |
-| [Almanak](https://github.com/almanak-co/sdk) | An AI-agent framework and non-custodial vault protocol for designing, backtesting, and deploying automated… | Multichain, Ethereum, Arbitrum +8 | [⬡ 73](https://satohub.ai/resources/almanak?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟡 Recent | ★ 61 | ✓ |
+| [Almanak](https://github.com/almanak-co/sdk) | An AI-agent framework and non-custodial vault protocol for designing, backtesting, and deploying automated… | Multichain, Ethereum, Arbitrum +8 | [⬡ 71](https://satohub.ai/resources/almanak?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟡 Recent | ★ 61 | ✓ |
 | [Grok CLI](https://github.com/superagent-ai/grok-cli) | Open-source terminal coding agent for the xAI Grok API — community-built, not affiliated with xAI. | — | [⬡ 58](https://satohub.ai/resources/grok-cli?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟠 Quiet | ★ 3.5k | ✓ |
 | [Injective Agents](https://github.com/InjectiveLabs/iAgent) | A platform for deploying autonomous AI trading agents on Injective with onchain identity, order-book trading… | Injective, Cosmos | [⬡ 58](https://satohub.ai/resources/injective-agents?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | ⚪ Dormant | ★ 52 |  |
 | [Warden Protocol](https://github.com/warden-protocol) | A Cosmos SDK Layer 1 with EVM compatibility positioned as a settlement and distribution layer for AI agents. | Cosmos, Ethereum, Base +2 | [⬡ 56](https://satohub.ai/resources/warden-protocol?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — |  |
@@ -500,7 +500,7 @@ broadcasts. [The method](docs/swap.md) · [full rules](https://satohub.ai/docs/s
 |---|---|---|---|---|---|---|
 | [BlockRun MCP](https://github.com/BlockRunAI/blockrun-mcp) | MCP server giving AI agents live data — markets, crypto, research, X — billed per call via x402 micropayments. | Base, Solana | [⬡ 91](https://satohub.ai/resources/blockrun-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 389 | ✓ |
 | [CoinPaprika MCP](https://github.com/coinpaprika/coinpaprika-mcp) | Official CoinPaprika MCP: 30 tools for prices, tickers, OHLCV, and exchange data across 8,000+ coins. | Multichain | [⬡ 88](https://satohub.ai/resources/coinpaprika-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 30 |  |
-| [Vybe Solana MCP](https://github.com/vybenetwork/solana-mcp-vybe) | Hosted Solana MCP from Vybe Network: schema browsing plus live Solana API calls, no local deployment. | Solana | [⬡ 87](https://satohub.ai/resources/vybe-solana-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 2.2k |  |
+| [Vybe Solana MCP](https://github.com/vybenetwork/solana-mcp-vybe) | Hosted Solana MCP from Vybe Network: schema browsing plus live Solana API calls, no local deployment. | Solana | [⬡ 87](https://satohub.ai/resources/vybe-solana-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 2.6k |  |
 | [Boar Blockchain MCP](https://github.com/boar-network/blockchain-mcp) | Blockchain infrastructure MCP from Boar Network, with setup guides and free-tier access paths. | Multichain | [⬡ 85](https://satohub.ai/resources/boar-blockchain-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟠 Quiet | ★ 12 |  |
 | [Bitcoin MCP (Bortlesboat)](https://github.com/Bortlesboat/bitcoin-mcp) | Zero-config Bitcoin data MCP: fees, mempool, blocks, transactions, mining, price, and supply. | Bitcoin | [⬡ 82](https://satohub.ai/resources/bitcoin-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 4 | ✓ |
 | [Coinbase x402 Bazaar (Discovery API + MCP)](https://github.com/coinbase/x402) | Public, keyless catalog of x402 payment-gated services indexed by the CDP facilitator, searchable by intent… | Base | [⬡ 81](https://satohub.ai/resources/coinbase-x402-bazaar?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 178 | ✓ |
@@ -522,12 +522,12 @@ broadcasts. [The method](docs/swap.md) · [full rules](https://satohub.ai/docs/s
 | [Avalanche Builder Hub MCP](https://build.avax.network) | Ava Labs' read-only MCP exposing Builders Hub docs, code search, and Avalanche chain data to AI clients. | Avalanche | [⬡ 65](https://satohub.ai/resources/avalanche-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — |  |
 | [LayerZero Docs MCP](https://layerzero.network) | Official hosted LayerZero documentation MCP: real-time doc search via a single SearchLayerZero tool. | Multichain | [⬡ 65](https://satohub.ai/resources/layerzero-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — |  |
 | [Santiment MCP](https://santiment.net) | Official OAuth-backed Santiment MCP for on-chain, social, and financial crypto metrics. | Multichain | [⬡ 65](https://satohub.ai/resources/santiment-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — |  |
-| [Memecoin Observatory MCP](https://github.com/tony-42069/solana-mcp) | Solana MCP server for memecoin launch detection, whale tracking, and rugpull risk scanning. | Solana | [⬡ 64](https://satohub.ai/resources/memecoin-observatory-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 33 |  |
 | [EVM MCP Server](https://github.com/mcpdotdirect/evm-mcp-server) | MCP server exposing 22 tools across 60+ EVM chains: balances, contracts, token transfers, ENS, block/tx data. | Multichain | [⬡ 62](https://satohub.ai/resources/evm-mcp-server?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟡 Recent | ★ 379 | ✓ |
 | [Robinhood Chain MCP](https://github.com/ExpertVagabond/robinhood-chain-mcp) | MIT stdio MCP server for Robinhood Chain: 105 read/build tools (RPC, precompiles, Stock Tokens, Uniswap v4… | Robinhood Chain | [⬡ 59](https://satohub.ai/resources/robinhood-chain-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟡 Recent | ★ 0 |  |
 | [GoldRush MCP (Covalent)](https://goldrush.dev) | Covalent's official GoldRush MCP: 50+ tools for multichain wallet balances and token data. | Multichain | [⬡ 58](https://satohub.ai/resources/goldrush-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — |  |
 | [Sei MCP](https://www.sei.io) | Official Sei MCP: wallet/account management, SEI transfers, and ERC20/721/1155 token operations. | Sei | [⬡ 57](https://satohub.ai/resources/sei-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — | ✓ |
 | [Hashnet MCP Server](https://github.com/hashgraph-online/hashnet-mcp-js) | Hashgraph Online MCP for agent discovery, chat, registration, workflows, and Hedera agent interactions. | — | [⬡ 55](https://satohub.ai/resources/hashnet-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟡 Recent | ★ 13 |  |
+| [Memecoin Observatory MCP](https://github.com/tony-42069/solana-mcp) | Solana MCP server for memecoin launch detection, whale tracking, and rugpull risk scanning. | Solana | [⬡ 54](https://satohub.ai/resources/memecoin-observatory-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟡 Recent | ★ 33 |  |
 | [Helius MCP](https://www.helius.dev) | Official Helius MCP server for Solana: wallet, asset, transaction, and chain-state tools via npm package. | Solana | [⬡ 50](https://satohub.ai/resources/helius-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — | ✓ |
 | [Erigon MCP](https://erigon.tech) | Open-source MCP built into the Erigon Ethereum client, exposing 40+ read-only JSON-RPC and node-data tools. | Ethereum | [⬡ 46](https://satohub.ai/resources/erigon-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — |  |
 | [Maestro MCP Server](https://github.com/maestro-org/maestro-mcp-server) | Official Maestro Bitcoin MCP: indexer, mempool, price, and node RPC data via hosted mainnet/testnet endpoints. | Bitcoin | [⬡ 40](https://satohub.ai/resources/maestro-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟠 Quiet | ★ 25 |  |
@@ -588,8 +588,8 @@ broadcasts. [The method](docs/swap.md) · [full rules](https://satohub.ai/docs/s
 | [NanoParse](https://github.com/nanoparse-dev/nanoparse-mcp) | NanoParse is an MCP server on Base. | Base | [⬡ 92](https://satohub.ai/resources/nanoparse?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 0 |  |
 | [SODAX Builders MCP](https://github.com/gosodax/builders-sodax-mcp-server) | MCP server giving AI coding agents live access to SODAX's cross-network DeFi API across 20+ chains. | Ethereum, Base, Arbitrum +2 | [⬡ 83](https://satohub.ai/resources/sodax-builders-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 9 | ✓ |
 | [402cron](https://github.com/paranormalen2/402cron-mcp) | 402cron is an MCP server on Base. | Base | [⬡ 83](https://satohub.ai/resources/402cron?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 0 |  |
+| [VeChain MCP Server](https://github.com/vechain/vechain-mcp-server) | Official VeChain MCP server exposing ecosystem resources and VeChain developer workflows to agents. | — | [⬡ 82](https://satohub.ai/resources/vechain-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 5 | ✓ |
 | [402registry](https://github.com/paranormalen2/402registry-mcp) | 402registry is an MCP server on Base. | Base | [⬡ 82](https://satohub.ai/resources/402registry?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 0 |  |
-| [VeChain MCP Server](https://github.com/vechain/vechain-mcp-server) | Official VeChain MCP server exposing ecosystem resources and VeChain developer workflows to agents. | — | [⬡ 81](https://satohub.ai/resources/vechain-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 5 | ✓ |
 | [402post](https://github.com/paranormalen2/402post-mcp) | 402post is an MCP server on Base. | Base | [⬡ 81](https://satohub.ai/resources/402post?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 0 |  |
 | [Klever MCP](https://github.com/klever-io/mcp-klever-vm) | Official MCP server for the Klever blockchain — smart contract development, account/asset queries, and… | — | [⬡ 76](https://satohub.ai/resources/klever-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟠 Quiet | ★ 31 | ✓ |
 | [Hey Research Lab MCP](https://github.com/hey-research-lab/hey-research-open) | Hey Research Lab MCP is an MCP server on Robinhood Chain. | Robinhood Chain | [⬡ 75](https://satohub.ai/resources/hey-research-lab-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 1 |  |
@@ -635,7 +635,7 @@ broadcasts. [The method](docs/swap.md) · [full rules](https://satohub.ai/docs/s
 | Name | What it is | Chains | ⬡ Score | Activity | ★ | ✓ |
 |---|---|---|---|---|---|---|
 | [Bankr](https://github.com/BankrBot/skills) | Crypto execution layer and cross-chain wallet that lets agents and users trade, bridge, and manage assets via… | Base, Ethereum, Polygon +7 | [⬡ 87](https://satohub.ai/resources/bankr?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 1.2k | ✓ |
-| [Trust Wallet Agent Kit (TWAK)](https://github.com/trustwallet/tw-agent-skills) | Non-custodial toolkit from Trust Wallet (MCP server, CLI, and SDK) that lets AI agents read and transact… | Ethereum, Base, Solana +6 | [⬡ 87](https://satohub.ai/resources/trust-wallet-agent-kit?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 110 | ✓ |
+| [Trust Wallet Agent Kit (TWAK)](https://github.com/trustwallet/tw-agent-skills) | Non-custodial toolkit from Trust Wallet (MCP server, CLI, and SDK) that lets AI agents read and transact… | Ethereum, Base, Solana +6 | [⬡ 87](https://satohub.ai/resources/trust-wallet-agent-kit?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 111 | ✓ |
 | [0xGasless AgentKit](https://github.com/0xgasless/agentkit) | Toolkit giving AI agents gasless access to crypto wallets and onchain functionality. | BNB Chain, Avalanche, Base | [⬡ 76](https://satohub.ai/resources/0xgasless-agentkit?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟡 Recent | ★ 417 | ✓ |
 | [Swapper Toolkit](https://github.com/swapperfinance/swapper-toolkit) | DeFi toolkit that gives AI agents and coding assistants wallets to deposit funds, execute trades, and manage… | Ethereum, Base, Arbitrum +5 | [⬡ 70](https://satohub.ai/resources/swapper-toolkit?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟠 Quiet | ★ 852 | ✓ |
 | [MetaMask Agent Wallet](https://github.com/MetaMask/agent-wallet-plugin-template) | Self-custodial MetaMask wallet for AI agents with built-in transaction simulation, threat scanning, and… | Ethereum, Base, Arbitrum +7 | [⬡ 63](https://satohub.ai/resources/metamask-agent-wallet?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟡 Recent | ★ 4 |  |
@@ -657,7 +657,7 @@ broadcasts. [The method](docs/swap.md) · [full rules](https://satohub.ai/docs/s
 | [Privy](https://github.com/privy-io/node-sdk) | Embedded and server wallet infrastructure used to give agents secure key management. | Ethereum, Base, Solana +1 | [⬡ 84](https://satohub.ai/resources/privy?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 3 | ✓ |
 | [Openfort](https://github.com/openfort-xyz/openfort-node) | Wallet infrastructure with agentic backend wallets bound by signing policies, a Node SDK, a CLI, and MCP… | Multichain | [⬡ 70](https://satohub.ai/resources/openfort?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 10 |  |
 | [Agenti](https://github.com/nirholas/agenti) | Gives any AI agent a crypto wallet to pay x402 APIs, receive USDC, and check balances. | Ethereum, Base, Arbitrum +2 | [⬡ 66](https://satohub.ai/resources/agenti?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 82 |  |
-| [Crossmint](https://github.com/Crossmint/crossmint-sdk) | Wallet, stablecoin and card infrastructure for developers, with agent payment products across many… | Multichain | [⬡ 64](https://satohub.ai/resources/crossmint?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 52 |  |
+| [Crossmint](https://github.com/Crossmint/crossmint-sdk) | Wallet, stablecoin and card infrastructure for developers, with agent payment products across many… | Multichain | [⬡ 66](https://satohub.ai/resources/crossmint?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 52 |  |
 | [Circle Agent Stack](https://github.com/circlefin/agent-stack-starter-kits) | Circle's official agent toolkit: Circle CLI, policy-controlled Agent Wallets, gasless USDC Nanopayments, an… | Base, Polygon, Ethereum +5 | [⬡ 59](https://satohub.ai/resources/circle-agent-stack?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟡 Recent | ★ 30 |  |
 | [Cobo Agentic Wallet](https://www.cobo.com/agentic-wallet) | Non-custodial MPC wallet for AI agents with cryptographically enforced human rules, plus a WaaS Skill for… | Ethereum, Solana, Base +3 | [⬡ 48](https://satohub.ai/resources/cobo-agentic-wallet?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — |  |
 
@@ -679,7 +679,7 @@ broadcasts. [The method](docs/swap.md) · [full rules](https://satohub.ai/docs/s
 |---|---|---|---|---|---|---|
 | [Vultisig](https://github.com/vultisig/vultisig-sdk) | Seedless MPC wallet whose vaults are programmable by agents through a TypeScript SDK, a CLI and an MCP… | Bitcoin, Ethereum, Solana +12 | [⬡ 78](https://satohub.ai/resources/vultisig?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 15 |  |
 | [Q402 (Quack AI)](https://github.com/quackai-org/q402-mcp) | Gasless stablecoin payment relay and managed Agent Wallets across 12 EVM chains (EIP-712 + EIP-7702), with an… | BNB Chain, Ethereum, Avalanche +4 | [⬡ 75](https://satohub.ai/resources/q402-quack-ai?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 0 | ✓ |
-| [MetaMask Delegation Framework](https://github.com/MetaMask/delegation-framework) | MetaMask's official smart-account delegation contracts — grant an AI agent scoped, revocable permissions… | Ethereum, Base, Multichain | [⬡ 72](https://satohub.ai/resources/metamask-delegation-framework?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 231 |  |
+| [MetaMask Delegation Framework](https://github.com/MetaMask/delegation-framework) | MetaMask's official smart-account delegation contracts — grant an AI agent scoped, revocable permissions… | Ethereum, Base, Multichain | [⬡ 72](https://satohub.ai/resources/metamask-delegation-framework?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 229 |  |
 | [Metaplex Agent Kit (mpl-agent)](https://github.com/metaplex-foundation/mpl-agent) | Solana program binding a verifiable on-chain identity PDA to an agent, so agents can hold assets without… | Solana | [⬡ 69](https://satohub.ai/resources/metaplex-agent-kit?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 2 | ✓ |
 | [Sato Agent](https://github.com/satohubai/sato-agent) | Open-source kit that gives an always-on agent (built for Grok Bot) its own Base and Solana wallet, with… | Base, Solana | [⬡ 68](https://satohub.ai/resources/sato-agent?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 1 |  |
 | [BotWallet MCP](https://github.com/botwallet-co/mcp) | Non-custodial wallet MCP for AI agents to invoice, get paid, and spend on other agents/APIs, with human-set… | Solana | [⬡ 62](https://satohub.ai/resources/botwallet-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟡 Recent | ★ 4 | ✓ |
@@ -713,16 +713,16 @@ broadcasts. [The method](docs/swap.md) · [full rules](https://satohub.ai/docs/s
 | [Uniswap](https://github.com/Uniswap/sdks) | Leading multichain spot DEX with v4 hooks, official SDKs, and a hosted Trading API. | Ethereum, Base, Arbitrum +4 | [⬡ 83](https://satohub.ai/resources/uniswap?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 138 |  |
 | [NOFX](https://github.com/NoFxAiOS/nofx) | Open-source AI trading terminal: an LLM drives strategy inside hard-coded risk limits across 9 exchanges.… | Hyperliquid, Multichain | [⬡ 82](https://satohub.ai/resources/nofx?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 13.2k |  |
 | [1inch](https://github.com/1inch/sdks) | Multichain DEX aggregator with a developer API suite and an official MCP server for AI-agent swap execution. | Ethereum, Base, Arbitrum +9 | [⬡ 77](https://satohub.ai/resources/1inch?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 60 |  |
-| [Drift Protocol](https://github.com/drift-labs/protocol-v2) | Open-source Solana perpetual futures DEX with TypeScript and Python SDKs and a self-hosted HTTP gateway. | Solana | [⬡ 76](https://satohub.ai/resources/drift-protocol?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟠 Quiet | ★ 409 | ✓ |
+| [Drift Protocol](https://github.com/drift-labs/protocol-v2) | Open-source Solana perpetual futures DEX with TypeScript and Python SDKs and a self-hosted HTTP gateway. | Solana | [⬡ 76](https://satohub.ai/resources/drift-protocol?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟠 Quiet | ★ 410 | ✓ |
 | [Epsilon](https://github.com/alienbase-xyz/epsilon-plugin) | Non-custodial limit, stop-loss, DCA and trailing-stop order venue on Robinhood Chain with a REST API… | Robinhood Chain | [⬡ 76](https://satohub.ai/resources/epsilon?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟡 Recent | ★ 0 |  |
 | [OKX Agent Trade Kit](https://github.com/okx/agent-trade-kit) | OKX's official MCP server and CLI for agents trading OKX spot, swap, futures, options and grid bots. | — | [⬡ 75](https://satohub.ai/resources/okx-agent-trade-kit?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 481 |  |
 | [GMX](https://github.com/gmx-io/gmx-interface) | Decentralized spot and perpetual exchange on Arbitrum and Avalanche with an official SDK and REST API. | Arbitrum, Avalanche, MegaETH +1 | [⬡ 73](https://satohub.ai/resources/gmx?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 235 |  |
 | [Hyperliquid](https://github.com/hyperliquid-dex/node) | Onchain perpetual futures and spot DEX running on its own L1 with an HyperEVM smart-contract layer. | Multichain, Hyperliquid | [⬡ 72](https://satohub.ai/resources/hyperliquid?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟠 Quiet | ★ 514 | ✓ |
 | [Jupiter](https://github.com/jup-ag/jupiter-swap-api-client) | Solana swap aggregator that routes trades across DEXs via a widely used API and SDKs. | Solana | [⬡ 72](https://satohub.ai/resources/jupiter-aggregator?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟠 Quiet | ★ 203 | ✓ |
+| [Polymarket](https://github.com/Polymarket/py-clob-client-v2) | Prediction market on Polygon with a public CLOB trading API, official V2 SDKs and a builder program for apps… | Polygon | [⬡ 68](https://satohub.ai/resources/polymarket?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 168 |  |
 | [Simmer](https://github.com/SpartanLabsXyz/simmer-sdk) | Prediction-market harness for agents: one SDK, MCP server and skill catalogue to trade Polymarket and Kalshi… | Polygon | [⬡ 68](https://satohub.ai/resources/simmer?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 52 |  |
-| [Polymarket](https://github.com/Polymarket/py-clob-client-v2) | Prediction market on Polygon with a public CLOB trading API, official V2 SDKs and a builder program for apps… | Polygon | [⬡ 66](https://satohub.ai/resources/polymarket?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 168 |  |
+| [Limitless Exchange](https://github.com/limitless-labs-group/limitless-exchange-ts-sdk) | Prediction market on Base with a central limit order book, multi-outcome NegRisk markets and a TypeScript SDK. | Base | [⬡ 65](https://satohub.ai/resources/limitless-exchange?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 7 |  |
 | [CoW Protocol](https://github.com/cowprotocol) | Intent-based trading protocol with batch-auction solvers, MEV protection, and a developer API and SDK. | Ethereum, Base, Arbitrum +1 | [⬡ 65](https://satohub.ai/resources/cow-protocol?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — |  |
-| [Limitless Exchange](https://github.com/limitless-labs-group/limitless-exchange-ts-sdk) | Prediction market on Base with a central limit order book, multi-outcome NegRisk markets and a TypeScript SDK. | Base | [⬡ 63](https://satohub.ai/resources/limitless-exchange?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 7 |  |
 | [Aerodrome](https://github.com/aerodrome-finance) | Spot DEX and liquidity marketplace on Base, with open-source contracts and third-party swap APIs/SDKs. | Base | [⬡ 58](https://satohub.ai/resources/aerodrome-finance?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — |  |
 | [Paradex](https://www.paradex.trade/) | Perpetuals (and options) DEX built as a Starknet appchain with REST/WebSocket APIs and SDK tooling. | Ethereum, Multichain | [⬡ 55](https://satohub.ai/resources/paradex?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — | ✓ |
 | [Carbon DeFi](https://www.carbondefi.xyz/) | An on-chain trading protocol for automated, adjustable limit, range, and recurring orders that execute fully… | Ethereum, COTI | [⬡ 50](https://satohub.ai/resources/carbon-defi?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — |  |
@@ -731,9 +731,9 @@ broadcasts. [The method](docs/swap.md) · [full rules](https://satohub.ai/docs/s
 | [Aevo](https://www.aevo.xyz/) | Decentralized options and perpetuals exchange on a custom OP Stack L2 with REST and WebSocket APIs. | Optimism, Ethereum | [⬡ 46](https://satohub.ai/resources/aevo?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — |  |
 | [Tradoor](https://tradoor.io/) | A decentralized options and perpetuals exchange on TON and BNB Chain with an optional AI trading-assistant… | BNB Chain, Multichain, TON | [⬡ 45](https://satohub.ai/resources/tradoor?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — |  |
 | [Hydrex](https://www.hydrex.fi/) | Base MetaDEX and liquidity hub where users lock HYDX for vote-escrowed governance and deposit single-sided… | Base | [⬡ 44](https://satohub.ai/resources/hydrex?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — |  |
+| [Kalshi API](https://kalshi.com) | Trading API for the Kalshi exchange with REST, WebSocket and FIX access to event contracts and perpetual… | — | [⬡ 44](https://satohub.ai/resources/kalshi-api?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — |  |
 | [Flap](https://flap.sh) | A one-click token launch and trading platform whose skill lets agents launch tokens, provide liquidity, and… | BNB Chain, Robinhood Chain | [⬡ 44](https://satohub.ai/resources/flap?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — |  |
 | [Definitive](https://www.definitive.fi/) | A non-custodial trading platform and API offering algorithmic order types (TWAP, limit, stop) with smart… | Solana, Base, Ethereum +6 | [⬡ 42](https://satohub.ai/resources/definitive-fi?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — |  |
-| [Kalshi API](https://kalshi.com) | Trading API for the Kalshi exchange with REST, WebSocket and FIX access to event contracts and perpetual… | — | [⬡ 42](https://satohub.ai/resources/kalshi-api?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — |  |
 | [Arcus](https://arcus.xyz/) | Stock-token spot and perpetuals DEX on Robinhood Chain from the dYdX team, with REST/WebSocket trading APIs… | Robinhood Chain | [⬡ 39](https://satohub.ai/resources/arcus?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — |  |
 | [Maestro (Telegram trading bot)](https://www.maestrobots.com/) | Telegram trading and sniper bot with custodial in-chat wallets; its own site lists Robinhood Chain among… | Robinhood Chain, Ethereum, BNB Chain +7 | [⬡ 39](https://satohub.ai/resources/maestro-bot?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — |  |
 | [Megapot](https://megapot.io/) | Permissionless on-chain lottery on Base where players buy stablecoin tickets for provably-fair draws and… | Base | [⬡ 37](https://satohub.ai/resources/megapot?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — |  |
@@ -778,7 +778,7 @@ broadcasts. [The method](docs/swap.md) · [full rules](https://satohub.ai/docs/s
 <a id="data--apis"></a>
 <img src="assets/headers/data--apis.svg" alt="Data & APIs" width="920">
 
-<sub>**83** entries · market data, chain data, and SDKs that feed agent decisions · Related: [MCP Servers](#mcp-servers) · [Trading & DeFi](#trading--defi) · [Browse + filter on satohub.ai →](https://satohub.ai/directory?category=Data%20Tool&utm_source=github&utm_medium=index&utm_campaign=onchain-agents)</sub>
+<sub>**84** entries · market data, chain data, and SDKs that feed agent decisions · Related: [MCP Servers](#mcp-servers) · [Trading & DeFi](#trading--defi) · [Browse + filter on satohub.ai →](https://satohub.ai/directory?category=Data%20Tool&utm_source=github&utm_medium=index&utm_campaign=onchain-agents)</sub>
 
 <a id="data--apis-trading--defi"></a>
 #### Trading & DeFi (24)
@@ -786,13 +786,13 @@ broadcasts. [The method](docs/swap.md) · [full rules](https://satohub.ai/docs/s
 | Name | What it is | Chains | ⬡ Score | Activity | ★ | ✓ |
 |---|---|---|---|---|---|---|
 | [cryptocurrency.cv](https://github.com/nirholas/cryptocurrency.cv) | Free, key-less crypto news and market-data API aggregating Bitcoin, Ethereum, Solana, and DeFi. | — | [⬡ 87](https://satohub.ai/resources/cryptocurrency-cv?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 333 |  |
-| [Zerion](https://github.com/zeriontech/zerion-ai) | Wallet and DeFi data provider offering portfolio, positions, transactions, PnL, and prices across many… | Ethereum, Base, Arbitrum +8 | [⬡ 85](https://satohub.ai/resources/zerion?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 69 | ✓ |
 | [DefiLlama](https://github.com/DefiLlama/DefiLlama-Adapters) | Open DeFi analytics dashboard and free API tracking TVL, fees, revenue, volume, and yields across many chains… | Ethereum, Base, Solana +6 | [⬡ 82](https://satohub.ai/resources/defillama?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 1.3k | ✓ |
 | [Nansen](https://github.com/nansen-ai/nansen-cli) | Onchain analytics platform with wallet labeling and smart-money tracking, offering an API with key-based and… | Ethereum, Base, Solana +4 | [⬡ 82](https://satohub.ai/resources/nansen?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 148 | ✓ |
 | [OpenSea Agent Skill](https://github.com/ProjectOpenSea/opensea-skill) | Official OpenSea agent skill and MCP server letting AI agents query NFT/token data and execute marketplace… | Ethereum, Base, Solana +3 | [⬡ 81](https://satohub.ai/resources/opensea-agent-skill?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 53 |  |
 | [Enso](https://github.com/EnsoBuild/sdk-ts) | An intent-based onchain execution engine and API that lets developers and agents bundle multi-step DeFi… | Ethereum, Base, Arbitrum +3 | [⬡ 80](https://satohub.ai/resources/enso-shortcuts?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 2 | ✓ |
 | [NEAR Intents 1Click API (+ MPP payment method)](https://github.com/defuse-protocol/nearintents-mpp-sdk) | Cross-chain swap/settlement API solved by the NEAR Intents solver network; also an MPP payment method so… | Near, Ethereum, Bitcoin +5 | [⬡ 80](https://satohub.ai/resources/near-intents-1click?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 1 |  |
 | [Hyperliquid Python SDK](https://github.com/hyperliquid-dex/hyperliquid-python-sdk) | The official open-source Python SDK for programmatic trading on the Hyperliquid perpetuals DEX. | Arbitrum, Multichain, Hyperliquid | [⬡ 76](https://satohub.ai/resources/hyperliquid-python-sdk?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟠 Quiet | ★ 1.9k | ✓ |
+| [Zerion](https://github.com/zeriontech/zerion-ai) | Wallet and DeFi data provider offering portfolio, positions, transactions, PnL, and prices across many… | Ethereum, Base, Arbitrum +8 | [⬡ 75](https://satohub.ai/resources/zerion?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟡 Recent | ★ 69 | ✓ |
 | [Agentic Commerce Protocol (ACP)](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol) | Open standard maintained by OpenAI and Stripe for connecting buyers, their AI agents, and businesses to… | — | [⬡ 72](https://satohub.ai/resources/agentic-commerce-protocol-acp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟠 Quiet | ★ 1.6k |  |
 | [MadeOnSol](https://github.com/MadeOnSol/mcp-server-robinhood-chain) | Trading-intelligence API for Robinhood Chain and Solana (KOL trades, DEX tape, deployer reputation) with MCP… | Robinhood Chain, Solana | [⬡ 72](https://satohub.ai/resources/madeonsol?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 0 |  |
 | [Massive (formerly Polygon.io)](https://github.com/massive-com/mcp_massive) | US stock market data API (formerly Polygon.io); agents buy it per request over x402 at agent.massive.com with… | Base | [⬡ 71](https://satohub.ai/resources/massive?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 400 |  |
@@ -817,15 +817,15 @@ broadcasts. [The method](docs/swap.md) · [full rules](https://satohub.ai/docs/s
 |---|---|---|---|---|---|---|
 | [World AgentKit](https://github.com/worldcoin/agentkit) | SDK from World (Tools for Humanity) that lets AI agents present a zero-knowledge proof a verified human… | Base | [⬡ 86](https://satohub.ai/resources/world-agentkit?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 24 | ✓ |
 | [Exa](https://github.com/exa-labs/exa-mcp-server) | Web search and content-retrieval API built for AI; /search and /contents can be paid per request over x402. | Base, Solana | [⬡ 83](https://satohub.ai/resources/exa?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 5.2k |  |
-| [MPP Services Directory](https://github.com/wevm/mppx) | Official Machine Payments Protocol catalog of payment-enabled services, with a web directory, JSON API and… | — | [⬡ 74](https://satohub.ai/resources/mpp-services-directory?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 189 |  |
+| [MPP Services Directory](https://github.com/wevm/mppx) | Official Machine Payments Protocol catalog of payment-enabled services, with a web directory, JSON API and… | — | [⬡ 76](https://satohub.ai/resources/mpp-services-directory?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 189 |  |
 | [Neynar](https://github.com/neynarxyz) | Farcaster developer platform providing APIs, SDKs, webhooks, and an agent skill for building and deploying… | Base, Ethereum | [⬡ 69](https://satohub.ai/resources/neynar?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — | ✓ |
 | [Alchemy](https://github.com/alchemyplatform) | A blockchain developer platform providing node infrastructure plus NFT, Token, and Transfers APIs and SDKs… | Ethereum, Base, Solana +5 | [⬡ 68](https://satohub.ai/resources/alchemy?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — | ✓ |
 | [peaq](https://github.com/peaqnetwork) | DePIN infrastructure providing agents with identity, wallets, and pay-per-request onchain settlement, with… | Multichain | [⬡ 68](https://satohub.ai/resources/peaq?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — | ✓ |
 | [PMXT](https://github.com/pmxt-dev/pmxt) | Open-source unified prediction-market API with a hosted MCP: market search, events, order books, and prices… | Multichain | [⬡ 66](https://satohub.ai/resources/pmxt?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟡 Recent | ★ 2.2k | ✓ |
 | [QuickNode](https://github.com/quiknode-labs) | RPC infrastructure provider offering endpoints, Streams, and indexing tools across many blockchain networks. | Ethereum, Base, Solana +9 | [⬡ 66](https://satohub.ai/resources/quicknode?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — |  |
 | [Chainbase](https://github.com/chainbase-labs) | An onchain data network providing structured, AI-ready blockchain data across many chains, with API, CLI… | Ethereum, Base, Solana +5 | [⬡ 42](https://satohub.ai/resources/chainbase?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — |  |
+| [The Graph Subgraph Gateway (x402)](https://thegraph.com) | Pay-per-query access to subgraphs on The Graph Network over x402, paid in USDC on Base with no API key. | Base, Multichain | [⬡ 41](https://satohub.ai/resources/the-graph-x402?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — |  |
 | [OneSource](https://onesource.io) | Agent-native blockchain data API: single-purpose REST 'Skills', an MCP server (@one-source/mcp) and an M10… | Ethereum, Robinhood Chain | [⬡ 40](https://satohub.ai/resources/onesource?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — |  |
-| [The Graph Subgraph Gateway (x402)](https://thegraph.com) | Pay-per-query access to subgraphs on The Graph Network over x402, paid in USDC on Base with no API key. | Base, Multichain | [⬡ 39](https://satohub.ai/resources/the-graph-x402?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — |  |
 | [Bankless Claimables API](https://www.bankless.com/claimables) | REST API that returns the unclaimed airdrops, rewards and claimables for one wallet address across EVM… | Ethereum, Base, Arbitrum +5 | [⬡ 34](https://satohub.ai/resources/bankless-claimables-api?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — |  |
 | [Galxe Quest API](https://www.galxe.com/) | GraphQL API over Galxe quests and campaigns — the task layer most airdrop-eligibility programs are run on… | Multichain | [⬡ 34](https://satohub.ai/resources/galxe-quest-api?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — |  |
 | [x402scan](https://www.x402scan.com) | Explorer for the x402 ecosystem: transactions, sellers, origins, and resources across agentic commerce. | Base | [⬡ 31](https://satohub.ai/resources/x402scan?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — |  |
@@ -862,13 +862,13 @@ broadcasts. [The method](docs/swap.md) · [full rules](https://satohub.ai/docs/s
 
 | Name | What it is | Chains | ⬡ Score | Activity | ★ | ✓ |
 |---|---|---|---|---|---|---|
-| [MorpheusAI](https://github.com/MorpheusAIs/Morpheus-Lumerin-Node) | Decentralized AI inference network with an OpenAI-compatible Inference API and open-source consumer and… | Base | [⬡ 72](https://satohub.ai/resources/morpheus-ai?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 24 |  |
-| [OpenRouter](https://github.com/OpenRouterTeam/ai-sdk-provider) | One OpenAI-compatible API for many LLMs with routing, fallbacks and cost tracking across providers. | — | [⬡ 68](https://satohub.ai/resources/openrouter?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 695 |  |
-| [Chutes](https://github.com/chutesai/chutes) | Serverless platform to deploy and call open-source AI models through an OpenAI-style API, run as Bittensor… | — | [⬡ 51](https://satohub.ai/resources/chutes-ai?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟠 Quiet | ★ 90 |  |
-| [AkashML](https://akashml.com) | OpenAI-compatible AI inference service running open models on Akash Network decentralized compute. | — | [⬡ 27](https://satohub.ai/resources/akashml?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — |  |
+| [MorpheusAI](https://github.com/MorpheusAIs/Morpheus-Lumerin-Node) | Decentralized AI inference network with an OpenAI-compatible Inference API and open-source consumer and… | Base | [⬡ 74](https://satohub.ai/resources/morpheus-ai?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 24 |  |
+| [OpenRouter](https://github.com/OpenRouterTeam/ai-sdk-provider) | One OpenAI-compatible API for many LLMs with routing, fallbacks and cost tracking across providers. | — | [⬡ 70](https://satohub.ai/resources/openrouter?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 695 |  |
+| [Chutes](https://github.com/chutesai/chutes) | Serverless platform to deploy and call open-source AI models through an OpenAI-style API, run as Bittensor… | — | [⬡ 53](https://satohub.ai/resources/chutes-ai?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟠 Quiet | ★ 90 |  |
+| [AkashML](https://akashml.com) | OpenAI-compatible AI inference service running open models on Akash Network decentralized compute. | — | [⬡ 29](https://satohub.ai/resources/akashml?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — |  |
 
 <a id="data--apis-general"></a>
-#### General (32)
+#### General (33)
 
 | Name | What it is | Chains | ⬡ Score | Activity | ★ | ✓ |
 |---|---|---|---|---|---|---|
@@ -878,6 +878,7 @@ broadcasts. [The method](docs/swap.md) · [full rules](https://satohub.ai/docs/s
 | [graph-aave-mcp](https://github.com/PaulieB14/graph-aave-mcp) | MCP server querying Aave V2/V3/V4 lending and governance data across 7 chains via The Graph. | Ethereum, Base, Arbitrum +3 | [⬡ 68](https://satohub.ai/resources/graph-aave-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 2 | ✓ |
 | [CabalSpy Wallet Tracker](https://github.com/CabalSpy/CabalSpy-MCP-Server) | Multi-chain API tracking 1,600+ labeled KOL, smart-money, and whale wallets, with an MCP server. | Solana, BNB Chain, Base +2 | [⬡ 68](https://satohub.ai/resources/cabalspy-wallet-tracker?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 0 |  |
 | [OnchainKit](https://github.com/coinbase/onchainkit) | Coinbase's React component and TypeScript SDK library for building onchain apps and mini-apps on Base. | Base | [⬡ 66](https://satohub.ai/resources/onchainkit?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟡 Recent | ★ 1.0k |  |
+| [Siebly Hyperliquid JavaScript SDK](https://github.com/sieblyio/hyperliquid-api) | Siebly Hyperliquid JavaScript SDK is an API and SDK on Hyperliquid. | Hyperliquid | [⬡ 64](https://satohub.ai/resources/siebly-hyperliquid-javascript-sdk?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 4 |  |
 | [Gloria MCP](https://github.com/cryptobriefing/gloria-mcp) | MCP server for Gloria AI's curated crypto news feed — sentiment-tagged headlines, recaps, and search for… | Base | [⬡ 64](https://satohub.ai/resources/gloria-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 1 |  |
 | [x402-ping](https://github.com/filip-study/x402-ping) | x402-ping is a API and SDK on Base. | Base | [⬡ 62](https://satohub.ai/resources/x402-ping?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟡 Recent | ★ 0 |  |
 | [SQD Portal MCP](https://github.com/subsquid-labs/portal-mcp-server) | Official MCP server from Subsquid (SQD) exposing its Portal API for querying onchain data across five chain… | Multichain, Solana, Bitcoin +1 | [⬡ 61](https://satohub.ai/resources/sqd-portal-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 2 |  |
@@ -918,7 +919,7 @@ broadcasts. [The method](docs/swap.md) · [full rules](https://satohub.ai/docs/s
 | Name | What it is | Chains | ⬡ Score | Activity | ★ | ✓ |
 |---|---|---|---|---|---|---|
 | [Coinbase AgentKit](https://github.com/coinbase/agentkit) | Coinbase's toolkit for giving AI agents wallets and the ability to take onchain actions. | Base, Ethereum, Multichain | [⬡ 91](https://satohub.ai/resources/coinbase-agentkit?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 1.4k | ✓ |
-| [Model Context Protocol (MCP)](https://github.com/modelcontextprotocol/modelcontextprotocol) | Anthropic's open standard for connecting AI systems to external tools and data sources. | — | [⬡ 87](https://satohub.ai/resources/model-context-protocol?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 9.6k |  |
+| [Model Context Protocol (MCP)](https://github.com/modelcontextprotocol/modelcontextprotocol) | Anthropic's open standard for connecting AI systems to external tools and data sources. | — | [⬡ 87](https://satohub.ai/resources/model-context-protocol?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 9.7k |  |
 | [Universal Contract AI Interface (UCAI)](https://github.com/nirholas/UCAI) | ABI-to-MCP generator: turns any smart contract ABI into an MCP server agents can call. | Multichain | [⬡ 85](https://satohub.ai/resources/ucai?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 38 | ✓ |
 | [TradeMemory Protocol](https://github.com/mnemox-ai/tradememory-protocol) | Decision audit trail and persistent memory for AI trading agents, with tamper-evident recall. | — | [⬡ 79](https://satohub.ai/resources/tradememory-protocol?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 1.4k | ✓ |
 | [Kraken CLI](https://github.com/krakenfx/kraken-cli) | Official Kraken CLI with a built-in MCP server for spot, futures, forex, and tokenized stock trading. | — | [⬡ 75](https://satohub.ai/resources/kraken-cli?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 767 |  |
@@ -929,12 +930,12 @@ broadcasts. [The method](docs/swap.md) · [full rules](https://satohub.ai/docs/s
 
 | Name | What it is | Chains | ⬡ Score | Activity | ★ | ✓ |
 |---|---|---|---|---|---|---|
+| [Tempo](https://github.com/tempoxyz/tempo) | Purpose-built blockchain for stablecoin payments, with docs, SDKs, a docs MCP server and Machine Payments… | — | [⬡ 86](https://satohub.ai/resources/tempo-blockchain?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 1.0k |  |
 | [ClawRouter (BlockRun)](https://github.com/BlockRunAI/ClawRouter) | Local LLM router for agents: routes each request to the cheapest capable model across 78 models, paid with… | Base, Solana | [⬡ 84](https://satohub.ai/resources/clawrouter?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 6.7k |  |
-| [Tempo](https://github.com/tempoxyz/tempo) | Purpose-built blockchain for stablecoin payments, with docs, SDKs, a docs MCP server and Machine Payments… | — | [⬡ 84](https://satohub.ai/resources/tempo-blockchain?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 1.0k |  |
 | [Arc (Circle)](https://github.com/circlefin/arc-node) | Circle's EVM-compatible L1 with USDC as gas, live on mainnet since Sep 16, 2026. It is positioned for… | — | [⬡ 67](https://satohub.ai/resources/arc?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 203 |  |
-| [MergePay](https://github.com/codeswithroh/mergepay) | USDC bounties on GitHub issues, paid when a PR merges, with GitHub's signature checked by a contract on Arc. | — | [⬡ 64](https://satohub.ai/resources/mergepay?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟡 Recent | ★ 0 |  |
+| [OpenGradient](https://github.com/OpenGradient/OpenGradient-SDK) | Network and Python SDK for verifiable AI inference, a model hub and LLM calls paid through x402. | — | [⬡ 56](https://satohub.ai/resources/opengradient?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟡 Recent | ★ 98 |  |
 | [BountyPay](https://github.com/lucci-xyz/bounty) | GitHub App that escrows USDC on Base (or MUSD on Mezo) against an issue and pays the contributor when the… | Base | [⬡ 55](https://satohub.ai/resources/bountypay?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 3 |  |
-| [OpenGradient](https://github.com/OpenGradient/OpenGradient-SDK) | Network and Python SDK for verifiable AI inference, a model hub and LLM calls paid through x402. | — | [⬡ 54](https://satohub.ai/resources/opengradient?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟡 Recent | ★ 98 |  |
+| [MergePay](https://github.com/codeswithroh/mergepay) | USDC bounties on GitHub issues, paid when a PR merges, with GitHub's signature checked by a contract on Arc. | — | [⬡ 54](https://satohub.ai/resources/mergepay?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟡 Recent | ★ 0 |  |
 | [0xWork](https://www.0xwork.org/) | Base-based marketplace where humans and AI agents post and complete tasks, with USDC locked in on-chain… | Base | [⬡ 44](https://satohub.ai/resources/0xwork?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — | ✓ |
 | [XRPL AI Starter Kit](https://ripple.com/insights/xrpl-ai-starter-kit/) | Ripple's starter kit for building agentic payment apps on the XRP Ledger, with x402 payments in XRP and… | XRP Ledger | [⬡ 43](https://satohub.ai/resources/xrpl-ai-starter-kit?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — |  |
 | [x402 Preflight](https://x402.chikocorp.com) | Read-only checks for x402 sellers: probes a live endpoint's HTTP 402 payment challenge, discovery metadata… | Base | [⬡ 34](https://satohub.ai/resources/x402-preflight?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — |  |
@@ -945,9 +946,9 @@ broadcasts. [The method](docs/swap.md) · [full rules](https://satohub.ai/docs/s
 | Name | What it is | Chains | ⬡ Score | Activity | ★ | ✓ |
 |---|---|---|---|---|---|---|
 | [AgentNode](https://github.com/agentnode-ai/agentnode) | An open package registry where AI agents detect missing capabilities and install trust-scored skills on… | — | [⬡ 75](https://satohub.ai/resources/agentnode?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 4 |  |
-| [Solana Attestation Service](https://github.com/solana-foundation/solana-attestation-service) | Public-good Solana program for attaching verifiable off-chain claims to onchain accounts, with TypeScript and… | Solana | [⬡ 68](https://satohub.ai/resources/solana-attestation-service?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 75 |  |
+| [Solana Attestation Service](https://github.com/solana-foundation/solana-attestation-service) | Public-good Solana program for attaching verifiable off-chain claims to onchain accounts, with TypeScript and… | Solana | [⬡ 70](https://satohub.ai/resources/solana-attestation-service?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 75 |  |
 | [Pinata ERC-8004](https://github.com/PinataCloud/erc8004) | CLI wizard and scripts that register and update an agent's ERC-8004 identity, with the agent card stored as… | Ethereum, Base, Polygon +2 | [⬡ 63](https://satohub.ai/resources/pinata-erc8004?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟠 Quiet | ★ 0 |  |
-| [Ethereum Attestation Service](https://github.com/ethereum-attestation-service/eas-sdk) | Open-source attestation infrastructure for signing and verifying structured data, with contracts, a… | Ethereum, Multichain | [⬡ 58](https://satohub.ai/resources/ethereum-attestation-service?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟡 Recent | ★ 145 |  |
+| [Ethereum Attestation Service](https://github.com/ethereum-attestation-service/eas-sdk) | Open-source attestation infrastructure for signing and verifying structured data, with contracts, a… | Ethereum, Multichain | [⬡ 60](https://satohub.ai/resources/ethereum-attestation-service?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟡 Recent | ★ 145 |  |
 | [create-8004-agent](https://github.com/Eversmile12/create-8004-agent) | npx CLI that scaffolds an ERC-8004 agent project with A2A and MCP servers and optional x402 payments, for EVM… | Ethereum, Base, Solana +1 | [⬡ 49](https://satohub.ai/resources/create-8004-agent?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟠 Quiet | ★ 50 |  |
 | [Sato OS](https://satohub.ai/os) | Self-hosted control plane for onchain agents: sealed local wallet, ERC-7715 session grants with… | Base, Ethereum, Solana +3 | [⬡ 49](https://satohub.ai/resources/sato-os?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — |  |
 | [ERC-8004 Registry Contracts](https://github.com/erc-8004/erc-8004-contracts) | Reference Identity and Reputation registry contracts for ERC-8004, with ABIs and a per-chain deployment… | Ethereum, Base, Multichain | [⬡ 45](https://satohub.ai/resources/erc-8004-contracts?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟡 Recent | ★ 240 |  |
@@ -958,11 +959,11 @@ broadcasts. [The method](docs/swap.md) · [full rules](https://satohub.ai/docs/s
 | Name | What it is | Chains | ⬡ Score | Activity | ★ | ✓ |
 |---|---|---|---|---|---|---|
 | [AG Kit](https://github.com/vudovn/ag-kit) | An AI agent toolkit of markdown-based templates for Skills, Agents, and Workflows, with a coordinator mode… | — | [⬡ 75](https://satohub.ai/resources/ag-kit?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 8.2k |  |
-| [dstack](https://github.com/Dstack-TEE/dstack) | Open-source runtime for running apps and agents in confidential VMs, with attested deployment, key release… | — | [⬡ 73](https://satohub.ai/resources/dstack-tee?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 572 |  |
-| [Phala Cloud](https://github.com/Phala-Network/phala-cloud) | Cloud for running agents, private LLM inference and GPU jobs inside TEE confidential VMs, with CLI, SDK and… | — | [⬡ 69](https://satohub.ai/resources/phala-cloud?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 33 |  |
-| [Marlin Oyster](https://github.com/marlinprotocol/oyster-monorepo) | Marlin sub-network that rents TEE-backed confidential VMs and runs serverless tasks, with attestation and key… | — | [⬡ 47](https://satohub.ai/resources/marlin-oyster?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟠 Quiet | ★ 81 |  |
-| [Lagrange DeepProve](https://github.com/Lagrange-Labs/deep-prove) | Rust framework that produces zero-knowledge proofs of neural network inference, including LLM forward passes. | — | [⬡ 44](https://satohub.ai/resources/lagrange-deepprove?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟠 Quiet | ★ 3.4k |  |
-| [Oasis ROFL](https://oasis.net/ai-agents) | Oasis framework for running containerised apps and AI agents inside TEEs on a permissionless node pool… | — | [⬡ 36](https://satohub.ai/resources/oasis-rofl?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — |  |
+| [dstack](https://github.com/Dstack-TEE/dstack) | Open-source runtime for running apps and agents in confidential VMs, with attested deployment, key release… | — | [⬡ 75](https://satohub.ai/resources/dstack-tee?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 572 |  |
+| [Phala Cloud](https://github.com/Phala-Network/phala-cloud) | Cloud for running agents, private LLM inference and GPU jobs inside TEE confidential VMs, with CLI, SDK and… | — | [⬡ 71](https://satohub.ai/resources/phala-cloud?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 33 |  |
+| [Marlin Oyster](https://github.com/marlinprotocol/oyster-monorepo) | Marlin sub-network that rents TEE-backed confidential VMs and runs serverless tasks, with attestation and key… | — | [⬡ 49](https://satohub.ai/resources/marlin-oyster?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟠 Quiet | ★ 81 |  |
+| [Lagrange DeepProve](https://github.com/Lagrange-Labs/deep-prove) | Rust framework that produces zero-knowledge proofs of neural network inference, including LLM forward passes. | — | [⬡ 46](https://satohub.ai/resources/lagrange-deepprove?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟠 Quiet | ★ 3.4k |  |
+| [Oasis ROFL](https://oasis.net/ai-agents) | Oasis framework for running containerised apps and AI agents inside TEEs on a permissionless node pool… | — | [⬡ 38](https://satohub.ai/resources/oasis-rofl?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — |  |
 
 <a id="developer-tools-build--infra"></a>
 #### Build & Infra (3)
@@ -970,8 +971,8 @@ broadcasts. [The method](docs/swap.md) · [full rules](https://satohub.ai/docs/s
 | Name | What it is | Chains | ⬡ Score | Activity | ★ | ✓ |
 |---|---|---|---|---|---|---|
 | [MCP Reference Servers](https://github.com/modelcontextprotocol/servers) | Anthropic's official collection of reference Model Context Protocol server implementations across languages. | — | [⬡ 72](https://satohub.ai/resources/mcp-reference-servers?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 91.8k | ✓ |
-| [Doppler Protocol](https://github.com/whetstoneresearch/doppler) | Onchain protocol and TypeScript SDK for launching tokens through price-discovery auctions, built by Whetstone… | Base | [⬡ 54](https://satohub.ai/resources/doppler-protocol?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟡 Recent | ★ 105 |  |
-| [NodeOps (CreateOS)](https://nodeops.network) | A deployment platform whose CreateOS skills let AI coding tools deploy and manage apps without manual DevOps. | — | [⬡ 35](https://satohub.ai/resources/nodeops-createos?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — |  |
+| [Doppler Protocol](https://github.com/whetstoneresearch/doppler) | Onchain protocol and TypeScript SDK for launching tokens through price-discovery auctions, built by Whetstone… | Base | [⬡ 56](https://satohub.ai/resources/doppler-protocol?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟡 Recent | ★ 105 |  |
+| [NodeOps (CreateOS)](https://nodeops.network) | A deployment platform whose CreateOS skills let AI coding tools deploy and manage apps without manual DevOps. | — | [⬡ 46](https://satohub.ai/resources/nodeops-createos?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — |  |
 
 <a id="developer-tools-general"></a>
 #### General (8)
@@ -979,11 +980,11 @@ broadcasts. [The method](docs/swap.md) · [full rules](https://satohub.ai/docs/s
 | Name | What it is | Chains | ⬡ Score | Activity | ★ | ✓ |
 |---|---|---|---|---|---|---|
 | [RARE Protocol](https://github.com/superrare/rare-cli) | CLI toolkit for deploying NFT collections, minting, and running SuperRare-integrated auctions. | Ethereum, Base | [⬡ 75](https://satohub.ai/resources/rare-protocol?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 0 | ✓ |
-| [Unbrowse](https://github.com/unbrowse-ai/unbrowse) | API-native browser skill/CLI/MCP/SDK that auto-discovers APIs from browser traffic so agents skip DOM… | Solana | [⬡ 72](https://satohub.ai/resources/unbrowse?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 849 | ✓ |
+| [Unbrowse](https://github.com/unbrowse-ai/unbrowse) | API-native browser skill/CLI/MCP/SDK that auto-discovers APIs from browser traffic so agents skip DOM… | Solana | [⬡ 72](https://satohub.ai/resources/unbrowse?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 920 | ✓ |
 | [Yelden (YAAF)](https://github.com/yeldenfund/yaaf) | Open-source scoring engine and on-chain registry on Polygon that rates autonomous trading agents from their… | Polygon | [⬡ 63](https://satohub.ai/resources/yelden-yaaf?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 0 |  |
 | [create-solana-agent](https://github.com/sendaifun/create-solana-agent) | SendAI scaffolding CLI (npx create-solana-agent) for spinning up an LLM-powered chat agent wired to Solana… | Solana | [⬡ 56](https://satohub.ai/resources/create-solana-agent?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | ⚪ Dormant | ★ 26 |  |
 | [x402 AI Starter](https://github.com/vercel-labs/x402-ai-starter) | Vercel Labs' reference Next.js template wiring the x402 payment protocol into the AI SDK and MCP for paying… | Base | [⬡ 55](https://satohub.ai/resources/x402-ai-starter?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟠 Quiet | ★ 72 |  |
-| [x402-proxy](https://github.com/cascade-protocol/x402-proxy) | CLI and MCP proxy that auto-pays x402/MPP-gated endpoints on Base, Solana, Monad, and Tempo from one mnemonic. | Base, Solana, Monad | [⬡ 53](https://satohub.ai/resources/x402-proxy-cascade?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟡 Recent | ★ 10 |  |
+| [x402-proxy](https://github.com/cascade-protocol/x402-proxy) | CLI and MCP proxy that auto-pays x402/MPP-gated endpoints on Base, Solana, Monad, and Tempo from one mnemonic. | Base, Solana, Monad | [⬡ 53](https://satohub.ai/resources/x402-proxy-cascade?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟠 Quiet | ★ 10 |  |
 | [ZetaChain CLI](https://github.com/zeta-chain/cli) | Official ZetaChain CLI with MCP installation support for universal smart-contract workflows across connected… | Multichain | [⬡ 50](https://satohub.ai/resources/zetachain-cli?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟠 Quiet | ★ 6 |  |
 | [Dialect](https://dialect.to) | SDK/API stack for Solana Blinks (link-to-transaction actions) plus multi-channel onchain alerts and… | Solana, Ethereum, Monad | [⬡ 24](https://satohub.ai/resources/dialect?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — |  |
 
@@ -992,7 +993,7 @@ broadcasts. [The method](docs/swap.md) · [full rules](https://satohub.ai/docs/s
 <a id="skills--plugins"></a>
 <img src="assets/headers/skills--plugins.svg" alt="Skills & Plugins" width="920">
 
-<sub>**31** entries · reusable skill packs and plugins that teach agents new tricks · Related: [MCP Servers](#mcp-servers) · [Agent Frameworks](#agent-frameworks) · [Browse + filter on satohub.ai →](https://satohub.ai/directory?category=Skill%20Repo&utm_source=github&utm_medium=index&utm_campaign=onchain-agents)</sub>
+<sub>**32** entries · reusable skill packs and plugins that teach agents new tricks · Related: [MCP Servers](#mcp-servers) · [Agent Frameworks](#agent-frameworks) · [Browse + filter on satohub.ai →](https://satohub.ai/directory?category=Skill%20Repo&utm_source=github&utm_medium=index&utm_campaign=onchain-agents)</sub>
 
 <a id="skills--plugins-trading--defi"></a>
 #### Trading & DeFi (15)
@@ -1008,9 +1009,9 @@ broadcasts. [The method](docs/swap.md) · [full rules](https://satohub.ai/docs/s
 | [Emblem Agent Skills](https://github.com/EmblemCompany/Agent-skills) | Skill collection for EmblemAI agents — 200+ crypto tools across seven blockchains. | Solana, Ethereum, Base +3 | [⬡ 70](https://satohub.ai/resources/emblem-agent-skills?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟠 Quiet | ★ 12 | ✓ |
 | [Uniswap AI](https://github.com/Uniswap/uniswap-ai) | Official Uniswap skill repo: swap, liquidity, and v4 hook tooling for AI trading agents. | Multichain | [⬡ 68](https://satohub.ai/resources/uniswap-ai?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 236 |  |
 | [OKX OnchainOS Skills](https://github.com/okx/onchainos-skills) | Agent skills for OKX OnchainOS: wallet, token discovery, market data, and DEX swaps. | Solana, Ethereum, Base +3 | [⬡ 66](https://satohub.ai/resources/okx-onchainos-skills?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 342 |  |
+| [Senpi Skills](https://github.com/Senpi-ai/senpi-skills) | Open-source agent skills and strategy templates for autonomous trading on Hyperliquid, published by Senpi. | Hyperliquid | [⬡ 61](https://satohub.ai/resources/senpi-skills?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 137 |  |
 | [Polymarket Agent Skills](https://github.com/Polymarket/agent-skills) | Polymarket's official agent skill: CLOB auth, order patterns, Gamma/Data APIs, WebSockets, CTF… | Polygon | [⬡ 60](https://satohub.ai/resources/polymarket-agent-skills?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟠 Quiet | ★ 197 |  |
-| [MoonPay Skills](https://github.com/moonpay/skills) | Official MoonPay skill repo for crypto onramps, wallet ops, swaps, and prediction-market trading. | Multichain | [⬡ 60](https://satohub.ai/resources/moonpay-skills?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 111 |  |
-| [Senpi Skills](https://github.com/Senpi-ai/senpi-skills) | Open-source agent skills and strategy templates for autonomous trading on Hyperliquid, published by Senpi. | Hyperliquid | [⬡ 59](https://satohub.ai/resources/senpi-skills?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 137 |  |
+| [MoonPay Skills](https://github.com/moonpay/skills) | Official MoonPay skill repo for crypto onramps, wallet ops, swaps, and prediction-market trading. | Multichain | [⬡ 60](https://satohub.ai/resources/moonpay-skills?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 112 |  |
 | [Clawmes](https://github.com/clawnchdev/clawmes) | Hermes Agent plugin for crypto: wallets, DEX trading, lending, staking, governance, and onchain automation. | Base, Ethereum | [⬡ 55](https://satohub.ai/resources/clawmes?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟡 Recent | ★ 25 |  |
 | [KuCoin Skills Hub](https://github.com/Kucoin/kucoin-skills-hub) | Official KuCoin skills giving agents read-only access to spot, margin, futures, and account data. | — | [⬡ 50](https://satohub.ai/resources/kucoin-skills-hub?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟠 Quiet | ★ 28 |  |
 | [Venus Agent Skills](https://github.com/VenusProtocol/venus-agent-skills) | Official Venus Protocol agent-skill toolkit with a lending skill for the Venus money market. | BNB Chain | [⬡ 50](https://satohub.ai/resources/venus-agent-skills?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟠 Quiet | ★ 3 |  |
@@ -1027,7 +1028,7 @@ broadcasts. [The method](docs/swap.md) · [full rules](https://satohub.ai/docs/s
 
 | Name | What it is | Chains | ⬡ Score | Activity | ★ | ✓ |
 |---|---|---|---|---|---|---|
-| [Circle Skills](https://github.com/circlefin/skills) | Official Circle skill repo for USDC payments, cross-chain transfers, and wallet integration. | Multichain | [⬡ 77](https://satohub.ai/resources/circle-skills?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 148 |  |
+| [Circle Skills](https://github.com/circlefin/skills) | Official Circle skill repo for USDC payments, cross-chain transfers, and wallet integration. | Multichain | [⬡ 77](https://satohub.ai/resources/circle-skills?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 165 |  |
 | [Lightning Agent Tools (Lightning Labs)](https://github.com/lightninglabs/lightning-agent-tools) | Lightning Labs' agent toolkit: 7 skills + MCP server to run an lnd node, pay L402 APIs (lnget), host paid… | Bitcoin | [⬡ 62](https://satohub.ai/resources/lightning-agent-tools?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟠 Quiet | ★ 61 |  |
 | [Axiom (clawbots)](https://www.clawbots.org/) | An autonomous agent/builder on Base publishing open-source crypto agent skills such as calldata decoding… | Base, Ethereum | [⬡ 56](https://satohub.ai/resources/axiom-clawbots-agent?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟠 Quiet | ★ 18 |  |
 
@@ -1056,11 +1057,12 @@ broadcasts. [The method](docs/swap.md) · [full rules](https://satohub.ai/docs/s
 | [Rocket Pool Agent Skills](https://github.com/rocket-pool/skills) | Official Rocket Pool repo of 7 agent skills for ETH staking workflows on the Rocket Pool protocol. | Ethereum | [⬡ 53](https://satohub.ai/resources/rocket-pool-skills?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟡 Recent | ★ 3 |  |
 
 <a id="skills--plugins-general"></a>
-#### General (6)
+#### General (7)
 
 | Name | What it is | Chains | ⬡ Score | Activity | ★ | ✓ |
 |---|---|---|---|---|---|---|
 | [solana-dev-skill](https://github.com/solana-foundation/solana-dev-skill) | Solana Foundation's official skill package for agentic development on Solana. | Solana | [⬡ 67](https://satohub.ai/resources/solana-dev-skill?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 590 |  |
+| [Siebly Agent Skills](https://github.com/sieblyio/agent-skills) | Siebly Agent Skills is a skill repository for agents on Hyperliquid. | Hyperliquid | [⬡ 63](https://satohub.ai/resources/siebly-agent-skills?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 2 |  |
 | [solana-ai-kit](https://github.com/solanabr/solana-ai-kit) | Claude Code / Codex configuration bundle for Solana development — CLAUDE.md, agents, commands, hooks, and… | Solana | [⬡ 62](https://satohub.ai/resources/solana-ai-kit?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 111 |  |
 | [Aptos Agent Skills](https://github.com/aptos-labs/aptos-agent-skills) | Official Aptos Labs skill pack giving Claude Code, Cursor, and Copilot deep Aptos/Move expertise. | Aptos | [⬡ 58](https://satohub.ai/resources/aptos-agent-skills?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟠 Quiet | ★ 20 |  |
 | [awesome-solana-ai](https://github.com/solana-foundation/awesome-solana-ai) | Community-curated Solana AI-tooling index (MCP servers, wallet SDKs, frameworks) in the Solana Foundation… | Solana | [⬡ 51](https://satohub.ai/resources/awesome-solana-ai?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟡 Recent | ★ 435 |  |
@@ -1079,9 +1081,9 @@ broadcasts. [The method](docs/swap.md) · [full rules](https://satohub.ai/docs/s
 | [minia2a](https://github.com/minia2auk/minia2a-mcp) | minia2a is a marketplace where agents find and pay for services on Base. | Base | [⬡ 88](https://satohub.ai/resources/minia2a?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 1 |  |
 | [Agent Control](https://github.com/Cobra-bit-prog/agent-guard) | Agent Control is a marketplace where agents find and pay for services on Base, Solana. | Base, Solana, Ethereum | [⬡ 75](https://satohub.ai/resources/agent-control?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 0 |  |
 | [Virtuals Protocol](https://github.com/Virtual-Protocol/protocol-contracts) | Launchpad and protocol for creating and tokenizing AI agents, primarily on Base. | Base, Solana, Robinhood Chain | [⬡ 70](https://satohub.ai/resources/virtuals-protocol?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟡 Recent | ★ 96 | ✓ |
-| [pump.fun](https://github.com/pump-fun/pump-public-docs) | Solana coin launchpad with bonding-curve trading, PumpSwap pools and public docs and SDKs for creating and… | Solana | [⬡ 61](https://satohub.ai/resources/pump-fun?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 473 |  |
+| [pump.fun](https://github.com/pump-fun/pump-public-docs) | Solana coin launchpad with bonding-curve trading, PumpSwap pools and public docs and SDKs for creating and… | Solana | [⬡ 63](https://satohub.ai/resources/pump-fun?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟡 Recent | ★ 473 |  |
 | [AgenC](https://github.com/tetsuo-ai) | A Solana coordination protocol and marketplace where agents claim escrowed tasks, prove completion with ZK… | Solana | [⬡ 59](https://satohub.ai/resources/agenc?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — |  |
-| [Zora Coins](https://github.com/ourzora/zora-protocol) | Protocol and SDK for creating and trading ERC-20 coins on Base, with a public REST API and a skill file for… | Base | [⬡ 56](https://satohub.ai/resources/zora-coins?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟠 Quiet | ★ 212 |  |
+| [Zora Coins](https://github.com/ourzora/zora-protocol) | Protocol and SDK for creating and trading ERC-20 coins on Base, with a public REST API and a skill file for… | Base | [⬡ 58](https://satohub.ai/resources/zora-coins?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟠 Quiet | ★ 212 |  |
 | [Pieverse](https://www.pieverse.io) | One-click deployment of Web3-native AI agents to Line, Kakao, and WhatsApp, each with its own wallet and… | Multichain, BNB Chain | [⬡ 53](https://satohub.ai/resources/pieverse?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — |  |
 | [A0x](https://github.com/a0x-co) | A no-code platform on Base for building, tokenizing, and deploying social AI agents ('Onchain Minds') across… | Base | [⬡ 49](https://satohub.ai/resources/a0x?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — |  |
 | [TermiX](https://github.com/TermiX-official/cryptoclaw) | Marketplace where AI agents hire agents: on-chain .agent identities (ERC-8004), escrowed jobs and quotes… | BNB Chain, Base | [⬡ 45](https://satohub.ai/resources/termix?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟠 Quiet | ★ 99 |  |
@@ -1103,12 +1105,12 @@ broadcasts. [The method](docs/swap.md) · [full rules](https://satohub.ai/docs/s
 | [Socket](https://github.com/SocketDev/socket-cli) | Dependency and package analysis from Socket, with a CLI and an MCP server that returns package scores to an… | — | [⬡ 81](https://satohub.ai/resources/socket?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 336 |  |
 | [Self Protocol](https://github.com/selfxyz/self) | Open-source zero-knowledge identity protocol (passport-based proof of personhood) used to gate agent access… | Multichain | [⬡ 80](https://satohub.ai/resources/self-protocol?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 1.3k | ✓ |
 | [GoPlus AgentGuard](https://github.com/GoPlusSecurity/agentguard) | MIT-licensed runtime guard for AI coding agents: hook-level action blocking, a 24-rule skill scanner, and a… | — | [⬡ 79](https://satohub.ai/resources/goplus-agentguard?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 493 | ✓ |
+| [ChainAware](https://github.com/ChainAware/behavioral-prediction-mcp) | Pre-built MCP blockchain capability modules giving agents fraud detection, AML scoring, wallet profiling, and… | Polygon, Ethereum, BNB Chain +4 | [⬡ 77](https://satohub.ai/resources/chainaware?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 10 |  |
 | [Agent Skills Hub](https://github.com/agent-skills-hub/agent-skills-hub) | A registry of AI agent skills that applies automated source-code scanning and assigns security grades before… | — | [⬡ 71](https://satohub.ai/resources/agent-skills-hub?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟡 Recent | ★ 128 | ✓ |
 | [MistTrack MCP](https://github.com/slowmist/MistTrackMCP) | MCP server from SlowMist exposing MistTrack address risk scoring and fund-flow tracing to AI agents. | Ethereum, Bitcoin, Polygon +2 | [⬡ 70](https://satohub.ai/resources/misttrack-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟠 Quiet | ★ 39 | ✓ |
 | [COTI](https://github.com/coti-io/coti-contracts) | Privacy infrastructure that gives MCP-compatible agents private wallets, encrypted messaging, and… | COTI, Ethereum | [⬡ 68](https://satohub.ai/resources/coti?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 14 |  |
 | [PRXVT](https://github.com/prxvt) | Open-source privacy SDK that adds unlinkable, zero-knowledge payments on top of the x402 agent payment… | Ethereum, Base, Polygon | [⬡ 68](https://satohub.ai/resources/prxvt?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — | ✓ |
 | [CryptoGuard](https://github.com/momenbasel/CryptoGuard) | Intercepts agent transactions and checks them against 5 security oracles before execution. | Multichain | [⬡ 67](https://satohub.ai/resources/cryptoguard-agent-safety?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟢 Active | ★ 9 |  |
-| [ChainAware](https://github.com/ChainAware/behavioral-prediction-mcp) | Pre-built MCP blockchain capability modules giving agents fraud detection, AML scoring, wallet profiling, and… | Polygon, Ethereum, BNB Chain +4 | [⬡ 62](https://satohub.ai/resources/chainaware?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟠 Quiet | ★ 10 |  |
 | [SIWA (Sign In With Agent)](https://github.com/builders-garden/siwa) | Agent-identity authentication protocol modeled on Sign-In-With-Ethereum, letting services verify an agent… | Ethereum | [⬡ 59](https://satohub.ai/resources/siwa-sign-in-with-agent?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟠 Quiet | ★ 43 |  |
 | [Usenami Signer MCP](https://github.com/namixai/signer-mcp) | MCP server that signs CEX/DEX orders inside an attested AWS Nitro Enclave so keys never touch the agent… | — | [⬡ 58](https://satohub.ai/resources/namixai-signer-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟡 Recent | ★ 2 | ✓ |
 | [GoPlus Security](https://github.com/GoPlusSecurity) | Keyless REST APIs for token risk, approval risk, malicious addresses, signature decoding and transaction… | Multichain | [⬡ 47](https://satohub.ai/resources/goplus-security?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — |  |
@@ -1179,8 +1181,8 @@ broadcasts. [The method](docs/swap.md) · [full rules](https://satohub.ai/docs/s
 | [PayAI Network](https://github.com/PayAINetwork) | Solana-first x402 payment facilitator enabling usage-based, machine-to-machine payments for AI agents. | Solana, Base, Polygon +2 | [⬡ 60](https://satohub.ai/resources/payai-network?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — |  |
 | [Masumi Network](https://github.com/masumi-network) | Cardano-based payment and identity protocol letting AI agents pay each other via escrow with on-chain audit… | — | [⬡ 54](https://satohub.ai/resources/masumi-network?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — |  |
 | [monapi](https://github.com/DenisTheM/monapi) | One-line x402 paywall SDK for monetizing APIs and MCP servers with per-route USDC pricing. | Base, Arbitrum, Polygon | [⬡ 51](https://satohub.ai/resources/monapi?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟠 Quiet | ★ 4 |  |
+| [Circle Gateway Nanopayments](https://developers.circle.com/gateway-nanopayments) | Circle Gateway batched settlement for gas-free USDC payments down to 0.000001 USDC, with buyer and seller… | Multichain | [⬡ 46](https://satohub.ai/resources/circle-gateway-nanopayments?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — |  |
 | [Alby x402 Facilitator](https://github.com/getAlby/x402-facilitator) | Multi-tenant x402 facilitator for Lightning built on Nostr Wallet Connect. Predates the merged lnbtc spec and… | Bitcoin | [⬡ 44](https://satohub.ai/resources/alby-x402-facilitator?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | 🟠 Quiet | ★ 2 |  |
-| [Circle Gateway Nanopayments](https://developers.circle.com/gateway-nanopayments) | Circle Gateway batched settlement for gas-free USDC payments down to 0.000001 USDC, with buyer and seller… | Multichain | [⬡ 44](https://satohub.ai/resources/circle-gateway-nanopayments?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — |  |
 | [Fewsats](https://github.com/Fewsats/fewsats-mcp) | L402 payments platform and MCP server letting agents pay for API access with Bitcoin Lightning or stablecoins. | Bitcoin, Multichain | [⬡ 43](https://satohub.ai/resources/fewsats?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | ⚪ Dormant | ★ 21 |  |
 | [Bridge](https://www.bridge.xyz) | Stablecoin payments infrastructure (acquired by Stripe) offering an orchestration, issuance, cards, and… | Multichain | [⬡ 40](https://satohub.ai/resources/bridge-xyz?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — |  |
 | [Alchemy AgentPay](https://www.alchemy.com/agentpay) | Alchemy's payment proxy for AI agents — every API request is authenticated, metered, and settled… | Base, Multichain | [⬡ 37](https://satohub.ai/resources/alchemy-agentpay?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) | — | — |  |
@@ -1200,13 +1202,13 @@ Sato Score changes over the last 7 days, computed from the daily snapshot histor
 - ⬆ **+28** [Monad Agent Kit](https://satohub.ai/resources/monad-agent-kit?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) — 41 → 69
 - ⬆ **+15** [Kobaru](https://satohub.ai/resources/kobaru?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) — 56 → 71
 - ⬆ **+11** [BountyPay](https://satohub.ai/resources/bountypay?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) — 44 → 55
-- ⬆ **+10** [Algorand MCP](https://satohub.ai/resources/algorand-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) — 73 → 83
-- ⬆ **+10** [SQD Portal MCP](https://satohub.ai/resources/sqd-portal-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) — 51 → 61
+- ⬆ **+10** [OpenSea Agent Skill](https://satohub.ai/resources/opensea-agent-skill?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) — 71 → 81
+- ⬆ **+10** [ChainAware](https://satohub.ai/resources/chainaware?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) — 67 → 77
 - ⬇ **-15** [Dialect](https://satohub.ai/resources/dialect?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) — 39 → 24
-- ⬇ **-12** [NodeOps (CreateOS)](https://satohub.ai/resources/nodeops-createos?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) — 47 → 35
-- ⬇ **-10** [Almanak](https://satohub.ai/resources/almanak?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) — 83 → 73
+- ⬇ **-12** [Almanak](https://satohub.ai/resources/almanak?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) — 83 → 71
+- ⬇ **-10** [Zerion](https://satohub.ai/resources/zerion?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) — 85 → 75
 - ⬇ **-10** [ACP Node SDK v2 (Agent Commerce Protocol)](https://satohub.ai/resources/acp-node-sdk-v2?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) — 61 → 51
-- ⬇ **-10** [BotWallet MCP](https://satohub.ai/resources/botwallet-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) — 72 → 62
+- ⬇ **-10** [Memecoin Observatory MCP](https://satohub.ai/resources/memecoin-observatory-mcp?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) — 64 → 54
 
 **[⬆ Back to Index](#index)**
 
@@ -1244,7 +1246,7 @@ Registered agents with **Sato Agent Passports** — machine-readable manifests p
 
 | Agent | What it does | Chains | Wallet | On-chain checks | Passport |
 |---|---|---|---|---|---|
-| [SatoBot](https://satohub.ai/os) | The agent Sato OS runs in production: executes funded errands on Base under ERC-7715 session grants, registers its own ERC-8004 identity, and publishes verified executions to an EAS attestation ledger. | Base | self-reported | erc8004_registered, x402_in_bazaar | [passport](https://satohub.ai/agents/satobot?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) |
+| [SatoBot](https://satohub.ai/os) | The agent Sato OS runs in production: executes funded errands on Base under ERC-7715 session grants, registers its own ERC-8004 identity, and publishes verified executions to an EAS attestation ledger. | Base | self-reported | erc8004_registered | [passport](https://satohub.ai/agents/satobot?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) |
 | Solana Airdrop Sentinel | Tracks new token launches and airdrop claims on Solana, verifies contract provenance, and proposes claim transactions for human review inside Sato OS. | Base, Solana | self-reported | — | [passport](https://satohub.ai/agents/solana-airdrop-sentinel?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) |
 
 **[⬆ Back to Index](#index)**
@@ -1262,6 +1264,8 @@ Registered agents with **Sato Agent Passports** — machine-readable manifests p
 <a id="new-this-week"></a>
 <img src="assets/headers/new-this-week.svg" alt="New this week" width="920">
 
+- **[Siebly Agent Skills](https://satohub.ai/resources/siebly-agent-skills?utm_source=github&utm_medium=index&utm_campaign=onchain-agents)** (Skill Repo) — Siebly Agent Skills is a skill repository for agents on Hyperliquid.
+- **[Siebly Hyperliquid JavaScript SDK](https://satohub.ai/resources/siebly-hyperliquid-javascript-sdk?utm_source=github&utm_medium=index&utm_campaign=onchain-agents)** (API / SDK) — Siebly Hyperliquid JavaScript SDK is an API and SDK on Hyperliquid.
 - **[402cron](https://satohub.ai/resources/402cron?utm_source=github&utm_medium=index&utm_campaign=onchain-agents)** (MCP) — 402cron is an MCP server on Base.
 - **[402post](https://satohub.ai/resources/402post?utm_source=github&utm_medium=index&utm_campaign=onchain-agents)** (MCP) — 402post is an MCP server on Base.
 - **[402registry](https://satohub.ai/resources/402registry?utm_source=github&utm_medium=index&utm_campaign=onchain-agents)** (MCP) — 402registry is an MCP server on Base.
@@ -1296,8 +1300,8 @@ Listed already? Embed your [Sato Score badge](https://satohub.ai/sato-score?utm_
 
 Weekly tagged releases carry the day's `index.json` + `index.csv` as assets, so a citation can pin a version. Machine-readable metadata: [CITATION.cff](CITATION.cff) · [dataset.jsonld](dataset.jsonld) (schema.org Dataset) · [.zenodo.json](.zenodo.json). Concept DOI: [10.5281/zenodo.22803661](https://doi.org/10.5281/zenodo.22803661).
 
-> Sato Hub. *Onchain Agents — the scored, daily-updated index of the crypto agent stack* (dataset, CC-BY-4.0). https://github.com/satohubai/onchain-agents — retrieved 2026-11-11.
+> Sato Hub. *Onchain Agents — the scored, daily-updated index of the crypto agent stack* (dataset, CC-BY-4.0). https://github.com/satohubai/onchain-agents — retrieved 2026-11-12.
 
 ---
 
-<sub>Maintained by [Sato Hub](https://satohub.ai?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) — the agent builder hub for crypto. Index auto-rendered daily from the public export (`https://satohub.ai/api/export/index.json`). Catalog data **CC-BY-4.0** (attribution: *data by satohub.ai*); tooling **MIT © Prime Signal LLC**. Scores and liveness are informational signals, not endorsements or financial advice ([NEUTRALITY.md](NEUTRALITY.md) · [cite this dataset](CITATION.cff)). Last render: 2026-11-11.</sub>
+<sub>Maintained by [Sato Hub](https://satohub.ai?utm_source=github&utm_medium=index&utm_campaign=onchain-agents) — the agent builder hub for crypto. Index auto-rendered daily from the public export (`https://satohub.ai/api/export/index.json`). Catalog data **CC-BY-4.0** (attribution: *data by satohub.ai*); tooling **MIT © Prime Signal LLC**. Scores and liveness are informational signals, not endorsements or financial advice ([NEUTRALITY.md](NEUTRALITY.md) · [cite this dataset](CITATION.cff)). Last render: 2026-11-12.</sub>

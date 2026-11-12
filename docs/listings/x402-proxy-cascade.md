@@ -18,7 +18,7 @@ Sato Score: **⬡ 53** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Base, Solana, Monad
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Recent — last activity 2 months ago
+- **Activity:** Quiet — last activity 3 months ago
 - **GitHub stars:** 10
 - **Deploys as:** CLI, npm package, MCP proxy, Node.js library
 
@@ -47,6 +47,6 @@ npx x402-proxy setup
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `x402-proxy-cascade`. https://satohub.ai/resources/x402-proxy-cascade — retrieved 2026-11-11.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `x402-proxy-cascade`. https://satohub.ai/resources/x402-proxy-cascade — retrieved 2026-11-12.
 
 [← All layers](../index.md)

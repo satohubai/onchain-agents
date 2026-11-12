@@ -18,7 +18,7 @@ Sato Score: **⬡ 50** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Solana
 - **Open source:** Partial
 - **Status:** Early
-- **Activity:** Quiet — last activity 4 months ago
+- **Activity:** Quiet — last activity 5 months ago
 - **GitHub stars:** 0
 - **Deploys as:** remote (hosted endpoint), local (stdio)
 
@@ -47,6 +47,6 @@ npx @mbrassey/solentic-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solentic`. https://satohub.ai/resources/solentic — retrieved 2026-11-11.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solentic`. https://satohub.ai/resources/solentic — retrieved 2026-11-12.
 
 [← All layers](../index.md)

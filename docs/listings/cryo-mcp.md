@@ -46,6 +46,6 @@ uv tool install cryo-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cryo-mcp`. https://satohub.ai/resources/cryo-mcp — retrieved 2026-11-11.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `cryo-mcp`. https://satohub.ai/resources/cryo-mcp — retrieved 2026-11-12.
 
 [← All layers](../index.md)

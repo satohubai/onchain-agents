@@ -9,7 +9,7 @@ layout: "default"
 
 Official hosted LI.FI MCP server for read-only cross-chain swap quotes and route discovery.
 
-Sato Score: **⬡ 65** (Medium), +3 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 65** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -48,6 +48,6 @@ add {"type": "http", "url": "https://mcp.li.quest/mcp"} to your MCP client confi
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lifi-mcp`. https://satohub.ai/resources/lifi-mcp — retrieved 2026-11-11.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lifi-mcp`. https://satohub.ai/resources/lifi-mcp — retrieved 2026-11-12.
 
 [← All layers](../index.md)

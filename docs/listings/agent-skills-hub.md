@@ -52,6 +52,6 @@ npx agent-skills-hub
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `agent-skills-hub`. https://satohub.ai/resources/agent-skills-hub — retrieved 2026-11-11.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `agent-skills-hub`. https://satohub.ai/resources/agent-skills-hub — retrieved 2026-11-12.
 
 [← All layers](../index.md)

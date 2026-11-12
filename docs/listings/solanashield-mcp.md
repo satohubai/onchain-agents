@@ -22,7 +22,7 @@ Sato Score: **⬡ 51** (Medium), -1 over 7 days — a measure of how open, activ
 - **Creator:** PadraoBitcoin
 - **Open source:** Yes
 - **Status:** Unknown
-- **Activity:** Quiet — last activity 6 months ago
+- **Activity:** Quiet — last activity 7 months ago
 - **GitHub stars:** 0
 - **Deploys as:** npm
 - **Works with:** Claude Desktop
@@ -53,6 +53,6 @@ npm install && npm run build
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solanashield-mcp`. https://satohub.ai/resources/solanashield-mcp — retrieved 2026-11-11.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solanashield-mcp`. https://satohub.ai/resources/solanashield-mcp — retrieved 2026-11-12.
 
 [← All layers](../index.md)

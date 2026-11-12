@@ -9,7 +9,7 @@ layout: "default"
 
 An AI-agent framework and non-custodial vault protocol for designing, backtesting, and deploying automated DeFi yield and trading strategies.
 
-Sato Score: **⬡ 73** (High), -10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 71** (High), -12 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -53,6 +53,6 @@ pipx install almanak
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `almanak`. https://satohub.ai/resources/almanak — retrieved 2026-11-11.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `almanak`. https://satohub.ai/resources/almanak — retrieved 2026-11-12.
 
 [← All layers](../index.md)
