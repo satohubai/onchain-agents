@@ -47,6 +47,6 @@ cp .env.example .env
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `acp-node-sdk-v2`. https://satohub.ai/resources/acp-node-sdk-v2 — retrieved 2026-11-12.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `acp-node-sdk-v2`. https://satohub.ai/resources/acp-node-sdk-v2 — retrieved 2026-11-13.
 
 [← All layers](../index.md)

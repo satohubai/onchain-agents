@@ -22,7 +22,7 @@ Sato Score: **⬡ 83** (High), +10 over 7 days — a measure of how open, active
 - **Creator:** GoPlausible
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 2 days ago
+- **Activity:** Active — last activity 3 days ago
 - **GitHub stars:** 44
 - **Deploys as:** npm (npx / global install / from source), Docker (agent wallet volume)
 - **Works with:** Claude Desktop, Claude Code, Cursor, Windsurf, VS Code, Cline, OpenClaw, OpenAI Codex CLI, Open Code, GitHub Copilot
@@ -52,6 +52,6 @@ npm install -g @goplausible/algorand-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `algorand-mcp`. https://satohub.ai/resources/algorand-mcp — retrieved 2026-11-12.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `algorand-mcp`. https://satohub.ai/resources/algorand-mcp — retrieved 2026-11-13.
 
 [← All layers](../index.md)

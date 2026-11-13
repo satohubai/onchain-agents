@@ -34,6 +34,6 @@ Sato Score: **⬡ 37** (Low) — a measure of how open, active and verifiable th
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `megapot`. https://satohub.ai/resources/megapot — retrieved 2026-11-12.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `megapot`. https://satohub.ai/resources/megapot — retrieved 2026-11-13.
 
 [← All layers](../index.md)

@@ -48,6 +48,6 @@ npx -y @emberai/agent-node@latest
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `arbitrum-vibekit`. https://satohub.ai/resources/arbitrum-vibekit — retrieved 2026-11-12.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `arbitrum-vibekit`. https://satohub.ai/resources/arbitrum-vibekit — retrieved 2026-11-13.
 
 [← All layers](../index.md)

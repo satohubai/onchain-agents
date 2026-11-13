@@ -9,7 +9,7 @@ layout: "default"
 
 Official Sei MCP: wallet/account management, SEI transfers, and ERC20/721/1155 token operations.
 
-Sato Score: **⬡ 57** (Medium), +1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 57** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -51,6 +51,6 @@ claude mcp add sei-mcp-server npx @sei-js/mcp-server
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `sei-mcp`. https://satohub.ai/resources/sei-mcp — retrieved 2026-11-12.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `sei-mcp`. https://satohub.ai/resources/sei-mcp — retrieved 2026-11-13.
 
 [← All layers](../index.md)

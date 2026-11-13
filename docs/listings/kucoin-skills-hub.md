@@ -50,6 +50,6 @@ npx skills add https://github.com/Kucoin/kucoin-skills-hub --full-depth
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `kucoin-skills-hub`. https://satohub.ai/resources/kucoin-skills-hub — retrieved 2026-11-12.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `kucoin-skills-hub`. https://satohub.ai/resources/kucoin-skills-hub — retrieved 2026-11-13.
 
 [← All layers](../index.md)

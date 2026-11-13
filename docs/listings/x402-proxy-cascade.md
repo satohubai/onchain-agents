@@ -9,7 +9,7 @@ layout: "default"
 
 CLI and MCP proxy that auto-pays x402/MPP-gated endpoints on Base, Solana, Monad, and Tempo from one mnemonic.
 
-Sato Score: **⬡ 53** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 48** (Medium), -5 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -47,6 +47,6 @@ npx x402-proxy setup
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `x402-proxy-cascade`. https://satohub.ai/resources/x402-proxy-cascade — retrieved 2026-11-12.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `x402-proxy-cascade`. https://satohub.ai/resources/x402-proxy-cascade — retrieved 2026-11-13.
 
 [← All layers](../index.md)

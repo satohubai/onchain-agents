@@ -48,6 +48,6 @@ yarn workspace @ionicprotocol/sdk build
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ionic-protocol`. https://satohub.ai/resources/ionic-protocol — retrieved 2026-11-12.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ionic-protocol`. https://satohub.ai/resources/ionic-protocol — retrieved 2026-11-13.
 
 [← All layers](../index.md)

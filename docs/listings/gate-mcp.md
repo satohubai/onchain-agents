@@ -22,7 +22,7 @@ Sato Score: **⬡ 81** (High) — a measure of how open, active and verifiable t
 - **Creator:** Gate
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 8 days ago
+- **Activity:** Active — last activity 9 days ago
 - **GitHub stars:** 27
 - **Deploys as:** Hosted remote MCP endpoints (api.gatemcp.ai), npx, Local stdio server (gate-local-mcp / gate-mcp npm package), Python stdio proxy (Claude Desktop)
 - **Works with:** Cursor, Claude CLI, Trae, OpenClaw, Claude Desktop, Qoder, mcporter, LobeHub, ChatGPT / OpenAI Apps
@@ -43,7 +43,7 @@ claude mcp add --transport http gate-mcp https://api.gatemcp.ai/mcp
 
 ## What we checked
 
-- Live endpoint probed by us: 75.6% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 74.4% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -52,6 +52,6 @@ claude mcp add --transport http gate-mcp https://api.gatemcp.ai/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `gate-mcp`. https://satohub.ai/resources/gate-mcp — retrieved 2026-11-12.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `gate-mcp`. https://satohub.ai/resources/gate-mcp — retrieved 2026-11-13.
 
 [← All layers](../index.md)

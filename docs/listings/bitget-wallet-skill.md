@@ -22,7 +22,7 @@ Sato Score: **⬡ 77** (High) — a measure of how open, active and verifiable t
 - **Creator:** Bitget Wallet
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 13 days ago
+- **Activity:** Active — last activity 14 days ago
 - **GitHub stars:** 180
 - **Deploys as:** Self-hosted, Python
 - **Works with:** OpenClaw, Dify, Telegram, Discord, x402, Bitget Wallet API
@@ -53,6 +53,6 @@ pip install requests eth-account
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bitget-wallet-skill`. https://satohub.ai/resources/bitget-wallet-skill — retrieved 2026-11-12.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bitget-wallet-skill`. https://satohub.ai/resources/bitget-wallet-skill — retrieved 2026-11-13.
 
 [← All layers](../index.md)

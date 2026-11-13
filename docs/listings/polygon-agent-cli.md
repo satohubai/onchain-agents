@@ -18,7 +18,7 @@ Sato Score: **⬡ 69** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Polygon
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity today
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 30
 
 ## Deploy spec
@@ -47,6 +47,6 @@ npx @polygonlabs/agent-cli --help
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `polygon-agent-cli`. https://satohub.ai/resources/polygon-agent-cli — retrieved 2026-11-12.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `polygon-agent-cli`. https://satohub.ai/resources/polygon-agent-cli — retrieved 2026-11-13.
 
 [← All layers](../index.md)
