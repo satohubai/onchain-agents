@@ -32,6 +32,6 @@ Sato Score: **⬡ 51** (Medium), -1 over 7 days — a measure of how open, activ
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `awesome-solana-ai`. https://satohub.ai/resources/awesome-solana-ai — retrieved 2026-11-13.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `awesome-solana-ai`. https://satohub.ai/resources/awesome-solana-ai — retrieved 2026-11-14.
 
 [← All layers](../index.md)

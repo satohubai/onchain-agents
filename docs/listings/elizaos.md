@@ -22,7 +22,7 @@ Sato Score: **⬡ 84** (High), -2 over 7 days — a measure of how open, active 
 - **Open source:** Yes
 - **Status:** Active
 - **Activity:** Active — last activity today
-- **GitHub stars:** 19.8k
+- **GitHub stars:** 19.9k
 - **Deploys as:** Self-hosted, Docker, Hosted, npm
 - **Works with:** Discord, Telegram, Twitter, Farcaster, OpenAI, Anthropic, MCP, Vercel, Cloudflare, Supabase
 
@@ -43,7 +43,7 @@ bun add -g elizaos@beta
 ## What we checked
 
 - Install reproduced in an isolated container on 2026-11-09.
-- Live endpoint probed by us: 90% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 88.9% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -52,6 +52,6 @@ bun add -g elizaos@beta
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `elizaos`. https://satohub.ai/resources/elizaos — retrieved 2026-11-13.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `elizaos`. https://satohub.ai/resources/elizaos — retrieved 2026-11-14.
 
 [← All layers](../index.md)

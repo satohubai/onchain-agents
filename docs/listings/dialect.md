@@ -9,7 +9,7 @@ layout: "default"
 
 SDK/API stack for Solana Blinks (link-to-transaction actions) plus multi-channel onchain alerts and lending-market data, with docs and a dashboard.
 
-Sato Score: **⬡ 24** (Low), -3 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 24** (Low), -2 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -35,7 +35,7 @@ npm install @dialectlabs/react-ui @dialectlabs/react-sdk-blockchain-solana
 
 ## What we checked
 
-- Live endpoint probed by us: 92.2% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 91.1% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -44,6 +44,6 @@ npm install @dialectlabs/react-ui @dialectlabs/react-sdk-blockchain-solana
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `dialect`. https://satohub.ai/resources/dialect — retrieved 2026-11-13.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `dialect`. https://satohub.ai/resources/dialect — retrieved 2026-11-14.
 
 [← All layers](../index.md)

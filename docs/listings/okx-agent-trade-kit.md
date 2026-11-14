@@ -21,7 +21,7 @@ Sato Score: **⬡ 75** (High), -1 over 7 days — a measure of how open, active 
 - **Creator:** OKX
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity today
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 481
 - **Deploys as:** npm
 - **Works with:** Claude, Cursor
@@ -51,6 +51,6 @@ npm install -g @okx_ai/okx-trade-mcp @okx_ai/okx-trade-cli
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `okx-agent-trade-kit`. https://satohub.ai/resources/okx-agent-trade-kit — retrieved 2026-11-13.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `okx-agent-trade-kit`. https://satohub.ai/resources/okx-agent-trade-kit — retrieved 2026-11-14.
 
 [← All layers](../index.md)

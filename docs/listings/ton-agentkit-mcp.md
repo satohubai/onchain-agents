@@ -9,7 +9,7 @@ layout: "default"
 
 TON's official @ton/mcp server for wallet operations, transfers, swaps, and NFT management on TON.
 
-Sato Score: **⬡ 41** (Medium), +1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 41** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -50,6 +50,6 @@ npx -y @ton/mcp@alpha
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ton-agentkit-mcp`. https://satohub.ai/resources/ton-agentkit-mcp — retrieved 2026-11-13.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ton-agentkit-mcp`. https://satohub.ai/resources/ton-agentkit-mcp — retrieved 2026-11-14.
 
 [← All layers](../index.md)

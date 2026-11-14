@@ -21,7 +21,7 @@ Sato Score: **⬡ 65** (Medium), +15 over 7 days — a measure of how open, acti
 - **Creator:** Venus Protocol
 - **Open source:** Unknown
 - **Status:** Unknown
-- **Activity:** Active — last activity 1 day ago
+- **Activity:** Active — last activity 2 days ago
 - **GitHub stars:** 3
 - **Deploys as:** npm install (OpenClaw workspace skill), copy skill folder into OpenClaw workspace skills directory, import packaged dist/venus-protocol-ops.skill file
 - **Works with:** OpenClaw, Venus Protocol, Flux (Fluid)
@@ -52,6 +52,6 @@ npm install
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `venus-agent-skills`. https://satohub.ai/resources/venus-agent-skills — retrieved 2026-11-13.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `venus-agent-skills`. https://satohub.ai/resources/venus-agent-skills — retrieved 2026-11-14.
 
 [← All layers](../index.md)

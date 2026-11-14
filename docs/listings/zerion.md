@@ -9,7 +9,7 @@ layout: "default"
 
 Wallet and DeFi data provider offering portfolio, positions, transactions, PnL, and prices across many chains, with an agent-accessible API.
 
-Sato Score: **⬡ 75** (High), -10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 85** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,7 +22,7 @@ Sato Score: **⬡ 75** (High), -10 over 7 days — a measure of how open, active
 - **Creator:** Zerion
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Recent — last activity 1 day ago
+- **Activity:** Active — last activity today
 - **GitHub stars:** 69
 - **Deploys as:** npm, MCP server, API
 - **Works with:** 0x, x402, MPP, Open Wallet Standard, Uniswap, Li.Fi, MoonPay
@@ -54,6 +54,6 @@ npx -y zerion-cli init
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `zerion`. https://satohub.ai/resources/zerion — retrieved 2026-11-13.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `zerion`. https://satohub.ai/resources/zerion — retrieved 2026-11-14.
 
 [← All layers](../index.md)

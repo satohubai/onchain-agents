@@ -35,6 +35,6 @@ Sato Score: **⬡ 71** (High) — a measure of how open, active and verifiable t
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `siebly-agent-skills`. https://satohub.ai/resources/siebly-agent-skills — retrieved 2026-11-13.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `siebly-agent-skills`. https://satohub.ai/resources/siebly-agent-skills — retrieved 2026-11-14.
 
 [← All layers](../index.md)

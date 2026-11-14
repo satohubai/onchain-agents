@@ -20,7 +20,7 @@ Sato Score: **⬡ 63** (Medium) — a measure of how open, active and verifiable
 - **Open source:** Yes
 - **Status:** Active
 - **Activity:** Active — last activity 1 day ago
-- **GitHub stars:** 96
+- **GitHub stars:** 97
 
 ## What we checked
 
@@ -33,6 +33,6 @@ Sato Score: **⬡ 63** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `tempo-mpp-specs`. https://satohub.ai/resources/tempo-mpp-specs — retrieved 2026-11-13.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `tempo-mpp-specs`. https://satohub.ai/resources/tempo-mpp-specs — retrieved 2026-11-14.
 
 [← All layers](../index.md)

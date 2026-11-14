@@ -19,7 +19,7 @@ Sato Score: **⬡ 68** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Siebly
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 4 days ago
+- **Activity:** Active — last activity 5 days ago
 - **GitHub stars:** 4
 
 ## What we checked
@@ -32,6 +32,6 @@ Sato Score: **⬡ 68** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `siebly-hyperliquid-javascript-sdk`. https://satohub.ai/resources/siebly-hyperliquid-javascript-sdk — retrieved 2026-11-13.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `siebly-hyperliquid-javascript-sdk`. https://satohub.ai/resources/siebly-hyperliquid-javascript-sdk — retrieved 2026-11-14.
 
 [← All layers](../index.md)
