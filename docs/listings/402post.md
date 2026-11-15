@@ -21,7 +21,7 @@ Sato Score: **⬡ 81** (High) — a measure of how open, active and verifiable t
 - **Creator:** Georgi Kalchev
 - **Open source:** Partial
 - **Status:** Early
-- **Activity:** Active — last activity 20 days ago
+- **Activity:** Active — last activity 21 days ago
 - **GitHub stars:** 0
 - **Deploys as:** hosted, remote MCP (Streamable HTTP)
 
@@ -35,6 +35,6 @@ Sato Score: **⬡ 81** (High) — a measure of how open, active and verifiable t
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `402post`. https://satohub.ai/resources/402post — retrieved 2026-11-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `402post`. https://satohub.ai/resources/402post — retrieved 2026-11-15.
 
 [← All layers](../index.md)

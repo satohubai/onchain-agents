@@ -22,7 +22,7 @@ Sato Score: **⬡ 71** (High), +15 over 7 days — a measure of how open, active
 - **Creator:** Kobaru
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 3 days ago
+- **Activity:** Active — last activity 4 days ago
 - **GitHub stars:** 4
 - **Deploys as:** Hosted, Self-hosted, npm, MCP server, API
 - **Works with:** x402, Model Context Protocol (MCP), USDC
@@ -55,6 +55,6 @@ npm run dev
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `kobaru`. https://satohub.ai/resources/kobaru — retrieved 2026-11-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `kobaru`. https://satohub.ai/resources/kobaru — retrieved 2026-11-15.
 
 [← All layers](../index.md)

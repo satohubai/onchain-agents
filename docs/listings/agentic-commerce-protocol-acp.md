@@ -22,7 +22,7 @@ Sato Score: **⬡ 72** (High) — a measure of how open, active and verifiable t
 - **Creator:** OpenAI & Stripe
 - **Open source:** Yes
 - **Status:** Beta
-- **Activity:** Quiet — last activity 3 months ago
+- **Activity:** Quiet — last activity 4 months ago
 - **GitHub stars:** 1.6k
 - **Deploys as:** API, MCP server
 - **Works with:** MCP, Stripe, OpenAI ChatGPT
@@ -38,6 +38,6 @@ Sato Score: **⬡ 72** (High) — a measure of how open, active and verifiable t
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `agentic-commerce-protocol-acp`. https://satohub.ai/resources/agentic-commerce-protocol-acp — retrieved 2026-11-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `agentic-commerce-protocol-acp`. https://satohub.ai/resources/agentic-commerce-protocol-acp — retrieved 2026-11-15.
 
 [← All layers](../index.md)

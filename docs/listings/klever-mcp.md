@@ -18,7 +18,7 @@ Sato Score: **⬡ 76** (High) — a measure of how open, active and verifiable t
 - **Chains:** Unknown
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Quiet — last activity 5 months ago
+- **Activity:** Quiet — last activity 6 months ago
 - **GitHub stars:** 31
 - **Deploys as:** npm package, Docker, self-hosted, hosted service
 - **Works with:** Claude Code, Claude Desktop, Cursor, VS Code (GitHub Copilot)
@@ -48,6 +48,6 @@ npx -y @klever/mcp-server
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `klever-mcp`. https://satohub.ai/resources/klever-mcp — retrieved 2026-11-14.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `klever-mcp`. https://satohub.ai/resources/klever-mcp — retrieved 2026-11-15.
 
 [← All layers](../index.md)
