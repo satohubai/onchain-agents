@@ -23,7 +23,7 @@ Sato Score: **⬡ 48** (Medium), -10 over 7 days — a measure of how open, acti
 
 ## What we checked
 
-- Live endpoint probed by us: 74.4% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 73.3% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -32,6 +32,6 @@ Sato Score: **⬡ 48** (Medium), -10 over 7 days — a measure of how open, acti
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solana-pay-skills`. https://satohub.ai/resources/solana-pay-skills — retrieved 2026-11-15.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solana-pay-skills`. https://satohub.ai/resources/solana-pay-skills — retrieved 2026-11-16.
 
 [← All layers](../index.md)

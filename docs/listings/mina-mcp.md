@@ -21,7 +21,7 @@ Sato Score: **⬡ 75** (High) — a measure of how open, active and verifiable t
 - **Creator:** Mina Protocol
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Quiet — last activity 4 months ago
+- **Activity:** Quiet — last activity 5 months ago
 - **GitHub stars:** 0
 - **Deploys as:** npm, npx, docker, hosted
 - **Works with:** Claude Desktop, Claude Code, Cursor, Cline, Roo, Windsurf, Continue, Zed
@@ -52,6 +52,6 @@ npx @o1-labs/mina-mcp-server --mode live --network devnet
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `mina-mcp`. https://satohub.ai/resources/mina-mcp — retrieved 2026-11-15.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `mina-mcp`. https://satohub.ai/resources/mina-mcp — retrieved 2026-11-16.
 
 [← All layers](../index.md)

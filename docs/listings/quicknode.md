@@ -49,6 +49,6 @@ npx -y @quicknode/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `quicknode`. https://satohub.ai/resources/quicknode — retrieved 2026-11-15.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `quicknode`. https://satohub.ai/resources/quicknode — retrieved 2026-11-16.
 
 [← All layers](../index.md)

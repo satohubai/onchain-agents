@@ -9,7 +9,7 @@ layout: "default"
 
 Official Rocket Pool repo of 7 agent skills for ETH staking workflows on the Rocket Pool protocol.
 
-Sato Score: **⬡ 53** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 48** (Medium), -5 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,7 +21,7 @@ Sato Score: **⬡ 53** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Rocket Pool
 - **Open source:** Yes
 - **Status:** Unknown
-- **Activity:** Recent — last activity 2 months ago
+- **Activity:** Quiet — last activity 3 months ago
 - **GitHub stars:** 3
 - **Works with:** Foundry, cast, Ethereum MCP tools
 
@@ -50,6 +50,6 @@ git clone https://github.com/rocket-pool/skills
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `rocket-pool-skills`. https://satohub.ai/resources/rocket-pool-skills — retrieved 2026-11-15.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `rocket-pool-skills`. https://satohub.ai/resources/rocket-pool-skills — retrieved 2026-11-16.
 
 [← All layers](../index.md)

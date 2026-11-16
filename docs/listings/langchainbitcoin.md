@@ -9,7 +9,7 @@ layout: "default"
 
 Lightning Labs toolkit giving LangChain agents Bitcoin/Lightning balance access and L402-authenticated API calls.
 
-Sato Score: **⬡ 47** (Medium), -1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 47** (Medium), +14 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -48,6 +48,6 @@ pip install -r requirements.txt
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `langchainbitcoin`. https://satohub.ai/resources/langchainbitcoin — retrieved 2026-11-15.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `langchainbitcoin`. https://satohub.ai/resources/langchainbitcoin — retrieved 2026-11-16.
 
 [← All layers](../index.md)

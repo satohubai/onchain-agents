@@ -9,7 +9,7 @@ layout: "default"
 
 Official Hummingbot MCP server bridging agents to a Hummingbot API instance for multi-exchange trading.
 
-Sato Score: **⬡ 51** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 51** (Medium), +15 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -53,6 +53,6 @@ cd mcp && uv sync
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `hummingbot-mcp`. https://satohub.ai/resources/hummingbot-mcp — retrieved 2026-11-15.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `hummingbot-mcp`. https://satohub.ai/resources/hummingbot-mcp — retrieved 2026-11-16.
 
 [← All layers](../index.md)

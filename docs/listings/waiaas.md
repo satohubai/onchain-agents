@@ -55,6 +55,6 @@ waiaas quickset --mode mainnet
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `waiaas`. https://satohub.ai/resources/waiaas — retrieved 2026-11-15.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `waiaas`. https://satohub.ai/resources/waiaas — retrieved 2026-11-16.
 
 [← All layers](../index.md)

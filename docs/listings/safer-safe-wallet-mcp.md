@@ -9,7 +9,7 @@ layout: "default"
 
 CLI and MCP client for querying Safe{Wallet} multisig transactions and owner/threshold details.
 
-Sato Score: **⬡ 53** (Medium), -1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 53** (Medium), +14 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -50,6 +50,6 @@ cd safer
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `safer-safe-wallet-mcp`. https://satohub.ai/resources/safer-safe-wallet-mcp — retrieved 2026-11-15.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `safer-safe-wallet-mcp`. https://satohub.ai/resources/safer-safe-wallet-mcp — retrieved 2026-11-16.
 
 [← All layers](../index.md)

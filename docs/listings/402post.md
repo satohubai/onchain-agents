@@ -9,7 +9,7 @@ layout: "default"
 
 402post is an MCP server on Base.
 
-Sato Score: **⬡ 81** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 81** (High), +6 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,7 +21,7 @@ Sato Score: **⬡ 81** (High) — a measure of how open, active and verifiable t
 - **Creator:** Georgi Kalchev
 - **Open source:** Partial
 - **Status:** Early
-- **Activity:** Active — last activity 21 days ago
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 0
 - **Deploys as:** hosted, remote MCP (Streamable HTTP)
 
@@ -35,6 +35,6 @@ Sato Score: **⬡ 81** (High) — a measure of how open, active and verifiable t
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `402post`. https://satohub.ai/resources/402post — retrieved 2026-11-15.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `402post`. https://satohub.ai/resources/402post — retrieved 2026-11-16.
 
 [← All layers](../index.md)

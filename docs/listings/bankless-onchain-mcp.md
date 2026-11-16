@@ -9,7 +9,7 @@ layout: "default"
 
 MCP server providing AI assistants read access to onchain data via the Bankless API.
 
-Sato Score: **⬡ 69** (Medium), -1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 69** (Medium), +14 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -53,6 +53,6 @@ npx -y @bankless/onchain-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bankless-onchain-mcp`. https://satohub.ai/resources/bankless-onchain-mcp — retrieved 2026-11-15.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bankless-onchain-mcp`. https://satohub.ai/resources/bankless-onchain-mcp — retrieved 2026-11-16.
 
 [← All layers](../index.md)

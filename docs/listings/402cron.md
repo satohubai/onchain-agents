@@ -9,7 +9,7 @@ layout: "default"
 
 402cron is an MCP server on Base.
 
-Sato Score: **⬡ 83** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 83** (High), +8 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,7 +21,7 @@ Sato Score: **⬡ 83** (High) — a measure of how open, active and verifiable t
 - **Creator:** Georgi Kalchev
 - **Open source:** Partial
 - **Status:** Early
-- **Activity:** Active — last activity 21 days ago
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 0
 - **Deploys as:** Hosted
 - **Works with:** MCP, x402, A2A, OpenAPI, Claude Code, webhooks
@@ -36,6 +36,6 @@ Sato Score: **⬡ 83** (High) — a measure of how open, active and verifiable t
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `402cron`. https://satohub.ai/resources/402cron — retrieved 2026-11-15.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `402cron`. https://satohub.ai/resources/402cron — retrieved 2026-11-16.
 
 [← All layers](../index.md)

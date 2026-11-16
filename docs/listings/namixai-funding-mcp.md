@@ -18,7 +18,7 @@ Sato Score: **⬡ 58** (Medium), -1 over 7 days — a measure of how open, activ
 - **Chains:** Base, Hyperliquid
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Recent — last activity 2 months ago
+- **Activity:** Quiet — last activity 3 months ago
 - **GitHub stars:** 2
 
 ## Deploy spec
@@ -47,6 +47,6 @@ npx -y @usenami/funding-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `namixai-funding-mcp`. https://satohub.ai/resources/namixai-funding-mcp — retrieved 2026-11-15.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `namixai-funding-mcp`. https://satohub.ai/resources/namixai-funding-mcp — retrieved 2026-11-16.
 
 [← All layers](../index.md)
