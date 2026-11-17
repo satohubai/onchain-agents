@@ -40,7 +40,7 @@ npm run setup
 - **License:** Unknown
 - **MCP native:** yes
 - **Deploy status:** failed
-- **As of:** 2026-10-15
+- **As of:** 2026-11-16
 
 ## What we checked
 
@@ -53,6 +53,6 @@ npm run setup
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `tether-wdk-mcp`. https://satohub.ai/resources/tether-wdk-mcp — retrieved 2026-11-16.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `tether-wdk-mcp`. https://satohub.ai/resources/tether-wdk-mcp — retrieved 2026-11-17.
 
 [← All layers](../index.md)

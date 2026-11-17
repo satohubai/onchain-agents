@@ -38,7 +38,7 @@ npm install -g merx
 - **License:** MIT
 - **MCP native:** yes
 - **Deploy status:** failed
-- **As of:** 2026-10-19
+- **As of:** 2026-11-16
 
 ## What we checked
 
@@ -51,6 +51,6 @@ npm install -g merx
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `merx-mcp`. https://satohub.ai/resources/merx-mcp — retrieved 2026-11-16.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `merx-mcp`. https://satohub.ai/resources/merx-mcp — retrieved 2026-11-17.
 
 [← All layers](../index.md)

@@ -9,7 +9,7 @@ layout: "default"
 
 An AI-agent framework and non-custodial vault protocol for designing, backtesting, and deploying automated DeFi yield and trading strategies.
 
-Sato Score: **⬡ 71** (High), -2 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 81** (High), +8 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,7 +21,7 @@ Sato Score: **⬡ 71** (High), -2 over 7 days — a measure of how open, active 
 - **Creator:** Almanak
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Recent — last activity 1 month ago
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 61
 - **Deploys as:** pip, Self-hosted, Hosted
 - **Works with:** Uniswap V3, Uniswap V4, Aave V3, Morpho Blue, GMX V2, Lido, Ethena, Polymarket, Curve, Safe
@@ -39,11 +39,11 @@ pipx install almanak
 - **License:** Apache-2.0
 - **MCP native:** no
 - **Deploy status:** verified
-- **As of:** 2026-11-02
+- **As of:** 2026-11-16
 
 ## What we checked
 
-- Install reproduced in an isolated container on 2026-11-02.
+- Install reproduced in an isolated container on 2026-11-16.
 - Live endpoint probed by us: 100% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
@@ -53,6 +53,6 @@ pipx install almanak
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `almanak`. https://satohub.ai/resources/almanak — retrieved 2026-11-16.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `almanak`. https://satohub.ai/resources/almanak — retrieved 2026-11-17.
 
 [← All layers](../index.md)

@@ -22,7 +22,7 @@ Sato Score: **⬡ 61** (Medium), +5 over 7 days — a measure of how open, activ
 - **Creator:** 0xAxiom
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Quiet — last activity 3 months ago
+- **Activity:** Quiet — last activity 4 months ago
 - **GitHub stars:** 18
 - **Deploys as:** API, Hosted
 - **Works with:** x402, USDC, ENS
@@ -38,6 +38,6 @@ Sato Score: **⬡ 61** (Medium), +5 over 7 days — a measure of how open, activ
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `axiom-clawbots-agent`. https://satohub.ai/resources/axiom-clawbots-agent — retrieved 2026-11-16.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `axiom-clawbots-agent`. https://satohub.ai/resources/axiom-clawbots-agent — retrieved 2026-11-17.
 
 [← All layers](../index.md)

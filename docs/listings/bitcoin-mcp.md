@@ -9,7 +9,7 @@ layout: "default"
 
 Zero-config Bitcoin data MCP: fees, mempool, blocks, transactions, mining, price, and supply.
 
-Sato Score: **⬡ 82** (High), -1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 82** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,7 +22,7 @@ Sato Score: **⬡ 82** (High), -1 over 7 days — a measure of how open, active 
 - **Creator:** Bortlesboat
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 13 days ago
+- **Activity:** Active — last activity 14 days ago
 - **GitHub stars:** 4
 - **Deploys as:** pip, uvx, docker, docker compose, self-hosted
 - **Works with:** Claude Desktop, Claude Code, Cursor, VS Code, Zed
@@ -53,6 +53,6 @@ pip install bitcoin-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bitcoin-mcp`. https://satohub.ai/resources/bitcoin-mcp — retrieved 2026-11-16.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bitcoin-mcp`. https://satohub.ai/resources/bitcoin-mcp — retrieved 2026-11-17.
 
 [← All layers](../index.md)

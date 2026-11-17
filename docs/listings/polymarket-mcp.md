@@ -9,7 +9,7 @@ layout: "default"
 
 Community Polymarket MCP with 45 tools: market discovery, analysis, trading, portfolio, and WebSocket monitoring.
 
-Sato Score: **⬡ 58** (Medium), -1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 58** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -23,7 +23,7 @@ Sato Score: **⬡ 58** (Medium), -1 over 7 days — a measure of how open, activ
 - **Open source:** Yes
 - **Status:** Active
 - **Activity:** Recent — last activity 1 month ago
-- **GitHub stars:** 742
+- **GitHub stars:** 751
 - **Works with:** Claude, Claude Desktop, Polymarket CLOB API, Polymarket Gamma API
 
 ## Deploy spec
@@ -54,6 +54,6 @@ pip install -e .
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `polymarket-mcp`. https://satohub.ai/resources/polymarket-mcp — retrieved 2026-11-16.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `polymarket-mcp`. https://satohub.ai/resources/polymarket-mcp — retrieved 2026-11-17.
 
 [← All layers](../index.md)

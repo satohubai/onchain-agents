@@ -18,7 +18,7 @@ Sato Score: **⬡ 61** (Medium), +10 over 7 days — a measure of how open, acti
 - **Chains:** Multichain, Solana, Bitcoin, Hyperliquid
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 4 days ago
+- **Activity:** Active — last activity 5 days ago
 - **GitHub stars:** 2
 
 ## Deploy spec
@@ -35,7 +35,7 @@ npm start
 - **License:** MIT
 - **MCP native:** yes
 - **Deploy status:** unknown
-- **As of:** 2026-11-09
+- **As of:** 2026-11-16
 
 ## What we checked
 
@@ -48,6 +48,6 @@ npm start
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `sqd-portal-mcp`. https://satohub.ai/resources/sqd-portal-mcp — retrieved 2026-11-16.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `sqd-portal-mcp`. https://satohub.ai/resources/sqd-portal-mcp — retrieved 2026-11-17.
 
 [← All layers](../index.md)

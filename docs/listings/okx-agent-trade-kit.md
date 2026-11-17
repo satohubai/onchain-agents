@@ -9,7 +9,7 @@ layout: "default"
 
 OKX's official MCP server and CLI for agents trading OKX spot, swap, futures, options and grid bots.
 
-Sato Score: **⬡ 75** (High), -1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 75** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,7 +21,7 @@ Sato Score: **⬡ 75** (High), -1 over 7 days — a measure of how open, active 
 - **Creator:** OKX
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 3 days ago
+- **Activity:** Active — last activity 4 days ago
 - **GitHub stars:** 481
 - **Deploys as:** npm
 - **Works with:** Claude, Cursor
@@ -51,6 +51,6 @@ npm install -g @okx_ai/okx-trade-mcp @okx_ai/okx-trade-cli
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `okx-agent-trade-kit`. https://satohub.ai/resources/okx-agent-trade-kit — retrieved 2026-11-16.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `okx-agent-trade-kit`. https://satohub.ai/resources/okx-agent-trade-kit — retrieved 2026-11-17.
 
 [← All layers](../index.md)

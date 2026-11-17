@@ -9,7 +9,7 @@ layout: "default"
 
 MCP server querying Aave V2/V3/V4 lending and governance data across 7 chains via The Graph.
 
-Sato Score: **⬡ 68** (Medium), -1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 68** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -18,7 +18,7 @@ Sato Score: **⬡ 68** (Medium), -1 over 7 days — a measure of how open, activ
 - **Chains:** Ethereum, Base, Arbitrum, Polygon, Optimism, Avalanche
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 3 days ago
+- **Activity:** Active — last activity 4 days ago
 - **GitHub stars:** 2
 
 ## Deploy spec
@@ -50,6 +50,6 @@ cd graph-aave-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `graph-aave-mcp`. https://satohub.ai/resources/graph-aave-mcp — retrieved 2026-11-16.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `graph-aave-mcp`. https://satohub.ai/resources/graph-aave-mcp — retrieved 2026-11-17.
 
 [← All layers](../index.md)

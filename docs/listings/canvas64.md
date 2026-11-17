@@ -31,6 +31,6 @@ Sato Score: **⬡ 59** (Medium), +1 over 7 days — a measure of how open, activ
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `canvas64`. https://satohub.ai/resources/canvas64 — retrieved 2026-11-16.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `canvas64`. https://satohub.ai/resources/canvas64 — retrieved 2026-11-17.
 
 [← All layers](../index.md)

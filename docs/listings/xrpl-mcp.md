@@ -9,7 +9,7 @@ layout: "default"
 
 Community MCP server providing blockchain services for the XRP Ledger ecosystem.
 
-Sato Score: **⬡ 52** (Medium), -1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 52** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -51,6 +51,6 @@ npm run build
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `xrpl-mcp`. https://satohub.ai/resources/xrpl-mcp — retrieved 2026-11-16.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `xrpl-mcp`. https://satohub.ai/resources/xrpl-mcp — retrieved 2026-11-17.
 
 [← All layers](../index.md)

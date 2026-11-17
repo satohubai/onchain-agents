@@ -38,11 +38,11 @@ npx rwapipe-mcp
 - **License:** MIT
 - **MCP native:** yes
 - **Deploy status:** failed
-- **As of:** 2026-10-19
+- **As of:** 2026-11-16
 
 ## What we checked
 
-- Live endpoint probed by us: 64.5% of our checks succeeded over 76 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 64.9% of our checks succeeded over 77 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -51,6 +51,6 @@ npx rwapipe-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `rwa-pipe-mcp`. https://satohub.ai/resources/rwa-pipe-mcp — retrieved 2026-11-16.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `rwa-pipe-mcp`. https://satohub.ai/resources/rwa-pipe-mcp — retrieved 2026-11-17.
 
 [← All layers](../index.md)

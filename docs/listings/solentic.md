@@ -34,7 +34,7 @@ npx @mbrassey/solentic-mcp
 - **License:** MIT
 - **MCP native:** yes
 - **Deploy status:** failed
-- **As of:** 2026-10-15
+- **As of:** 2026-11-16
 
 ## What we checked
 
@@ -47,6 +47,6 @@ npx @mbrassey/solentic-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solentic`. https://satohub.ai/resources/solentic — retrieved 2026-11-16.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `solentic`. https://satohub.ai/resources/solentic — retrieved 2026-11-17.
 
 [← All layers](../index.md)
