@@ -21,7 +21,7 @@ Sato Score: **⬡ 74** (High) — a measure of how open, active and verifiable t
 - **Creator:** StarkWare
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 1 day ago
+- **Activity:** Active — last activity 2 days ago
 - **GitHub stars:** 115
 - **Deploys as:** pip install (Python, local stdio)
 - **Works with:** Claude Code
@@ -52,6 +52,6 @@ claude mcp add --scope user --env STARKNET_RPC_URL=<your-rpc-url> starknet -- py
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `starknet-mcp`. https://satohub.ai/resources/starknet-mcp — retrieved 2026-11-17.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `starknet-mcp`. https://satohub.ai/resources/starknet-mcp — retrieved 2026-11-18.
 
 [← All layers](../index.md)

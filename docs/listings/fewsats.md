@@ -18,7 +18,7 @@ Sato Score: **⬡ 43** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Bitcoin, Multichain
 - **Open source:** Partial
 - **Status:** Unknown
-- **Activity:** Dormant — last activity 17 months ago
+- **Activity:** Dormant — last activity 18 months ago
 - **GitHub stars:** 21
 
 ## Deploy spec
@@ -46,6 +46,6 @@ uvx fewsats-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `fewsats`. https://satohub.ai/resources/fewsats — retrieved 2026-11-17.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `fewsats`. https://satohub.ai/resources/fewsats — retrieved 2026-11-18.
 
 [← All layers](../index.md)

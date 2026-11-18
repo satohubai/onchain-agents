@@ -9,7 +9,7 @@ layout: "default"
 
 An x402 micropayment gateway and transparent proxy that adds pay-per-request paywalls to existing APIs without backend rewrites.
 
-Sato Score: **⬡ 71** (High), +15 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 71** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,7 +22,7 @@ Sato Score: **⬡ 71** (High), +15 over 7 days — a measure of how open, active
 - **Creator:** Kobaru
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 6 days ago
+- **Activity:** Active — last activity 7 days ago
 - **GitHub stars:** 4
 - **Deploys as:** Hosted, Self-hosted, npm, MCP server, API
 - **Works with:** x402, Model Context Protocol (MCP), USDC
@@ -55,6 +55,6 @@ npm run dev
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `kobaru`. https://satohub.ai/resources/kobaru — retrieved 2026-11-17.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `kobaru`. https://satohub.ai/resources/kobaru — retrieved 2026-11-18.
 
 [← All layers](../index.md)

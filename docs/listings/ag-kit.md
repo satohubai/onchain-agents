@@ -9,7 +9,7 @@ layout: "default"
 
 An AI agent toolkit of markdown-based templates for Skills, Agents, and Workflows, with a coordinator mode, persistent memory, and context compression.
 
-Sato Score: **⬡ 75** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 65** (Medium), -10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,7 +21,7 @@ Sato Score: **⬡ 75** (High) — a measure of how open, active and verifiable t
 - **Creator:** Vudovn
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Recent — last activity 30 days ago
+- **Activity:** Recent — last activity 1 month ago
 - **GitHub stars:** 8.2k
 - **Deploys as:** CLI, npm
 - **Works with:** Cursor, Windsurf, Antigravity
@@ -41,7 +41,7 @@ npx @vudovn/ag-kit init
 
 ## What we checked
 
-- Live endpoint probed by us: 66.2% of our checks succeeded over 77 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 66.7% of our checks succeeded over 78 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -50,6 +50,6 @@ npx @vudovn/ag-kit init
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ag-kit`. https://satohub.ai/resources/ag-kit — retrieved 2026-11-17.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ag-kit`. https://satohub.ai/resources/ag-kit — retrieved 2026-11-18.
 
 [← All layers](../index.md)

@@ -21,7 +21,7 @@ Sato Score: **⬡ 72** (High) — a measure of how open, active and verifiable t
 - **Use cases:** wallets, data
 - **Open source:** Unknown
 - **Status:** Active
-- **Activity:** Quiet — last activity 3 months ago
+- **Activity:** Quiet — last activity 4 months ago
 - **GitHub stars:** 0
 - **Deploys as:** npm, hosted, self-hosted
 - **Works with:** Claude Desktop, Cursor, Continue
@@ -42,7 +42,7 @@ npx rwapipe-mcp
 
 ## What we checked
 
-- Live endpoint probed by us: 64.9% of our checks succeeded over 77 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 65.4% of our checks succeeded over 78 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -51,6 +51,6 @@ npx rwapipe-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `rwa-pipe-mcp`. https://satohub.ai/resources/rwa-pipe-mcp — retrieved 2026-11-17.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `rwa-pipe-mcp`. https://satohub.ai/resources/rwa-pipe-mcp — retrieved 2026-11-18.
 
 [← All layers](../index.md)

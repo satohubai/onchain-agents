@@ -21,7 +21,7 @@ Sato Score: **⬡ 86** (High) — a measure of how open, active and verifiable t
 - **Creator:** Turnkey
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 4 days ago
+- **Activity:** Active — last activity 5 days ago
 - **GitHub stars:** 104
 - **Deploys as:** API, SDK
 - **Works with:** TypeScript SDK, React SDK, React Native SDK, REST API
@@ -51,6 +51,6 @@ npm install @turnkey/sdk-server
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `turnkey`. https://satohub.ai/resources/turnkey — retrieved 2026-11-17.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `turnkey`. https://satohub.ai/resources/turnkey — retrieved 2026-11-18.
 
 [← All layers](../index.md)

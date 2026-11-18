@@ -22,7 +22,7 @@ Sato Score: **⬡ 51** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Hummingbot Foundation
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Quiet — last activity 7 months ago
+- **Activity:** Quiet — last activity 8 months ago
 - **GitHub stars:** 59
 - **Deploys as:** Docker, Local (uv), Docker Compose
 - **Works with:** Claude Code, Gemini CLI, Hummingbot API
@@ -53,6 +53,6 @@ cd mcp && uv sync
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `hummingbot-mcp`. https://satohub.ai/resources/hummingbot-mcp — retrieved 2026-11-17.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `hummingbot-mcp`. https://satohub.ai/resources/hummingbot-mcp — retrieved 2026-11-18.
 
 [← All layers](../index.md)

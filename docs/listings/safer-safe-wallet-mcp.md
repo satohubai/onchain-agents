@@ -18,7 +18,7 @@ Sato Score: **⬡ 53** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Ethereum, Base, Polygon, Arbitrum
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Dormant — last activity 19 months ago
+- **Activity:** Dormant — last activity 20 months ago
 - **GitHub stars:** 3
 
 ## Deploy spec
@@ -50,6 +50,6 @@ cd safer
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `safer-safe-wallet-mcp`. https://satohub.ai/resources/safer-safe-wallet-mcp — retrieved 2026-11-17.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `safer-safe-wallet-mcp`. https://satohub.ai/resources/safer-safe-wallet-mcp — retrieved 2026-11-18.
 
 [← All layers](../index.md)

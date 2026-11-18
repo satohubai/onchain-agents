@@ -18,7 +18,7 @@ Sato Score: **⬡ 47** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Ethereum
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Quiet — last activity 7 months ago
+- **Activity:** Quiet — last activity 8 months ago
 - **GitHub stars:** 2
 - **Works with:** Claude Desktop, Cursor
 
@@ -50,6 +50,6 @@ npm run build
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lido-mcp-ghost-clio`. https://satohub.ai/resources/lido-mcp-ghost-clio — retrieved 2026-11-17.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lido-mcp-ghost-clio`. https://satohub.ai/resources/lido-mcp-ghost-clio — retrieved 2026-11-18.
 
 [← All layers](../index.md)
