@@ -19,7 +19,7 @@ Sato Score: **⬡ 72** (High) — a measure of how open, active and verifiable t
 - **Creator:** MetaMask
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 1 day ago
+- **Activity:** Active — last activity 2 days ago
 - **GitHub stars:** 229
 
 ## Deploy spec
@@ -48,6 +48,6 @@ forge test
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `metamask-delegation-framework`. https://satohub.ai/resources/metamask-delegation-framework — retrieved 2026-11-18.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `metamask-delegation-framework`. https://satohub.ai/resources/metamask-delegation-framework — retrieved 2026-11-19.
 
 [← All layers](../index.md)

@@ -9,7 +9,7 @@ layout: "default"
 
 Wallet and DeFi data provider offering portfolio, positions, transactions, PnL, and prices across many chains, with an agent-accessible API.
 
-Sato Score: **⬡ 85** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 85** (High), +10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -54,6 +54,6 @@ npx -y zerion-cli init
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `zerion`. https://satohub.ai/resources/zerion — retrieved 2026-11-18.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `zerion`. https://satohub.ai/resources/zerion — retrieved 2026-11-19.
 
 [← All layers](../index.md)

@@ -9,7 +9,7 @@ layout: "default"
 
 copy.top is an MCP server on Solana, Hyperliquid, Base.
 
-Sato Score: **⬡ 69** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 74** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -20,8 +20,9 @@ Sato Score: **⬡ 69** (Medium) — a measure of how open, active and verifiable
 - **Interfaces:** mcp, api
 - **Open source:** Partial
 - **Status:** Early
-- **Activity:** Active — last activity 3 days ago
+- **Activity:** Active — last activity 4 days ago
 - **GitHub stars:** 0
+- **Deploys as:** hosted
 
 ## What we checked
 
@@ -33,6 +34,6 @@ Sato Score: **⬡ 69** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `copy-top`. https://satohub.ai/resources/copy-top — retrieved 2026-11-18.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `copy-top`. https://satohub.ai/resources/copy-top — retrieved 2026-11-19.
 
 [← All layers](../index.md)

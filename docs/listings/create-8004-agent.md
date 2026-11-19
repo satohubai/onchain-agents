@@ -23,13 +23,13 @@ Sato Score: **⬡ 49** (Medium) — a measure of how open, active and verifiable
 - **Open source:** Yes
 - **Status:** Unknown
 - **Activity:** Quiet — last activity 8 months ago
-- **GitHub stars:** 50
+- **GitHub stars:** 52
 - **Deploys as:** npm, cli
 - **Works with:** A2A, MCP, x402, PayAI, 4mica, OpenAI, Pinata, IPFS, agent0-sdk, Metaplex
 
 ## What we checked
 
-- Live endpoint probed by us: 97.5% of our checks succeeded over 40 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 97.6% of our checks succeeded over 41 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -38,6 +38,6 @@ Sato Score: **⬡ 49** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `create-8004-agent`. https://satohub.ai/resources/create-8004-agent — retrieved 2026-11-18.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `create-8004-agent`. https://satohub.ai/resources/create-8004-agent — retrieved 2026-11-19.
 
 [← All layers](../index.md)

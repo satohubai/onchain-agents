@@ -21,7 +21,7 @@ Sato Score: **⬡ 67** (Medium) — a measure of how open, active and verifiable
 - **Use cases:** trading, data
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Quiet — last activity 6 months ago
+- **Activity:** Quiet — last activity 7 months ago
 - **GitHub stars:** 95
 - **Deploys as:** npm, Docker, self-hosted
 - **Works with:** Claude Desktop
@@ -52,6 +52,6 @@ npm install -g @lazydino/ccxt-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ccxt-mcp`. https://satohub.ai/resources/ccxt-mcp — retrieved 2026-11-18.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `ccxt-mcp`. https://satohub.ai/resources/ccxt-mcp — retrieved 2026-11-19.
 
 [← All layers](../index.md)

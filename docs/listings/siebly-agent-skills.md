@@ -9,7 +9,7 @@ layout: "default"
 
 Siebly Agent Skills is a skill repository for agents on Hyperliquid.
 
-Sato Score: **⬡ 71** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 71** (High), +8 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -20,7 +20,7 @@ Sato Score: **⬡ 71** (High) — a measure of how open, active and verifiable t
 - **Creator:** Siebly
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 16 days ago
+- **Activity:** Active — last activity 17 days ago
 - **GitHub stars:** 2
 - **Deploys as:** npx skills add, manual copy into agent skills folder
 - **Works with:** Binance, Bybit, OKX, Gate, Bitget, KuCoin, Coinbase, Kraken, HTX, Hyperliquid, Claude skills, skills CLI
@@ -35,6 +35,6 @@ Sato Score: **⬡ 71** (High) — a measure of how open, active and verifiable t
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `siebly-agent-skills`. https://satohub.ai/resources/siebly-agent-skills — retrieved 2026-11-18.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `siebly-agent-skills`. https://satohub.ai/resources/siebly-agent-skills — retrieved 2026-11-19.
 
 [← All layers](../index.md)
