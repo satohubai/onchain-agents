@@ -1,0 +1,8 @@
+{
+  "name": "KaspaMy",
+  "github_url": "https://github.com/lifeme2027/KaspaMy",
+  "category": "MCP",
+  "chains": ["Kaspa"],
+  "description": "Community, unofficial .NET 8 CLI and stdio MCP server for a local encrypted-file Kaspa wallet: address, balance, fee estimate and capped sends. Testnet-10 by default; mainnet off unless enabled. Alpha, not audited.",
+  "relationship": "maintainer"
+}
