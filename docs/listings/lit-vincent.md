@@ -29,7 +29,7 @@ Sato Score: **⬡ 46** (Medium) — a measure of how open, active and verifiable
 
 ## What we checked
 
-- Live endpoint probed by us: 48.8% of our checks succeeded over 41 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 47.6% of our checks succeeded over 42 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -38,6 +38,6 @@ Sato Score: **⬡ 46** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lit-vincent`. https://satohub.ai/resources/lit-vincent — retrieved 2026-11-19.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lit-vincent`. https://satohub.ai/resources/lit-vincent — retrieved 2026-11-20.
 
 [← All layers](../index.md)

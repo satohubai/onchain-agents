@@ -9,7 +9,7 @@ layout: "default"
 
 Siebly Hyperliquid JavaScript SDK is an API and SDK on Hyperliquid.
 
-Sato Score: **⬡ 68** (Medium), +4 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 68** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -19,7 +19,7 @@ Sato Score: **⬡ 68** (Medium), +4 over 7 days — a measure of how open, activ
 - **Creator:** Siebly
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 3 days ago
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 4
 
 ## What we checked
@@ -32,6 +32,6 @@ Sato Score: **⬡ 68** (Medium), +4 over 7 days — a measure of how open, activ
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `siebly-hyperliquid-javascript-sdk`. https://satohub.ai/resources/siebly-hyperliquid-javascript-sdk — retrieved 2026-11-19.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `siebly-hyperliquid-javascript-sdk`. https://satohub.ai/resources/siebly-hyperliquid-javascript-sdk — retrieved 2026-11-20.
 
 [← All layers](../index.md)

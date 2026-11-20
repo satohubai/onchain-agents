@@ -19,7 +19,7 @@ Sato Score: **⬡ 51** (Medium) — a measure of how open, active and verifiable
 - **Open source:** Yes
 - **Status:** Active
 - **Activity:** Recent — last activity 1 month ago
-- **GitHub stars:** 435
+- **GitHub stars:** 438
 
 ## What we checked
 
@@ -32,6 +32,6 @@ Sato Score: **⬡ 51** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `awesome-solana-ai`. https://satohub.ai/resources/awesome-solana-ai — retrieved 2026-11-19.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `awesome-solana-ai`. https://satohub.ai/resources/awesome-solana-ai — retrieved 2026-11-20.
 
 [← All layers](../index.md)
