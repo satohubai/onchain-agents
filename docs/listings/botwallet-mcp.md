@@ -9,7 +9,7 @@ layout: "default"
 
 Non-custodial wallet MCP for AI agents to invoice, get paid, and spend on other agents/APIs, with human-set limits.
 
-Sato Score: **⬡ 62** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 72** (High), +10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -18,7 +18,7 @@ Sato Score: **⬡ 62** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Solana
 - **Open source:** Partial
 - **Status:** Early
-- **Activity:** Recent — last activity 1 month ago
+- **Activity:** Active — last activity today
 - **GitHub stars:** 4
 - **Works with:** Claude Desktop, Cursor, Windsurf, Cline, x402 protocol
 
@@ -48,6 +48,6 @@ npm install -g @botwallet/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `botwallet-mcp`. https://satohub.ai/resources/botwallet-mcp — retrieved 2026-11-20.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `botwallet-mcp`. https://satohub.ai/resources/botwallet-mcp — retrieved 2026-11-21.
 
 [← All layers](../index.md)

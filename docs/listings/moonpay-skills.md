@@ -51,6 +51,6 @@ npx skills add moonpay/skills
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `moonpay-skills`. https://satohub.ai/resources/moonpay-skills — retrieved 2026-11-20.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `moonpay-skills`. https://satohub.ai/resources/moonpay-skills — retrieved 2026-11-21.
 
 [← All layers](../index.md)

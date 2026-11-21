@@ -49,6 +49,6 @@ make wallet
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `monad-agent-kit`. https://satohub.ai/resources/monad-agent-kit — retrieved 2026-11-20.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `monad-agent-kit`. https://satohub.ai/resources/monad-agent-kit — retrieved 2026-11-21.
 
 [← All layers](../index.md)

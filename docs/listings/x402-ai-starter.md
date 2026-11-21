@@ -19,7 +19,7 @@ Sato Score: **⬡ 55** (Medium) — a measure of how open, active and verifiable
 - **Open source:** Yes
 - **Status:** Unknown
 - **Activity:** Quiet — last activity 11 months ago
-- **GitHub stars:** 72
+- **GitHub stars:** 73
 - **Works with:** AI SDK, Model Context Protocol (MCP), Coinbase Developer Platform (CDP), AI Gateway, Next.js
 
 ## Deploy spec
@@ -50,6 +50,6 @@ pnpm dev
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `x402-ai-starter`. https://satohub.ai/resources/x402-ai-starter — retrieved 2026-11-20.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `x402-ai-starter`. https://satohub.ai/resources/x402-ai-starter — retrieved 2026-11-21.
 
 [← All layers](../index.md)

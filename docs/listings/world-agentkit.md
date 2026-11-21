@@ -22,7 +22,7 @@ Sato Score: **⬡ 76** (High), -10 over 7 days — a measure of how open, active
 - **Creator:** Worldcoin
 - **Open source:** Partial
 - **Status:** Beta
-- **Activity:** Recent — last activity 30 days ago
+- **Activity:** Recent — last activity 1 month ago
 - **GitHub stars:** 24
 - **Deploys as:** npm
 - **Works with:** x402, World ID, World Chain, Base, Hono
@@ -53,6 +53,6 @@ npm install @worldcoin/agentkit
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `world-agentkit`. https://satohub.ai/resources/world-agentkit — retrieved 2026-11-20.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `world-agentkit`. https://satohub.ai/resources/world-agentkit — retrieved 2026-11-21.
 
 [← All layers](../index.md)

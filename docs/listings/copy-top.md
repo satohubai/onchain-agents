@@ -34,6 +34,6 @@ Sato Score: **⬡ 74** (High) — a measure of how open, active and verifiable t
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `copy-top`. https://satohub.ai/resources/copy-top — retrieved 2026-11-20.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `copy-top`. https://satohub.ai/resources/copy-top — retrieved 2026-11-21.
 
 [← All layers](../index.md)

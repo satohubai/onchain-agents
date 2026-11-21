@@ -21,7 +21,7 @@ Sato Score: **⬡ 85** (High), +15 over 7 days — a measure of how open, active
 - **Creator:** swapperfinance
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 4 days ago
+- **Activity:** Active — last activity 5 days ago
 - **GitHub stars:** 852
 - **Deploys as:** agent skill, SDK, npm
 - **Works with:** Claude Code, Cursor, Windsurf, OpenClaw, GitHub Copilot, CrewAI, AutoGPT, Chainlink CCIP, Mastercard
@@ -53,6 +53,6 @@ npm i @swapper-finance/deposit-sdk
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `swapper-toolkit`. https://satohub.ai/resources/swapper-toolkit — retrieved 2026-11-20.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `swapper-toolkit`. https://satohub.ai/resources/swapper-toolkit — retrieved 2026-11-21.
 
 [← All layers](../index.md)
