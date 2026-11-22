@@ -25,7 +25,7 @@ Sato Score: **⬡ 67** (Medium) — a measure of how open, active and verifiable
 
 ## What we checked
 
-- Live endpoint probed by us: 98.3% of our checks succeeded over 59 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 98.3% of our checks succeeded over 60 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -34,6 +34,6 @@ Sato Score: **⬡ 67** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `shade-agent-framework`. https://satohub.ai/resources/shade-agent-framework — retrieved 2026-11-21.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `shade-agent-framework`. https://satohub.ai/resources/shade-agent-framework — retrieved 2026-11-22.
 
 [← All layers](../index.md)

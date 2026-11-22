@@ -52,6 +52,6 @@ claude mcp add debridge --transport http https://agents.debridge.com/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `debridge-mcp`. https://satohub.ai/resources/debridge-mcp — retrieved 2026-11-21.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `debridge-mcp`. https://satohub.ai/resources/debridge-mcp — retrieved 2026-11-22.
 
 [← All layers](../index.md)

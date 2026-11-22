@@ -47,6 +47,6 @@ npm install @usenami/signer-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `namixai-signer-mcp`. https://satohub.ai/resources/namixai-signer-mcp — retrieved 2026-11-21.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `namixai-signer-mcp`. https://satohub.ai/resources/namixai-signer-mcp — retrieved 2026-11-22.
 
 [← All layers](../index.md)
