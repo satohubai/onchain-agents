@@ -19,7 +19,7 @@ Sato Score: **⬡ 82** (High) — a measure of how open, active and verifiable t
 - **Interfaces:** mcp
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 5 days ago
+- **Activity:** Active — last activity 2 days ago
 - **GitHub stars:** 1
 - **Works with:** Coinbase AgentKit, ElizaOS, Model Context Protocol, x402, ERC-8004, Coinbase CDP Bazaar, PayAI
 

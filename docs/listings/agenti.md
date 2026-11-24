@@ -22,7 +22,7 @@ Sato Score: **⬡ 66** (Medium) — a measure of how open, active and verifiable
 - **Creator:** nirholas
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 4 days ago
+- **Activity:** Active — last activity 5 days ago
 - **GitHub stars:** 84
 - **Deploys as:** npm, MCP server
 - **Works with:** Claude, LangChain, AutoGen, CrewAI, MCP, x402

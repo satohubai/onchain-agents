@@ -19,7 +19,7 @@ Sato Score: **⬡ 75** (High) — a measure of how open, active and verifiable t
 - **Creator:** Quack AI
 - **Open source:** Partial
 - **Status:** Unknown
-- **Activity:** Active — last activity 20 days ago
+- **Activity:** Active — last activity 21 days ago
 - **GitHub stars:** 0
 - **Works with:** Claude, Codex CLI, Cursor, Cline, GitHub Copilot, Hermes Agent, Aave, Morpho, Lista, Chainlink CCIP
 

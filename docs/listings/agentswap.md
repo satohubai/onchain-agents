@@ -19,7 +19,7 @@ Sato Score: **⬡ 63** (Medium) — a measure of how open, active and verifiable
 - **Interfaces:** api
 - **Open source:** Partial
 - **Status:** Early
-- **Activity:** Active — last activity 29 days ago
+- **Activity:** Recent — last activity 30 days ago
 - **GitHub stars:** 0
 
 ## What we checked

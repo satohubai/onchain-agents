@@ -22,7 +22,7 @@ Sato Score: **⬡ 75** (High) — a measure of how open, active and verifiable t
 - **Creator:** CoinStats
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 22 days ago
+- **Activity:** Active — last activity 23 days ago
 - **GitHub stars:** 17
 - **Deploys as:** Hosted API (OAuth-protected Streamable HTTP), npm (stdio self-host), Docker
 - **Works with:** Claude Desktop, Claude Code, Cursor, Codex, Claude.ai, ChatGPT

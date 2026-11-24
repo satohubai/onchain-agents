@@ -21,7 +21,7 @@ Sato Score: **⬡ 56** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Whetstone Research
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Recent — last activity 2 months ago
+- **Activity:** Quiet — last activity 3 months ago
 - **GitHub stars:** 105
 
 ## What we checked

@@ -22,8 +22,8 @@ Sato Score: **⬡ 81** (High) — a measure of how open, active and verifiable t
 - **Creator:** Socket
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity today
-- **GitHub stars:** 339
+- **Activity:** Active — last activity 1 day ago
+- **GitHub stars:** 340
 - **Deploys as:** npm, mcp server, hosted
 - **Works with:** npm, pnpm, yarn, Claude Desktop, GitHub, GitLab, Bitbucket, Jenkins, Azure DevOps, Slack, Jira, Linear
 

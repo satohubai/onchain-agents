@@ -22,7 +22,7 @@ Sato Score: **⬡ 81** (High) — a measure of how open, active and verifiable t
 - **Creator:** Coinbase
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 4 days ago
+- **Activity:** Active — last activity 5 days ago
 - **GitHub stars:** 178
 - **Works with:** CDP SDK (TypeScript), REST API, MCP
 

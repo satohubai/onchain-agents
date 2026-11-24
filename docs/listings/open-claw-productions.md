@@ -9,7 +9,7 @@ layout: "default"
 
 Open Claw Productions is an API and SDK on Base.
 
-Sato Score: **⬡ 41** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 46** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -19,6 +19,7 @@ Sato Score: **⬡ 41** (Medium) — a measure of how open, active and verifiable
 - **Interfaces:** api
 - **Open source:** Unknown
 - **Status:** Unknown
+- **Works with:** x402, MCP, OpenAPI
 
 ## What we checked
 

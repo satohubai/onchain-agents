@@ -21,7 +21,7 @@ Sato Score: **⬡ 82** (High) — a measure of how open, active and verifiable t
 - **Use cases:** trading
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 19 days ago
+- **Activity:** Active — last activity 20 days ago
 - **GitHub stars:** 13.3k
 - **Deploys as:** Self-hosted, Docker, Railway, Linux/macOS install script, Build from source
 - **Works with:** Binance, Bybit, OKX, Hyperliquid, Bitget, KuCoin, Gate, Aster, Lighter, DeepSeek, OpenAI, Claude

@@ -23,7 +23,7 @@ Sato Score: **⬡ 40** (Medium) — a measure of how open, active and verifiable
 - **Open source:** Unknown
 - **Status:** Unknown
 - **Activity:** Quiet — last activity 3 months ago
-- **GitHub stars:** 240
+- **GitHub stars:** 241
 
 ## What we checked
 

@@ -21,7 +21,7 @@ Sato Score: **⬡ 68** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Ledger
 - **Open source:** Partial
 - **Status:** Early
-- **Activity:** Active — last activity 4 days ago
+- **Activity:** Active — last activity 5 days ago
 - **GitHub stars:** 7
 - **Works with:** Claude Code, Cursor, Codex, Cline, GitHub Copilot, Windsurf, Claude Desktop
 

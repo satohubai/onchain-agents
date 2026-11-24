@@ -21,7 +21,7 @@ Sato Score: **⬡ 67** (Medium), +10 over 7 days — a measure of how open, acti
 - **Creator:** OpenGradient
 - **Open source:** Partial
 - **Status:** Beta
-- **Activity:** Active — last activity today
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 100
 
 ## What we checked

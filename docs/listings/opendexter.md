@@ -35,7 +35,7 @@ npx @dexterai/opendexter setup
 
 ## What we checked
 
-- Live endpoint probed by us: 7.7% of our checks succeeded over 91 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 6.7% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links

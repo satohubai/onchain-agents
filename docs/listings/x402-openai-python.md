@@ -22,7 +22,7 @@ Sato Score: **⬡ 74** (High) — a measure of how open, active and verifiable t
 - **Creator:** qntx
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity today
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 262
 - **Deploys as:** pip
 - **Works with:** OpenAI, x402, USDC

@@ -18,7 +18,7 @@ Sato Score: **⬡ 35** (Low) — a measure of how open, active and verifiable th
 - **Chains:** Ethereum, Base
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Quiet — last activity 7 months ago
+- **Activity:** Quiet — last activity 8 months ago
 - **GitHub stars:** 0
 
 ## What we checked

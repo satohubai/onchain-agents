@@ -22,7 +22,7 @@ Sato Score: **⬡ 73** (High) — a measure of how open, active and verifiable t
 - **Creator:** Nevermined
 - **Open source:** Yes
 - **Status:** Unknown
-- **Activity:** Active — last activity 7 days ago
+- **Activity:** Active — last activity 8 days ago
 - **GitHub stars:** 16
 - **Deploys as:** npm
 - **Works with:** A2A, x402, Stripe, LangChain, LangSmith, MCP

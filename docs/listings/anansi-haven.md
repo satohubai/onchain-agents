@@ -9,7 +9,7 @@ layout: "default"
 
 Anansi Haven is an MCP server on Base.
 
-Sato Score: **⬡ 75** (High), +1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 75** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -20,7 +20,7 @@ Sato Score: **⬡ 75** (High), +1 over 7 days — a measure of how open, active 
 - **Interfaces:** mcp
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 7 days ago
+- **Activity:** Active — last activity 8 days ago
 - **GitHub stars:** 0
 - **Deploys as:** Hosted, Self-hosted, Cloudflare Workers
 - **Works with:** MCP, A2A, Claude Code, Cursor, VS Code, Windsurf, Codex, Gemini CLI, Claude Desktop, Farcaster

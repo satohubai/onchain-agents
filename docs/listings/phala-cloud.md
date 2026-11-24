@@ -20,7 +20,7 @@ Sato Score: **⬡ 71** (High) — a measure of how open, active and verifiable t
 - **Creator:** Phala Network
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 6 days ago
+- **Activity:** Active — last activity 7 days ago
 - **GitHub stars:** 33
 - **Deploys as:** Hosted TEE VM, CLI, SDK, Terraform, Docker Compose
 - **Works with:** Docker Compose, Terraform, MCP, Claude Code, Codex, Cursor, OpenAI-compatible API

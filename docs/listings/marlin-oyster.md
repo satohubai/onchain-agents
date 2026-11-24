@@ -9,7 +9,7 @@ layout: "default"
 
 Marlin sub-network that rents TEE-backed confidential VMs and runs serverless tasks, with attestation and key management tooling.
 
-Sato Score: **⬡ 64** (Medium), +15 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 64** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -20,7 +20,7 @@ Sato Score: **⬡ 64** (Medium), +15 over 7 days — a measure of how open, acti
 - **Creator:** Marlin
 - **Open source:** Unknown
 - **Status:** Unknown
-- **Activity:** Active — last activity today
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 81
 - **Deploys as:** Confidential VMs, Serverless
 

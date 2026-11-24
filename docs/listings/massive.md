@@ -22,7 +22,7 @@ Sato Score: **⬡ 74** (High) — a measure of how open, active and verifiable t
 - **Creator:** Massive
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 3 days ago
+- **Activity:** Active — last activity 4 days ago
 - **GitHub stars:** 405
 - **Deploys as:** Hosted/Remote
 - **Works with:** MCP, Claude Code, Claude Desktop, Cursor, ChatGPT, Codex, Copilot, Gemini CLI, Coinbase x402, Agentic.Market, x402 Bazaar

@@ -9,7 +9,7 @@ layout: "default"
 
 MCP server for perp funding rates and cross-exchange data across 20+ venues, including Hyperliquid HIP-3.
 
-Sato Score: **⬡ 53** (Medium), -5 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 53** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -38,7 +38,7 @@ npx -y @usenami/funding-mcp
 ## What we checked
 
 - Install reproduced in an isolated container on 2026-09-07.
-- Live endpoint probed by us: 98.9% of our checks succeeded over 91 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 98.9% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links

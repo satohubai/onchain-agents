@@ -18,7 +18,7 @@ Sato Score: **⬡ 63** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Paulo Longen
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 3 days ago
+- **Activity:** Active — last activity 4 days ago
 - **GitHub stars:** 0
 
 ## What we checked

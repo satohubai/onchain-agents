@@ -22,7 +22,7 @@ Sato Score: **⬡ 70** (High) — a measure of how open, active and verifiable t
 - **Creator:** Stripe
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 4 days ago
+- **Activity:** Active — last activity 5 days ago
 - **GitHub stars:** 58
 - **Works with:** MPP, x402, Shared Payment Tokens, Stripe Connect, Coinbase Developer Platform, MCP, Link Agent Wallet, Tempo wallet
 

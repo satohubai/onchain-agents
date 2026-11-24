@@ -21,7 +21,7 @@ Sato Score: **⬡ 63** (Medium), +10 over 7 days — a measure of how open, acti
 - **Creator:** Pump.fun
 - **Open source:** Unknown
 - **Status:** Active
-- **Activity:** Active — last activity 3 days ago
+- **Activity:** Active — last activity 4 days ago
 - **GitHub stars:** 473
 
 ## What we checked

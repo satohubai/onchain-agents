@@ -22,7 +22,7 @@ Sato Score: **⬡ 72** (High) — a measure of how open, active and verifiable t
 - **Creator:** ChainGPT
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity today
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 11
 - **Deploys as:** Claude Code plugin, MCP server
 - **Works with:** 1inch, Jupiter, Aave, Lido, EigenLayer, Pendle, Morpho, Hyperliquid, Polymarket, Across, x402

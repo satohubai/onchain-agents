@@ -22,7 +22,7 @@ Sato Score: **⬡ 80** (High) — a measure of how open, active and verifiable t
 - **Creator:** Nodit (Lambda256)
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 13 days ago
+- **Activity:** Active — last activity 14 days ago
 - **GitHub stars:** 23
 - **Deploys as:** npx (local stdio), Remote MCP (hosted SSE endpoint)
 - **Works with:** Claude Desktop, Claude Code, Cursor, Claude (Web)

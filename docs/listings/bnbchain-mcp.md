@@ -22,7 +22,7 @@ Sato Score: **⬡ 84** (High) — a measure of how open, active and verifiable t
 - **Creator:** nirholas
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 4 days ago
+- **Activity:** Active — last activity 5 days ago
 - **GitHub stars:** 35
 - **Deploys as:** MCP server, npx (stdio), HTTP mode, SSE mode
 - **Works with:** Claude Desktop, Cursor, VS Code, ChatGPT

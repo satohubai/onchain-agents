@@ -20,7 +20,7 @@ Sato Score: **⬡ 80** (High) — a measure of how open, active and verifiable t
 - **Use cases:** trading, payments
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 14 days ago
+- **Activity:** Active — last activity 15 days ago
 - **GitHub stars:** 1
 
 ## What we checked

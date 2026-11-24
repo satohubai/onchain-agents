@@ -21,7 +21,7 @@ Sato Score: **⬡ 86** (High) — a measure of how open, active and verifiable t
 - **Creator:** Tempo
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 3 days ago
+- **Activity:** Active — last activity 4 days ago
 - **GitHub stars:** 1.0k
 - **Deploys as:** Pre-built binary, Build from source, Docker
 - **Works with:** TypeScript SDK, Rust SDK, Go SDK, Python SDK, Foundry, Codex, Claude Code, Amp, MCP

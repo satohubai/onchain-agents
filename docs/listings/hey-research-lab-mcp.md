@@ -21,7 +21,7 @@ Sato Score: **⬡ 74** (High), +1 over 7 days — a measure of how open, active 
 - **Creator:** HEY Research Lab
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 7 days ago
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 1
 - **Deploys as:** local stdio (npx), hosted endpoint, npm package
 

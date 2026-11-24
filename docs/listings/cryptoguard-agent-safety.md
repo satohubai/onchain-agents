@@ -9,7 +9,7 @@ layout: "default"
 
 Intercepts agent transactions and checks them against 5 security oracles before execution.
 
-Sato Score: **⬡ 67** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 57** (Medium), -10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -19,7 +19,7 @@ Sato Score: **⬡ 67** (Medium) — a measure of how open, active and verifiable
 - **Creator:** momenbasel
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Recent — last activity 30 days ago
+- **Activity:** Recent — last activity 1 month ago
 - **GitHub stars:** 9
 - **Deploys as:** CLI tool, Python library, MCP server, pip package
 - **Works with:** Claude Code, OpenAI Codex, Cursor, GoPlus Security, Honeypot.is, TokenSniffer, De.Fi Scanner, QuickIntel
@@ -41,7 +41,7 @@ cryptoguard install-hook
 
 ## What we checked
 
-- Live endpoint probed by us: 97.8% of our checks succeeded over 91 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 97.8% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links

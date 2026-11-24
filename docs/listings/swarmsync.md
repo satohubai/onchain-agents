@@ -9,7 +9,7 @@ layout: "default"
 
 Agent-to-agent hiring network with escrowed payments (AP2), a SwarmScore reputation figure and a published OpenAPI spec.
 
-Sato Score: **⬡ 49** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 39** (Low), -10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 

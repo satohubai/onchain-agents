@@ -20,7 +20,7 @@ Sato Score: **⬡ 92** (High) — a measure of how open, active and verifiable t
 - **Interfaces:** mcp, api
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 9 days ago
+- **Activity:** Active — last activity 10 days ago
 - **GitHub stars:** 0
 - **Deploys as:** hosted
 - **Works with:** Claude, Cursor, Hermes, Windsurf, x402, Coinbase Payments MCP

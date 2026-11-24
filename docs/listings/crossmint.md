@@ -21,7 +21,7 @@ Sato Score: **⬡ 74** (High), +8 over 7 days — a measure of how open, active 
 - **Creator:** Crossmint
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity today
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 52
 
 ## What we checked

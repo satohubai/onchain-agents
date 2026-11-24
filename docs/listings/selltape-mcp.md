@@ -9,7 +9,7 @@ layout: "default"
 
 SellTape MCP is an MCP server on Robinhood Chain, Ethereum.
 
-Sato Score: **⬡ 52** (Medium), +3 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 52** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 

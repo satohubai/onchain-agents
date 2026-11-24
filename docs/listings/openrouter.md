@@ -20,7 +20,7 @@ Sato Score: **⬡ 70** (High) — a measure of how open, active and verifiable t
 - **Creator:** OpenRouter
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 3 days ago
+- **Activity:** Active — last activity 4 days ago
 - **GitHub stars:** 697
 - **Works with:** Vercel AI SDK, OpenAI SDK, LangChain, Mastra, PydanticAI, LiveKit, Langfuse, Arize AX, Zapier, TanStack AI, Anthropic Agent SDK
 

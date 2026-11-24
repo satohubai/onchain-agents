@@ -18,7 +18,7 @@ Sato Score: **⬡ 56** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Ethereum
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Quiet — last activity 5 months ago
+- **Activity:** Quiet — last activity 6 months ago
 - **GitHub stars:** 3
 - **Works with:** Claude Desktop, Cursor, Hermes Agent
 
@@ -40,7 +40,7 @@ pip install --upgrade git+https://github.com/elliottech/lighter-python.git@main
 ## What we checked
 
 - Install reproduced in an isolated container on 2026-07-21.
-- Live endpoint probed by us: 100% of our checks succeeded over 91 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links

@@ -9,7 +9,7 @@ layout: "default"
 
 An AI-agent framework and non-custodial vault protocol for designing, backtesting, and deploying automated DeFi yield and trading strategies.
 
-Sato Score: **⬡ 81** (High), +10 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 81** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,7 +21,7 @@ Sato Score: **⬡ 81** (High), +10 over 7 days — a measure of how open, active
 - **Creator:** Almanak
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 2 days ago
+- **Activity:** Active — last activity 3 days ago
 - **GitHub stars:** 62
 - **Deploys as:** pip, Self-hosted, Hosted
 - **Works with:** Uniswap V3, Uniswap V4, Aave V3, Morpho Blue, GMX V2, Lido, Ethena, Polymarket, Curve, Safe
@@ -44,7 +44,7 @@ pipx install almanak
 ## What we checked
 
 - Install reproduced in an isolated container on 2026-11-16.
-- Live endpoint probed by us: 100% of our checks succeeded over 91 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links

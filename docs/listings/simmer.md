@@ -21,7 +21,7 @@ Sato Score: **⬡ 68** (Medium) — a measure of how open, active and verifiable
 - **Use cases:** trading
 - **Open source:** Partial
 - **Status:** Active
-- **Activity:** Active — last activity 3 days ago
+- **Activity:** Active — last activity today
 - **GitHub stars:** 56
 - **Works with:** OpenClaw, ClawHub, MCP, Polymarket, Kalshi, Hyperliquid, PyPI, npm
 

@@ -20,7 +20,7 @@ Sato Score: **⬡ 74** (High) — a measure of how open, active and verifiable t
 - **Interfaces:** mcp, api
 - **Open source:** Partial
 - **Status:** Early
-- **Activity:** Active — last activity today
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 0
 - **Deploys as:** hosted
 

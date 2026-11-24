@@ -19,7 +19,7 @@ Sato Score: **⬡ 39** (Low) — a measure of how open, active and verifiable th
 - **Creator:** Junct
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Quiet — last activity 7 months ago
+- **Activity:** Quiet — last activity 8 months ago
 - **GitHub stars:** 0
 - **Deploys as:** Hosted
 

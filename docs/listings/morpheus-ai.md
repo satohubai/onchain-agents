@@ -21,7 +21,7 @@ Sato Score: **⬡ 74** (High) — a measure of how open, active and verifiable t
 - **Creator:** Morpheus
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 5 days ago
+- **Activity:** Active — last activity today
 - **GitHub stars:** 24
 - **Deploys as:** Hosted API, Desktop app, CLI, Self-hosted node, Railway, SecretVM (TEE)
 - **Works with:** OpenAI Python SDK, Vercel AI SDK, Cursor, OpenCode, LangChain, Eliza, n8n, Open WebUI, Brave Leo

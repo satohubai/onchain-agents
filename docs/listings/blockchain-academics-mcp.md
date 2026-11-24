@@ -18,7 +18,7 @@ Sato Score: **⬡ 68** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Multichain
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 12 days ago
+- **Activity:** Active — last activity 13 days ago
 - **GitHub stars:** 1
 
 ## Deploy spec
@@ -38,7 +38,7 @@ npm install @blockchainacademics/mcp
 ## What we checked
 
 - Install reproduced in an isolated container on 2026-07-21.
-- Live endpoint probed by us: 98.9% of our checks succeeded over 91 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 98.9% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links

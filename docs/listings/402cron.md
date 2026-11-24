@@ -21,7 +21,7 @@ Sato Score: **⬡ 84** (High), +1 over 7 days — a measure of how open, active 
 - **Creator:** Georgi Kalchev
 - **Open source:** Partial
 - **Status:** Early
-- **Activity:** Active — last activity 8 days ago
+- **Activity:** Active — last activity 9 days ago
 - **GitHub stars:** 0
 - **Deploys as:** Hosted
 - **Works with:** MCP, x402, A2A, OpenAPI, Claude Code, webhooks

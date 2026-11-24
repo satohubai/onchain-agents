@@ -18,7 +18,7 @@ Sato Score: **⬡ 79** (High) — a measure of how open, active and verifiable t
 - **Chains:** Unknown
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 12 days ago
+- **Activity:** Active — last activity 13 days ago
 - **GitHub stars:** 496
 - **Works with:** Claude Code, Codex, OpenClaw, Hermes, QClaw, DSH
 

@@ -21,7 +21,7 @@ Sato Score: **⬡ 65** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Venus Protocol
 - **Open source:** Unknown
 - **Status:** Unknown
-- **Activity:** Active — last activity 11 days ago
+- **Activity:** Active — last activity 12 days ago
 - **GitHub stars:** 3
 - **Deploys as:** npm install (OpenClaw workspace skill), copy skill folder into OpenClaw workspace skills directory, import packaged dist/venus-protocol-ops.skill file
 - **Works with:** OpenClaw, Venus Protocol, Flux (Fluid)
@@ -43,7 +43,7 @@ npm install
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 91 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links

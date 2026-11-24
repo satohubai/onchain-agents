@@ -18,7 +18,7 @@ Sato Score: **⬡ 68** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Solana, BNB Chain, Base, Ethereum, Monad
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 8 days ago
+- **Activity:** Active — last activity 9 days ago
 - **GitHub stars:** 0
 
 ## What we checked

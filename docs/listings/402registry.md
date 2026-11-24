@@ -21,7 +21,7 @@ Sato Score: **⬡ 83** (High), +1 over 7 days — a measure of how open, active 
 - **Creator:** Georgi Kalchev
 - **Open source:** Partial
 - **Status:** Early
-- **Activity:** Active — last activity 29 days ago
+- **Activity:** Recent — last activity 30 days ago
 - **GitHub stars:** 0
 - **Deploys as:** Hosted remote MCP server
 

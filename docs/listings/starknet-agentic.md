@@ -18,7 +18,7 @@ Sato Score: **⬡ 68** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Starknet
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity today
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 80
 
 ## Deploy spec
