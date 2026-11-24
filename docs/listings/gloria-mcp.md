@@ -18,7 +18,7 @@ Sato Score: **⬡ 62** (Medium), -2 over 7 days — a measure of how open, activ
 - **Chains:** Base
 - **Open source:** Partial
 - **Status:** Early
-- **Activity:** Active — last activity 5 days ago
+- **Activity:** Active — last activity 7 days ago
 - **GitHub stars:** 1
 
 ## Deploy spec
@@ -34,11 +34,11 @@ uv run gloria-mcp
 - **License:** Unknown
 - **MCP native:** yes
 - **Deploy status:** unknown
-- **As of:** 2026-11-16
+- **As of:** 2026-11-23
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 91 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -47,6 +47,6 @@ uv run gloria-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `gloria-mcp`. https://satohub.ai/resources/gloria-mcp — retrieved 2026-11-22.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `gloria-mcp`. https://satohub.ai/resources/gloria-mcp — retrieved 2026-11-24.
 
 [← All layers](../index.md)

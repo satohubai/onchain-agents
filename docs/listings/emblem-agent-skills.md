@@ -23,7 +23,7 @@ Sato Score: **⬡ 70** (High) — a measure of how open, active and verifiable t
 - **Open source:** Yes
 - **Status:** Early
 - **Activity:** Quiet — last activity 6 months ago
-- **GitHub stars:** 12
+- **GitHub stars:** 13
 - **Deploys as:** npm CLI, MCP server (hosted), A2A agent
 - **Works with:** Claude Code, Cursor, Codex, GitHub Copilot, Gemini CLI, ElizaOS, Windsurf
 
@@ -46,7 +46,7 @@ claude mcp add --transport http EmblemAI https://emblemvault.ai/api/mcp
 ## What we checked
 
 - Install reproduced in an isolated container on 2026-11-16.
-- Live endpoint probed by us: 98.9% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 98.9% of our checks succeeded over 91 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -55,6 +55,6 @@ claude mcp add --transport http EmblemAI https://emblemvault.ai/api/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `emblem-agent-skills`. https://satohub.ai/resources/emblem-agent-skills — retrieved 2026-11-22.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `emblem-agent-skills`. https://satohub.ai/resources/emblem-agent-skills — retrieved 2026-11-24.
 
 [← All layers](../index.md)

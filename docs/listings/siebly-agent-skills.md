@@ -20,7 +20,7 @@ Sato Score: **⬡ 71** (High) — a measure of how open, active and verifiable t
 - **Creator:** Siebly
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity 20 days ago
+- **Activity:** Active — last activity 21 days ago
 - **GitHub stars:** 2
 - **Deploys as:** npx skills add, manual copy into agent skills folder
 - **Works with:** Binance, Bybit, OKX, Gate, Bitget, KuCoin, Coinbase, Kraken, HTX, Hyperliquid, Claude skills, skills CLI
@@ -35,6 +35,6 @@ Sato Score: **⬡ 71** (High) — a measure of how open, active and verifiable t
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `siebly-agent-skills`. https://satohub.ai/resources/siebly-agent-skills — retrieved 2026-11-22.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `siebly-agent-skills`. https://satohub.ai/resources/siebly-agent-skills — retrieved 2026-11-24.
 
 [← All layers](../index.md)

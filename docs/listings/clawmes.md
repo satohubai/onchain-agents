@@ -23,8 +23,8 @@ Sato Score: **⬡ 55** (Medium) — a measure of how open, active and verifiable
 - **Status:** Early
 - **Activity:** Recent — last activity 2 months ago
 - **GitHub stars:** 25
-- **Deploys as:** pip, Hermes plugin
-- **Works with:** WalletConnect, 0x, Aave, Lido, Uniswap, LiFi, CoinGecko, Snapshot, Gnosis Safe
+- **Deploys as:** pip, Hermes plugin, GitHub install
+- **Works with:** WalletConnect, 0x, Aave, Lido, Uniswap, LiFi, CoinGecko, Snapshot, Gnosis Safe, Rocket Pool, Tally, Bankr
 
 ## Deploy spec
 
@@ -52,6 +52,6 @@ hermes clawmes init
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `clawmes`. https://satohub.ai/resources/clawmes — retrieved 2026-11-22.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `clawmes`. https://satohub.ai/resources/clawmes — retrieved 2026-11-24.
 
 [← All layers](../index.md)
