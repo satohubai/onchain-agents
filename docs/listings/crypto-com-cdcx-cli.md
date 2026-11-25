@@ -18,7 +18,7 @@ Sato Score: **⬡ 47** (Medium) — a measure of how open, active and verifiable
 - **Chains:** Unknown
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Quiet — last activity 3 months ago
+- **Activity:** Quiet — last activity 4 months ago
 - **GitHub stars:** 26
 
 ## Deploy spec
@@ -47,6 +47,6 @@ cargo install --git https://github.com/crypto-com/cdcx-cli.git --bin cdcx
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `crypto-com-cdcx-cli`. https://satohub.ai/resources/crypto-com-cdcx-cli — retrieved 2026-11-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `crypto-com-cdcx-cli`. https://satohub.ai/resources/crypto-com-cdcx-cli — retrieved 2026-11-25.
 
 [← All layers](../index.md)

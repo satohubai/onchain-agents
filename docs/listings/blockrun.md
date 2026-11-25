@@ -22,7 +22,7 @@ Sato Score: **⬡ 69** (Medium) — a measure of how open, active and verifiable
 - **Creator:** BlockRun Labs, Inc.
 - **Open source:** Partial
 - **Status:** Active
-- **Works with:** ElizaOS, AgentKit, GOAT SDK, LangChain, Python SDK, TypeScript SDK, Go SDK
+- **Works with:** ElizaOS, AgentKit, GOAT SDK, LangChain, Python SDK, TypeScript SDK, Go SDK, ClawRouter, BlockRun MCP, Claude Code, Cursor, ChatGPT
 
 ## Deploy spec
 
@@ -50,6 +50,6 @@ claude mcp add blockrun -s user -- npx -y @blockrun/mcp@latest
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `blockrun`. https://satohub.ai/resources/blockrun — retrieved 2026-11-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `blockrun`. https://satohub.ai/resources/blockrun — retrieved 2026-11-25.
 
 [← All layers](../index.md)

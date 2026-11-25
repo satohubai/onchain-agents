@@ -22,14 +22,14 @@ Sato Score: **⬡ 62** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Lightning Labs
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Quiet — last activity 5 months ago
+- **Activity:** Quiet — last activity 6 months ago
 - **GitHub stars:** 61
 - **Deploys as:** Docker, self-hosted, local, npx
 - **Works with:** Claude Code, Codex, MCP, Docker, lnd, Lightning Node Connect, Aperture, L402
 
 ## What we checked
 
-- Live endpoint probed by us: 100% of our checks succeeded over 62 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 63 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -38,6 +38,6 @@ Sato Score: **⬡ 62** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lightning-agent-tools`. https://satohub.ai/resources/lightning-agent-tools — retrieved 2026-11-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lightning-agent-tools`. https://satohub.ai/resources/lightning-agent-tools — retrieved 2026-11-25.
 
 [← All layers](../index.md)

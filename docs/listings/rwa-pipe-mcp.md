@@ -42,7 +42,7 @@ npx rwapipe-mcp
 
 ## What we checked
 
-- Live endpoint probed by us: 67.9% of our checks succeeded over 84 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 68.2% of our checks succeeded over 85 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -51,6 +51,6 @@ npx rwapipe-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `rwa-pipe-mcp`. https://satohub.ai/resources/rwa-pipe-mcp — retrieved 2026-11-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `rwa-pipe-mcp`. https://satohub.ai/resources/rwa-pipe-mcp — retrieved 2026-11-25.
 
 [← All layers](../index.md)

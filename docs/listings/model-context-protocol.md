@@ -22,7 +22,7 @@ Sato Score: **⬡ 89** (High), +2 over 7 days — a measure of how open, active 
 - **Creator:** David Soria Parra and Justin Spahr-Summers
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Active — last activity 5 days ago
+- **Activity:** Active — last activity 6 days ago
 - **GitHub stars:** 9.7k
 - **Deploys as:** Self-hosted, Hosted, MCP server
 - **Works with:** Claude, ChatGPT, Visual Studio Code, Cursor, MCPJam
@@ -38,6 +38,6 @@ Sato Score: **⬡ 89** (High), +2 over 7 days — a measure of how open, active 
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `model-context-protocol`. https://satohub.ai/resources/model-context-protocol — retrieved 2026-11-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `model-context-protocol`. https://satohub.ai/resources/model-context-protocol — retrieved 2026-11-25.
 
 [← All layers](../index.md)

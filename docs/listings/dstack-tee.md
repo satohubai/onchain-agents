@@ -27,7 +27,7 @@ Sato Score: **⬡ 74** (High) — a measure of how open, active and verifiable t
 
 ## What we checked
 
-- Live endpoint probed by us: 97.5% of our checks succeeded over 40 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 97.6% of our checks succeeded over 41 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -36,6 +36,6 @@ Sato Score: **⬡ 74** (High) — a measure of how open, active and verifiable t
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `dstack-tee`. https://satohub.ai/resources/dstack-tee — retrieved 2026-11-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `dstack-tee`. https://satohub.ai/resources/dstack-tee — retrieved 2026-11-25.
 
 [← All layers](../index.md)

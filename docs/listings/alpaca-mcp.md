@@ -9,7 +9,7 @@ layout: "default"
 
 Official Alpaca MCP for stock, options, and crypto trading, portfolio and order management, and market data.
 
-Sato Score: **⬡ 70** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 71** (High), +1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,9 +22,9 @@ Sato Score: **⬡ 70** (High) — a measure of how open, active and verifiable t
 - **Creator:** Alpaca
 - **Open source:** Unknown
 - **Status:** Active
-- **Activity:** Active — last activity 11 days ago
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 1.1k
-- **Deploys as:** PyPI (uvx/pipx, stdio), Docker
+- **Deploys as:** PyPI (uvx/pipx, stdio), Docker, PyPI (uvx), stdio
 - **Works with:** Claude Desktop, Claude Code, Cursor, VS Code, PyCharm, Antigravity CLI
 
 ## Deploy spec
@@ -52,6 +52,6 @@ uvx alpaca-mcp-server
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `alpaca-mcp`. https://satohub.ai/resources/alpaca-mcp — retrieved 2026-11-24.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `alpaca-mcp`. https://satohub.ai/resources/alpaca-mcp — retrieved 2026-11-25.
 
 [← All layers](../index.md)
