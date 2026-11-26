@@ -9,7 +9,7 @@ layout: "default"
 
 The official open-source Python SDK for programmatic trading on the Hyperliquid perpetuals DEX.
 
-Sato Score: **⬡ 76** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 91** (High), +15 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -21,7 +21,7 @@ Sato Score: **⬡ 76** (High) — a measure of how open, active and verifiable t
 - **Creator:** Hyperliquid
 - **Open source:** Yes
 - **Status:** Active
-- **Activity:** Quiet — last activity 5 months ago
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 1.9k
 - **Deploys as:** Self-hosted, pip
 - **Works with:** Hyperliquid API
@@ -52,6 +52,6 @@ pip install hyperliquid-python-sdk
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `hyperliquid-python-sdk`. https://satohub.ai/resources/hyperliquid-python-sdk — retrieved 2026-11-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `hyperliquid-python-sdk`. https://satohub.ai/resources/hyperliquid-python-sdk — retrieved 2026-11-26.
 
 [← All layers](../index.md)

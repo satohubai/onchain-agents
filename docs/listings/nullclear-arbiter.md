@@ -9,7 +9,7 @@ layout: "default"
 
 NullClear Arbiter is a security tool on Base, Ethereum, Solana.
 
-Sato Score: **⬡ 82** (High), +13 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 82** (High) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -19,7 +19,7 @@ Sato Score: **⬡ 82** (High), +13 over 7 days — a measure of how open, active
 - **Interfaces:** mcp
 - **Open source:** Yes
 - **Status:** Early
-- **Activity:** Active — last activity today
+- **Activity:** Active — last activity 1 day ago
 - **GitHub stars:** 1
 - **Works with:** Coinbase AgentKit, ElizaOS, Model Context Protocol, x402, ERC-8004, Coinbase CDP Bazaar, PayAI
 
@@ -33,6 +33,6 @@ Sato Score: **⬡ 82** (High), +13 over 7 days — a measure of how open, active
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `nullclear-arbiter`. https://satohub.ai/resources/nullclear-arbiter — retrieved 2026-11-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `nullclear-arbiter`. https://satohub.ai/resources/nullclear-arbiter — retrieved 2026-11-26.
 
 [← All layers](../index.md)

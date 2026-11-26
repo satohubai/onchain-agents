@@ -31,6 +31,6 @@ Sato Score: **⬡ 46** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `open-claw-productions`. https://satohub.ai/resources/open-claw-productions — retrieved 2026-11-25.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `open-claw-productions`. https://satohub.ai/resources/open-claw-productions — retrieved 2026-11-26.
 
 [← All layers](../index.md)
