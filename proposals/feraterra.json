@@ -1,0 +1,8 @@
+{
+  "name": "FeraTerra",
+  "website_url": "https://feraterra.app",
+  "github_url": "https://github.com/FeraTerra/feraterra-sdk",
+  "category": "Trading Tool",
+  "chains": ["Base"],
+  "description": "Headless central limit order book on Base Sepolia (84532) for spot, perpetuals, and basis spreads. Ships a Python, C++23, and Rust SDK, hosted HTTP and stdio MCP server, ElizaOS plugin, stateless order-preview dry-runs, and Base Clearinghouse Merkle escape proofs."
+}
