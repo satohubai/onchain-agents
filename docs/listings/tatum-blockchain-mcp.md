@@ -9,13 +9,13 @@ layout: "default"
 
 Official Tatum MCP exposing blockchain data and RPC gateway access across 130+ networks.
 
-Sato Score: **⬡ 67** (Medium) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 68** (Medium), +1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
 - **Category:** MCP
 - **Type:** Tool/Service
-- **Chains:** Multichain
+- **Chains:** Multichain, Bitcoin, Ethereum, Solana, Polygon, Arbitrum, Base, Avalanche
 - **Standards:** mcp
 - **Interfaces:** mcp, rest-api
 - **Use cases:** data
@@ -24,7 +24,7 @@ Sato Score: **⬡ 67** (Medium) — a measure of how open, active and verifiable
 - **Status:** Unknown
 - **Activity:** Quiet — last activity 5 months ago
 - **GitHub stars:** 15
-- **Deploys as:** npm install -g / npx
+- **Deploys as:** npm install -g / npx, Cursor one-click install, Build from source (local)
 - **Works with:** Cursor, Claude Desktop, VS Code
 
 ## Deploy spec
@@ -44,7 +44,7 @@ npx @tatumio/blockchain-mcp
 ## What we checked
 
 - Install reproduced in an isolated container on 2026-10-19.
-- Live endpoint probed by us: 100% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 100% of our checks succeeded over 91 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -53,6 +53,6 @@ npx @tatumio/blockchain-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `tatum-blockchain-mcp`. https://satohub.ai/resources/tatum-blockchain-mcp — retrieved 2026-11-26.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `tatum-blockchain-mcp`. https://satohub.ai/resources/tatum-blockchain-mcp — retrieved 2026-11-27.
 
 [← All layers](../index.md)

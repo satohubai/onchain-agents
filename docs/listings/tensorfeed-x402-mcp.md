@@ -43,7 +43,7 @@ npm install -g @tensorfeed/x402-base-mcp
 ## What we checked
 
 - Install reproduced in an isolated container on 2026-10-15.
-- Live endpoint probed by us: 98.9% of our checks succeeded over 90 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 98.9% of our checks succeeded over 91 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -52,6 +52,6 @@ npm install -g @tensorfeed/x402-base-mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `tensorfeed-x402-mcp`. https://satohub.ai/resources/tensorfeed-x402-mcp — retrieved 2026-11-26.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `tensorfeed-x402-mcp`. https://satohub.ai/resources/tensorfeed-x402-mcp — retrieved 2026-11-27.
 
 [← All layers](../index.md)

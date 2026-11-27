@@ -22,14 +22,14 @@ Sato Score: **⬡ 46** (Medium) — a measure of how open, active and verifiable
 - **Creator:** Lit Protocol
 - **Open source:** Yes
 - **Status:** Unknown
-- **Activity:** Quiet — last activity 9 months ago
+- **Activity:** Quiet — last activity 10 months ago
 - **GitHub stars:** 34
 - **Deploys as:** npm
 - **Works with:** Lit Protocol, Lit Actions, Programmable Key Pairs (PKPs)
 
 ## What we checked
 
-- Live endpoint probed by us: 41.7% of our checks succeeded over 48 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 40% of our checks succeeded over 50 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Unverified**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -38,6 +38,6 @@ Sato Score: **⬡ 46** (Medium) — a measure of how open, active and verifiable
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lit-vincent`. https://satohub.ai/resources/lit-vincent — retrieved 2026-11-26.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `lit-vincent`. https://satohub.ai/resources/lit-vincent — retrieved 2026-11-27.
 
 [← All layers](../index.md)

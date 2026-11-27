@@ -9,7 +9,7 @@ layout: "default"
 
 Hosted MCP endpoint for natural-language queries over Bitquery's trading, OHLC, and token-economics datasets.
 
-Sato Score: **⬡ 25** (Low) — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
+Sato Score: **⬡ 26** (Low), +1 over 7 days — a measure of how open, active and verifiable this project is, [not a safety or returns grade](../sato-score.md).
 
 ## Facts
 
@@ -22,8 +22,8 @@ Sato Score: **⬡ 25** (Low) — a measure of how open, active and verifiable th
 - **Creator:** Bitquery
 - **Open source:** No
 - **Status:** Active
-- **Deploys as:** Hosted (remote MCP via mcp-remote/npx or direct URL, no self-hosting)
-- **Works with:** Cursor, Claude Code, VS Code
+- **Deploys as:** Hosted (remote MCP via mcp-remote/npx or direct URL, no self-hosting), Hosted remote MCP server (https://mcp.bitquery.io), OAuth 2.1 sign-in, no self-hosting
+- **Works with:** Cursor, Claude Code, VS Code, Claude Desktop, Claude, ChatGPT, Windsurf, Codex app
 
 ## Deploy spec
 
@@ -41,7 +41,7 @@ claude mcp add bitquery -- npx -y mcp-remote https://mcp.bitquery.io/mcp
 
 ## What we checked
 
-- Live endpoint probed by us: 0% of our checks succeeded over 86 days. That is a success rate of our checks, not the project's uptime.
+- Live endpoint probed by us: 0% of our checks succeeded over 88 days. That is a success rate of our checks, not the project's uptime.
 - Verification status: **Self-Reported**. Self-reported is not verified, and nothing here is a safety, quality or returns claim.
 
 ## Links
@@ -50,6 +50,6 @@ claude mcp add bitquery -- npx -y mcp-remote https://mcp.bitquery.io/mcp
 
 ## Cite
 
-> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bitquery-mcp`. https://satohub.ai/resources/bitquery-mcp — retrieved 2026-11-26.
+> Sato Hub. *Onchain Agents index* (dataset, CC-BY-4.0), entry `bitquery-mcp`. https://satohub.ai/resources/bitquery-mcp — retrieved 2026-11-27.
 
 [← All layers](../index.md)
