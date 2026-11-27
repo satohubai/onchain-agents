@@ -1,0 +1,11 @@
+{
+  "name": "Solana Rent & Rug Shield",
+  "website_url": "https://rentandrugshield.com",
+  "github_url": "https://github.com/sonnyman2014/solana-rent-rug-shield-mcp",
+  "category": "Security Tool",
+  "chains": [
+    "Solana"
+  ],
+  "description": "Non-custodial Solana pre-trade 12-layer Token-2022 and inner-CPI rug scanner, live swap terminal (https://rentandrugshield.com/trade.html), read-only SPL 0x09 empty ATA rent scanner, Streamable HTTP MCP server, and x402 SVM API.",
+  "relationship": "maintainer"
+}
